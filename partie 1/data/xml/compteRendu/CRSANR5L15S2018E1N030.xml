@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2018E1N030</uid>
+  <metadonnees>
+    <dateSeance>20180721213000000</dateSeance>
+    <dateSeanceJour>samedi 21 juillet 2018</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>30</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Première session extraordinaire 2018</session>
+    <nomFichierJo>20181030</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <horaireGmt>Date: Sun, 22 Jul 2018 09:54:50 GMT</horaireGmt>
+    <heureGeneration>2018-07-22T11:54:50.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1386202">Présidence de M. François de Rugy</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1386206">
+          <intitule>Démocratie plus représentative, responsable et efficace</intitule>
+        </titreStruct>
+        <para id_syceron="1386207"/>
+        <sommaire2>
+          <titreStruct id_syceron="1386209">
+            <intitule>Discussion des articles <italique>(suite)</italique></intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1386214">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du samedi 21 juillet 2018</journee>
+      <session>Première session extraordinaire 2018</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122706" ordre_absolu_seance="1" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1386202" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. François de Rugy</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122707" ordre_absolu_seance="2" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1386203" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122708" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1386204" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures quarante.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1122710" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1386206" valeur=" (n[[o]] 911)">
+      <orateurs/>
+      <texte>Démocratie plus représentative, responsable et efficace</texte>
+      <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1122711" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1386207" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suite de la discussion d’un projet de loi constitutionnelle</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1122712" ordre_absolu_seance="7" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1386208" valeur=" (n[[os]] 911, 1053, 1097, 1098, 1137)" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’ordre du jour appelle la suite de la discussion du projet de loi constitutionnelle pour une démocratie plus représentative, responsable et efficace (n<exposant>os </exposant>911, 1053, 1097, 1098, 1137).</texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1122713" ordre_absolu_seance="8" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1386209" valeur=" (n[[o]] 911)" bibard=" (n[[o]] 911)" art="" adt="" ssadt="">
+        <orateurs/>
+        <texte>Discussion des articles <italique>(suite)</italique></texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1122714" ordre_absolu_seance="9" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1386210" valeur="" bibard=" (n[[o]] 911)" art="" adt="" ssadt="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Jeudi soir, l’Assemblée a poursuivi la discussion des articles du projet de loi constitutionnelle, s’arrêtant aux amendements identiques n<exposant>os </exposant>808 et 2156 portant article additionnel après l’article 2.<br/>Mes chers collègues, je ne crois pas qu’il soit utile de consacrer à nouveau une séance à enchaîner les rappels au règlement.<br/>La suite de la discussion est renvoyée à la prochaine séance.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1122718" ordre_absolu_seance="13" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1386214" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1122719" ordre_absolu_seance="14" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1386215" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures trente :<br/>Suite de la discussion du projet de loi constitutionnelle pour une démocratie plus représentative, responsable et efficace.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1122720" ordre_absolu_seance="15" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1386216" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt et une heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1122720" ordre_absolu_seance="15" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1386216" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

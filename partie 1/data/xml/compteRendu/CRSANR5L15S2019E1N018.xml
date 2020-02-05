@@ -1,0 +1,948 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019E1N018</uid>
+  <metadonnees>
+    <dateSeance>20190718150000000</dateSeance>
+    <dateSeanceJour>jeudi 18 juillet 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>18</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Première session extraordinaire 2019</session>
+    <nomFichierJo>20191018</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Wed, 24 Jul 2019 15:40:13 GMT</horaireGmt>
+    <heureGeneration>2019-07-24T17:40:15.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1811718">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1811722">
+          <intitule>Règlement du budget et approbation des comptes de l’année 2018</intitule>
+        </titreStruct>
+        <para id_syceron="1811723"/>
+        <sommaire2>
+          <titreStruct id_syceron="1811725">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="1811727">M. Olivier Dussopt, secrétaire d’État auprès du ministre de l’action et des comptes publics</para>
+          <para id_syceron="1811738">M. Laurent Saint-Martin, suppléant M. Joël Giraud, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1811745">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="1811747">M. Éric Coquerel</para>
+          <para id_syceron="1811516">M. Jean-Paul Dufrègne</para>
+          <para id_syceron="1811979">Mme Cendra Motin</para>
+          <para id_syceron="1811990">Mme Véronique Louwagie</para>
+          <para id_syceron="1812011">Mme Isabelle Florennes</para>
+          <para id_syceron="1811828">Mme Valérie Rabault</para>
+          <para id_syceron="1811861">Mme Patricia Lemoine</para>
+          <para id_syceron="1811430">M. Michel Castellani</para>
+          <para id_syceron="1811443">Mme Dominique David</para>
+          <para id_syceron="1812025">Mme Emmanuelle Ménard</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1812036">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="1812038">
+              <intitule>Article liminaire à article 8</intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1812041">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1812045">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du jeudi 18 juillet 2019</journee>
+      <session>Première session extraordinaire 2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1425401" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1811718" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1425402" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811719" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1425403" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1811720" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425405" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1811722" valeur=" (n[[o]] 2137)">
+      <orateurs/>
+      <texte>Règlement du budget et approbation des comptes de l’année 2018</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425406" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1811723" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Nouvelle lecture</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425407" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811724" valeur=" (n[[os]] 2137, 2168)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, en nouvelle lecture, du projet de loi de règlement du budget et d’approbation des comptes de l’année 2018 (n<exposant>os</exposant> 2137, 2168).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425408" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1811725" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="M. Olivier Dussopt" qualite="secrétaire d'État auprès du ministre de l'action et des comptes publics" id_acteur="PA330357" id_nomination_oe="PM744089" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425409" ordre_absolu_seance="9" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811726" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État auprès du ministre de l’action et des comptes publics.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425410" ordre_absolu_seance="10" id_acteur="PA330357" id_mandat="-1" id_nomination_oe="PM744089" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811727" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Dussopt</nom>
+              <id>330357</id>
+              <qualite>secrétaire d’État auprès du ministre de l’action et des comptes publics</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La semaine dernière, après avoir reconnu la sincérité des comptes de l’année 2018 et après avoir adopté un à un tous les articles du texte, le Sénat n’a pas adopté le projet de loi de règlement qui lui était soumis. Nous pourrions nous contenter de nous en étonner, voire de le regretter, puisque la loi de règlement n’est, après tout, qu’un exercice de constatation a posteriori, un moment de vérité plus qu’un moment de polémique. Mais puisqu’il faut de nouveau constater, constatons.<br/>Constatons de nouveau que l’année dernière, le déficit public a diminué de 0,3 point de PIB, à 2,5 % contre 2,8 % en 2017, soit un montant inférieur de 10 milliards d’euros à la prévision initiale. Constatons aussi que l’année dernière, le ratio de dépenses publiques est passé de 55 % à 54,4 % du PIB, crédibilisant notre objectif de baisse de 3 points sur le quinquennat. Constatons encore que l’année dernière, le taux de prélèvements obligatoires a diminué de 0,2 point de PIB pour s’établir à 45 % du PIB, avec, là encore, la volonté de tenir nos objectifs.<br/>Constatons de nouveau que l’année dernière, le résultat patrimonial de l’État s’est établi à moins 51,9 milliards d’euros, soit le meilleur résultat depuis 2008 et que, toujours l’année dernière, la dette publique s’est stabilisée, à 98,4 % du PIB, ce qui n’était pas arrivé depuis des années.<br/>Nous pourrions également constater que si ces résultats ont pu être obtenus, c’est que chacun a pris sa part de l’effort : l’État tout d’abord, qui a tenu son objectif avec une sous-exécution de 1,4 million d’euros par rapport à la norme de dépense ; la sécurité sociale ensuite, dont l’exécution des dépenses sous ONDAM, en amélioration de 3,9 millions, est la meilleure depuis 2001 ; les collectivités locales enfin, qui ont joué le jeu de la contractualisation, avec une augmentation des charges de fonctionnement, tous budgets confondus, à 0,4 % par rapport à un objectif fixé par la loi de programmation à 1,2 %.<br/>Tout cela a été possible en tenant les engagements et en respectant les objectifs que nous nous sommes fixés : baisser la dépense publique de 3 points de PIB, financer la plus forte baisse d’impôts depuis quarante ans – plus de 27 milliards d’euros grâce à la suppression de la taxe d’habitation et à la baisse de l’impôt sur le revenu – et consacrer les crédits nécessaires à la hausse des moyens en matière de sécurité, d’éducation ou encore de transition énergétique.<br/>S’il est une autre réussite que je voudrais souligner aujourd’hui pour l’année 2018, c’est celle du travail parlementaire, et pas seulement au moment de l’examen de la loi de finances. Si, une fois les crédits votés, il appartient bien sûr au Gouvernement d’en assurer la bonne exécution – je crois que nous n’avons pas à rougir des résultats, avec un taux de mise en réserve de seulement 3 %, une diminution des reports de charges et aucun décret d’avance –, le Parlement ne doit pas pour autant se dessaisir de ses prérogatives de contrôle. Vous l’avez démontré dans le cadre de la deuxième édition du printemps de l’évaluation, cet exercice démocratique qui s’impose désormais comme un temps fort de l’année budgétaire : il oblige le Gouvernement à un effort de sincérisation et d’explication inédit, tout en se traduisant par le meilleur usage possible des nouveaux outils à la disposition du Parlement. Je pense notamment à l’accès direct au logiciel Chorus ou à l’exploitation des données détaillées de comptabilité générale, maintenant disponibles en open data.  <br/>Nous voulons aller plus loin, et je sais pouvoir compter sur vous. Le rapporteur général a présenté hier son rapport d’application de la loi fiscale : nous devrons désormais travailler ensemble à la meilleure manière de répondre aux questions posées, dans les meilleurs délais et les meilleures conditions.<br/>Je sais également pouvoir compter sur les propositions de la majorité. Je pense aux récentes propositions de résolutions de la commission des finances, celle de M. Saint-Martin, relative aux modalités de contrôle budgétaire par le Parlement et aux indicateurs de performance, celle de Mme Goulet, qui concerne la bonne exécution des crédits du budget général, celle de Mme Motin, relative au pilotage et à l’évaluation de la masse salariale de l’État, ou encore celle de M. Jolivet, concernant les dépenses fiscales. Ce sont autant de chantiers qui, j’en suis sûr, nous permettront d’améliorer la qualité de l’exécution budgétaire et son contrôle par le Parlement. Ces avancées sont le fruit de la mobilisation des parlementaires, en particulier ceux de la majorité, que je remercie.<br/>Dans l’attente, je vous invite évidemment à adopter ce projet de loi de règlement du budget et d’approbation des comptes de l’année 2018. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Saint-Martin" qualite="suppléant M. Joël Giraud, rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA720878" id_nomination_oe="-1" id_nomination_op="PM732311" id_mandat="PM723102">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425419" ordre_absolu_seance="19" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811737" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Laurent Saint-Martin, suppléant M. Joël Giraud, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425420" ordre_absolu_seance="20" id_acteur="PA720878" id_mandat="PM723102" id_nomination_oe="-1" id_nomination_op="PM732311" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811738" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin</nom>
+              <id>720878</id>
+              <qualite>suppléant M. Joël Giraud, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je ne serai pas beaucoup plus long que vous, monsieur le secrétaire d’État : je me contenterai de deux brèves remarques, considérant qu’il n’était pas nécessaire de procéder à une nouvelle lecture du projet de loi de règlement du budget et d’approbation des comptes de l’année 2018. Mais le Sénat a rejeté le texte en première lecture le 11 juillet dernier.<br/>Lorsque nous avons examiné ce matin, sur le rapport de la commission mixte paritaire, le projet de loi de transformation de la fonction publique, notre collègue Laurence Vichnievsky a eu une formule très juste, selon laquelle la crédibilité du fond de nos débats dépend également de notre respect collectif de la procédure parlementaire. Or, au Sénat, tant les membres du groupe Les Républicains que ceux du groupe socialiste et républicain ont fait de l’examen de ce texte une tribune leur donnant l’occasion de s’opposer à la politique de finances publiques du Gouvernement et de la majorité, ce que nous pouvons comprendre dans l’absolu, mais pas lorsqu’il s’agit du projet de loi de règlement du budget et d’approbation des comptes de l’année précédente. C’est hors sujet, et cela nous oblige à examiner ce texte en nouvelle lecture. Personnellement, je m’en désole, car l’agenda de l’Assemblée nationale est déjà suffisamment chargé.<br/>Puisque le Sénat nous le propose, évoquons donc de nouveau brièvement les résultats de l’exercice 2018. Nous devons nous poser les bonnes questions. Première question : les comptes se sont-ils détériorés par rapport aux prévisions ? Non : le déficit est inférieur de 9,7 milliards d’euros à la prévision de la loi de finances pour 2018. Deuxième question : la dépense de l’État a-t-elle été contenue ? Oui. Elle n’a progressé, à périmètre constant, que de 0,6 %, soit 1,4 milliard d’euros. La norme de dépenses pilotables a été respectée, tout comme l’objectif de dépenses totales de l’État. Il faut s’en féliciter.<br/>Troisième question : l’exécution 2018 pose-t-elle un problème de sincérité ? Non, et le Sénat l’a d’ailleurs reconnu : l’autorisation parlementaire a été respectée. C’est un progrès considérable, que nous rappelons régulièrement et qu’il faut marteler, parce que c’est la marque de fabrique du Gouvernement et de la législature. Oui, nous sommes fiers de la sincérité de nos budgets et de la bonne qualité de leur gestion. Il n’y a eu aucun décret d’avance, pour la première fois depuis 1985 – l’année de ma naissance : c’est dire ! Quant au niveau de mise en réserve des crédits, hors titre 2, il a été abaissé de 5 points – il est passé de 8 % à 3 % –, sans pour autant que la gestion soit plus contrainte que lors des exercices précédents. Nous devons là encore nous en féliciter.<br/>Sur le champ de l’ensemble de la dépense publique, les résultats de 2018 marquent un net changement par rapport aux années précédentes. Le déficit public a diminué plus que prévu dans la loi de programmation. Les ratios de dépenses publiques et de prélèvements obligatoires ont diminué. Le ratio de dette s’est stabilisé.<br/>Pour le reste, l’examen du texte a permis au Gouvernement de s’expliquer sur les écarts de prévision – le Gouvernement avait pu répondre à des amendements pertinents défendus notamment par nos collègues socialistes. D’ailleurs, et c’est significatif, aucun amendement n’a été déposé en nouvelle lecture. C’est dire l’utilité de celle-ci ! Le Gouvernement avait également pu s’exprimer sur les sous-exécutions et sur-exécutions des lois de finances dans le cadre de la discussion de la proposition de résolution de Perrine Goulet.<br/>Pour toutes ces raisons, je recommande que nous adoptions ce texte dans la version adoptée par l’Assemblée nationale en première lecture. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425427" ordre_absolu_seance="27" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1811745" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425428" ordre_absolu_seance="28" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811746" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1425429" ordre_absolu_seance="29" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1811747" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai bien noté ce que vient de dire Laurent Saint-Martin : la loi de règlement serait à ce point technique qu’on ne saurait en faire un objet politique. Ce n’est pas, à mes yeux, à la majorité de décider du type de commentaire ou de remarque que l’opposition est appelée à formuler. Vous me permettrez donc de porter un jugement politique sur ce texte, qui résume la manière dont a été appliquée une loi de finances – il est donc éminemment politique.<br/>Toute l’année, La France insoumise n’a cessé de s’opposer aux décisions financières injustes et destructrices du Gouvernement et de la majorité, dont le présent texte n’est au fond qu’un révélateur. Nos arguments ont malheureusement été souvent ignorés, nos propositions balayées. Un an plus tard, l’heure du bilan est venue, et celui-ci est bien triste. Tous ces chiffres bien rangés, qui semblent si bien vous contenter, nous savons qu’ils correspondent à des réalités dramatiques sur le terrain et dans la vie des gens.<br/>Lorsque, tout satisfaits que vous êtes de répondre aux exigences arbitraires de Bruxelles et de sa règle absurde des 3 %, vous vous réjouissez de la baisse du déficit public, passé à 2,5 % du PIB, nous savons quel a été son coût : celui de l’austérité, du recul des services publics et de l’augmentation de la misère dans notre pays.<br/>Vous semblez en revanche considérer le bien-être de vos concitoyens et le bon fonctionnement de notre société comme les derniers de vos soucis. Comment expliquer sinon que vous vous soyez permis une sous-exécution de 1,4 milliard par rapport au budget total prévu dans la loi de finances initiale ? Lorsque vous dépensez 420 millions d’euros de moins que prévu en personnels, alors même qu’il s’agit de crédits votés et approuvés par le Parlement, que doit-on en déduire ?<br/>Pensez-vous vraiment qu’il n’y a aucun besoin en agents publics à combler aujourd’hui en France, et que ces crédits étaient superflus ? Peut-être vivez-vous dans un monde parallèle où tout va bien, où ni les hôpitaux, ni les écoles, ni les tribunaux, ni aucun service public ne ressentent le manque catastrophique de moyens. Dans ce monde parallèle, peut-être n’y avait-il aucun intérêt à utiliser cet argent pour aider les personnels et soutenir nos institutions. Mais dans notre monde, qui est le monde réel, les services publics sont en crise, les personnels et les usagers sont épuisés et se sentent, à raison, délaissés.<br/>Alors que le budget que vous aviez prévu pour eux était déjà insuffisant,  vous n’avez même pas eu la décence de le respecter. Vous devez donc assumer vos belles colonnes de chiffres, en ne choisissant pas seulement les chiffres qui vous plaisent bien, ceux qui vous donnent l’air faussement sage et raisonnable. Vous devez les assumer pour ce qu’ils signifient vraiment. Il faut, par exemple, aller dire aux malades dans les hôpitaux ou aux personnels soignants épuisés qu’ils n’ont rien compris, qu’il y a trop de personnels, et que vous n’auriez pu rémunérer aucune personne supplémentaire avec ces millions non exécutés. Allez leur dire votre vérité, alors que les services d’urgences sont en crise – vous le savez bien – et vous appellent à l’aide depuis des mois !<br/>Il en est de même de toutes les annulations d’autorisations d’engagement et de crédits de paiement non reportés sur 2019 : je ne crois pas un seul instant que des centaines de millions d’euros de crédits ont pu être tranquillement annulés sans que cela mette à mal les missions pour lesquels ils avaient été prévus et votés. En pleine crise écologique, n’est-il pas insensé d’annuler plus de 530 millions d’autorisations d’engagement et 19,6 millions de crédits de paiement pour la mission « Agriculture, alimentation, forêt et affaires rurales » ? Et la mission « Outre-mer », n’aurait-elle sérieusement pas pu utiliser ses 73,8 millions de crédits de paiement, la mission « Travail et emploi » ses 14,2 millions et la  mission « Justice » ses 53,6 millions ?<br/>La liste morose de ces missions délaissées est encore longue, alors que chacune d’entre elles est précieuse et essentielle à l’intérêt général, alors que chacun de ces secteurs a infiniment besoin de ces crédits. Pourtant, vous n’avez eu aucune honte à les mettre silencieusement de côté, et pour quel résultat ? Même en prenant en compte vos propres critères de réussite, le compte n’y est pas ! Prenons l’exemple de la croissance, dont vous dites, dans l’exposé des motifs, qu’elle « confirme la solidité de l’économie française ». Elle est en fait passée de 2,3 % à 1,6 % en 2018, alors que la croissance mondiale se maintient à 3,7 %.<br/>Et pour 2019, seuls les 17 milliards que vous avez concédés au mouvement des gilets jaunes en matière de consommation populaire vous ont permis, en provoquant une hausse de la croissance de 0,3 %, de relever la tête par rapport aux autres pays européens, ce qui montre bien que la France a besoin non pas d’une politique de l’offre, mais bien d’une politique de la demande.<br/>Ce serait un moindre mal si ce ralentissement n’était pas le signe et la conséquence directe de vos mesures austéritaires et de la misère qu’elles aggravent ou qu’elles créent. Et le Gouvernement ose, en plus, se targuer d’une hausse de 1 % du pouvoir d’achat des ménages, alors que nous savons très bien que ce chiffre cache une réalité aussi triste qu’inédite, celle de l’augmentation croissante des inégalités. Car vous vous gardez bien de nous donner plus de détails sur les catégories de revenus qui ont profité de cette hausse, et ce n’est pas un hasard : ce sont les plus riches qui y gagnent, comme d’habitude !<br/>Selon l’IPP – Institut des politiques publiques –, si on prend les effets cumulés des mesures de 2018 et 2019, les 1 % les plus riches de nos concitoyens ont connu un gain annuel moyen de 3 016 euros ! Pire encore : les 0,1 % les plus aisés ont connu une augmentation de 17,5  % de leur revenu disponible depuis l’arrivée de M. Macron, alors que le stock était déjà important, ce qui représente des gains annuels allant de 32 000 euros à plusieurs centaines de milliers pour des ménages déjà extrêmement riches. S’il y a un pouvoir d’achat qui a augmenté dans notre pays, c’est bien celui de ceux qui n’en avaient absolument pas besoin !<br/>Pendant ce temps, ce sont les 9 % les plus modestes qui sont perdants, ceux que vous devriez protéger, ceux que vous devriez aider. Au lieu de cela, ceux qui ont déjà tant de peine à s’en sortir chaque mois perdent encore un peu plus à chacune de vos réformes – je pense notamment à la diminution des aides personnalisées au logement – APL. Alors que nous ne cessons de vous proposer des solutions concrètes pour le bien de tous, vous y préférez systématiquement les tours de passe-passe au bénéfice des plus puissants : cela vaut pour la loi de finances comme pour la privatisation d’Aéroports de Paris – ADP – ou le <italique>Comprehensive Economic and Trade Agreement</italique> – CETA –, que vous avez passé en force hier. En réalité, vous préférez le profit et le libre commerce à l’intérêt général. Au lieu de nous écouter et d’écouter les économistes, qui vous encouragent à profiter des taux d’intérêt historiquement bas pour enfin lancer un grand plan d’investissement, celui dont nous aurions tellement besoin, ne serait-ce que pour répondre à la question de l’écologie, vous préférez couper à la hache dans les budgets.<br/>Vous préférez, par exemple, protéger et chérir les niches fiscales, dont le montant a augmenté de 6,7 milliards d’euros entre 2017 et 2018. Puisque le secrétaire d’État nous y a invités, je saisis l’occasion pour saluer l’excellent rapport d’information de Joël Giraud sur l’application des mesures fiscales, qui évalue les dépenses fiscales à 99,3 milliards d’euros. Les dépenses fiscales, c’est moins de recettes pour l’État. Pour notre part, nous préférons tailler dans les dépenses fiscales qui, comme le montre le rapport, avantagent encore les plus riches, que dans les dépenses publiques. De même, selon le rapport, ce sont les entreprises qui profitent le plus de ces dépenses fiscales, puisqu’elles bénéficient des deux tiers de celles-ci. Le crédit d’impôt pour la compétitivité et l’emploi – CICE – est l’archétype de ce type de dépenses. C’est une vraie gabegie : l’État jette de l’argent par la fenêtre sans demander aucune contrepartie en matière d’emploi.<br/>M. Le Maire a récemment promis que la baisse de l’impôt sur le revenu de 5 milliards d’euros serait pour la plus grande part financée par une diminution des niches fiscales des entreprises. Le Gouvernement ne parle désormais que de 1,5 milliard, et ce sera bientôt 600 millions d’euros. J’espère que le rapporteur de la commission des finances défendra des amendements qui s’inspirent du rapport et que la majorité saura les soutenir, même en cas d’avis défavorable du Gouvernement.<br/>S’agissant du présent projet de loi de règlement, vous vous félicitez de la création de votre fonds pour l’innovation, qui doit être abondé par l’argent issu des privatisations de la Française des jeux – FDJ –, d’Engie et d’ADP, alors que la Cour des comptes elle-même ne voit pas l’intérêt de ce qu’elle qualifie de « mécanique budgétaire complexe et injustifiée ». Ce fonds disposera, selon vous, de 10 milliards, alors que la Cour des comptes explique qu’il s’agit d’opérations inutilement compliquées, qui en pratique ne financeront l’innovation qu’à hauteur des intérêts rapportés par ce fonds, soit 250 millions d’euros, trois fois moins que ce que rapportent aujourd’hui les rentes de ces entreprises, dans lesquelles l’État est majoritaire. Ce fonds est un simple prétexte à vos privatisations scandaleuses, comme celle de la FDJ ou d’ADP. J’en profite pour appeler une fois de plus les Français à aller signer la pétition : si nous recueillons 4,7 millions de signatures, nous pourrons obtenir un référendum.<br/>Derrière vos effets de communication, la grande majorité des Français continuent à perdre tous les jours un peu plus de leurs conquêtes sociales – comme en témoignent encore les annonces de ce matin sur les retraites –, et tout simplement un peu plus de leur argent, au bénéfice de quelques-uns. <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1425383" ordre_absolu_seance="6" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811514" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1425384" ordre_absolu_seance="7" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811515" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1425385" ordre_absolu_seance="8" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811516" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le 15 mai dernier, le Gouvernement a engagé la procédure accélérée sur le projet de loi de règlement du budget et d’approbation des comptes de l’année 2018. Après avoir été adopté en première lecture à l’Assemblée nationale, même si nous y étions opposés, ce dernier a été rejeté au Sénat, puis par la commission mixte paritaire qui s’est réunie récemment. Nous voici donc de nouveau réunis, en cette fin de session extraordinaire, pour une nouvelle lecture du projet de loi de règlement du budget – un budget que nous connaissons tous bien, un budget auquel nous nous sommes farouchement opposés et auquel nous ne souscrirons pas davantage aujourd’hui.<br/>Au fil des derniers mois, tout a été dit, ou presque, à propos de la loi de règlement du budget 2018. Ce budget, c’est celui de la compétitivité fantasmée et de la fracture sociétale. C’est celui de la dérégulation, des grandes entreprises et des grandes fortunes. La France s’est parée de ses atours les plus libéraux pour tenter d’attirer les investisseurs. Selon vos critères, le succès est présent, sans aucune remise en question possible ; mais à quel prix ? Quels ont été les sacrifices des uns et les cadeaux faits aux autres pour en arriver là ?<br/>Le budget de l’année 2018 aura été celui des riches. Nous l’avons contesté avant son adoption, et nous resterons dans cette lignée. C’était un budget électoraliste, qui a été pensé pour les plus aisés et financé sur le dos des moins fortunés. C’est un budget qui a orchestré la suppression de l’impôt de solidarité sur la fortune, l’ISF, les coupes brutales dans les APL, la baisse de l’impôt sur les sociétés et la diminution, plus globale, de la contribution des entreprises à l’effort national. C’est ce budget qui a fragilisé la confiance des Français en la République et nourri une gronde qui a mené à l’émergence de grands mouvements sociaux.<br/>Pourquoi ces mouvements ? Tout simplement parce que le peuple français s’est rassemblé contre un État qui en demande toujours plus aux moins aisés, tout en offrant toujours plus de cadeaux aux fortunés. En définitive, ce sont 11,3 milliards d’euros d’allégements fiscaux qui ont été mis en œuvre, profitant aux Français qui ont le plus de moyens, et plus largement au capital. Nous avons déjà eu l’occasion de décomposer cette somme : 3,5 milliards d’euros proviennent du CICE, 3,2 milliards de la disparition de l’ISF, 1,6 milliard de la <italique>f</italique><italique>l</italique><italique>at tax</italique>, 1,2 milliard de la baisse de l’impôt sur les sociétés – IS –, et 1,8 milliard du non-remplacement de la taxe de 3 % sur les dividendes.<br/>De l’autre côté, on a baissé la taxe d’habitation, mais, dans le même temps, on a réduit le montant des APL. On donne quelque chose tout en reprenant ailleurs. On nous dit que les baisses d’impôts des entreprises stimuleront la croissance et la productivité, mais quelle assurance en avons-nous, puisqu’il n’y a aucune conditionnalité, aucune contrepartie ? La baisse des impôts des entreprises est compensée par la TVA, à hauteur de 4,3 milliards d’euros. La taxe intérieure de consommation sur les produits énergétiques – TICPE –, cette taxe à la pompe, en hausse, a également rapporté 2,6 milliards d’euros supplémentaires, mais quelles en sont les conséquences ? Ce sont encore les ménages qui ont été touchés.<br/>L’augmentation du prix du gazole a été l’étincelle qui a mis le feu aux poudres en fin d’année dernière. Bref, ce sont les Français et les Françaises, en qualité d’individus, qui ont été amputés d’aides et de pouvoir d’achat avec toutes ces mesures. Les recettes de l’État peuvent donc paraître stables au premier regard, mais il ne s’agit que d’un soubresaut artificiel. Certains postes de dépenses de l’État ont pu être gonflés, comme l’enseignement scolaire, la défense ou la solidarité, l’insertion et l’égalité des chances. Cependant, d’autres missions primordiales, comme les missions « Travail », « Cohésion des territoires » ou « Agriculture », ont, quant à elles, souffert.<br/>Les effectifs et le budget de certains ministères ont augmenté, d’autres ont été réduits, l’objectif absolu étant celui d’une réduction des dépenses publiques. L’armée et la défense s’annoncent comme les grands gagnants du prochain budget, avec une augmentation de crédits de 1,7 milliard d’euros. L’éducation nationale, la santé et la justice auront droit à des augmentations, pas le ministère du travail. Pire, à Bercy, on assiste à une véritable hécatombe : 10 000 postes seront supprimés d’ici à 2022. Le tout aura des conséquences tragiques sur les territoires, les trésoreries et le bon fonctionnement des institutions.<br/>Des économies ont été faites de toutes parts, malgré les mesures annoncées à l’issue du grand débat. Le mouvement est « En marche », mais les valeurs de notre République sont à l’arrêt. La politique actuelle continuera vraisemblablement sur la même lancée, et la loi de finances pour 2019 prend bel et bien la même direction que celle de 2018 : celle de la politique de l’offre, de la baisse des prélèvements obligatoires et de la baisse des dépenses publiques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1425393" ordre_absolu_seance="16" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811524" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et des impôts !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1425394" ordre_absolu_seance="17" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811525" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela dépend pour qui !<br/>Pourquoi cette politique de l’offre et de baisse des impôts des entreprises ? Le budget en cours d’exécution l’illustre plus que jamais : le CICE est doublé cette année. C’est le fameux « fromage et dessert » : 40 milliards d’euros mobilisés, plus d’1,5 point de PIB octroyé au secteur marchand sans contrepartie, sans condition, sans ciblage sur l’emploi, l’environnement, l’investissement territorial. Quand bien même l’efficacité du CICE n’aura aucunement été démontrée, vous faites le choix de le sanctuariser.<br/>D’ailleurs, vous n’entendez pas mettre un terme à cette fuite en avant, puisque vous envisagez de supprimer des impôts dits de production. Ces impôts peuvent avoir des effets pervers. Pour autant, le ministre Bruno Le Maire a indiqué d’entrée de jeu que le financement de la suppression de ces impôts ne se ferait pas par le biais d’une hausse de l’impôt sur les sociétés. Ce seront donc vous, moi, nous les contribuables, les citoyens, qui paierons une nouvelle fois l’addition.<br/>De son côté, la baisse de l’impôt sur le revenu en 2020 devait être largement financée par la réduction des niches fiscales des entreprises, notamment le gazole non routier et le mécénat d’entreprise. Or ces minuscules coups de rabots ne devraient rapporter aux caisses de l’État que 620 millions d’euros : une broutille. Comment donc financer les 5 milliards d’euros découlant de la baisse de l’IR ? Ces niches ne seront pas réellement attaquées, alors qu’elles représentent 100 milliards d’euros et servent très largement les plus fortunés et les grands groupes. La baisse de l’impôt sur le revenu profitera bien aux classes moyennes, mais pas aux classes les plus modestes, qui ne le paient pas.<br/>Les dépenses publiques continueront à être largement contenues en volume, à plus de 0,5 % d’ici à 2020, symbole d’une politique d’austérité qui ne dit pas son nom. Des économies massives vont être opérées. Elles se feront par le biais de la réforme de l’audiovisuel, de l’assurance chômage, de la politique du logement, des contrats aidés à un niveau plancher, des trésoreries en voie de disparition, ou encore des dépenses de l’objectif national de dépenses d’assurance maladie – ONDAM –, qui seront cadenassées. Un autre levier potentiel pourrait être les retraites. Pour le moment, nous sommes toujours dans le flou, même si les choses se précisent. Le mauvais souvenir des tentatives de réforme du système de retraites ne nous laisse rien présager de bon. On entend déjà dire que la durée des cotisations pourrait être augmentée.<br/>La refonte de la fiscalité locale s’annonce comme un grand chambardement. La suppression dans son intégralité de la taxe d’habitation viendra, qu’on le veuille ou non, alléger l’impôt de certains foyers aisés, à hauteur de 8 milliards d’euros. Le grand déménagement de la fiscalité laisse entrevoir des transferts de ressources d’une collectivité vers une autre. Ce sera l’un des grands enjeux du prochain PLF. Les collectivités locales sont d’ores et déjà sur le qui-vive. Nous ferons des propositions pour garantir leur autonomie.<br/>En définitive, mes chers collègues, où est donc la révolution fiscale qui se fait tant attendre ? Pourquoi refuser d’ouvrir les yeux sur le bilan de la politique de notre nation ? Pourquoi insister sur la doctrine du libre-échange désinhibé tout en prévoyant des réformes archaïques et injustes ? Non, nous ne validons pas ce projet de loi de règlement du budget, qui alimente une politique contraire à toutes nos valeurs, qui soutient les plus riches et les grandes entreprises plutôt que les plus démunis et les collectivités locales Nous refusons d’apporter notre vote à ce projet de loi de règlement, reflet d’un budget toujours plus axé sur le libre-échange. Comment pourrions-nous apporter notre appui à une majorité et à un gouvernement qui ne soutiennent pas leur peuple ? Comme la majorité des sénateurs l’a fait avant-hier, nous voterons contre. Tant que vous continuerez à soutenir uniquement le secteur marchand et les grands groupes, nous voterons contre. Tant que les grands chiffres primeront sur les réalités vécues par les Français, nous voterons contre. Tant que vous n’accepterez pas de reconnaître les doléances de notre peuple, nous voterons contre. <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Cendra Motin" id_acteur="PA719850" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722780">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425440" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811978" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Cendra Motin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425441" ordre_absolu_seance="2" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811979" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les sénateurs ont décidé de ne pas voter la loi de règlement 2018. Sans m’interroger sur les motivations qui les animaient, permettez-moi de m’en étonner. Mes chers collègues de l’opposition, vous savez que j’ai le plus grand respect pour les convictions politiques que vous défendez sincèrement. Je sais pour ma part que, tout comme nous, vous êtes attachés à la rigueur de l’exécution budgétaire par le Gouvernement, qui traduit le respect de la volonté démocratique des parlementaires.<br/>Permettez-moi donc de vous rappeler, concrètement et sincèrement, pourquoi vous avez toutes les raisons de voter – comme nous le ferons – ce projet de loi de règlement du budget et d’approbation des comptes.<br/>Tout d’abord, l’exercice 2018 aura été pour tous les observateurs éclairés celui d’une exécution fidèle et sincère, proche de celle programmée en loi de finances initiale, tant au niveau global que dans le détail des natures de dépenses et des missions. Pour la première fois depuis plus de trente ans, aucun décret d’avance n’a été pris. Aucun décret d’avance n’a été pris, et cela alors même qu’ils ont pu représenter jusqu’à 3,4 milliards d’euros de crédits ouverts en 2016 et que nous avons dû voter deux projets de loi de finances rectificatives en 2017 pour rétablir l’équilibre des comptes.<br/>Les sous-budgétisations ont été réduites à 1,5 milliard d’euros, alors qu’elles n’avaient cessé de croître depuis 2013, atteignant 4,4 milliards en 2017. Le montant total des crédits gelés est le plus bas constaté depuis 2006, avec une baisse de 60 % et des surgels particulièrement faibles – moins de 1 milliard d’euros. Les ouvertures et annulations de crédits s’équilibrent quasiment, autour de plus ou moins 2 milliards d’euros, et sont parmi les plus basses depuis l’entrée en vigueur de la loi organique relative aux lois de finances, la LOLF !<br/>De plus, les dépenses exécutées sont inférieures d’environ 1 milliard d’euros aux crédits ouverts en loi de finances initiale et l’objectif des dépenses totales de l’État est scrupuleusement respecté. La norme de dépenses pilotables est ainsi tenue, malgré un prélèvement sur recettes au profit de l’Union européenne en hausse, tranchant avec les années précédentes où ce prélèvement servait de variable d’ajustement.<br/>Grâce à une activité économique redynamisée par des mesures concrètes prises par la majorité et le Gouvernement, les recettes fiscales sont plus importantes que prévu dans la loi de finances initiale, alors même que le poids des prélèvements obligatoires rapportés au PIB diminue légèrement, passant de 45,2 % à 45 %. Si la baisse peut sembler modeste, elle marque néanmoins une nette rupture avec les années précédentes : le déficit est amélioré de 9,7 milliards d’euros par rapport aux prévisions de la loi de finances initiale ; la charge de la dette et son poids dans le PIB sont stabilisés, nous permettant de dégager des moyens consacrés à l’amélioration de nos services publics, et non au remboursement de la dette.<br/>La loi de règlement est une loi technique, qui arrête le montant définitif des ressources et des charges de trésorerie, approuve le compte de résultat de l’exercice, affecte au bilan le résultat comptable de l’exercice et approuve le bilan après affectation. En somme, rien de bien politique, n’en déplaise à M. Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425448" ordre_absolu_seance="9" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811986" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si, les annulations de crédits !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425449" ordre_absolu_seance="10" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811987" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Car si des divergences politiques peuvent exister sur le contenu du budget, il n’y a là rien d’étonnant : la loi de règlement est avant tout le document par lequel nous vérifions que l’exécution a été menée dans les règles de l’art, pour adopter des comptes au plus proche de la réalité. C’est une exigence démocratique vitale. Or, les faits sont indéniables : en 2018, l’exécution budgétaire a été sincère, fidèle et bien plus transparente que les années précédentes. Cette loi de règlement est donc un des marqueurs des grands progrès réalisés en matière de tenue des comptes publics. Elle en offre une photographie réaliste, une photographie dont nous devons collectivement être fiers et une image que les Français ont le droit de connaître.<br/>C’est pourquoi, mes chers collègues, je vous invite à voter cette loi de règlement, comme nous le ferons, pour constater avec nous que, bien qu’il n’ait pas répondu à toutes vos attentes, ce budget a été exécuté avec sincérité et dans les règles de l’art. Ni plus, ni moins. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Véronique Louwagie" id_acteur="PA608016" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723024">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425451" ordre_absolu_seance="12" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811989" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Véronique Louwagie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425452" ordre_absolu_seance="13" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811990" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons donc en nouvelle lecture le projet de loi de règlement 2018, suite à l’échec de la commission mixte paritaire du mardi 16 juillet dernier. L’examen à cette date du réalisé 2018 se télescope avec le débat d’orientation des finances publiques, qui prépare le projet de loi de finances pour 2020.<br/>À ce stade, il n’est pas possible d’examiner le texte sans faire un lien avec 2019 et 2020. En effet, si le résultat de l’exécution budgétaire 2018 est la preuve intangible du renoncement du Gouvernement à l’équilibre des comptes publics, les éléments qui nous sont fournis à ce stade pour 2020 sont hélas en corrélation avec l’exécution 2018.<br/>Tout d’abord, quelques remarques générales sur le déficit de l’État, qui se creuse à un niveau préoccupant. En effet, si le déficit public s’établit en 2018 à 59,6 milliards d’euros, soit 2,5 points de PIB, le déficit de l’État, lui, se creuse pour la première fois depuis trois ans. Ainsi, l’État français est déficitaire de plus de 76 milliards d’euros en 2018, soit une augmentation de plus de 12,3 % en un an. Comme le souligne à juste titre la Cour des comptes, l’État dépense deux fois plus que ce qu’il possède, en grande partie parce qu’il est incapable de limiter la progression de ses dépenses de personnel. Je veux rappeler ici l’évolution de la masse salariale de l’État : une augmentation de 2 % entre 2017 et 2018, avec une quasi-stabilisation des effectifs – 206 équivalents temps plein – ETP – de plus en 2018. Or, par rapport à 2017, les dépenses du budget général de l’État augmentent de 2,6 milliards d’euros, dont 1,5 milliard au titre de mesures de périmètre et de transfert.<br/>Après plus de deux ans aux responsabilités, le Gouvernement n’a toujours pas engagé le moindre plan d’économies structurelles. Contrairement à ses promesses de réduction du nombre d’emplois publics, les effectifs n’ont absolument pas diminué. En moyenne, au cours des trois dernières années, plus de 11 000 postes ont été créés chaque année. Le Président de la République a d’ailleurs lui-même reconnu qu’il abandonnait l’objectif – annoncé durant sa campagne présidentielle – de 120 000 suppressions de postes dans la fonction publique.<br/>Pourtant, seule la maîtrise de la dépense permettra de diminuer la pression fiscale,  puis de réduire notre déficit. Vous n’avez pas engagé ce processus de réduction de l’excès de dépenses publiques en 2018 et 2019. Pire, il apparaît que 2020 ne verra pas non plus d’économies significatives : les dépenses publiques augmenteront de 0,5 % en volume. Elles devraient poursuivre sur ce rythme en 2021, avant de décélérer en 2022 –  même si elles augmenteront tout de même de plus de 0,2 %. Au sein de l’État, les seules dépenses pilotables – celles sur lesquelles le Gouvernement peut intervenir – augmenteront de 0,5 % en 2020, soit de 4,6 milliards d’euros. D’ici à 2022, elles augmenteront de 14 milliards d’euros. En fait, le plan Action publique 2022, présenté mais aussitôt remisé dans les  placards, ne verra jamais le jour.<br/>Si depuis 2018, le Gouvernement a renoncé à faire des économies en matière d’effectifs de la fonction publique, on assiste maintenant à un renoncement à faire des économies de court terme sur les retraites en repoussant l’âge de départ dès 2020. Tous les efforts budgétaires sont donc abandonnés ou revus à la baisse : l’objectif de retour à l’équilibre des finances publiques en 2022 est abandonné, le nouvel objectif étant de - 1,2 % de déficit public, au lieu de l’objectif initial d’un excédent de 0,3 % ; l’objectif de réduction du poids de la dépense publique est revu à la baisse, avec un objectif de - 2,1 % en lieu et place de - 3,3 % initialement ; l’objectif de réduction de cinq points de la dette publique est abandonné, au profit d’un nouvel objectif de réduction de la dette de 1,6 point, trois fois moins élevé que l’objectif initial.<br/>Permettez-moi maintenant de vous parler de l’évolution de la dette pour chacun des Français. Le Gouvernement s’enorgueillit de redonner 27 milliards d’euros aux Français sur le quinquennat,  à travers la suppression de la taxe d’habitation et les diminutions d’impôts à venir, dont quelques-unes déjà prévues dans le projet de loi de finances pour 2020. Mais lorsqu’il annonce redonner du pouvoir d’achat aux Français, il faudrait parler en même temps de l’augmentation de la dette depuis juin 2017.<br/>Voici les chiffres de la dette publique, mesurée selon les critères de Maastricht : au 31 décembre 2016, 2 147 milliards d’euros ; au 30 juin 2017, 2 276 milliards ; au 31 décembre 2017, 2 258 milliards ; au 31 mars 2018, 2 296 milliards ; au 31 décembre 2018, 2 315 milliards et, dernier chiffre en date, au 31 mars 2019, 2 359 milliards. Ces chiffres montrent que la dette a augmenté de 168 milliards d’euros entre le 31 décembre 2016 et le 31 décembre 2018. En deux ans, 168 milliards d’euros de dette supplémentaires !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425460" ordre_absolu_seance="21" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811998" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est énorme !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425461" ordre_absolu_seance="22" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811999" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Rien que sur le dernier trimestre publié, c’est-à-dire sur le premier trimestre 2019, la dette a augmenté de 43,6 milliards d’euros. C’est plus que la moyenne de ce que nous avons connu sur les deux années précédentes.<br/>Si vous continuez à ce rythme, la dette se creusera de 420 milliards d’euros entre juin 2017 et juin 2022. Les Français doivent savoir que les 27 milliards d’euros de pouvoir d’achat soi-disant redonnés aux ménages sont en fait financés par la dette. Ils seront donc compensés, tôt ou tard, par des impôts nouveaux – c’est, hélas, évident. Et 27 milliards d’euros sont vraiment peu au regard d’une dette dont la projection présume une augmentation de l’ordre de 420 milliards d’euros. En fait, la dette publique française par habitant – qui peut aussi être une référence et parle certainement plus à nos concitoyens – au 31 décembre 2016 était de 32 000 euros ; au 31 mars 2019, elle est de 35 200 euros. En deux ans, vous avez donc augmenté la dette de chaque Français de 3 200 euros.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425463" ordre_absolu_seance="24" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812001" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un dérapage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425464" ordre_absolu_seance="25" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812002" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425465" ordre_absolu_seance="26" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1812003" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une attitude totalement irresponsable de votre part, car vous savez très bien que ce sont nos enfants, les générations futures, qui devront la rembourser au prix d’immenses sacrifices. Il est désolant que vous ne mettiez pas à profit ces années de croissance favorable et de taux d’intérêt bas pour engager une réforme, pourtant indispensable et qui devrait être la vôtre, visant à diminuer les dépenses publiques. Certes, la charge des intérêts à rembourser en 2019 devrait baisser de 400 millions d’euros par rapport à 2018, pour s’établir à 41,1 milliards d’euros, puis fondrait encore en 2020, pour descendre à 40,8 milliards. Mais l’endettement bon marché est un dangereux miroir aux alouettes, qui pousse le mauvais élève à ne surtout pas faire le moindre effort.<br/>Enfin, je veux resituer la France dans la zone euro. De 2017 à 2018, dette et déficit public se sont réduits dans la zone euro. Le déficit y est ainsi passé de 1 % à 0,5 % du PIB, alors que, dans le même temps, notre déficit s’est retrouvé trois fois plus élevé que la moyenne. La divergence de trajectoire de la dette entre la France et ses principaux partenaires a continué de s’accroître. En effet, la dette publique allemande poursuit sa décrue rapide, dépassant à peine soixante points de PIB en 2018.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425467" ordre_absolu_seance="28" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812005" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la croissance ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425468" ordre_absolu_seance="29" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1812006" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Celle de la zone euro, hors Allemagne et France, baisse depuis 2014 et est désormais inférieure à celle de la France. La France est ainsi un des plus mauvais élèves de la zone euro.<br/>En conclusion, si la France est sortie de la procédure de déficit excessif l’année dernière, la Commission européenne s’inquiète déjà du relâchement français. Si le Gouvernement a pu faire croire, sur les dix-huit premiers mois, que notre pays s’engageait dans la nécessaire réforme des dépenses publiques, il a montré depuis son véritable visage.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425470" ordre_absolu_seance="31" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812008" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Manque de courage…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425471" ordre_absolu_seance="32" id_acteur="PA608016" id_mandat="PM723024" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1812009" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Louwagie</nom>
+              <id>608016</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’avez compris, les députés du groupe Les Républicains ne voteront pas le projet de loi de règlement. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Florennes" id_acteur="PA721742" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723370">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425472" ordre_absolu_seance="33" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1812010" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Isabelle Florennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1425473" ordre_absolu_seance="34" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1812011" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je débuterai mon propos en rappelant que le principe de la loi de règlement est d’approuver les comptes de l’exercice passé. Il ne s’agit donc pas de demander plus de budget pour telle politique publique et moins pour telle autre, mais seulement, comme l’a très bien dit notre collègue Cendra Motin, de prendre acte de ce qui a été réellement dépensé.<br/>Ainsi, l’équilibre trouvé ces dernières années avec le Sénat, lequel présentait son avis, positif ou négatif, sur la politique budgétaire du Gouvernement lors d’un débat d’orientation des finances publiques tout en adoptant la loi de règlement, semblait relever du bon sens. C’est donc avec surprise que nous avons assisté au rejet du projet de loi de règlement par le Sénat, qui avait pourtant adopté successivement tous les articles du texte.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425475" ordre_absolu_seance="2" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811818" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Peut-être faudrait-il se demander pourquoi le Sénat a rejeté le projet de loi de règlement alors qu’il avait l’habitude de l’adopter !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425476" ordre_absolu_seance="3" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811819" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin, rapporteur suppléant</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sous la précédente législature, le Sénat rejetait déjà les projets de loi de règlement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425477" ordre_absolu_seance="4" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811820" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous voici donc engagés dans une nouvelle lecture. Le groupe MODEM et apparentés réaffirme son soutien à ce texte.<br/>J’aimerais insister sur un point précis de ce projet de loi de règlement : la forte hausse des moyens affectés aux armées décidée par la majorité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425479" ordre_absolu_seance="6" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811822" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425480" ordre_absolu_seance="7" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811823" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La baisse puis la stagnation des crédits entre 2010 et 2017 ont été lourdes de conséquences pour nos armées, confrontées par ailleurs à de fortes difficultés de recrutement. On le sait, les coupes budgétaires entraînent des pertes de compétences dont la réacquisition nécessite un effort financier beaucoup plus important que les économies réalisées et un temps beaucoup plus long que celui sur lequel les compétences ont été perdues. Dans de nombreux domaines, la situation était critique, et toute absence d’effort pour nos armées se serait soldée par des pertes de compétences quasi irrémédiables, notamment dans le domaine de la dissuasion nucléaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425481" ordre_absolu_seance="8" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811824" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425482" ordre_absolu_seance="9" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811825" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ainsi, la trajectoire ambitieuse votée dans le cadre de la loi de programmation militaire pour les années 2018 à 2022, qui vise un niveau de dépenses représentant 2 % du PIB en 2025, permet de consacrer les moyens nécessaires à la sécurité de nos concitoyens. C’est un effort budgétaire fort, à hauteur de 1,7 milliard d’euros supplémentaires chaque année – et non 1,7 milliard sur l’ensemble du quinquennat – qui est consenti, alors que nous connaissons tous la situation dégradée de nos finances publiques. Ainsi, après 33 milliards d’euros en 2017, 34,5 milliards en 2018 et 36 milliards en 2019, le budget de la mission « Défense » s’élèvera à 41 milliards d’euros en 2022. C’est donc un effort budgétaire total de plus de 25 milliards qui sera consenti au cours de cette législature pour nos armées et la sécurité des Français.<br/>À l’occasion de cette nouvelle lecture du projet de loi de règlement, le groupe MODEM souhaitait souligner particulièrement cet effort important, que ses membres approuvent. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Valérie Rabault" id_acteur="PA609590" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723326">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425484" ordre_absolu_seance="11" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811827" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Valérie Rabault.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425485" ordre_absolu_seance="12" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811828" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’examen du projet de loi de règlement est un exercice important, qui a pu retrouver un peu de couleurs grâce au « printemps de l’évaluation » organisé depuis deux ans. Mais contrairement à ce qu’a affirmé l’une de nos collègues, il ne s’agit pas d’un exercice technique dépourvu de toute considération politique. En effet, dans certains articles du projet de loi, le Gouvernement formule des propositions sur lesquelles nous pouvons être d’accord ou non.<br/>Bien entendu, voter sur le projet de loi de règlement consiste à dire si le Gouvernement a exécuté ou non le budget conformément à ce qui avait été voté. À cette question, la Cour des comptes a apporté un certain nombre de réponses. Même si nous n’approuvons pas les politiques qui ont été mises en œuvre, la Cour des comptes a dressé un certain nombre de constats, certains donnant raison au Gouvernement, d’autres étant un peu moins favorables à l’exécutif. Je n’y reviendrai pas.<br/>Ce qui compte, ce qui est soumis à notre vote, c’est ce que nous allons faire avec les crédits qui n’ont pas été utilisés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425488" ordre_absolu_seance="15" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811831" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On baisse les impôts !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425489" ordre_absolu_seance="79" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811832" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez complètement éludé cette question. Il y a deux options : soit ces crédits sont reportés sur l’année suivante, soit ils sont annulés. Cette question est abordée dans les articles finaux du projet de loi de règlement. Il nous est interdit, à nous parlementaires, de choisir entre ces deux options : nous ne pouvons que constater les choix proposés par le Gouvernement, ce qui est quelque peu frustrant.<br/>Comme l’an dernier, nous aurions souhaité pouvoir annuler les annulations de crédits prévues par le Gouvernement, qui sont cette année d’une ampleur inédite. Vous pouvez le contester, mais je vous invite à rentrer quelques chiffres dans un tableau Excel : vous verrez tout de suite que les annulations de crédits proposées cette année par le Gouvernement sont bien d’une ampleur inédite.<br/>Ainsi, dans un texte que d’aucuns considèrent comme technique, l’article 4 a toute son importance. Dans cet article, monsieur le secrétaire d’État, vous annulez 7 milliards d’euros d’autorisations d’engagement et 1 milliard d’euros de crédits de paiement. Concrètement, vous annulez 36 millions d’euros d’autorisations d’engagement portant principalement sur le programme « Patrimoines », alors que l’incendie de Notre-Dame a mis en lumière les besoins immenses qui existent en la matière.<br/>Mme Florennes vient d’évoquer la mission « Défense ». À l’article 4, justement, le Gouvernement annule 1,2 milliard d’euros d’autorisations d’engagement dans cette mission, dont 855,8 millions dans le programme « Préparation et emploi des forces ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425492" ordre_absolu_seance="83" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811835" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec de tels raisonnements, cela ne m’étonne pas que vous ayez endetté le pays !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425493" ordre_absolu_seance="84" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811836" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon cher collègue, si cela ne vous ennuie pas de voter des crédits qui ne sont pas utilisés, c’est votre problème. Pour ma part, cela m’ennuie de constater qu’une loi n’est pas appliquée comme elle devrait l’être et de voter 1,2 milliard d’euros d’annulations d’autorisations d’engagement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425494" ordre_absolu_seance="85" id_acteur="PA719710" id_mandat="PM722738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811837" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Dominique David</nom>
+              <id>719710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’avez fait des dizaines des fois lors du quinquennat précédent !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425495" ordre_absolu_seance="86" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811838" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je reviens à la mission « Défense », où 213,6 millions d’euros n’ont pas été consommés en raison de l’arrêt technique du sous-marin <italique>Le</italique><italique> </italique><italique>Terrible</italique> – le marché a été reporté et les autorisations d’engagement sont supprimées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425496" ordre_absolu_seance="87" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811839" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En 2018 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425497" ordre_absolu_seance="88" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811840" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elles sont supprimées, madame Motin. Quand on veut être cohérent, quand on reporte le marché, on reporte aussi les autorisations d’engagement, au lieu de les annuler comme vous le faites. C’est un peu votre marque de fabrique : il y a ce que vous dites et il y a ce que vous faites… <italique>(Exclamations sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425499" ordre_absolu_seance="26" id_acteur="PA719710" id_mandat="PM722738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811842" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Dominique David</nom>
+              <id>719710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une question de sincérité budgétaire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425500" ordre_absolu_seance="27" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811843" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le hiatus est assez important.<br/>Toujours dans la mission « Défense », 491 millions n’ont pas été consommés en raison du report de l’engagement des marchés de soutien à l’A400M. Là encore, l’engagement est reporté mais les autorisations d’engagement sont annulées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425501" ordre_absolu_seance="125" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812269" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais le programme continue !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425502" ordre_absolu_seance="126" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811845" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Par ailleurs, vous annulez 454,7 millions d’euros d’autorisations d’engagement portant principalement sur le programme « Urbanisme, territoires et amélioration de l’habitat ».<br/>Quand on additionne tous ces montants, on arrive effectivement, à l’article 4, à un montant d’annulations d’autorisations d’engagement et de crédits de paiement qui est inédit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425504" ordre_absolu_seance="128" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811847" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin, rapporteur suppléant</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Inédit, vraiment ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425505" ordre_absolu_seance="129" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811848" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si vous faites une série historique, vous verrez que c’est le montant le plus élevé depuis toujours.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425505" ordre_absolu_seance="130" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811932" valeur="720878. ">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Saint-Martin, rapporteur suppléant</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est faux ! En 2015, le montant d’annulations était plus élevé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425507" ordre_absolu_seance="131" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811850" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non, monsieur Saint-Martin, il n’atteignait pas 7 milliards d’euros.<br/>Parmi les autres constats qui découlent de ce projet de loi de règlement, il y a la question des effectifs, évoquée dans la fiche n<exposant>o</exposant> 3 du rapport de M. le rapporteur général en première lecture. On constate que les effectifs sont inférieurs de 26 300 équivalents temps plein au plafond et que la moitié de cette sous-exécution concerne l’éducation nationale.<br/>Autre question : les ministères ont-ils pu bénéficier des crédits tels qu’ils avaient été votés ? Nous avons déjà relevé que quelques missions concentraient de manière quasi systématique les sous-consommations.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425510" ordre_absolu_seance="134" id_acteur="PA719710" id_mandat="PM722738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811853" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Dominique David</nom>
+              <id>719710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons adopté une proposition de résolution sur ce sujet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425511" ordre_absolu_seance="135" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811854" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La mission « Justice » a sous-consommé 116 millions d’euros en 2018 après avoir sous-consommé 167 millions en 2017. La mission « Relations avec les collectivités territoriales » a sous-consommé 89 millions d’euros en 2018, contre 46 millions en 2017. Cette sous-consommation est absolument incompréhensible : vous nous expliquez que les collectivités ne remplissent pas assez vite les dossiers et ne consomment pas assez vite les crédits pour mener leurs investissements, mais dans nos circonscriptions, on nous dit que la ligne de crédits a été fermée. Cette contradiction devrait être analysée afin de résoudre le problème. S’agissant des anciens combattants, là encore, on constate une sous-consommation de 34 millions d’euros en 2018, contre 22 millions en 2017.<br/>Vous comprendrez, mes chers collègues, que nous n’approuvons pas la politique que vous avez menée sur un certain nombre de sujets.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425513" ordre_absolu_seance="137" id_acteur="PA719850" id_mandat="PM722780" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cendra Motin</nom>
+              <id>719850</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous l’avons bien compris !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425514" ordre_absolu_seance="138" id_acteur="PA609590" id_mandat="PM723326" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811857" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Valérie Rabault</nom>
+              <id>609590</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur d’autres sujets, nous avons voté vos textes. Mais nous n’approuvons pas le cap que vous avez donné à votre politique économique.<br/>Mais encore une fois, examiner le projet de loi de règlement, ce n’est pas refaire le débat sur le projet de loi de finances initiale, mais se demander si nous sommes d’accord sur l’exécution budgétaire de l’année écoulée et si nous approuvons les articles qui nous sont proposés, notamment les annulations de crédits de paiement et d’autorisations d’engagement à hauteur de 7 milliards d’euros. Or le groupe Socialistes et apparentés n’est pas d’accord avec ces annulations : nous préférerions évidemment que les crédits soient reportés précisément dans le budget pour 2019. Ce n’est pas le choix que vous avez fait, et c’est pour cette raison que nous voterons contre ce projet de loi de règlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425515" ordre_absolu_seance="140" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425516" ordre_absolu_seance="141" id_acteur="PA760658" id_mandat="PM760662" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811859" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Francis Chouat</nom>
+              <id>760658</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous ne comprenez pas la notion même de sincérité budgétaire !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Patricia Lemoine" id_acteur="PA721632" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM760305">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425517" ordre_absolu_seance="142" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811860" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Patricia Lemoine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425518" ordre_absolu_seance="143" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811861" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Lemoine</nom>
+              <id>721632</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons en nouvelle lecture le projet de loi de règlement du budget et d’approbation des comptes de l’année 2018, la commission mixte paritaire s’étant soldée par un échec. Sans surprise, nos propos seront conformes à ceux que nous avons exprimés en première lecture, à commencer par les points positifs que nous tenons à saluer.<br/>Le premier est la plus grande sincérisation du budget. En effet, la gestion des dépenses a été conforme à la prévision initiale, permettant de ne pas avoir recours aux décrets d’avance alors que le quinquennat précédent en avait abusé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425520" ordre_absolu_seance="145" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1811863" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1425521" ordre_absolu_seance="146" id_acteur="PA721632" id_mandat="PM760305" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1811864" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Patricia Lemoine</nom>
+              <id>721632</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le Gouvernement a su tenir ses objectifs en matière de dépenses dans le cadre des autorisations budgétaires, grâce à une plus grande sincérité du budget. Les résultats sont donc à mettre à son crédit. Néanmoins, quelques sous-budgétisations demeurent, mais de manière très marginale par rapport aux exécutions précédentes – seulement 1,5 milliard d’euros en 2018, principalement sur les opérations extérieures.<br/>Avec un déficit représentant 2,5 % du produit intérieur brut en 2018, la France a pu sortir de la procédure pour déficit excessif engagée par l’Union européenne puisque, pour la deuxième année consécutive, le déficit public de notre pays s’est établi sous la barre des 3 % de PIB.<br/>L’exécution 2018 a été marquée par une nette décélération de l’activité, avec une croissance estimée à 1,6 % contre 2,3 % en 2017. Le contexte économique international y est certainement pour quelque chose : le ralentissement de la croissance observé en France l’a été partout dans le monde, sur fond de tensions commerciales entre les États-Unis et la Chine et de crise entre les États-Unis et l’Iran, qui a eu des répercussions sur les cours du pétrole.<br/>S’agissant de la trajectoire de rétablissement de l’équilibre des finances publiques de notre pays, il convient de rester prudent pour l’avenir car le niveau de déficit reste très élevé, comme cela a déjà été dit, ce qui fait peser de lourdes incertitudes sur la fin du quinquennat.<br/>Le déficit structurel est un bon indicateur de l’effort réalisé sur les dépenses de fonctionnement. Pourtant, il est quasi nul pour 2018 – à peine 0,1 point de PIB selon l’avis révisé du Haut Conseil des finances publiques. L’explication de cette faible amélioration du solde structurel est simple : l’effort sur les dépenses publiques hors crédits d’impôts a été presque intégralement absorbé par des mesures de baisse des prélèvements obligatoires décidées par le Gouvernement.<br/>Cela devient problématique quand le Haut Conseil considère que l’effort moyen réalisé en dépenses sur les deux années 2017 et 2018 est nul. Pourtant, les règles européennes exigent un effort structurel de réduction de nos déficits publics de 0,5 point de PIB par an ou, à défaut, en moyenne sur deux ans. Le compte n’y est donc pas. Le déficit structurel reste quasiment au même niveau et la possibilité d’atteindre l’objectif de moyen terme défini dans la loi de programmation des finances publiques pour les années 2018 à 2022 paraît de plus en plus inatteignable. Cela signifie qu’il faut absolument que des économies soient réalisées en dépenses et qu’elles aillent directement alimenter la réduction du déficit.<br/>Autre sujet d’inquiétude : le déficit budgétaire de l’État se creuse, pour la première fois depuis cinq ans. Il s’est détérioré de 8,3 milliards d’euros par rapport à l’année 2017, en atteignant la somme de 76 milliards en 2018. Pourtant, les recettes sont plus élevées qu’initialement prévu, notamment en raison du rattachement erroné des droits de mutation entre 2017 et 2018, pour 1,4 milliard d’euros. Alors, comment justifier ce dérapage ? Sans doute par les raisons que nous avons déjà évoquées, à savoir une progression des dépenses couplée à des mesures de baisse d’impôts.<br/>L’effort en dépense porte principalement sur les administrations de sécurité sociale qui, depuis deux années consécutives, ont réussi à dégager un excédent qui atteint pour 2018 les 10,7 milliards d’euros. Par ailleurs, les administrations des collectivités locales ont également contribué à cet effort, dans le respect de l’objectif en dépense des 322 collectivités territoriales ayant contractualisé avec l’État, ce qui me permet de souligner le succès de ce mécanisme.<br/>Néanmoins, ces efforts ne suffisent pas à faire reculer l’endettement de la France. La dette de l’ensemble des administrations publiques s’est stabilisée à 98,4 % du PIB mais son montant, lui, continue d’augmenter, pour s’établir à 2 315 milliards d’euros. Nous sommes, faut-il le rappeler, parmi les derniers de la zone euro en termes d’endettement. Le FMI s’inquiète d’ailleurs du niveau de la dette française pour l’avenir alors même que nos voisins européens ont déjà commencé à réduire la leur depuis plusieurs années.<br/>Nous nous éloignons donc de l’objectif du retour à l’équilibre du solde des comptes publics. J’en veux pour preuve la dette de l’État, qui continue de s’aggraver sous l’effet de la hausse du déficit et expose l’État en cas de remontée des taux d’intérêt.<br/>La situation financière de l’État s’est donc dégradée en 2018. Nous sommes devenus le second émetteur de titre de dette de la zone euro, juste derrière l’Italie, avec une émission par l’État de titres à moyen et long terme de plus de 225,4 milliards d’euros en 2018. D’ailleurs la stabilisation de la charge d’intérêts due au contexte favorable de taux d’intérêt faibles n’a pas suffi à améliorer la santé financière de la France. La charge d’intérêts s’élève à 40,5 milliards d’euros en 2018 contre 40,7 en 2017.<br/>Comme Lise Magnier l’avait fait lors de la première lecture, nous tenons à mettre en avant ces points de vigilances. Le coût des dépenses fiscales, qui sont 474 au total, a continué à progresser en 2018, se montant à 100,2 milliards d’euros, soit une progression de 6,7 milliards par rapport à 2017. Le plafonnement global est devenu inopérant depuis que le plafond a été relevé de 15 milliards d’euros, très largement au-dessus des prévisions. Par ailleurs l’évaluation de leur efficacité à l’heure actuelle reste lacunaire, voire inexistante pour certaines.<br/>Concernant les taxes affectées, il n’est pas normal qu’elles rapportent toujours plus à l’État. En effet, le mécanisme de plafonnement et d’écrêtement des taxes affectées a rapporté à l’État une recette de presque 1 milliard d’euros en 2018, en hausse par rapport à 2017. La pratique des taxes affectées contrevient au principe d’universalité des ressources du budget. Il convient de trouver une solution afin de les rebudgétiser.<br/>Enfin, la Cour des comptes a inclus dans son rapport d’exécution une démarche de réflexion inédite autour de la refonte de la performance de la gestion des finances publiques. Comme beaucoup de mes collègues, je suis très sensible à cette démarche et j’espère que vous le serez également, au point d’améliorer des points comme la complexité sans cesse croissante du cadre budgétaire de l’État, l’information, qui a été enrichie au risque de devenir surabondante, et les procédures et outils incomplets, pour ne pas dire souvent obsolètes, afin de mesurer l’efficience des politiques publiques.<br/>Pour réduire notre déficit public, nous devons d’abord avoir une vision globale et éclairée de toutes les données qui l’entourent. Une information fiable, de qualité et documentée est le premier pas pour mettre en œuvre des solutions visant une amélioration structurelle significative, afin d’éloigner le risque d’une remontée des taux d’intérêt et par voie de conséquence d’un alourdissement du poids de la dette. Ce n’est qu’à ce prix que nous pourrons redresser les finances publiques d’ici la fin de la législature.<br/>Comme nous l’avons dit lors du débat d’orientation des finances publiques, la sincérité doit rester une habitude, et c’est un point fort observé en 2018. Elle doit maintenant s’accompagner d’une véritable baisse de la dépense publique, qui ne peut plus attendre. Je ne doute pas que vous partagerez ce souhait.<br/>En conclusion, même si des pistes d’amélioration méritent d’être explorées, au vu des aspects positifs de cette loi de règlement 2018, le groupe UDI et indépendants votera en sa faveur. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1425363" ordre_absolu_seance="128" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811429" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1425364" ordre_absolu_seance="129" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811430" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais adresser en guise de propos liminaire un satisfecit quant à l’exécution de la loi de finances pour 2018 telle qu’adoptée par le Parlement. En effet, la gestion des dépenses de l’État a été conforme à la prévision initiale. Preuve en est, aucun décret d’avance n’a été nécessaire en cours d’année, là où les exercices précédents y avaient recouru. Ainsi, en 2018, les sous-budgétisations se sont limitées à 1,5 milliard d’euros contre près de trois fois plus en 2017, où elles s’élevaient à 4,4 milliards. Cela a été souligné, mais je tenais, m’exprimant au nom du groupe Libertés et territoires, à le rappeler. L’amélioration de la sincérité des lois de finances, le respect de l’enveloppe des dépenses dans le cadre des autorisations budgétaires est une marque de respect portée au travail parlementaire.<br/>Par ailleurs, les annulations et ouvertures de crédits comptent parmi les moins nombreuses depuis l’entrée en vigueur de la loi organique relative aux lois de finances. La Cour des comptes note à ce propos le faible niveau de réserves : le taux de mise en réserve est passé de 8 % en 2017 à 3 % en 2018.<br/>Un autre signe encourageant de sincérité est à remarquer : les recettes de l’État sont conformes aux prévisions. Elles ont même été supérieures de 8,8 milliards d’euros à ce qui était prévu en loi de finances, et ce malgré les grèves de la SNCF et le mouvement dit des gilets jaunes. Il convient certes de nuancer le propos en imputant ces résultats meilleurs qu’attendus à la conjoncture internationale favorable, même si la croissance a connu une inflexion en France entre 2017 et 2018, plutôt qu’au résultat de l’action publique : en effet, malgré ces signaux positifs, plusieurs points faibles persistent hélas, notamment sur la question du déficit.<br/>La loi de finances pour 2018 avait en effet prévu une forte hausse du déficit de l’État, à 85,7 milliards d’euros. En définitive, il s’établit à 76 milliards en 2018. Sur le papier cela semble positif mais ce constat mérite d’être tempéré, car le déficit de l’État continue bel et bien de s’accroître : il atteint 3 % du PIB en 2018, soit 8,3 milliards d’euros de plus qu’en 2017. On peut même alourdir la note en tenant compte des 2,8 milliards liés au rattachement erroné des droits de mutation entre 2017 et 2018. Au total, le déficit est supérieur de 12 % à ce qu’il était l’année précédente, ce qui ne peut être considéré, il faut en convenir, comme une bonne nouvelle, et c’est un euphémisme.<br/>Je relève au surplus que l’effort en matière d’économies n’est pas particulièrement porté par l’État. Il est plutôt assumé par les comptes des administrations de sécurité sociale et les collectivités locales. Ce sont donc ces dernières qui viennent compenser l’augmentation du déficit de l’État. J’insiste car cela n’est pas anodin : c’est au crédit des administrations de sécurité sociale et des collectivités qu’il faut avant tout porter la réduction du déficit public enregistrée en 2018.<br/>Ce dernier s’élève à 59,6 milliards d’euros en 2018, soit 2,5 points de PIB, après 2,8 points en 2017. Je note que ce chiffre est inférieur de 0,2 point à celui prévu pour 2018 dans la loi de programmation. Mais arrêtons-nous sur un point bien précis.<br/>Les règles européennes exigent de nous un effort de réduction du déficit structurel de 0,5 point du PIB, soit environ 12 milliards d’euros par an. Rappelons que le déficit structurel est un indicateur qui tire sa pertinence du fait qu’il n’est pas lié aux aléas de la conjoncture. Or cet effort est seulement de 0,1 point en 2018.<br/>Je voudrais aller plus loin. En 2019, vos prévisions misent sur un effort structurel de 0,3 point de PIB, là encore loin de l’objectif européen. Nous n’atteignons même pas la dérogation selon laquelle l’objectif de diminution du déficit structurel de 0,5 point peut être exceptionnellement réalisé sur deux exercices. C’est un problème qui n’est pas négligeable.<br/>Cette situation est tout d’abord le résultat des choix politiques inscrits dans la loi de finances pour 2018 : la transformation de l’ISF en IFI – impôt sur la fortune immobilière –, la création du prélèvement forfaitaire unique ou encore la prise en charge par l’État du dégrèvement de la taxe d’habitation. Vous tabliez sur une baisse des recettes fiscales de 13,5 milliards. Elle sera finalement de 5 milliards d’euros, notamment du fait du dynamisme de la fiscalité énergétique et de la TVA.<br/>Il est un autre levier que l’exécutif n’actionne pas : il s’agit de la réduction de la dépense publique, comme le note d’ailleurs la Cour des comptes. C’est un problème difficile certes. Intéressons-nous plus spécifiquement aux dépenses fiscales. Ces dernières ont augmenté de 6,7 % pour s’établir à un peu plus de 100 milliards d’euros, soit une progression de 6,8 milliards. La Cour des comptes estime que les dispositifs de plafonnement des dépenses fiscales sont aujourd’hui inopérants. Il faut donc œuvrer à une revue de l’ensemble des niches fiscales, problème que nous avons soulevé à maintes reprises car elles viennent « miter » l’impôt sur le revenu et obérer sa progressivité.<br/>La Cour des comptes nous alerte également sur la nécessité de la transparence. Elle estime ainsi que, sur les soixante-dix-sept dépenses fiscales de la mission « Économie », vingt-sept ne sont pas évaluées, soit plus d’un tiers. Pour rappel, ces dépenses fiscales représentent un total de 28 milliards d’euros. Le contexte social actuel, symptomatique de l’exaspération fiscale de nos concitoyens, nous incite à plus de transparence et d’efficacité vis-à-vis d’eux. Cette piqûre de rappel de la Cour des comptes est nécessaire.<br/>Permettez-moi, à ce stade de mon intervention, de m’attarder sur les conditions d’examen de ce projet de loi de règlement. Vous l’avez souligné, monsieur le secrétaire d’État, les modifications apportées au calendrier doivent nous permettre de consacrer davantage de temps à l’examen de ce texte. Nous souhaitons qu’il devienne une véritable loi de résultats et un temps fort de l’évaluation et du contrôle parlementaires, ce qu’il n’a jamais été depuis l’adoption de la LOLF, malgré les ambitions affichées. Cependant, le resserrement du calendrier ne va pas sans poser quelques difficultés. Toutes les données nécessaires à l’évaluation ne nous sont pas parvenues à temps. Rappelons ainsi que le Haut Conseil des finances publiques a été conduit à formuler son avis avant que l’INSEE ne publie les résultats des comptes annuels de 2018. Ces données étaient pourtant nécessaires au calcul du solde structurel des administrations publiques. Gageons qu’à l’avenir les calendriers seront alignés pour faire de cette loi un outil aux résultats complets et tous à jour.<br/>Je m’autoriserai une seconde remarque sur les conditions d’examen par le Parlement. Nous constatons en effet une complexité accrue du cadre budgétaire de L’État, aboutissant à un manque de lisibilité de plus en plus critique. La conséquence directe en est la limitation de notre capacité à appréhender d’un point de vue global les enjeux financiers associés à l’action de l’État. Reprenons l’exemple du contournement croissant du cadre budgétaire applicable aux dépenses de l’État, évoqué par mon collègue Charles de Courson en première lecture. Une part importante de l’action de l’État est en effet logée dans des fonds sans personnalité juridique qui ne figurent pas au budget de l’État, hormis leur abondement initial. Les dépenses effectuées sur ces fonds sont hors budget de l’État. Par conséquent, les moyens des fonds sans personnalité juridique échappent aux règles de gestion mises en place par la LOLF et de facto au contrôle du Parlement.<br/>La création en 2018 du fonds pour l’innovation et l’industrie en est une illustration éclairante. Ce fonds a connu une célébrité récente. C’est lui qui devait accueillir une dotation non consommable de 10 milliards d’euros, issus de la vente des participations de l’État dans certaines entreprises, notamment Aéroports de Paris. Outre les critiques que nous avons formulées dans le cadre de la loi PACTE relative à la croissance et à la transformation des entreprises, ce montage a conduit à des opérations inutilement compliquées, comme l’a relevé la Cour des comptes. Dans son avis, elle a même préconisé la rebudgétisation de ce fonds. Ce type de mesures permettrait d’améliorer la qualité de notre travail parlementaire. Nous reprenons donc cette proposition à notre compte.<br/>En attendant, au regard des éléments que j’ai rapidement exposés, les députés du groupe Libertés et territoires s’abstiendront très majoritairement sur ce texte. <italique>(M.</italique><italique> </italique><italique>Ian Boucard applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Dominique David" id_acteur="PA719710" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722738">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1425376" ordre_absolu_seance="144" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1811442" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Dominique David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1425377" ordre_absolu_seance="145" id_acteur="PA719710" id_mandat="PM722738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1811443" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Dominique David</nom>
+              <id>719710</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« L’hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus ». De ce qui était vrai du temps de Molière, le Sénat vient de nous donner un nouvel exemple. La semaine dernière, la chambre haute s’est réunie pour voter la loi de règlement. Le Sénat a adopté l’intégralité des articles, puis rejeté le texte en bloc. On doit saluer la cohérence de ces oppositions qui nous contraint aujourd’hui à nous réunir pour discuter ce texte en nouvelle lecture. Peut-être même les sénateurs s’imaginent-ils que cette manœuvre passera pour un effet de la vertu aux yeux de l’opinion, vertu d’une opposition qui saurait se faire entendre quand les circonstances l’exigent.<br/>Bien entendu, il n’en est rien. Cette décision est d’autant plus absurde que la nouvelle lecture n’ouvrira en aucun cas un nouveau débat sur le texte. L’adoption s’effectuera par un vote du texte conforme ; aucun amendement ne sera discuté à l’Assemblée ; et comme il s’agit de boucler des comptes, il est évident que les amendements déposés par le Sénat ne changeront rien aux choix budgétaires de l’an dernier. Puis, comme le veut la Constitution, le texte repassera devant les deux chambres et si le Sénat recommence ce petit jeu, l’Assemblée nationale tranchera en dernier ressort sans que le texte passe à nouveau devant la chambre haute.<br/>Le comble, monsieur le secrétaire d’État, c’est que lors de la discussion au Sénat, Jérôme Bascher a décerné à Gérald Darmanin un Molière – encore lui ! Ne pourrions-nous pas retourner son compliment à ce Tartuffe pour cette belle mise en scène ?<br/>Car enfin, cette loi de règlement n’est-elle pas exemplaire ?<br/>Exemplaire d’abord car depuis deux ans, le déficit public est contenu en deçà de 3 % du PIB, ce qui n’était jamais arrivé depuis une décennie.<br/>Exemplaire, ensuite, car elle introduit deux grandes avancées dans le pilotage budgétaire : la fin du recours aux décrets d’avance et la nette amélioration des prévisions. Les sous-budgétisations sont en recul, ce qui consacre un véritable effort de sincérité des comptes, salué par la Cour des comptes cette année.<br/>Exemplaire aussi car elle témoigne d’un effort inédit consenti par les collectivités territoriales pour assainir leurs finances. Grâce à la contractualisation avec l’État, l’objectif de maîtrise des dépenses de fonctionnement des collectivités a été divisé par quatre. Les marges de manœuvre ainsi libérées ont permis d’accroître les investissements.<br/>Exemplaire enfin car, pour la première année de plein exercice budgétaire du Gouvernement et de la majorité, le rapporteur général de la commission des finances du Sénat, pourtant membre du groupe d’opposition Les Républicains, a tenu à saluer la sincérité du projet de loi de règlement.<br/>Mais tous ces rappels sont inutiles car, en définitive, le vote du Sénat ne s’est pas fait sur le fond du texte : c’est une posture. Quand notre pays attend des réformes urgentes et salutaires, le Sénat choisit de nous faire perdre notre temps dans une procédure sans intérêt.<br/>Ayant commencé avec Molière, je finirai en citant Péguy : « Il ne faut qu’un briquet pour brûler une ferme. Il faut, il a fallu des années pour la bâtir. […] Il faut des mois et des mois, il a fallu du travail et du travail pour pousser une moisson. Et il ne faut qu’un briquet pour flamber une moisson. » « Alors nous autres nous serons toujours les moins forts. Nous irons toujours moins vite, nous en ferons toujours moins. Nous sommes le parti de ceux qui construisent. Ils sont le parti de ceux qui démolissent. Nous sommes le parti de la charrue. Ils sont le parti du sabre. »<br/>Bonnes vacances, mesdames et messieurs les sénateurs ! <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425536" ordre_absolu_seance="189" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très belle citation ! Les eurodéputés vont être fâchés !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425537" ordre_absolu_seance="190" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1812024" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425538" ordre_absolu_seance="191" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1812025" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <id>719608</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous voilà à nouveau réunis après que le Sénat a rejeté, par 212 voix contre 98, le projet de loi de règlement et d’approbation des comptes de 2018. Pourquoi donc une telle opposition, alors que, selon vous, nous aurions entièrement matière à nous féliciter pour les résultats obtenus en 2018 ?<br/>Vous vous targuez d’une baisse du déficit public de 0,3 % entre 2017 et 2018, d’une stabilisation de la dette publique, d’une responsabilisation des acteurs de la communauté budgétaire, d’une sous-exécution de la norme de dépenses pilotables à hauteur de 1,4 milliard d’euros contre le 0,6 milliard prévu dans la loi de finances rectificative, et enfin – une première depuis trente ans ! – de l’absence d’ouvertures et d’annulations de crédits par décret d’avance en 2018. Bref, tout va bien dans le meilleur des mondes.<br/>Mais à y regarder de plus près, le paysage est évidemment moins idyllique. Les dépenses continuent de progresser, certes à un rythme ralenti. Plus grave, pour la première fois depuis 2014 et après trois ans de quasi-stabilité, le déficit budgétaire de l’État s’est accru, passant de 67,7 milliards d’euros en 2017 à 76 milliards en 2018, soit 23,4 % des dépenses nettes du budget général contre 21 % en 2017.<br/>Tandis que les recettes étaient stables, les dépenses des ministères ont crû de 1,4 milliard d’euros, et vingt des vingt-neuf missions du budget général ont vu leur consommation de crédits progresser. J’en citerai un seul exemple, que j’ai déjà eu l’occasion d’évoquer lors de la première lecture. L’exécution de la mission « Immigration, asile et intégration » a été une nouvelle fois marquée par la hausse des demandes d’asile en 2018, avec pour conséquence évidente une hausse de l’allocation pour demandeur d’asile. Les crédits de cette mission avaient été significativement renforcés dans la loi de finances initiale pour 2018, à raison de + 10,3 % en autorisations d’engagement et de + 25,8 % en crédits de paiement. Pourtant, cela ne suffit toujours pas !<br/>Cela n’a rien d’étonnant, dans la mesure où vous fondez vos prévisions de dépenses sur des anticipations de demandes d’asile largement sous-évaluées. Selon les chiffres définitifs publiés par l’Office français de protection des réfugiés et apatrides – OFPRA –, plus de 123 000 personnes ont demandé l’asile en France en 2018, soit une hausse de 22,7 % par rapport à 2017. Or, selon la Cour des comptes, vous programmez les dépenses d’allocation pour demandeurs d’asile en vous appuyant sur des hypothèses « optimistes », selon ses mots, mais qui, au vu des données disponibles en la matière, semblent plutôt totalement insincères. Évidemment, et c’est toujours la Cour des comptes qui l’affirme, cette sous-estimation des hypothèses et cette augmentation constante des demandes d’asile produisent « un risque d’insoutenabilité budgétaire de la mission ».<br/>D’ailleurs, votre programmation pour 2019 prévoit en la matière un dépassement du plafond de 201,7 millions d’euros à périmètre constant. Mais là encore, votre estimation repose sur une hypothèse de croissance des demandes d’asile nulle, alors que les derniers chiffres fournis par l’OFPRA révèlent que depuis le 1<exposant>er</exposant> janvier 2019, 41 000 demandes ont déjà été enregistrées, soit une hausse de l’ensemble des premières demandes de 6,2 % en quatre mois.<br/>Des hypothèses totalement irréalistes, donc, et qui font largement douter de votre bonne foi !<br/>En résumé, les recettes de la France ne suffisent pas à couvrir ses dépenses. Plus précisément, elles ne couvrent que neuf mois de dépenses de l’État. En outre, la divergence avec nos voisins se maintient : notre déficit public s’établit à 2,5 % du PIB en 2018, alors que le reste de la zone euro est à l’équilibre.<br/>Pour ce qui est de la dette, ce n’est pas mieux : le ratio d’endettement français est pour la première fois supérieur à celui du reste de la zone euro, hors Allemagne.<br/>Alors, comment faire ? J’attendais avec intérêt les conclusions du rapport d’application de la loi fiscale de Joël Giraud, et son étude des 472 niches fiscales. Le résultat est décevant. Alors que ces niches coûtent à nos finances publiques quelque 100 milliards d’euros par an, j’ai été frappée de voir notre collègue dénoncer l’opacité de l’exécutif en la matière, et même son incurie. Je ne peux que l’approuver. Comme l’explique le président du Cercle des fiscalistes, Philippe Bruneau, ce n’est pas un coup de rabot qui est nécessaire pour traiter la question des niches fiscales, mais bien un grand ménage, c’est-à-dire une évaluation de l’impact de chaque niche pour la collectivité. C’est la condition minimum pour déterminer si une niche est bonne pour la collectivité ou ne l’est pas, ajoute-t-il : il n’y a pas de demi-mesure. Encore faut-il le vouloir...</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425548" ordre_absolu_seance="201" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812035" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425549" ordre_absolu_seance="202" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1812036" valeur=" (n[[o]] 2137)" bibard=" (n[[o]] 2137)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425550" ordre_absolu_seance="203" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812037" valeur="" bibard=" (n[[o]] 2137)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant les articles du projet de loi.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425551" ordre_absolu_seance="204" code_grammaire="ART_SORT_DIRECT_1_30" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1812038" valeur="Article liminaire à article 8">
+      <orateurs/>
+      <texte>Article liminaire à article 8</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425552" ordre_absolu_seance="205" code_grammaire="ART_SORT_DIRECT_2_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1812039" valeur=" liminaire, 1er, 2, 3, 4, 5, 6, 7 et 8">
+        <orateurs/>
+        <texte>
+          <italique>(Les articles</italique>
+          <italique> </italique>
+          <italique>liminaire, 1<exposant>er</exposant>, 2, 3, 4, 5, 6, 7 et 8 sont successivement adoptés.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425553" ordre_absolu_seance="206" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_ARTICLES_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812040" valeur="" bibard=" (n[[o]] 2137)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous avons achevé l’examen des articles du projet de loi.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425554" ordre_absolu_seance="207" code_grammaire="VOTE_ENS_PJL_ML_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1812041" valeur=" (n[[o]] 2137)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425555" ordre_absolu_seance="208" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="VOTE_ENS_PJL_ML_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812042" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1425556" ordre_absolu_seance="209" code_grammaire="VOTE_ENS_PJL_ML_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1812043" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1425558" ordre_absolu_seance="211" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1812045" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1425559" ordre_absolu_seance="212" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1812046" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 23 juillet, à quinze heures :<br/>Questions au Gouvernement ;<br/>Vote par scrutin public sur le projet de loi de ratification du CETA ;<br/>Discussion en deuxième lecture de la proposition de loi tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse ;<br/>Discussion du projet de loi relatif à la modernisation de la distribution de la presse.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1425561" ordre_absolu_seance="217" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1812048" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures vingt-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1425562" ordre_absolu_seance="218" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1812049" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N001</uid>
+  <metadonnees>
+    <dateSeance>20181001150000000</dateSeance>
+    <dateSeanceJour>lundi 01 octobre 2018</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>1</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20180001</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Tue, 02 Oct 2018 21:14:03 GMT</horaireGmt>
+    <heureGeneration>2018-10-02T23:14:03.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1432903">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1432907">
+          <intitule>Ouverture de la session ordinaire</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1432910">
+          <intitule>Élection d’un député</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="1432913">
+          <intitule>Élection des six vice-présidents et nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="1432866">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="4">
+        <titreStruct id_syceron="1432871">
+          <intitule>Décès de Charles Aznavour</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="5">
+        <titreStruct id_syceron="1432874">
+          <intitule>Élection des six vice-présidents et nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale <italique>(Suite)</italique></intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="6">
+        <titreStruct id_syceron="1432879">
+          <intitule>Installation du Bureau</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="7">
+        <titreStruct id_syceron="1432882">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du lundi 01 octobre 2018</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1155256" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1432903" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1155257" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432904" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1155258" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1432905" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1155260" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432907" valeur="">
+      <orateurs/>
+      <texte>Ouverture de la session ordinaire</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1155261" ordre_absolu_seance="6" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432908" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Conformément au premier alinéa de l’article 28 de la Constitution, je déclare ouverte la session ordinaire 2018-2019. <italique>(Applaudissements</italique><italique>.)</italique><italique/></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1155263" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432910" valeur="">
+      <orateurs/>
+      <texte>Élection d’un député</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1155264" ordre_absolu_seance="9" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432911" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’ai reçu aujourd’hui, du ministre d’État, ministre de l’intérieur, une communication m’informant qu’hier, le dimanche 30 septembre 2018, M. Jean-Luc Poudroux  a été élu député de la septième circonscription de La Réunion. <italique>(Applaudissements sur les bancs du groupe LR</italique><italique> et sur quelques bancs des groupes LaREM et GDR. – Mme Caroline Fiat applaudit également.</italique><italique>)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="1" id_preparation="1155266" ordre_absolu_seance="11" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432913" valeur="">
+      <orateurs/>
+      <texte>Élection des six vice-présidents et nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1155267" ordre_absolu_seance="12" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432914" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>Les présidents des groupes qui se sont réunis aujourd’hui à douze heures ne sont pas parvenus à un accord sur la répartition des postes au sein du Bureau.<br/>Pour les fonctions de vice-président, je suis saisi de la candidature de :<br/>Mme Carole Bureau-Bonnard ;<br/>M. Hugues Renson ;<br/>M. Sylvain Waserman ;<br/>Mme Annie Genevard ;<br/>M. Marc Le Fur ;<br/>M. Maurice Leroy ;<br/>Mme Sabine Rubin. <italique>(Applaudissements.)</italique><br/>Le nombre des candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin.<br/>Je rappelle que le scrutin est secret.<br/>Aux deux premiers tours de scrutin sont élus, dans l’ordre des suffrages, les candidats ayant obtenu la majorité absolue des suffrages exprimés. Au troisième tour, la majorité relative suffit. En cas d’égalité des suffrages, le plus âgé est élu.<br/>Les bulletins manuscrits sont valables. Toutefois, afin de faciliter la tâche de nos collègues, des bulletins imprimés sont à votre disposition dans les salles voisines de l’hémicycle. Ces bulletins devront être mis dans l’urne sous enveloppe.<br/>Il sera procédé sous le contrôle de quatre scrutateurs titulaires et de deux scrutateurs suppléants dont je vais tirer les noms au sort.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1155272" ordre_absolu_seance="16" code_grammaire="ELECTION_PDT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1432919" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au tirage au sort.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1155273" ordre_absolu_seance="17" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ELECTION_PDT_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432920" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sont désignés scrutateurs titulaires : M. Francois Jolivet, M. Jean-Carles Grelier, M. Stéphane Viry et Mme Trastour-Isnart.<br/>Sont désignés scrutateurs suppléants : M. Jean-Louis Thiériot et M. Thierry Michels.<br/>Nous allons procéder au premier tour de scrutin, qui sera ouvert pour une durée de quarante-cinq minutes.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale. Le scrutin sera clos à quinze heures cinquante-cinq.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="3" ordinal_prise="2" id_preparation="1155236" ordre_absolu_seance="1" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="1432866" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="2" id_preparation="1155237" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432867" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="2" id_preparation="1155238" ordre_absolu_seance="3" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1432868" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à quinze heures </italique>
+            <italique>dix</italique>
+            <italique>, est reprise à seize heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="2" id_preparation="1155239" ordre_absolu_seance="4" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432869" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="2" id_preparation="1155241" ordre_absolu_seance="6" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432871" valeur="">
+      <orateurs/>
+      <texte>Décès de Charles Aznavour</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="1155242" ordre_absolu_seance="7" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432872" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Avant toute chose, je voudrais rendre hommage à la mémoire de Charles Aznavour qui vient de nous quitter et qui incarnait si talentueusement l’appartenance à plusieurs cultures, pour le plus grand bénéfice de l’humanité tout entière. <italique>(Mmes et MM. les députés se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="5" ordinal_prise="2" id_preparation="1155244" ordre_absolu_seance="9" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432874" valeur="">
+      <orateurs/>
+      <texte>Élection des six vice-présidents et nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale <italique>(Suite)</italique></texte>
+      <paragraphe valeur_ptsodj="5" ordinal_prise="2" id_preparation="1155245" ordre_absolu_seance="28" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432925" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Mes chers collègues, voici le résultat du scrutin pour l’élection des vice-présidents de l’Assemblée nationale.<br/>Nombre de votants : 224<br/>Bulletins blancs ou nuls : 2<br/>Suffrages exprimés : 222<br/>Majorité absolue : 112<br/>Ont obtenu :<br/>Mme Annie Genevard : 211 voix<br/>M. Marc Le Fur : 210 voix<br/>M. Maurice Leroy : 210 voix<br/>M. Sylvain Waserman : 209 voix<br/>M. Hugues Renson : 209 voix<br/>Mme Carole Bureau-Bonnard : 208 voix<br/>Mme Sabine Rubin : 9 voix.<br/>Mme Annie Genevard, M. Marc Le Fur, M. Maurice Leroy, M. Sylvain Waserman, M. Hugues Renson et Mme Carole Bureau-Bonnard ayant obtenu la majorité absolue des suffrages exprimés, je les proclame vice-présidents de l’Assemblée nationale. <italique>(De nombreux députés des groupes LaREM, MODEM, LR et UDI-Agir se lèvent et applaudissent.)</italique><br/>Tous les sièges de vice-président ayant été pourvus, il n’y a pas lieu de procéder aux autres tours de scrutin.<br/>Pour les fonctions de questeur et de secrétaire, le nombre de candidats n’est pas supérieur au nombre de sièges à pourvoir.<br/>Je proclame donc questeurs :<br/>M. Florian Bachelier ;<br/>Mme Laurianne Rossi ;<br/>M. Éric Ciotti. <italique>(Applaudissements.)</italique><br/>De même, je proclame secrétaires :<br/>M. Lénaïck Adam ;<br/>Mme Ramlati Ali ;<br/>Mme Danielle Brulebois ;<br/>M. Luc Carvounas ;<br/>M. Lionel Causse ;<br/>M. Alexis Corbière ;<br/>Mme Laurence Dumont ;<br/>Mme Marie Guévenoux ;<br/>Mme Annaïg Le Meur ;<br/>Mme Sophie Mette ;<br/>M. Gabriel Serville ;<br/>M. Guillaume Vuilletet. <italique>(Nouveaux applaudissements.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="6" ordinal_prise="2" id_preparation="1155249" ordre_absolu_seance="35" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432879" valeur="">
+      <orateurs/>
+      <texte>Installation du Bureau</texte>
+      <paragraphe valeur_ptsodj="6" ordinal_prise="2" id_preparation="1155250" ordre_absolu_seance="36" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432880" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je constate que le Bureau de l’Assemblée nationale est constitué.<br/>Sa nomination sera notifiée au Président de la République, au Premier ministre, au président du Sénat et publiée au <italique>Journal officiel</italique>.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="7" ordinal_prise="2" id_preparation="1155252" ordre_absolu_seance="38" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1432882" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="2" id_preparation="1155253" ordre_absolu_seance="39" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1432883" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à quinze heures :<br/>Questions au Gouvernement ;<br/>Lecture définitive du projet de loi relatif à l’équilibre dans le secteur agricole et alimentaire ;<br/>Suite de la discussion du projet de loi relatif à la croissance et la transformation des entreprises.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="2" id_preparation="1155254" ordre_absolu_seance="40" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1432884" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="7" ordinal_prise="2" id_preparation="1155255" ordre_absolu_seance="41" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1432885" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

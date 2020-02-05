@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N095</uid>
+  <metadonnees>
+    <dateSeance>20191210090000000</dateSeance>
+    <dateSeanceJour>mardi 10 décembre 2019</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>95</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20190095</nomFichierJo>
+    <validite>valide</validite>
+    <etat>provisoire</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Tue, 10 Dec 2019 14:37:38 GMT</horaireGmt>
+    <heureGeneration>2019-12-10T15:37:38.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1951834">Présidence de Mme Laetitia Saint-Paul</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1951838">
+          <intitule>Questions orales sans débat</intitule>
+        </titreStruct>
+        <sommaire2>
+          <titreStruct id_syceron="1951840">
+            <intitule>Frais bancaires</intitule>
+          </titreStruct>
+          <para id_syceron="1951842">M. Emmanuel Maquet</para>
+          <para id_syceron="1951849">M. Cédric O, secrétaire d’État chargé du numérique</para>
+          <para id_syceron="1951858">M. Emmanuel Maquet</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1951860">
+            <intitule>Création d’un barreau autoroutier dans la métropole de Lyon</intitule>
+          </titreStruct>
+          <para id_syceron="1951862">M. Thomas Rudigoz</para>
+          <para id_syceron="1951872">M. Cédric O, secrétaire d’État chargé du numérique</para>
+          <para id_syceron="1951877">M. Thomas Rudigoz</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1951879">
+            <intitule>Bien-être animal dans la filière porcine</intitule>
+          </titreStruct>
+          <para id_syceron="1951881">Mme Aude Luquet</para>
+          <para id_syceron="1951890">M. Cédric O, secrétaire d’État chargé du numérique</para>
+          <para id_syceron="1951896">Mme Aude Luquet</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1951898">
+            <intitule>Défrichement en Lozère</intitule>
+          </titreStruct>
+          <para id_syceron="1951900">M. Pierre Morel-À-L’Huissier</para>
+          <para id_syceron="1952333">M. Cédric O, secrétaire d’État</para>
+          <para id_syceron="1952341">M. Pierre Morel-À-L’Huissier</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1952342">
+            <intitule>Équipement des véhicules en hiver</intitule>
+          </titreStruct>
+          <para id_syceron="1952344">Mme Catherine Kamowski</para>
+          <para id_syceron="1952349">M. Laurent Nunez, secrétaire d’État auprès du ministre de l’intérieur</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1952355">
+            <intitule>Recueil des données biométriques dans la Manche</intitule>
+          </titreStruct>
+          <para id_syceron="1952357">M. Philippe Gosselin</para>
+          <para id_syceron="1952366">M. Laurent Nunez, secrétaire d’État</para>
+          <para id_syceron="1952372">M. Philippe Gosselin</para>
+          <sommaire3>
+            <titreStruct id_syceron="1952741">
+              <intitule>
+                <italique>Suspension et reprise de la séance</italique>
+              </intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1952745">
+            <intitule>Parcours judiciaire des victimes de violences conjugales</intitule>
+          </titreStruct>
+          <para id_syceron="1952747">Mme Cécile Untermaier</para>
+        </sommaire2>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du mardi 10 décembre 2019</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1520710" ordre_absolu_seance="1" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1951834" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Laetitia Saint-Paul<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1520711" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951835" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1520712" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1951836" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520714" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1951838" valeur="">
+      <orateurs/>
+      <texte>Questions orales sans débat</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520715" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951839" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle les questions orales sans débat.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520716" ordre_absolu_seance="7" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1951840" valeur="">
+      <orateurs/>
+      <texte>Frais bancaires</texte>
+      <interExtraction nom_orateur="M. Emmanuel Maquet" id_acteur="PA346054" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723510">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520717" ordre_absolu_seance="8" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951841" valeur=" 842" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Emmanuel Maquet, pour exposer sa question, n<exposant>o</exposant> 842, relative aux frais bancaires.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520718" ordre_absolu_seance="9" id_acteur="PA346054" id_mandat="PM723510" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1951842" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emmanuel Maquet</nom>
+              <id>346054</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici un an, les banques s’engageaient à geler les frais bancaires en 2019 et à plafonner à 25 euros par mois les frais d’incidents pour les clients les plus fragiles financièrement.<br/>Tandis que la durée de validité de cet engagement touche à sa fin, une enquête conjointe du magazine <italique>60</italique><italique> </italique><italique>m</italique><italique>illions de consommateurs</italique> et de l’Union nationale des associations familiales – UNAF – a révélé que de nombreux clients en difficulté n’en ont jamais profité. Déjà, les grilles tarifaires des principales banques prévoient une reprise généralisée de la hausse des frais.<br/>Le Gouvernement estime que leur plafonnement réglementaire ne constitue pas la solution la plus efficace, car les banques pourraient en compenser les effets en augmentant d’autres frais. Or c’est justement en pareil cas que les Français attendent des décisions politiques.<br/>Les frais bancaires présentent une forte diversité, et certains sont plus injustes que d’autres. Si tout le monde est logé à la même enseigne s’agissant des frais de tenue de compte et des frais de carte bleue, d’autres frais, tels que les agios et les frais de rejet de chèque, constituent une sanction supplémentaire infligée à ceux qui sont déjà en difficulté.<br/>Bien souvent, ces frais particulièrement punitifs sont imputés sans que les clients en aient conscience. L’enjeu est donc d’améliorer la prévention. Il serait normal que les banques préviennent leurs clients avant de satisfaire une demande susceptible de déclencher des pénalités, quitte à mettre en attente l’opération concernée.<br/>Monsieur le secrétaire d’État, ma question est la suivante : dans un contexte de baisse durable des taux d’intérêt, le Gouvernement prévoit-il une hausse non moins durable des frais bancaires ? Si tel est le cas, comment le Gouvernement compte-t-il les rendre plus simples, plus compréhensibles et surtout plus équitables ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O" qualite="secrétaire d'État chargé du numérique" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520724" ordre_absolu_seance="15" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951848" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé du numérique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520725" ordre_absolu_seance="16" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951849" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <id>764388</id>
+              <qualite>secrétaire d’État chargé du numérique</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Maquet, je vous remercie de votre question, qui me permet d’apporter certaines précisions au sujet des frais bancaires, en présentant notamment le bilan du plafonnement des frais d’incidents – annoncé au mois de décembre dernier par les établissements bancaires – pour les 3,4 millions de Français considérés comme fragiles.<br/>Au cours du premier semestre de cette année, l’Autorité de contrôle prudentiel et de résolution – ACPR – et l’Observatoire de l’inclusion bancaire – OIB – ont mené auprès des principaux établissements de la place des contrôles ayant permis de constater que le plafonnement des frais d’incidents a bien été appliqué par les banques. Ceux-ci se sont élevés, pour les personnes financièrement fragiles qui en paient, à 17 euros par mois en moyenne.<br/>Simultanément, 58 000 clients supplémentaires – soit 435 000 au total à la fin du mois de juin 2019 – ont bénéficié de l’offre spécifique et de son effet protecteur, avec des frais d’incidents s’élevant en moyenne à 8 euros par mois, soit un chiffre significativement inférieur au plafond de 20 euros par mois.<br/>En fin de compte, plus d’un million de personnes ont constaté un plafonnement de leurs frais bancaires depuis les engagements pris au mois de décembre 2018. Il me semble que nous devons nous réjouir de ce bilan, même s’il demeure insuffisant.<br/>Il ne doit pas occulter le fait que la mise en œuvre technique des engagements pris par les banques a parfois entraîné des frictions transitoires, s’agissant notamment de l’application automatique du plafonnement des frais d’incidents à certains clients et du remboursement de frais excédant le plafond prélevés lorsque les établissements bancaires travaillaient à la mise en œuvre de leurs engagements. Ces difficultés devraient être rapidement résorbées.<br/>Nous attendons également des établissements bancaires qu’ils poursuivent leurs efforts visant à renforcer la détection des clients en situation de fragilité financière. À cet égard, les travaux menés au sein de l’OIB nous semblent particulièrement importants.<br/>L’information sur les frais bancaires a été significativement renforcée au cours des dernières années. C’est pourquoi le Gouvernement a préféré mettre l’accent sur la limitation effective des frais d’incidents et le renforcement de la détection des situations de fragilité financière par les banques. La conjonction de ces actions permettra de soulager nos concitoyens les plus en difficulté.<br/>Enfin, je rappelle que les banques ont respecté l’autre engagement qu’elles ont pris auprès du Président de la République voici un an, relatif au gel des tarifs bancaires pour 2019. En tout état de cause, nous devons être particulièrement attentifs à la situation globale du secteur bancaire, dans le contexte de taux bas, voire négatifs, que nous connaissons. Pour l’heure, nous estimons que rien ne laisse présager une hausse généralisée des frais bancaires, qui ont été – contrairement aux frais induits par d’autres services – relativement contenus au cours des dernières années.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Emmanuel Maquet" id_acteur="PA346054" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723510">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520733" ordre_absolu_seance="24" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951857" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Emmanuel Maquet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520734" ordre_absolu_seance="25" id_acteur="PA346054" id_mandat="PM723510" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951858" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emmanuel Maquet</nom>
+              <id>346054</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, l’enquête menée par le magazine <italique>60</italique><italique> </italique><italique>millions de consommateurs</italique> et l’UNAF n’incite pas à partager votre optimisme. On y apprend que 78 % des clients interdits bancaires et surendettés n’ont bénéficié d’aucun plafonnement des frais d’incidents. Quant aux autres clients à faibles revenus, habitués aux incidents bancaires, 91 % d’entre eux ont vu leurs frais afférents excéder 25 euros par mois.<br/>À présent, la durée de validité de l’engagement pris l’an dernier touche à sa fin. Que fait-on ? Quand mettra-t-on de l’ordre dans la jungle des frais bancaires, que leur diversité rend incompréhensibles ?</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520736" ordre_absolu_seance="27" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1951860" valeur="">
+      <orateurs/>
+      <texte>Création d’un barreau autoroutier dans la métropole de Lyon</texte>
+      <interExtraction nom_orateur="M. Thomas Rudigoz" id_acteur="PA722292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723530">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520737" ordre_absolu_seance="28" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951861" valeur=" 832" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thomas Rudigoz, pour exposer sa question, n<exposant>o</exposant> 832, relative à la création d’un barreau autoroutier dans la métropole de Lyon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520738" ordre_absolu_seance="29" id_acteur="PA722292" id_mandat="PM723530" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1951862" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Rudigoz</nom>
+              <id>722292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma question est particulièrement d’actualité, en ce jour de grève et de bouchons automobiles monstrueux. Elle porte sur la circulation automobile au cœur de l’agglomération lyonnaise.<br/>Chaque jour, 113 000 véhicules empruntent les axes routiers traversant le cœur de notre ville de Lyon, en passant par le célèbre tunnel de Fourvière. Il faut en ajouter des dizaines de milliers d’autres qui empruntent les autres voies routières et autoroutières du cœur de l’agglomération lyonnaise.<br/>Il résulte de cette situation un accroissement du nombre de pics de pollution, comme cela est le cas dans de nombreuses grandes villes françaises. Il s’agit d’un véritable problème de santé publique pour les populations riveraines.<br/>Au demeurant, l’État en a conscience. Il y a trois ans exactement, au mois de décembre 2016, le gouvernement précédent a déclassé en voirie urbaine un tronçon de l’autoroute A6-A7 en vue de favoriser le contournement de notre agglomération par le trafic national et international.<br/>À présent, que fait-on ? À ce jour, aucune décision opérationnelle n’a été prise. Il faut, me semble-t-il, mener deux chantiers.<br/>Le premier consiste à introduire une tarification du trafic de transit. J’en ai défendu le principe dans l’hémicycle, lors de l’examen du projet de loi d’orientation des mobilités, ainsi qu’en commission des finances, dans le cadre de l’examen du projet de loi de finances pour 2020. Malheureusement, à ce jour, le Gouvernement n’a pas donné une suite favorable à ma proposition – mais je ne désespère pas de la voir acceptée d’ici la fin de la législature ! <italique>(Sourires.)</italique><br/>L’autre grand chantier – c’est l’objet de ma question – consiste à mener des travaux sur les infrastructures autoroutières, notamment sur le nœud autoroutier de Manissieux, dans le secteur de Saint-Priest, et sur le tronçon sud de l’A46 reliant l’A43 à l’A7, qu’il convient d’élargir de 2x2 voies à 2x3 voies, afin de mettre un terme à la thrombose complète du trafic que l’on y constate chaque jour.<br/>Pour ce faire, l’État et la société ASF – Autoroutes du sud de la France – devront mener un grand chantier autoroutier. Je sais que ce projet est suivi par les services de l’État. Par ailleurs, il faudra veiller à affecter la troisième voie aux transports collectifs et au covoiturage, comme le souhaite David Kimelfeld, président de la métropole de Lyon.<br/>Monsieur le secrétaire d’État, ma question est simple : quel est l’état d’avancement de la réflexion des services de l’État sur le grand chantier de l’A46 sud ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O" qualite="secrétaire d'État chargé du numérique" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520747" ordre_absolu_seance="38" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951871" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé du numérique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520748" ordre_absolu_seance="39" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951872" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <id>764388</id>
+              <qualite>secrétaire d’État chargé du numérique</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Rudigoz, vous appelez l’attention du Gouvernement sur le projet d’aménagement à 2x3 voies de l’A46 sud. Cet axe autoroutier, concédé à la société ASF, est une section libre de péage très fréquentée – le trafic moyen s’y élève à 65 000 véhicules par jour. Depuis plusieurs années, l’infrastructure est régulièrement congestionnée et présente une accidentologie en hausse, ce qui constitue un sujet de préoccupation pour les pouvoirs publics.<br/>Conscient des attentes locales,  l’État a demandé au concessionnaire, dans le cadre du plan de relance autoroutier, de produire un dossier synoptique relatif à l’aménagement à 2x3 voies de l’A46 sud et du nœud autoroutier de Manissieux. Le coût global de l’opération, qui doit encore être précisé, est estimé à environ 200 millions d’euros hors taxe, en valeur 2017.<br/>Avant d’engager des travaux, une concertation est nécessaire, conformément à la loi. Dans ce cadre, le Gouvernement a demandé au concessionnaire de saisir la Commission nationale du débat public – CNDP –, en vue de définir les modalités de concertation avec les habitants et les associations concernés.<br/>Cette phase de concertation aura lieu dès 2020 et constituera une étape importante dans la réalisation du projet, dont je vous confirme que le Gouvernement souhaite le mener à bien. M. Jean-Baptiste Djebbari, secrétaire d’État chargé des transports, rencontrera prochainement le préfet de région et ne manquera pas d’aborder avec lui ce sujet, important pour votre circonscription.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Thomas Rudigoz" id_acteur="PA722292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723530">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520752" ordre_absolu_seance="43" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951876" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thomas Rudigoz.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520753" ordre_absolu_seance="44" id_acteur="PA722292" id_mandat="PM723530" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951877" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thomas Rudigoz</nom>
+              <id>722292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, je vous remercie de ces bonnes nouvelles. La concertation est très importante pour les acteurs publics – collectivités territoriales et représentant de l’État dans la région – comme pour les populations concernées.<br/>Il s’agit d’une première étape importante. J’espère qu’elle sera rapidement suivie de décisions permettant de mener à bien les travaux, grâce auxquels nous soulagerons enfin le cœur de l’agglomération lyonnaise du trafic national et international.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520755" ordre_absolu_seance="46" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1951879" valeur="">
+      <orateurs/>
+      <texte>Bien-être animal dans la filière porcine</texte>
+      <interExtraction nom_orateur="Mme Aude Luquet" id_acteur="PA721530" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723302">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520756" ordre_absolu_seance="47" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951880" valeur=" 848" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aude Luquet, pour exposer sa question, n<exposant>o</exposant> 848, relative au bien-être animal dans la filière porcine.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520757" ordre_absolu_seance="48" id_acteur="PA721530" id_mandat="PM723302" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1951881" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aude Luquet</nom>
+              <id>721530</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>« On n’a pas deux cœurs, un pour les animaux et un pour les humains. On a un cœur ou on n’en a pas ». Ces mots de Lamartine ont une résonance accrue de nos jours, tandis que le respect de la condition animale s’impose de plus en plus parmi les exigences des consommateurs.<br/>Je ne serai pas de celles et de ceux qui dénoncent le simple fait de manger de la viande. Toutefois, on ne peut se désintéresser de la condition animale, car bien manger, c’est avant tout bien produire.<br/>Il importe de garantir le respect du bien-être animal dans toutes les filières. J’aimerais ici donner l’alerte au sujet de la filière porcine, sans la stigmatiser, mais en relevant sans détour des pratiques qui semblent choquantes et difficiles à justifier de nos jours.<br/>En 2018, 24 millions de cochons ont été abattus en France – dans le cadre de l’élevage intensif pour 95 % d’entre eux. Or qui dit élevage intensif dit bien souvent rentabilité, promiscuité et – malheureusement – souffrance des porcelets dès les premiers jours de leur vie.<br/>Citons par exemple la coupe de leurs testicules au scalpel, sans anesthésie et sans soin, pratiquée afin de prévenir l’odeur de verrat qui peut se dégager au moment de la cuisson de la viande, alors même que ce phénomène ne concerne que 3 % à 5 % des mâles. En France, 85 % des cochons mâles sont castrés. Pourtant, il existe des solutions alternatives fiables et économiquement viables, auxquelles recourent nos voisins européens.<br/>La castration des cochons n’est pas la seule source de souffrance. Citons notamment la caudectomie, qui vise à éviter que les cochons ne se mordillent mutuellement la queue, ainsi que la coupe et le meulage de leurs dents, le tout sans aucune prise en charge de la douleur.<br/>Citons enfin une pratique particulièrement cruelle, appelée « claquage », qui consiste à tuer les porcelets trop faibles en les projetant contre un mur. L’association Techniporc considère que cette technique est la plus efficace, tout en admettant qu’elle est « peu élégante ».<br/>Dans ce contexte, l’Union européenne fait pression sur les États membres pour tenter de mettre un terme à ces pratiques répandues au sein de la filière porcine. Monsieur le secrétaire d’État, quelle est la position du Gouvernement à ce sujet ? Comment les services du ministère de l’agriculture et de l’alimentation ambitionnent-ils de lutter contre la souffrance animale en renforçant le bien-être animal ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O" qualite="secrétaire d'État chargé du numérique" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520765" ordre_absolu_seance="56" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951889" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État chargé du numérique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520766" ordre_absolu_seance="57" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951890" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <id>764388</id>
+              <qualite>secrétaire d’État chargé du numérique</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame Luquet, votre question porte sur les conditions de traitement des animaux dans la filière porcine, et plus généralement sur la prise en compte de la cause animale. En règle générale, nous devons admettre que la façon dont nous traitons les animaux cessera d’être un sujet confiné à des cercles philosophiques, tels que celui animé par Élisabeth de Fontenay, pour devenir un sujet d’importance au sein de la société.<br/>Pour répondre précisément à votre question, le Gouvernement a pleinement conscience que certaines pratiques, en vigueur au sein des filières de production de la viande, ne sont pas acceptables et ne doivent pas perdurer. Au demeurant, elles sont de plus en plus contestées par les citoyens et par les associations de protection animale, mais aussi par les éleveurs eux-mêmes, qui sont les premiers garants du bien-être de leurs animaux, et qui sont souvent très soucieux de mettre au point des pratiques alternatives.<br/>Voici quelques semaines, M. Didier Guillaume, ministre de l’agriculture et de l’alimentation – qui vous prie de bien vouloir excuser son absence ce matin –, a annoncé plusieurs mesures, parmi lesquelles l’interdiction de la castration à vif des porcelets, qui entrera en vigueur dès la fin de l’année 2021.<br/>Nous comptons aller bien plus loin. C’est pourquoi M. le ministre de l’agriculture et de l’alimentation fera d’autres annonces au cours des semaines à venir, en vue d’assurer le bon traitement des animaux et l’amélioration des conditions d’élevage. Soyez assurés, mesdames, messieurs les députés, que le Gouvernement est très sensible à ce sujet.<br/>Outre l’action du Gouvernement, il faut également évoquer celle du consommateur, qui peut lui aussi contribuer à l’évolution des pratiques de la filière. Il a d’ores et déjà le choix d’acheter du porc bio, ou « Label rouge », issu d’animaux élevés dans des conditions supérieures de bien-être.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Aude Luquet" id_acteur="PA721530" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723302">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520771" ordre_absolu_seance="62" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1951895" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Aude Luquet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520772" ordre_absolu_seance="63" id_acteur="PA721530" id_mandat="PM723302" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1951896" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aude Luquet</nom>
+              <id>721530</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le secrétaire d’État, je vous remercie de votre réponse, ainsi que de votre présence dans l’hémicycle en lieu et place de M. le ministre de l’agriculture et de l’alimentation.<br/>Je ferai simplement observer que, s’il est vrai que nous devons agir à l’échelle de notre territoire, il faut également mener une politique cohérente à l’échelle européenne. Chez nos voisins européens, notamment en Allemagne, les producteurs portent un regard bien plus bienveillant que le nôtre sur les conditions de vie des animaux élevés dans le cadre d’une production intensive.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520774" ordre_absolu_seance="65" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1951898" valeur="">
+      <orateurs/>
+      <texte>Défrichement en Lozère</texte>
+      <interExtraction nom_orateur="M. Pierre Morel-À-L'Huissier" id_acteur="PA266788" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722914">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520775" ordre_absolu_seance="66" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1951899" valeur=" 854" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Morel-À-L’Huissier, pour exposer sa question, n<exposant>o</exposant> 854, relative au défrichement en Lozère.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1520776" ordre_absolu_seance="67" id_acteur="PA266788" id_mandat="PM722914" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1951900" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Morel-À-L’Huissier</nom>
+              <id>266788</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Rappelons, sans entrer dans les détails, que le département de la Lozère a subi au cours du siècle dernier un fort exode rural et une importante baisse de sa population active, notamment agricole. Il compte de nos jours 76 000 habitants, et présente une densité de quinze habitants au kilomètre carré, qui tombe à deux dans les Causses. Les éleveurs lozériens comptent parmi leurs préoccupations la possibilité de nourrir leur cheptel en toute saison.<br/>L’objectif est donc de tendre vers une autonomie fourragère, et la remise en valeur d’anciens terrains de culture, de pacages ou d’alpages envahis par une végétation spontanée peut à cet égard constituer une réponse.<br/>En vertu du premier alinéa de l’article L. 341-6 du code forestier, la compensation financière ou le reboisement, à la suite d’un défrichement, repose sur la règle du 1 pour 1 : pour chaque hectare de terrain défriché, il faut reboiser 1 hectare de terrain – ce qui est très difficile dans le département de la Lozère – ou verser une indemnité minimale de 4 000 euros. Ce montant est calculé sur la base du coût de plantation d’un hectare et non sur la valeur du bois récolté. Celui-ci est identique pour toute la France mais tous les terrains français le sont-ils ? On ne peut pas comparer 1 hectare de forêt des Landes avec 1 hectare de forêt en Lozère.<br/>Dans le département de la Lozère, de nombreuses forêts sont issues d’une végétation spontanée et le bois est vendu entre 1 000 à 1 500 euros par hectare, bien loin des 4 000 euros d’indemnité.<br/>Les services de l’État en Lozère ont proposé une expérimentation visant à intégrer dans le calcul de l’indemnité la valeur du boisement défriché, à laquelle serait appliqué un coefficient multiplicateur pour tenir compte de sa valeur environnementale. La Lozère se porte volontaire pour cette expérimentation. Êtes-vous disposé à accompagner cette initiative locale ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cédric O" qualite="secrétaire d'État" id_acteur="PA764388" id_nomination_oe="PM764392" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520822" ordre_absolu_seance="5" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1952332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520823" ordre_absolu_seance="6" id_acteur="PA764388" id_mandat="-1" id_nomination_oe="PM764392" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1952333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cédric O</nom>
+              <id>764388</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vous prie de bien vouloir excuser le ministre de l’agriculture et de l’alimentation qui ne peut pas être présent ce matin.<br/>Votre question porte sur le calcul de la compensation des défrichements. Aujourd’hui, le montant est calculé sur la base d’un coût de plantation. Vous proposez, à titre expérimental, de calculer la compensation en fonction de la valeur du bois récolté.<br/>Permettez-moi de revenir sur la situation actuelle : la compensation des défrichements répond à l’enjeu d’intérêt général qu’est la protection des forêts compte tenu des services économiques, climatiques, écologiques et sociaux qu’elle rend à la société. Aussi, la compensation vise à restaurer les fonctions supprimées par le défrichement, en prescrivant prioritairement des travaux d’amélioration des peuplements forestiers existants. Elle doit donc porter, au minimum, sur une surface équivalente à celle qui a été perdue.<br/>La compensation financière sous forme d’indemnité constitue une solution alternative dans le cas où les porteurs d’un projet de défrichement ne peuvent ou ne veulent pas compenser par des travaux en nature. Par souci d’équivalence, la compensation financière est calculée en fonction des coûts d’un boisement ou d’un reboisement d’une surface au moins équivalente, assortis d’un coefficient multiplicateur selon la valeur économique, climatique et écologique de la forêt objet du défrichement.<br/>Vous l’aurez compris, une compensation financière fondée uniquement sur le prix des bois récoltés ne permettrait pas de garantir une capacité suffisante de boisement ou reboisement, ni la compensation des services économiques, climatiques, écologiques et sociaux disparus avec le défrichement.<br/>C’est pourquoi il ne nous apparaît pas opportun de lancer une expérimentation en ce sens.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Morel-À-L'Huissier" id_acteur="PA266788" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722914">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520830" ordre_absolu_seance="79" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1952340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Morel-À-L’Huissier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520831" ordre_absolu_seance="80" id_acteur="PA266788" id_mandat="PM722914" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1952341" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Morel-À-L’Huissier</nom>
+              <id>266788</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Votre réponse est assez décevante. Venez en Lozère pour voir la réalité : la forêt a pris la place de terrains autrefois cultivés. Alors que la chambre d’agriculture cherche des terrains pour installer des jeunes exploitants, votre refus de l’expérimentation est bien regrettable pour le département.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520832" ordre_absolu_seance="81" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1952342" valeur="">
+      <orateurs/>
+      <texte>Équipement des véhicules en hiver</texte>
+      <interExtraction nom_orateur="Mme Catherine Kamowski" id_acteur="PA719994" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722828">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520833" ordre_absolu_seance="82" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952343" valeur=" 837" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Catherine Kamowski, pour exposer sa question, n<exposant>o</exposant> 837, relative à l’équipement des véhicules en hiver.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520834" ordre_absolu_seance="83" id_acteur="PA719994" id_mandat="PM722828" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1952344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Catherine Kamowski</nom>
+              <id>719994</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En ce début de période hivernale, je souhaite vous interroger sur l’application de l’obligation d’équipement des véhicules. J’associe à cette question l’ensemble de mes collègues élus de la montagne.<br/>L’article 27 de la loi du 28 décembre 2016 de modernisation, de développement et de protection des territoires de montagne donne aux préfets de massif le pouvoir de déterminer les obligations d’équipement des véhicules en période hivernale. Les modalités d’application sont renvoyées à un décret, pris après consultation du Conseil national de la montagne. Un courrier adressé au printemps à son président, notre collègue Joël Giraud, présente une feuille de route qui aurait dû permettre, malgré le retard pris, une application dès cet hiver.<br/>Or cela ne semble pas être le cas. L’hiver débute certes dans quelques jours, mais nos montagnes ont déjà connu leurs premières chutes de neige – tant mieux pour la montagne et les stations. Dans les régions de montagne, les équipements hivernaux sont une nécessité tant pour la sécurité des usagers que pour la fluidité d’un trafic automobile qui est parfois très dense sur des routes, notamment de station, que les conditions climatiques rendent parfois dangereuses, faute d’équipements appropriés.<br/>Je n’ignore pas la complexité des décisions à prendre ni la diversité des véhicules concernés – l’un expliquant peut-être l’autre. Néanmoins, cette mesure est très attendue par les habitants et les acteurs de nos territoires. Près de trois ans après l’affirmation, dans la loi, du principe d’un équipement hivernal pour les véhicules automobiles, elle doit enfin entrer en vigueur.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Nunez" qualite="secrétaire d'État auprès du ministre de l'intérieur" id_acteur="PA759834" id_nomination_oe="PM759842" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520838" ordre_absolu_seance="87" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1952348" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État auprès du ministre de l’intérieur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520839" ordre_absolu_seance="88" id_acteur="PA759834" id_mandat="-1" id_nomination_oe="PM759842" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1952349" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Nunez</nom>
+              <id>759834</id>
+              <qualite>secrétaire d’État auprès du ministre de l’intérieur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La loi du 28 décembre 2016 de modernisation, de développement et de protection des territoires de montagne a créé l’article L. 314-1 du code de la route qui prévoit l’obligation d’équipement des véhicules en période hivernale dans les départements montagneux.<br/>Un décret pris en Conseil d’État doit fixer les modalités d’application de cette disposition, et notamment les dispositifs inamovibles et amovibles antidérapants requis, dans le respect du règlement n<exposant>o</exposant> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009.<br/>Je suis convaincu, madame la députée, de l’utilité de cette mesure pour la sécurité routière mais aussi pour la fluidité du trafic en zone de montagne, en période hivernale. C’est pourquoi j’ai demandé aux services du ministère de l’intérieur de se mobiliser pour la publication de ce décret.<br/>Les prescriptions techniques que le décret doit définir sont cependant complexes et nécessitent un important travail de consultation, interne à l’administration mais aussi externe. Il en est de même de la définition des zones dans lesquelles les dispositions trouveraient à s’appliquer.<br/>En tout état de cause, l’ensemble de ces travaux devraient être achevés dans des délais compatibles avec une entrée en vigueur des nouvelles dispositions pour la prochaine saison hivernale 2020-2021.<br/>Soyez assurée, madame la députée, de l’engagement et de la mobilisation des services pour une publication du décret dès que possible.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520845" ordre_absolu_seance="94" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1952355" valeur="">
+      <orateurs/>
+      <texte>Recueil des données biométriques dans la Manche</texte>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520846" ordre_absolu_seance="95" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952356" valeur=" 844" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin, pour exposer sa question, n<exposant>o</exposant> 844, relative au recueil des données biométriques dans la Manche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520847" ordre_absolu_seance="96" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1952357" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite appeler votre attention sur la situation – en particulier dans la Manche – des dispositifs de recueil des données biométriques nécessaires à l’établissement des cartes nationales d’identité et des passeports.<br/>Dans le cadre du plan « préfectures nouvelle génération », les modalités de délivrance des titres réglementaires – la carte nationale d’identité, le passeport, le permis de conduire et le certificat d’immatriculation, anciennement carte grise –, ont été dématérialisées. Cette évolution n’appelle pas de commentaire particulier, encore faut-il que l’intendance suive. Vivre avec son temps, c’est bien mais si cela se traduit par un recul pour les usagers, cela perd tout intérêt.<br/>Depuis mars 2017, l’obtention ou le renouvellement d’un passeport requiert une prédemande sur internet. Ensuite, la demande doit être déposée auprès d’une mairie équipée d’un dispositif de recueil de données biométriques, pour les empreintes et les photos – et c’est là que cela se gâte.<br/>Compte tenu des investissements importants qu’il exige, toutes les mairies n’ont pu être équipées de ce dispositif de recueil ; les préfectures ont, en toute logique, fait des choix.<br/>Le département de la Manche, presqu’île de 150 kilomètres de long, compte 446 communes – dont de nombreuses communes nouvelles puisque les communes « historiques » était au nombre de 601 – et 500 000 habitants – ce n’est pas rien. Or seules 23 mairies sont équipées d’un dispositif de recueil des empreintes digitales, soit à peine 5 % du total. Dans ma circonscription, qui compte 120 000 habitants, elles ne sont que quatre.<br/>Cette réforme administrative, initiée par les pouvoirs publics, aboutit à des délais de délivrance particulièrement excessifs. La dématérialisation devrait, si ce n’est accélérer le processus, ne pas le ralentir. Or, pour les passeports, la situation dans la Manche est pire qu’avant : plus de deux mois de délai !<br/>La chaîne est totalement « embolisée », qu’il s’agisse du niveau local pour le dépôt des demandes ou du niveau national pour la fabrication. C’est inadmissible tant au regard de la qualité du service due à la population que des répercussions pour les administrés, qui anticipent pourtant les difficultés.  <br/>Quelles mesures le Gouvernement compte-t-il prendre pour améliorer la chaîne de production ? S’agissant des réseaux locaux, il serait souhaitable que chaque ancien chef-lieu de canton soit équipé pour assurer un maillage du territoire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Nunez" qualite="secrétaire d'État" id_acteur="PA759834" id_nomination_oe="PM759842" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520855" ordre_absolu_seance="104" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1952365" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520856" ordre_absolu_seance="105" id_acteur="PA759834" id_mandat="-1" id_nomination_oe="PM759842" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1952366" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Nunez</nom>
+              <id>759834</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Dans un récent rapport, la Cour des comptes a jugé que le nombre total de dispositifs de recueil était adapté pour absorber les flux de demandes, d’autant que, pour répondre aux engagements pris auprès de l’Association des maires de France, 528 stations supplémentaires ont été déployées depuis trois ans, qui s’ajoutent aux 3 526 déjà utilisées pour le dépôt des demandes de passeports. Nous avons décidé par ailleurs du déploiement de cent dispositifs de recueil supplémentaires en 2019 et 2020. Dans ce cadre, un dispositif supplémentaire a d’ores et déjà été attribué au département de la Manche.<br/>Le taux moyen national d’utilisation des dispositifs de recueil s’améliore. Le taux d’utilisation des vingt-quatre dispositifs implantés dans les vingt-trois communes de la Manche déjà équipées est en moyenne de 56 % et le délai moyen de rendez-vous, de dix-huit jours, légèrement en deçà du délai moyen national de dix-neuf jours et demi. Ce taux peut encore s’accroître pour offrir un meilleur service à l’usager sans augmenter le nombre total de dispositifs.<br/>Les collectivités non équipées peuvent par ailleurs poursuivre leur mission en matière de délivrance de titres d’identité par l’usage ponctuel des dispositifs de recueil mobiles pouvant être mis à leur disposition par toutes les préfectures.<br/>Les centres d’expertise et de ressource titres connaissent une forte progression de la demande de titres d’identité, raison pour laquelle de nouveaux renforts de vacataires leur ont été alloués à compter de septembre 2019, comme j’ai l’occasion de l’indiquer récemment en réponse à une question au Gouvernement. À ce jour, le délai moyen de mise à disposition des titres – comprenant l’instruction, la fabrication et le transport – est de vingt et un jours, dont douze pour l’instruction de la demande par les services de l’État.<br/>Toutes ces mesures traduisent l’engagement de l’État à garantir un service de proximité et de qualité pour tous les usagers sur l’ensemble du territoire national et à maintenir sa vigilance sur ce point tout au long de l’application de la réforme.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520861" ordre_absolu_seance="110" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1952371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1520862" ordre_absolu_seance="111" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_9" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1952372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne conteste pas les chiffres à l’échelon national. Vous mentionnez un délai moyen de vingt et un jours – tant mieux pour les départements et les personnes qui en bénéficient – mais dans la Manche, celui-ci est de plus de deux mois. C’est inadmissible. Le délai d’attente pour un rendez-vous dépasse lui aussi largement les dix-huit jours.<br/>Vous ne pouvez pas résumer à des statistiques la situation sur le terrain. Vous ne répondez pas aux questions pratiques, d’une part, sur l’embolie du processus de fabrication des passeports, ni, d’autre part, sur les délais d’attente insupportables dans le département de la Manche. Je le regrette et j’invite le ministère de l’intérieur à amplifier l’effort pour se doter des moyens nécessaires.    </texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520703" ordre_absolu_seance="1" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="1952741" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520704" ordre_absolu_seance="2" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952742" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520705" ordre_absolu_seance="3" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1952743" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à neuf heures trente, est reprise à neuf heures quarante-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520706" ordre_absolu_seance="4" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952744" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520707" ordre_absolu_seance="5" code_grammaire="QOSD_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1952745" valeur="">
+      <orateurs/>
+      <texte>Parcours judiciaire des victimes de violences conjugales</texte>
+      <interExtraction nom_orateur="Mme Cécile Untermaier" id_acteur="PA608695" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723564">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520708" ordre_absolu_seance="6" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="PM767300" code_grammaire="QOSD_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952746" valeur=" 851" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Cécile Untermaier, pour exposer sa question, n<exposant>o</exposant> 851, relative au parcours judiciaire des victimes de violences conjugales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1520709" ordre_absolu_seance="7" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="QOSD_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1952747" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais évoquer en particulier la prise en charge des frais de justice lorsque l’auteur est insolvable. J’ai rencontré, dans ma circonscription, la famille d’une victime décédée sous les coups de son conjoint. J’ai ainsi pu prendre la mesure du parcours judiciaire qui, pour la famille de la victime, s’apparente à une sorte de double peine. Malgré les conventions d’honoraires, elle doit consacrer des sommes importantes à la procédure, surtout l’auteur fait appel, bénéficiant pour cela de l’aide juridictionnelle.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="0" code_grammaire="FUSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1952092" valeur="">
+        <orateurs/>
+        <texte>------------------Cette partie de la séance est en cours de finalisation---------------------------------------------</texte>
+      </paragraphe>
+    </point>
+  </contenu>
+</compteRendu>
