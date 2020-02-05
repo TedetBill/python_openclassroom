@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N088</uid>
+  <metadonnees>
+    <dateSeance>20191128150000000</dateSeance>
+    <dateSeanceJour>jeudi 28 novembre 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>88</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20190088</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 29 Nov 2019 11:22:11 GMT</horaireGmt>
+    <heureGeneration>2019-11-29T12:22:11.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1945773">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1945814">
+          <intitule>Communication de M. le président</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1945780">
+          <intitule>Points d’accueil pour soins immédiats <italique>(suite)</italique></intitule>
+        </titreStruct>
+        <para id_syceron="1945781"/>
+        <sommaire2>
+          <titreStruct id_syceron="1945783">
+            <intitule>Discussion générale <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <para id_syceron="1945785">Mme Nadia Essayan</para>
+          <para id_syceron="1945793">M. Paul Christophe</para>
+          <para id_syceron="1945804">M. Michel Castellani</para>
+          <para id_syceron="1945637">M. Jean-Hugues Ratenon</para>
+          <para id_syceron="1945647">M. Stéphane Peu</para>
+          <para id_syceron="1945659">Mme Christine Cloarec-Le Nabour</para>
+          <para id_syceron="1945672">M. Ian Boucard</para>
+          <para id_syceron="1945833">M. Cyrille Isaac-Sibille, rapporteur de la commission des affaires sociales</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1945837">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="1945839">
+              <intitule>Article 1<exposant>er</exposant></intitule>
+            </titreStruct>
+            <para id_syceron="1945841">Mme Géraldine Bannier</para>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="1945844"> 8</lienAdt>, <lienAdt id_syceron="1945847"> 9</lienAdt></para>
+            <para id_syceron="1945856">M. Adrien Taquet, secrétaire d’État auprès de la ministre des solidarités et de la santé</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1945869">
+              <intitule>Article 2</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="1945870"> 10</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1945563">
+            <intitule>Explications de vote</intitule>
+          </titreStruct>
+          <para id_syceron="1945565">M. Ian Boucard</para>
+          <para id_syceron="1945567">M. Michel Castellani</para>
+          <para id_syceron="1945569">M. Paul Christophe</para>
+          <para id_syceron="1945571">M. Patrick Mignola</para>
+          <para id_syceron="1945576">Mme Christine Cloarec-Le Nabour</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1945577">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+          <para id_syceron="1945583">M. Cyrille Isaac-Sibille, rapporteur</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="1945588">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du jeudi 28 novembre 2019</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1516330" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1945773" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1516331" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945774" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1516332" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945775" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1516332" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1945814" valeur="">
+      <orateurs/>
+      <texte>Communication de M. le président</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1516332" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945815" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je vous informe que le président de l’Assemblée a décidé qu’en raison de l’hommage national aux treize militaires français morts au Mali, qui sera rendu lundi 2 décembre à quinze heures aux Invalides, la séance publique débutera ce jour-là à dix-huit heures.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516337" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1945780" valeur=" (n[[o]] 2428)">
+      <orateurs/>
+      <texte>Points d’accueil pour soins immédiats <italique>(suite)</italique></texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516338" ordre_absolu_seance="9" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1945781" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’une proposition de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516339" ordre_absolu_seance="10" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945782" valeur=" (n[[os]] 2226, 2428)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la proposition de loi de M. Cyrille Isaac-Sibille et plusieurs de ses collègues, visant à répondre à la demande des patients par la création de points d’accueil pour soins immédiats (n<exposant>os</exposant> 2226, 2428).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516340" ordre_absolu_seance="11" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1945783" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale <italique>(suite)</italique></texte>
+      <interExtraction nom_orateur="Mme Nadia Essayan" id_acteur="PA719044" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722542">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516341" ordre_absolu_seance="12" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945784" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce matin, l’Assemblée a commencé d’entendre les orateurs inscrits dans la discussion générale.<br/>La parole est à Mme Nadia Essayan.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516342" ordre_absolu_seance="13" id_acteur="PA719044" id_mandat="PM722542" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1945785" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nadia Essayan</nom>
+              <id>719044</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi de notre collègue Cyrille Isaac-Sibille vise humblement à améliorer la prise en charge des soins non programmés. Notre système de santé est aujourd’hui confronté à des enjeux de transformation et de modernisation très importants mais il doit, dans le même temps, faire face à de nouvelles exigences de la part des patients. Ceux-ci sont en effet demandeurs d’une réponse rapide en matière de diagnostic et de prise en charge pour des besoins de santé simples mais immédiats. Or le système de santé n’est pas en mesure de répondre de manière suffisamment claire et efficace à cette demande récurrente et croissante. Dès lors, les services d’urgences accueillent de plus en plus de monde : plus de 21 millions de passages en 2017 contre 10 millions en 1996. Ils assurent ainsi un volume considérable de soins non programmés qui ne devraient pas relever de leur champ d’action et c’est dans les territoires touchés par la désertification médicale – dont le Cher où se trouve ma circonscription – qu’ils subissent le plus ce phénomène.<br/>Pourtant les outils existent – ressources humaines, structures d’accueil et techniques, et ainsi de suite. Il ne s’agit donc pas d’une fatalité mais de l’absence d’un mécanisme de coordination et d’organisation. C’est là tout l’objet du texte qui, en effet, vise à s’appuyer sur la médecine générale de ville – pilier essentiel – pour répondre à la demande de soins immédiats non programmés. Le rapporteur l’a rappelé en commission : de nombreuses mesures ont déjà été prises pour mobiliser la médecine de ville mais les chiffres précédemment évoqués montrent que cela n’a pas vraiment été un succès.<br/>Reste que la loi relative à l’organisation et à la transformation du système de santé, promulguée en juillet dernier, a permis de se saisir du problème en développant plusieurs outils de coordination de la médecine de ville par le biais des communautés professionnelles territoriales de santé – CPTS – et des projets territoriaux de santé – PTS. C’est ce levier que le rapporteur a actionné dans la nouvelle rédaction de l’article 1<exposant>e</exposant><exposant>r</exposant>. Celui-ci vise à ce que l’Agence régionale de santé – ARS – labellise des structures existantes, lesquelles disposent de plateaux techniques d’imagerie et de biologie, ou bien y donnent accès, et au sein desquelles des médecins généralistes s’organiseraient pour assurer des soins qui ne nécessitent pas un passage aux urgences.<br/>Ce dispositif est donc de bon sens puisqu’il apportera le liant nécessaire entre l’ensemble des acteurs et les outils existants. En outre, il s’inscrit pleinement dans la stratégie nationale « Ma santé 2022 » puisqu’il utilisera à terme le vecteur des PTS et des CPTS dont la montée en puissance est progressive. Il garantit par ailleurs un service médical complet grâce à un cahier des charges arrêté par le ministère des solidarités et de la santé, qui imposera un plateau technique minimal, condition sine qua non de la labellisation par l’ARS. Qui plus est, nous ne pouvons que nous satisfaire de l’obligation du recours au tiers payant et de l’interdiction du dépassement d’honoraires par les points d’accueil pour soins immédiats, les PASI. Cela répond à notre ambition d’un accès aux soins juste et égal pour tous.<br/>La présente proposition de loi constitue donc une avancée pertinente favorisant la prise en charge des soins non programmés par la médecine de ville, laquelle doit être considérée comme le pivot de la nouvelle organisation de notre système de santé. Toutefois, elle repose sur des dispositifs adoptés très récemment – dont l’application ne fait que commencer pour les CPTS, et qui seront plus longs à établir pour les PTS. Dès lors, l’article 1<exposant>er</exposant> précise que la création et le fonctionnement des PASI seront prévus dans les PTS ou les projets de santé des CPTS et que, dans l’attente de leur constitution, le directeur général de l’ARS pourra prendre l’initiative de labelliser cette structure.<br/>Cette disposition nous apparaît essentielle pour que cette structure soit opérationnelle le plus vite possible. C’est pourquoi, parallèlement au rapporteur, nous présenterons un amendement visant à la rétablir, puisque la commission l’a supprimée, tout en prenant en compte certaines remarques et inquiétudes. Nous insistons en effet sur le fait que l’objectif des structures PASI est bel et bien de s’organiser autour de CPTS, même après leur labellisation par le directeur général de l’ARS.<br/>Monsieur le rapporteur, il va sans dire que le groupe du Mouvement démocrate et apparentés votera votre proposition de loi avec enthousiasme. Nous profitons de cette occasion pour saluer votre investissement dans les nombreuses questions de santé qui jalonnent l’ordre du jour de l’Assemblée depuis le début de la législature. <italique>(Applaudissements sur les bancs du groupe MODEM et sur de nombreux bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Christophe" id_acteur="PA642868" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722992">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516349" ordre_absolu_seance="20" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945792" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Christophe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516350" ordre_absolu_seance="21" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945793" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi présentée par nos collègues du groupe MODEM, à l’initiative de Cyrille Isaac-Sibille, que nous examinons est fondée sur une intuition : celle d’une mutation des comportements de nos concitoyens qui, de plus en plus, demandent une réponse rapide et concentrée dans un même lieu à leurs besoins en matière de santé. Il est vrai que nous pourrions déplorer cette société du « tout, tout de suite, tout le temps », consommatrice plutôt qu’actrice raisonnée concernant l’accès à la santé. Cela passe par une meilleure éducation à la santé mais tel n’est pas l’objet du présent débat.<br/>Je salue en conséquence la proposition du rapporteur, dont je crois savoir qu’elle est issue de son expérience professionnelle et de ses échanges avec des professionnels de santé. Il s’agit d’une initiative pragmatique destinée à simplifier la vie des patients. Elle vise à créer un nouveau label, celui de point d’accueil pour soins immédiats, au sein de la médecine de ville. Le dispositif a d’ailleurs été amélioré par le rapporteur lors de l’examen en commission.<br/>Dans la proposition de loi initiale, en effet, les PASI étaient envisagés comme une partie intégrante du service public hospitalier, ce qui pouvait être source de confusion, notamment en ce qui concerne l’articulation de la nouvelle structure avec la régulation des urgences. On pouvait en effet craindre que ne soit créé un nouvel échelon, ajoutant de la complexité, au risque d’une perte de chance pour le patient avant sa prise en charge par les urgences. Or le nouveau dispositif nous paraît éviter cet écueil. Il permettra d’apporter davantage de visibilité aux structures d’accueil en médecine de ville réalisant des soins non programmés et disposant d’un plateau technique léger.<br/>Nous regrettons d’ailleurs que cette proposition de loi ait été quelque peu vidée de sa portée par la majorité la semaine dernière en commission.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516354" ordre_absolu_seance="25" id_acteur="PA642847" id_mandat="PM722954" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945797" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thibault Bazin</nom>
+              <id>642847</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En tout cas la majorité n’est plus là en séance…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516355" ordre_absolu_seance="26" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1945798" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La mise en place des PASI a en effet été subordonnée à la création des projets territoriaux de santé,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516356" ordre_absolu_seance="27" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945799" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien dommage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516357" ordre_absolu_seance="28" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1945800" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…dont le principe vient seulement d’être entériné par la loi santé. Comme il est à craindre qu’aucun ne soit effectif avant plusieurs années, ce qui reviendrait à tuer dans l’œuf la proposition du rapporteur.<br/>Nous le regrettons. Cette initiative n’est pas la révolution copernicienne de la médecine et je crois que le rapporteur en convient tout à fait, mais un simple moyen supplémentaire mis à disposition des acteurs. Pourquoi se priver d’un outil qui n’est rien d’autre qu’une faculté ? Faisons confiance aux acteurs locaux pour s’en emparer s’ils le jugent nécessaire et adapté à la réalité de leur territoire.<br/>Les députés du groupe UDI, Agir et indépendants soutiendront, en ce sens, la solution de compromis proposée par le rapporteur. Elle permettrait à l’ARS de labelliser une structure existante sous la forme d’un PASI. Cette structure aurait ensuite vocation à intégrer le projet de santé d’une CPTS. Notre groupe est convaincu que tous les leviers d’amélioration de l’accès aux soins de nos concitoyens doivent être expérimentés. Aussi, monsieur le rapporteur, nous soutiendrons donc cette initiative pragmatique de nos collègues du groupe MODEM. <italique>(M.</italique><italique> </italique><italique>Cyrille Isaac-Sibille, rapporteur de la commission des affaires sociales, applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516360" ordre_absolu_seance="31" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945803" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516361" ordre_absolu_seance="32" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945804" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’avenir de l’hôpital public a largement animé nos débats ces dernières semaines avec, en toile de fond, un projet de loi de financement de la sécurité sociale encore insuffisant face aux enjeux immenses auxquels est confronté notre système de santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516362" ordre_absolu_seance="33" id_acteur="PA642847" id_mandat="PM722954" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945805" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thibault Bazin</nom>
+              <id>642847</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est clair !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1516363" ordre_absolu_seance="34" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1945806" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les mobilisations de ces derniers mois ont confirmé le constat que nous faisons depuis plusieurs années : celui d’urgences saturées et de services qui peinent à remplir leur mission initiale. Presque toutes les catégories de personnels hospitaliers – médecins, infirmiers ou encore internes – sont unis pour nous alerter sur leurs conditions de travail, sur le manque de moyens, sur leur épuisement et sur les risques que cela fait ou ferait courir aux patients. La situation est devenue plus que critique. Elle a d’ailleurs obligé le Gouvernement à nous présenter en catastrophe un plan pour l’hôpital public qui, s’il devrait permettre de soulager un peu nos hôpitaux, ne réglera malheureusement pas la crise. Voilà le contexte dans lequel nous examinons cette proposition de loi de notre collègue Cyrille Isaac-Sibille.<br/>Elle met en évidence un aspect essentiel de la crise des urgences et, plus largement, de la désertification médicale : celui du temps médical qui doit être repensé et réorganisé. Il doit l’être en matière de proximité physique et géographique, c’est vrai – l’inégale répartition de l’offre médicale porte atteinte à l’accès aux soins partout sur le territoire –, mais il doit l’être également concernant les délais d’attente – il faut aujourd’hui plusieurs mois pour obtenir un rendez-vous chez un cardiologue ou chez un ophtalmologiste, sans parler des praticiens qui refusent de nouveaux patients. C’est en effet à cause de ces délais d’attente toujours plus longs que les personnes renoncent à se soigner ou vont aux urgences pour avoir une réponse immédiate à leurs problèmes de santé.<br/>C’est pourquoi nous saluons la logique de gradation de soins sous-jacente à la proposition de loi. La stratégie gouvernementale « Ma santé 2022 » participe de cette logique, en faisant de la coordination des acteurs autour d’un projet territorial de santé le principe de base de notre système de soins. Nous y étions d’ailleurs favorables tout en estimant que nous pouvions décliner plus encore ce principe. Or c’est ce qui est proposé ici avec la labellisation de points d’accueil pour soins immédiats. La création de ces PASI permettrait, d’une part, la mise à disposition de plateaux techniques simples pour une prise en charge immédiate du patient et, d’autre part, l’identification plus aisée par les patients – alors que nous le savons, le choix des urgences peut être celui de la facilité face à l’organisation parfois complexe du système de santé dans les territoires.<br/>La proposition de loi ouvre donc une piste intéressante, bien que nous ayons conscience qu’elle ne constitue qu’une infime partie de la réponse au problème de l’accès aux soins. C’est la raison pour laquelle le groupe Libertés et Territoires l’a soutenue dès le début de nos travaux, malgré quelques inquiétudes concernant le financement de ces structures et leur attractivité pour les médecins.<br/>Malheureusement, la majorité a fait le choix en commission de modifier la proposition initiale en en limitant considérablement la portée. Nous le déplorons. L’amendement de réécriture défendu par le rapporteur allait pourtant dans le bon sens, et même dans le sens du Gouvernement et de la majorité puisqu’il l’inscrivait dans le cadre de l’exercice coordonné. Le dispositif de labellisation par le directeur de l’ARS introduisait en outre de la souplesse. Or, conditionner la labellisation des points d’accueil à la présence d’un projet territorial de santé et à une communauté professionnelle territoriale de santé revient à annihiler considérablement la portée de ce dispositif.<br/>Nous ne sommes pas défavorables aux CPTS, bien au contraire, nous les encourageons, mais leur installation et leur montée en puissance prend du temps. On l’a dit, on compte 400 CPTS ou projets de CPTS sur le territoire, sur les 1 000 communautés attendues. Le rapporteur l’a très justement souligné : il faudra deux à trois ans pour une montée en puissance des CPTS et cinq années pour que les PTS voient le jour.<br/>Si nous adoptons la proposition de loi telle que modifiée par la majorité en commission, nous nous priverons d’un outil souple, efficace et mobilisable immédiatement pour répondre à l’urgence de la désertification médicale. Notre groupe regrette vivement un tel affaiblissement de cette proposition. C’est pourquoi nous soutiendrons l’amendement du rapporteur, qui a pour objet la labellisation immédiate des points d’accueil tout en leur donnant pour objectif de s’organiser autour de CPTS, même a posteriori. C’est un bon équilibre et un nouveau pas pour améliorer l’accès aux soins partout sur le territoire. <italique>(Applaudissements sur les bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Hugues Ratenon" id_acteur="PA721062" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723158">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516291" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945636" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Hugues Ratenon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516292" ordre_absolu_seance="2" id_acteur="PA721062" id_mandat="PM723158" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945637" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Hugues Ratenon</nom>
+              <id>721062</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous débattons à nouveau de la santé alors que depuis des mois, les services hospitaliers, en particulier ceux des urgences, sont en grève pour dénoncer le manque criant de moyens humains et financiers. Je tiens d’ailleurs à adresser un salut chaleureux aux grévistes du milieu de la santé, à La Réunion et partout en France, que j’aurai plaisir à croiser durant la journée de grève du 5 décembre.<br/>Voilà huit mois que le Gouvernement feint d’écouter et apporte des solutions bancales et insuffisantes. Cette nouvelle proposition de loi a pour objectif de remédier à l’engorgement des services d’urgences, et pour cause : selon la direction de la recherche, des études, de l’évaluation et des statistiques – DREES –, le nombre de passages aux urgences a augmenté de 42 % entre 2002 et 2015 pour atteindre quelque 20 millions par an. Or la Cour des comptes estime qu’il y aurait eu 3,6 millions de passages inutiles en 2017. Nous pensons quant à nous qu’il est temps de remettre les choses dans l’ordre : ces passages « inutiles » sont plutôt inadaptés car liés à des soins qui devraient être délivrés par un médecin généraliste de ville. Chacun connaît la pénurie de médecins et de services de garde qui est l’un des facteurs d’engorgement des urgences.<br/>Ne nous voilons cependant pas la face : les services d’urgence souffrent aussi et surtout de sous-effectifs chroniques. Il en résulte les situations que l’on connaît : des patients qui attendent pendant six, huit ou dix heures pour des soins, des malades qui meurent sur des brancards et un personnel hospitalier à bout de souffle – burn-out et suicides sont devenus monnaie courante dans le milieu hospitalier français. Les soignants sont malades d’un désinvestissement croissant ; ils sont malades parce qu’ils essaient de tenir à bout de bras un système qui s’écroule par la faute des politiques libérales qu’on lui impose.<br/>La proposition de loi que nous examinons aujourd’hui vise à créer des PASI destinés à soigner des patients souffrant de pathologies simples qui ne nécessitent pas un passage aux urgences. Elle ne fait en réalité qu’entériner la situation : constatant le manque de moyens, on crée une structure annexe, mais elle ne suffira pas.<br/>Selon les membres de La France insoumise, ce texte ne sera guère plus qu’une trop fragile rustine. Pour protéger la santé de la population, il faut surtout procéder à un recrutement massif de 60 000 professionnels de santé – telle est notre estimation. À ces fins, nous proposons notamment de créer un corps de médecins fonctionnaires rémunérés durant leurs études, pour pallier la pénurie mais aussi la désertification médicale. Autre proposition : la suppression impérative de l’Objectif national de dépenses d’assurance maladie – l’ONDAM – qui ne fait que contraindre les dépenses de santé alors que l’on devrait simplement soigner dès que nécessaire, sans se soucier de considérations comptables. Enfin, il faut évidemment supprimer la tarification à l’acte, qui impose une logique de productivité dans les services de soins dont l’objectif, au contraire, devrait consister à garantir l’efficacité des soins et l’humanité due aux malades.<br/>Mes chers collègues, si cela n’est pas fait, notre système de santé s’effondrera totalement. Des vies sont en jeu ; il faut éradiquer la souffrance. Alors osons ! En attendant, vous comprendrez que votre proposition de loi nous laisse pour le moins sceptiques, même si nous saluons la recherche de solutions.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516301" ordre_absolu_seance="8" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945646" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516302" ordre_absolu_seance="9" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945647" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À peine déposée, déjà réécrite : la proposition de loi du groupe MODEM relative à la création de PASI, que nous examinons aujourd’hui, a connu des changements d’ampleur au stade de la commission. En raison d’un amendement du rapporteur procédant à une nouvelle rédaction du dispositif, nous nous prononçons sur une version différente de la proposition de loi d’origine.<br/>Ce texte prévoyait initialement de permettre, après autorisation des ARS, la création de PASI au sein des établissements de santé afin de délivrer des soins ne relevant pas de la médecine d’urgence. Il s’agissait donc de créer un accès parallèle aux urgences, dont le fonctionnement serait assuré par des médecins généralistes.<br/>En commission, le texte a été révisé pour inclure ces points d’accueil dans les CPTS et les PTS, des dispositifs qui sont à la main des médecins libéraux et dont nous doutons fortement de l’efficacité. Sous cette réserve, ces points d’accueil pourraient alors faire l’objet d’une labellisation par les ARS pour une durée de cinq ans.<br/>Si la première version de ce texte nous paraissait hasardeuse à plusieurs titres, la version réécrite nous semble alambiquée et n’apporte aucune réponse nouvelle en matière d’accès aux soins.<br/>Elle est hasardeuse car elle part d’un diagnostic très discutable des difficultés que connaît notre système de santé. Alors que le nombre de passages aux urgences a explosé au cours des dernières années, en raison notamment de la désertification médicale, vous laissez entendre qu’un nombre important de passages injustifiés à l’hôpital, de l’ordre de 20 %, pourrait être pris en charge autrement. Or une étude parue en octobre 2019 met à mal le mythe des passages abusifs aux urgences, auxquelles il n’est fait un recours inapproprié que dans 6 % des cas. Ce texte passe surtout sous silence les causes profondes du recours massif aux urgences hospitalières : le vieillissement de la population d’une part et, de l’autre, l’augmentation des pathologies chroniques.<br/>Hasardeuse, votre proposition de loi l’est aussi car elle pourrait induire une réduction du périmètre d’intervention des services d’urgence et, par conséquent, justifier la diminution de leurs moyens au moment même où le personnel hospitalier se mobilise partout dans le pays pour sauver l’hôpital public. À cet égard, le plan annoncé par le Gouvernement la semaine dernière rate sa cible, et l’enveloppe de 300 millions d’euros fléchée en direction des hôpitaux en 2020 est largement insuffisante pour faire face aux besoins.<br/>Enfin, nous craignons que votre texte renforce la confusion entre le public et le privé puisque vous ouvrez la labellisation de PASI aux établissements privés autres que ceux participant au service public hospitalier. Selon cette logique, la prise en charge des assurés pourrait être réalisée par des cliniques commerciales qui y verraient une occasion supplémentaire de disposer d’une porte d’entrée en hospitalisation pour les patients les plus solvables.<br/>Les modifications apportées en commission n’ont pas levé les réserves que nous avons sur cette proposition de loi. Vous faites le pari supplémentaire que les médecins libéraux s’organiseront dans le cadre de regroupements au niveau territorial pour prendre en charge les soins non programmés, sans garantie en termes de résultats. En définitive, nous peinons à percevoir quels sont les apports concrets de ce texte au regard des dispositifs existants.<br/>Les solutions pour améliorer l’accès aux soins de nos concitoyens sont connues : renforcement et déploiement des maisons médicales de garde ; ouverture de lits d’hospitalisation pour soulager les urgences ; augmentation globale du budget hospitalier de 4 %, comme le réclament les personnels hospitaliers. Ces moyens nouveaux pourraient permettre de créer les postes qui font tant défaut dans les dernières annonces du Gouvernement.<br/>Dans l’attente d’engagements financiers d’ampleur en faveur de l’hôpital public de la part de l’exécutif, nous voyons le dispositif proposé comme un simple palliatif qui ne répond pas au problème d’accès aux soins. C’est pourquoi les députés communistes voteront contre ce texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Christine Cloarec-Le Nabour" id_acteur="PA719756" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722752">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516313" ordre_absolu_seance="19" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945658" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Cloarec-Le Nabour.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516314" ordre_absolu_seance="20" id_acteur="PA719756" id_mandat="PM722752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945659" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Cloarec-Le Nabour</nom>
+              <id>719756</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons aujourd’hui la proposition de loi de notre collègue Cyrille Isaac-Sibille que je tiens à remercier pour sa détermination à répondre à la demande exprimée des patients en proposant la création d’un nouvel outil à disposition des professionnels de santé. Nous partageons tous sa préoccupation d’améliorer l’accès aux soins pour les patients qui nécessitent une prise en charge médicale rapide mais qui ne relèvent pas des services d’urgence. C’est un enjeu majeur pour notre système de santé, pour les patients mais également pour les soignants, dont nous avons entendu la colère.<br/>Depuis deux ans, le Gouvernement et la majorité se sont saisis à bras-le-corps de cet enjeu. La réponse à la demande de soins non programmés fait partie intégrante du plan pour l’égal accès aux soins dans les territoires, présenté en octobre 2017, et de la stratégie « Ma santé 2022 ». L’un et l’autre, basés sur des retours du terrain et sur de larges concertations avec les patients, professionnels, futurs professionnels et fédérations, ont été salués par les différents acteurs qui œuvrent chaque jour à répondre aux besoins des patients sur les territoires.<br/>Je salue notre collègue Thomas Mesnier pour les travaux qu’il a menés dans le cadre des missions qui lui ont été confiées sur les soins non programmés et sur la refondation des urgences – deux questions qui ne peuvent être abordées séparément. Ces travaux ont révélé qu’une part non négligeable de la saturation des services d’urgence provient de l’absence de réponse structurée à la demande exprimée par les patients d’une prise en charge rapide de certains soins tels que la  traumatologie légère, et ils ont été pleinement intégrés à la stratégie du Gouvernement sur l’accès aux soins et la transformation du système de santé.<br/>Grâce à la stratégie « Ma santé 2022 », l’action conduite se structure désormais autour des CPTS, des espaces d’organisation des professionnels de santé de ville servant à apporter une réponse collective aux besoins de la population sur un territoire. La dynamique est pleinement à l’œuvre puisque l’on recense 400 CPTS ou projets de CPTS sur l’ensemble du territoire national.<br/>L’adoption en juillet de la loi relative à l’organisation et à la transformation du système de santé a permis de franchir plusieurs nouvelles étapes majeures : suppression du numerus clausus, réorganisation des soins de ville, transformation des hôpitaux de proximité, intensification des coopérations entre professionnels et développement la télémédecine, afin d’améliorer l’accès rapide aux soins et d’abolir les distances. Tout est là pour transformer et adapter notre système de santé aux enjeux actuels et futurs.<br/>Il nous faut cependant accélérer ce mouvement de réforme par des leviers complémentaires. C’est pourquoi la ministre des solidarités et de la santé a présenté en septembre un pacte de refondation pour les urgences doté de 750 millions d’euros sur trois ans, afin de mettre en place des moyens concrets pour orienter les patients vers la réponse adaptée à leurs besoins, de généraliser les parcours d’admission directe des personnes âgées à l’hôpital sans passer par les urgences, et de renforcer l’offre de consultation sans rendez-vous en médecine de ville.<br/>Dans le projet de loi de financement de la sécurité sociale pour 2020, nous avons aussi ouvert la possibilité du recours direct aux examens de biologie de routine par le biais de l’accès à la biologie délocalisée, sans passer par l’hôpital. La semaine dernière, le Gouvernement a renforcé ces mesures grâce à un plan d’une ampleur inédite en faveur de l’hôpital public. Il permet de redonner de l’oxygène à l’hôpital, d’améliorer le quotidien des soignants, de revaloriser les métiers en tension et d’investir à nouveau alors que l’hôpital en avait tant besoin. Les moyens alloués à ce plan ont été intégrés dans le budget de la sécurité sociale afin d’être déployés immédiatement.<br/>Votre proposition de loi, monsieur le rapporteur, donne la possibilité aux professionnels de se saisir d’un nouvel outil afin d’organiser la réponse à la demande de soins rapides ne relevant pas des urgences. Des PASI pourront être créés s’ils sont prévus par le projet de santé d’une ou plusieurs CPTS ou par le PTS que nous avons instauré dans la loi relative à l’organisation et à la transformation du système de santé. Comme notre groupe l’a rappelé en commission la semaine dernière, l’inscription des points d’accueil dans le cadre de ces deux outils est capitale pour assurer l’adhésion des professionnels et ne pas rompre la dynamique de déploiement des CPTS.<br/>C’est pourquoi il nous semble cohérent de prévoir que les PASI ne puissent être labellisés à titre dérogatoire par les ARS que dans l’attente de la constitution des CTPS sur les territoires. Nous apprécions le travail que vous avez mené, monsieur le rapporteur, pour aboutir à une rédaction compatible avec la stratégie de santé que nous soutenons collectivement auprès des acteurs de terrain. Le groupe La République en Marche apportera donc son soutien à cette proposition de loi ainsi amendée. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Ian Boucard" id_acteur="PA721816" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748964">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516326" ordre_absolu_seance="29" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945671" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Ian Boucard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1516327" ordre_absolu_seance="30" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945672" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La présente proposition de loi de notre collègue Cyrille Isaac-Sibille vise à créer des points d’accueil pour soins immédiats, les PASI, afin de répondre à la demande d’accès aux soins des patients. De plus en plus, en effet, ceux-ci demandent une réponse médicale rapide et la possibilité d’effectuer tous leurs examens médicaux au même endroit – une problématique qui renvoie aux lacunes actuelles de notre système de santé.<br/>À cet égard, le groupe Les Républicains partage certains des constats du rapporteur concernant l’organisation de notre système de santé. Compte tenu, d’une part, de son organisation actuelle et des évolutions du mode d’exercice de la médecine libérale, la médecine de ville ne répond plus de manière optimale à la demande de soins des patients. Nombre de territoires souffrent d’un manque de médecins et de plateaux techniques réunissant en un même lieu les équipements nécessaires a minima – qu’il s’agisse de la radiologie, de la biologie, du matériel de suture, des plâtres ou de la stérilisation – pour répondre à la demande de soins immédiats. C’est pourquoi certains patients se reportent sur les urgences hospitalières : confrontés à une inquiétude légitime, ils souhaitent obtenir un diagnostic rapide, dans des délais convenables.<br/>À l’évidence, il existe donc un lien de corrélation entre le besoin d’accès immédiat aux soins des patients et l’augmentation du nombre de patients accueillis aux urgences. Entre 2002 et 2015, le nombre de passages dans les services d’urgences a augmenté de 42 % pour dépasser 20 millions, et la hausse de cette fréquentation se poursuit année après année.<br/>Il y aurait, en outre, selon la Cour des comptes, environ 3,5 millions de passages dits non pertinents – plutôt qu’inutiles – aux urgences chaque année, soit près de 20 % de la fréquentation totale et autant de prises en charge qui auraient pu être évitées si les patients avaient trouvé une solution satisfaisante dans la médecine de ville.<br/>Chacun sait que l’hôpital public traverse une crise sans précédent qui ne se résume évidemment pas à la question de l’accès aux soins, même s’il va de soi que les 20 % de passages « non pertinents » aux urgences participent à son aggravation. Cette crise ne risque d’ailleurs pas d’être réglée par les mesurettes annoncées dernièrement par le Gouvernement, sans parler du budget de la sécurité sociale, loin d’être à la hauteur.<br/>Dans ce contexte, la présente proposition de loi semble offrir une solution alternative intéressante pour désengorger en partie les services d’urgences. Constatons, cependant, qu’elle ne crée rien de nouveau. Les PASI, en effet, sont destinés à prendre en charge les patients qui nécessitent des soins immédiats et dont le pronostic vital n’est pas engagé, en s’appuyant sur les structures hospitalières existantes, qu’elles soient publiques ou privées. La labellisation en PASI et leurs horaires d’ouverture seront déterminés dans le cadre d’un conventionnement avec l’ARS. Les médecins généralistes qui y travailleront pourront s’appuyer sur l’avis de spécialistes présents dans la structure ou consultables par télémédecine, et seront rémunérés à l’acte conventionné. En somme, les missions et le mode de conventionnement des PASI sont comparables aux hôpitaux de proximité. Ce texte n’a donc rien de révolutionnaire et relève plutôt du niveau réglementaire : il ne s’agit au fond que d’aménager et d’améliorer l’existant – ce qui n’est déjà pas si mal !<br/>Nous sommes conscients que l’accès aux soins est l’un des grands défis auxquels nos concitoyens attendent que nous apportions des solutions. C’est la raison pour laquelle le groupe Les Républicains a toujours soutenu les initiatives visant à l’améliorer. Nous avons ainsi voté la loi de modernisation de notre système de santé, par laquelle ont été créées les communautés professionnelles territoriales de santé, les CPTS. La proposition de loi qui nous est soumise aujourd’hui va dans le même sens ; notre Groupe l’accueillait donc favorablement sur le principe.<br/>Malheureusement, lors de son examen en commission, un sous-amendement du groupe La République en marche a changé totalement la nature des PASI : dorénavant, ils doivent être créés dans le cadre d’une communauté professionnelle de santé, mais également dans le cadre d’un projet territorial de santé, afin d’entrer dans le cadre normatif de la stratégie « Ma santé 2022 » du ministère des solidarités et de la santé. La proposition de loi, dont l’ambition initiale était d’apporter une solution souple et adaptable aux territoires, s’en trouve singulièrement complexifiée. Je ne peux que dénoncer ce sectarisme du groupe La République en marche : ne supportant pas qu’une bonne initiative, fut-elle modeste, vienne d’un autre groupe politique, quand bien même il appartiendrait à la majorité parlementaire, il a grandement rigidifié le texte et lui a ôté une grande partie de son intérêt. Nous ne refusons d’être pris à témoin des conflits de la majorité et regrettons que la proposition de loi ait été vidée de sa substance et dénaturée de son objectif premier.<br/>Nous soutenons toutes les initiatives permettant d’apporter des solutions souples et concrètes aux problèmes d’accès aux soins de nos concitoyens, mais cette proposition de loi, en l’état, n’en fait hélas plus partie. Nous appuierons donc, dans quelques minutes, l’amendement du rapporteur visant à rétablir le texte initial. En revanche, nous nous abstiendrons de voter sur l’ensemble du texte si sa rédaction reste conforme à celle qu’a adoptée la commission des affaires sociales. <italique>(Applaudissements sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516378" ordre_absolu_seance="79" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945937" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à M. Cyrille Isaac-Sibille, rapporteur de la commission des affaires sociales, pour répondre aux orateurs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516380" ordre_absolu_seance="81" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-723556" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945833" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Cyrille Isaac-Sibille</nom>
+            <id>722374</id>
+            <qualite>rapporteur de la commission des affaires sociales</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je remercie les orateurs et les groupes qui se sont exprimés en faveur de la proposition de la loi. À ceux qui ont encore des doutes, et notamment à M. Ratenon, qui a évoqué les grèves des services des urgences, j’aimerais dire que ce texte ne peut, ni ne veut, régler le problème des urgences. Il cherche, modestement, à les soulager, en évitant ces passages inadaptés qu’il a lui-même évoqués.<br/>On peut certes discuter des chiffres, monsieur Peu : les passages inappropriés représentent-ils plutôt 20 % ou 6 % du nombre total de passages aux urgences ? Ce qui est certain, c’est que la proposition de loi s’adresse à la médecine générale de ville, car les médecins généralistes travaillent essentiellement en ville. Nous ne cherchons pas à opposer le privé et le public. La médecine générale peut aussi s’exercer dans les maisons médicales pluridisciplinaires, dans les centres de santé ou dans les maisons médicales de garde. Lorsque ces lieux d’accueil disposeront d’un plateau technique, ils pourront être labellisés PASI.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516384" ordre_absolu_seance="83" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1945837" valeur=" (n[[o]] 2428)" bibard=" (n[[o]] 2428)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516385" ordre_absolu_seance="84" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945838" valeur="" bibard=" (n[[o]] 2428)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516386" ordre_absolu_seance="85" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1945839" valeur=" 1er " bibard=" (n[[o]] 2428)" art=" 1er " adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 1<exposant>er</exposant></texte>
+      <interExtraction nom_orateur="Mme Géraldine Bannier" id_acteur="PA720256" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722908">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516387" ordre_absolu_seance="86" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945840" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Géraldine Bannier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516388" ordre_absolu_seance="87" id_acteur="PA720256" id_mandat="PM722908" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945841" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Géraldine Bannier</nom>
+              <id>720256</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis bien évidemment favorable à l’initiative de mon collègue Isaac-Sibille en vue de créer des points d’accueil pour soins immédiats, en particulier s’ils permettent de donner davantage de lisibilité, en les renommant, aux services médicaux de proximité et aux lieux d’accueil sans rendez-vous qui existent déjà dans les territoires – ce qui conduirait, du même coup, à améliorer l’efficacité des services des urgences dans le traitement des urgences véritables.<br/>En revanche, la proposition de loi, trop modeste, ne permettra pas de résoudre le problème principal à mon sens : celui des déserts médicaux. Mon territoire, celui de Laval, est directement concerné, et je m’interroge : y aura-t-il des médecins généralistes dans les PASI ? Je rappelle qu’à l’échelle nationale, 44 % des médecins généralistes n’acceptent pas de recevoir de nouveaux patients. Dans ma ville – Laval compte 50 000 habitants, 90 000 avec l’agglomération –, 60 % des médecins généralistes refusent les nouveaux patients : parmi eux, 68 % déclarent en avoir déjà trop et 16 % arguent de leur prochain départ à la retraite. C’est bien là que réside la principale difficulté pour nos territoires : nous n’avons plus de médecins généralistes ! Mon travail de députée est d’alerter sans relâche sur la nécessité de trouver une solution à ce problème. Le territoire de Laval est entouré de grandes villes, à proximité du littoral, et il aura du mal à être attractif… C’est une question importante, à laquelle nous devons répondre.</texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516391" ordre_absolu_seance="89" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="1945844" valeur=" 8" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 8" ssadt="">
+        <interExtraction nom_orateur="M. Brahim Hammouche" id_acteur="PA720326" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722930">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516391" ordre_absolu_seance="89" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1945844" valeur=" 8" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 8" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisi de deux amendements identiques, n<exposant>os</exposant> 8 et 9.<br/>La parole est à M. Brahim Hammouche, pour soutenir l’amendement n<exposant>o</exposant> 8.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516392" ordre_absolu_seance="90" id_acteur="PA720326" id_mandat="PM722930" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_9" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945845" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 8" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Brahim Hammouche</nom>
+                <id>720326</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il vise à rétablir la rédaction initiale de l’article, dont une partie a été modifiée contre l’avis du rapporteur en commission. Il tient toutefois compte des inquiétudes formulées en commission en précisant que l’objectif des PASI est de s’organiser autour des CPTS, y compris après leur labellisation par le directeur général de l’agence régionale de santé.<br/>Les CPTS se constituent progressivement mais le maillage territorial attendu ne sera pas atteint avant deux ans, d’après les estimations les plus optimistes. Quant aux PTS, leur mise en œuvre sera plus longue car ils nécessitent le regroupement de différents acteurs du système de santé – médecine de ville, secteur médico-social, établissements publics de santé. L’amendement a donc pour seul objectif d’apporter la souplesse nécessaire à l’effectivité et à la réactivité opérationnelles à court terme des PASI.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516394" ordre_absolu_seance="92" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1945847" valeur=" 9" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+        <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" qualite="rapporteur" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-723556" id_mandat="PM723556">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516394" ordre_absolu_seance="92" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1945847" valeur=" 9" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Cyrille Isaac-Sibille, pour soutenir l’amendement n<exposant>o</exposant> 9.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516395" ordre_absolu_seance="93" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-723556" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945848" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cyrille Isaac-Sibille</nom>
+                <id>722374</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il est identique au précédent. La proposition de loi vise à créer un dispositif souple, réactif et immédiatement applicable, qui pourrait être mis en œuvre en trois temps : tout de suite, car des expériences sont en cours sur le terrain – j’ai évoqué celles de la région Auvergne-Rhône-Alpes, mais la commission s’est également penchée sur celles d’Yssingeaux et de Saint-Malo, et Mme Bannier a abordé la situation de la ville de Laval, qui connaît également des expériences de ce type. Toutes les structures existantes pourront très rapidement être labellisées en PASI par l’ARS.<br/>Dans un deuxième temps, nous souhaitons naturellement accompagner les CPTS. Dès qu’une CPTS sera mise en place, elle pourra se servir de l’outil simple qu’est le PASI dans son projet territorial.<br/>Troisième étape, enfin : lorsqu’un PTS aura été mis en place, les médecines de ville, hospitalière et médico-sociale pourront s’entendre et les PASI s’intégrer dans ce cadre.<br/>En clair, ces trois étapes sont successives et indépendantes : si la structure existe, elle est labellisée par l’ARS ; lorsque la CPTS est mise en place, elle peut se saisir du dispositif ; plus tard, si un projet territorial de santé émerge, le PASI peut également y prendre sa place.  C’est pourquoi l’amendement vise à remplacer « ou » par « et ». Il ajoute enfin les mots « jusqu’à la constitution d’une communauté professionnelle territoriale de santé » pour tenir compte des délibérations en commission et préciser que le PASI sera labellisé par la CPTS – et non plus par l’ARS – une fois la communauté en question constituée.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" qualite="rapporteur" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-2170668" id_mandat="PM723556">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516400" ordre_absolu_seance="97" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1945853" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission sur ces amendements ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516401" ordre_absolu_seance="98" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-2170668" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1945854" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cyrille Isaac-Sibille</nom>
+                <id>722374</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Lors de la réunion qu’elle a tenue hier au titre de l’article 88 du règlement de l’Assemblée, la commission a exprimé un avis favorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Adrien Taquet" qualite="secrétaire d'État auprès de la ministre des solidarités et de la santé" id_acteur="PA722086" id_nomination_oe="PM762318" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516402" ordre_absolu_seance="99" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1945855" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le secrétaire d’État auprès de la ministre des solidarités et de la santé, pour donner l’avis du Gouvernement.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516403" ordre_absolu_seance="100" id_acteur="PA722086" id_mandat="-1" id_nomination_oe="PM762318" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="1" id_syceron="1945856" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Adrien Taquet</nom>
+                <id>722086</id>
+                <qualite>secrétaire d’État auprès de la ministre des solidarités et de la santé</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Le Gouvernement est attaché à garantir que les PASI s’inscrivent dans des relations de coopération entre acteurs d’un même territoire autour de l’organisation des soins non programmés.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516404" ordre_absolu_seance="101" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945857" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre-Henri Dumont</nom>
+                <id>720684</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Ce n’est jamais bon quand ça commence comme ça !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516405" ordre_absolu_seance="102" id_acteur="PA722086" id_mandat="-1" id_nomination_oe="PM762318" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1945858" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Adrien Taquet</nom>
+                <id>722086</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Le fait de prévoir l’inscription du PASI dans un projet de CPTS constitue une garantie essentielle de cette dynamique coopérative entre acteurs et de la cohérence des solutions apportées dans un même territoire.<br/>Le rythme de constitution de CPTS est dynamique puisque l’on dénombrait au 15 novembre quatre cent cinquante projets, dont presque cinquante sont déjà en fonctionnement, dans des territoires où vivent plus de 4 millions d’habitants. Ce déploiement est déterminé par la mobilisation croissante des acteurs de terrain. Le maillage intégral du territoire représente donc pour le Gouvernement un objectif de moyen terme. Les projets territoriaux de santé constituent quant à eux l’étape suivante, facultative : vous le savez, ils sont un nouvel outil proposé aux acteurs d’un territoire, une fois organisés en CPTS, pour approfondir et formaliser leur coopération.<br/>Dans ce contexte, la double inscription dans les CPTS et les PTS telle que proposée par la commission nous semble rigide. À l’inverse, cet amendement nous semble offrir davantage de souplesse tout en préservant la garantie d’une bonne articulation avec la médecine de ville. La possibilité ouverte par l’amendement d’une labellisation à l’initiative du directeur général de l’ARS, en l’absence de CPTS sur le territoire, est également un élément de souplesse bienvenu à nos yeux, même si elle doit rester une solution à la fois exceptionnelle et transitoire.<br/>Pour l’ensemble de ces raisons, nous sommes favorables à cet amendement, qui permettra d’offrir rapidement, vous l’avez dit, monsieur le rapporteur, de premières solutions de prise en charge des soins immédiats.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Ian Boucard" id_acteur="PA721816" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748964">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516410" ordre_absolu_seance="106" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945863" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Ian Boucard.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516411" ordre_absolu_seance="107" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1945864" valeur="" bibard=" (n[[o]] 2428)" art=" 1er " adt=" 9" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Ian Boucard</nom>
+                <id>721816</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je me félicite du soutien apporté par le Gouvernement à cet amendement. J’ai déjà annoncé que notre groupe le soutiendra aussi pour rétablir l’article dans sa rédaction initiale. Nous sommes satisfaits que la voie de la simplification et de l’adaptation aux territoires ait été privilégiée, conformément à l’objectif initial affiché par le texte.<br/>Nous soutiendrons donc avec plaisir les amendements identiques du rapporteur et du groupe Mouvement démocrate et apparentés.  </texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516413" ordre_absolu_seance="109" code_grammaire="ADOP_ADTS" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945866" valeur=" 8 et 9" decision="ADOPTION de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements identiques n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>8 et 9 sont adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516414" ordre_absolu_seance="110" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945867" valeur=" 1er" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>L’article</italique>
+            <italique> </italique>
+            <italique>1<exposant>er</exposant>, amendé, est adopté</italique>
+            <italique> à l’unanimité</italique>
+            <italique>.)</italique>
+          </texte>
+        </paragraphe>
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516415" ordre_absolu_seance="111" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="ANN_SCR_TEXTE_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945868" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Sur l’ensemble de la proposition de loi, je suis saisi par le groupe du Mouvement démocrate et apparentés d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516416" ordre_absolu_seance="112" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1945869" valeur=" 2" bibard=" (n[[o]] 2428)" art=" 2" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 2</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516417" ordre_absolu_seance="113" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1945870" valeur=" 10" bibard=" (n[[o]] 2428)" art=" 2" adt=" 10" ssadt="">
+        <interExtraction nom_orateur="M. Adrien Taquet" qualite="secrétaire d'État" id_acteur="PA722086" id_nomination_oe="PM762318" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516417" ordre_absolu_seance="113" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1945870" valeur=" 10" bibard=" (n[[o]] 2428)" art=" 2" adt=" 10" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le secrétaire d’État, pour soutenir l’amendement n<exposant>o</exposant> 10 du Gouvernement.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516418" ordre_absolu_seance="114" id_acteur="PA722086" id_mandat="-1" id_nomination_oe="PM762318" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945871" valeur="" bibard=" (n[[o]] 2428)" art=" 2" adt=" 10" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Adrien Taquet</nom>
+                <id>722086</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il s’agit d’un amendement de levée de gage.  </texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" qualite="rapporteur" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-2170668" id_mandat="PM723556">
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516419" ordre_absolu_seance="115" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1945872" valeur="" bibard=" (n[[o]] 2428)" art=" 2" adt=" 10" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>720746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516420" ordre_absolu_seance="116" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-2170668" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1945873" valeur="" bibard=" (n[[o]] 2428)" art=" 2" adt=" 10" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cyrille Isaac-Sibille</nom>
+                <id>722374</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je remercie le Gouvernement pour cet amendement auquel j’émets évidemment un avis favorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1516421" ordre_absolu_seance="117" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945874" valeur=" 10" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>10 est adopté et l’article</italique>
+            <italique> </italique>
+            <italique>2 est supprimé.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516209" ordre_absolu_seance="33" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1945563" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <interExtraction nom_orateur="M. Ian Boucard" id_acteur="PA721816" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM748964">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516210" ordre_absolu_seance="34" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945564" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans les explications de vote sur l’ensemble de la proposition de loi, la parole est à M. Ian Boucard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516211" ordre_absolu_seance="35" id_acteur="PA721816" id_mandat="PM748964" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945565" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’avais annoncé en intervenant dans la discussion générale que nous nous abstiendrions lors du vote du texte tel qu’il nous était soumis. Au vu des évolutions qu’il a connues au cours de cette séance, laquelle aura été très brève grâce au large consensus auquel nous sommes parvenus touchant les objectifs de la proposition de loi comme les moyens alloués pour y parvenir, le groupe Les Républicains émettra finalement un vote favorable. Je félicite le rapporteur de cette solution qui n’est certes pas révolutionnaire mais qui permettra d’améliorer çà et là plusieurs situations dans les territoires.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722574">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516212" ordre_absolu_seance="36" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945566" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516213" ordre_absolu_seance="37" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945567" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Libertés et territoires votera la proposition de loi. Le dispositif des PASI est modeste mais, compte tenu de l’urgence de la situation, nous ne pouvons que soutenir toute initiative permettant d’améliorer ne serait-ce qu’un peu l’accès aux soins de nos concitoyens. Nous sommes heureux qu’il ait été possible de parvenir à un compromis.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Christophe" id_acteur="PA642868" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722992">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516214" ordre_absolu_seance="38" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945568" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Christophe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516215" ordre_absolu_seance="39" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945569" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe UDI, Agir et indépendants votera lui aussi pour la proposition de loi. Je salue son rapporteur, Cyril Isaac-Sibille, qui a pour habitude de nous proposer des avancées lors de nos travaux en commission, et je remercie le Gouvernement d’avoir accepté qu’y soit apportée la petite modification qui permet d’aller dans le bon sens en diversifiant l’offre. La situation, on le sait, est difficile mais, en additionnant l’ensemble des dispositifs proposés, dont les CPTS, nous devrions parvenir à l’améliorer.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Patrick Mignola" id_acteur="PA721418" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723268">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516216" ordre_absolu_seance="40" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945570" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Patrick Mignola.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516217" ordre_absolu_seance="41" id_acteur="PA721418" id_mandat="PM723268" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945571" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Mignola</nom>
+              <id>721418</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo et merci ! Bravo, d’abord, car l’initiative, si modeste soit-elle, concourt à la grande ambition gouvernementale de résoudre les problèmes de l’hôpital, en particulier la question cruciale des urgences, si multiple qu’un bouquet de solutions est nécessairement bienvenu.<br/>Merci, ensuite, après l’échange un peu conflictuel que nous avons eu en commission – Mme la présidente de la commission s’en souvient. Nous sommes tous très engagés, derrière le gouvernement de la France, pour résoudre ces questions, et nous avons tous, forts de nos expériences respectives – en l’occurrence, une expérience réussie dans la région Auvergne-Rhône-Alpes, que Cyrille Isaac-Sibille connaît bien –, l’ambition de proposer différentes solutions selon les difficultés et les territoires. Nous le faisons chaque fois avec humilité, mais nous devons le faire chaque fois dans un esprit collectif.<br/>Grâce au travail accompli par le Gouvernement et à celui de notre collègue Thomas Mesnier, qui s’ajoutera dans quelques semaines aux initiatives gouvernementales et parlementaires, nous prenons un bon chemin, parce que nous nous efforçons de faire en sorte que toutes les énergies soient mobilisées et orientées dans le même sens, et parce que nous nous montrons capables de travailler tous ensemble. C’est ainsi que la nation peut relever des défis aussi considérables. <italique>(Applaudissements sur les bancs du groupe MODEM et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516220" ordre_absolu_seance="44" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945574" valeur="720704 721976. ">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Vichnievsky et M. Bruno Millienne</nom>
+              <id>720704</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Christine Cloarec-Le Nabour" id_acteur="PA719756" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722752">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516221" ordre_absolu_seance="45" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945575" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Cloarec-Le Nabour.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516222" ordre_absolu_seance="46" id_acteur="PA719756" id_mandat="PM722752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945576" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Cloarec-Le Nabour</nom>
+              <id>719756</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe La République en marche, je salue à nouveau la détermination et la ténacité de M. le rapporteur. Je suis ravie que nous ayons pu trouver un compromis. Compte tenu du caractère positif des évolutions que le texte a connues depuis son examen en commission, en lien avec le Gouvernement et avec vous-même, M. le rapporteur, notre groupe votera bien entendu la proposition de loi. <italique>(Applaudissements sur les bancs du groupe LaREM et sur plusieurs bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516223" ordre_absolu_seance="47" code_grammaire="VOTE_ENS_PPL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1945577" valeur=" (n[[o]] 2428)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516224" ordre_absolu_seance="48" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945578" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble de la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516225" ordre_absolu_seance="49" code_grammaire="VOTE_ENS_PPL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945579" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516226" ordre_absolu_seance="50" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945580" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        40<br/>        Nombre de suffrages exprimés                40<br/>        Majorité absolue                        21<br/>                Pour l’adoption                40<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516227" ordre_absolu_seance="51" code_grammaire="VOTE_ENS_PPL_S_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945581" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(La proposition de loi est adoptée</italique>
+          <italique> à l’unanimité</italique>
+          <italique>.)</italique>
+          <italique> (Vifs applaudissements sur les bancs des groupes MODEM et LaREM.)</italique>
+        </texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" qualite="rapporteur" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-2170668" id_mandat="PM723556">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516228" ordre_absolu_seance="52" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="VOTE_ENS_PPL_S_2_110" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1945582" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le rapporteur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1516229" ordre_absolu_seance="53" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-2170668" code_grammaire="VOTE_ENS_PPL_S_2_110" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1945583" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cyrille Isaac-Sibille</nom>
+              <id>722374</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais remercier les députés de tous les groupes qui ont travaillé en amont, en commission, pour permettre l’adoption de la proposition de loi ; le Gouvernement et les services du ministère de la santé, avec lesquels nos échanges ont été précieux ; les services de l’Assemblée, naturellement, sans lesquels tout aurait pris encore plus de temps ; l’ensemble des députés présents, enfin, qui ont voté le texte à l’unanimité.<br/>Bien que Thomas Mesnier ne soit pas là, je rappellerai enfin que les soins non programmés présentent deux aspects, l’un qui appelle une réponse de la médecine de ville, l’autre qui doit être traité par la médecine hospitalière ; nous attendons donc ses propositions concernant ce dernier volet.<br/>Même si la proposition de loi que nous venons de voter est modeste, elle est le ferment de l’organisation des CPTS et permettra à la médecine de ville de répondre au besoin de soins non programmés, ce qu’elle ne fait pas suffisamment aujourd’hui, faute des moyens que les PASI vont lui donner. Merci encore à vous tous ! <italique>(Applaudissements sur les bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="4" id_preparation="1516234" ordre_absolu_seance="57" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1945588" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1516235" ordre_absolu_seance="58" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM767302" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1945589" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, lundi 2 décembre, à dix-huit heures :<br/>Lecture définitive du projet de loi de financement de la sécurité sociale pour 2020.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1516236" ordre_absolu_seance="59" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1945590" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à quinze heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="4" id_preparation="1516237" ordre_absolu_seance="60" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1945591" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N167</uid>
+  <metadonnees>
+    <dateSeance>20190306220000000</dateSeance>
+    <dateSeanceJour>mercredi 06 mars 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>167</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20190167</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Thu, 07 Mar 2019 14:35:43 GMT</horaireGmt>
+    <heureGeneration>2019-03-07T15:35:43.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1638384">Présidence de M. Sylvain Waserman</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1638388">
+          <intitule>Débat sur l’avenir du secteur hydroélectrique</intitule>
+        </titreStruct>
+        <para id_syceron="1638392">M. Hubert Wulfranc</para>
+        <para id_syceron="1638411">M. François-Michel Lambert</para>
+        <para id_syceron="1638439">M. Jean-Bernard Sempastous</para>
+        <para id_syceron="1638452">M. Martial Saddier</para>
+        <para id_syceron="1638523">M. Jimmy Pahun</para>
+        <para id_syceron="1638542">Mme Marie-Noëlle Battistel</para>
+        <para id_syceron="1638565">Mme Lise Magnier</para>
+        <para id_syceron="1638702">Mme Caroline Fiat</para>
+        <para id_syceron="1638727">Mme Brune Poirson, secrétaire d’État auprès du ministre d’État, ministre de la transition écologique et solidaire</para>
+        <para id_syceron="1638027">M. Gabriel Serville</para>
+        <para id_syceron="1638033">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638042">Mme Jeanine Dubié</para>
+        <para id_syceron="1638052">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638056">Mme Stéphanie Kerbarh</para>
+        <para id_syceron="1638063">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638073">Mme Barbara Bessot Ballot</para>
+        <para id_syceron="1638079">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638087">M. Xavier Breton</para>
+        <para id_syceron="1638093">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638097">Mme Émilie Bonnivard</para>
+        <para id_syceron="1638107">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638117">Mme Florence Lasserre-David</para>
+        <para id_syceron="1638125">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638131">Mme Marie-Noëlle Battistel</para>
+        <para id_syceron="1638142">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638147">Mme Sophie Auconie</para>
+        <para id_syceron="1638156">Mme Brune Poirson, secrétaire d’État</para>
+        <para id_syceron="1638160">Mme Mathilde Panot</para>
+        <para id_syceron="1638167">Mme Brune Poirson, secrétaire d’État</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1638178">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 06 mars 2019</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1302229" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1638384" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Sylvain Waserman<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1302230" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638385" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1302231" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1638386" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt</italique>
+          <italique>-deux heures</italique>
+          <italique>.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302233" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1638388" valeur="">
+      <orateurs/>
+      <texte>Débat sur l’avenir du secteur hydroélectrique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302234" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638389" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>720746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle le débat sur l’avenir du secteur hydroélectrique.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement. Nous procéderons ensuite à une séquence de questions-réponses. Je vous rappelle que la durée des questions comme celle des réponses est limitée à deux minutes.<br/>La parole est à M. Hubert Wulfranc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302237" ordre_absolu_seance="9" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638392" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hubert Wulfranc</nom>
+            <id>722110</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Depuis la perte du statut d’établissement public d’EDF en 2004, la Commission européenne fait pression sur la France pour obtenir, dans le cadre du renouvellement des concessions, l’ouverture à la concurrence de nos installations hydroélectriques.<br/>En octobre 2015, la Commission, qui avait engagé une première procédure en 2006, a adressé à la France une mise en demeure, mettant en cause les « mesures étatiques qui, en faisant obstacle à l’entrée et à l’expansion de concurrents, ont pour effet de maintenir ou de renforcer la position dominante d’EDF ».<br/>Conformément aux orientations idéologiques libérales du chef de l’État, le Gouvernement a lui-même fait de la privatisation de la gestion des barrages hydroélectriques l’une de ses priorités et ouvert une négociation avec Bruxelles au sujet de l’ouverture complète à la concurrence des concessions qui arrivent progressivement à échéance. Ces négociations discrètes font craindre le pire.<br/>En France, l’hydroélectricité représente environ 70 térawattheures par an, soit 12 % de la production d’électricité hexagonale et plus de 60 % de l’énergie renouvelable.<br/>Les centrales hydroélectriques françaises forment un ensemble d’ouvrages diversifié, comprenant des barrages de basse, moyenne et haute chute, associés à des réservoirs. Elles représentent un instrument de modulation de la production électrique, apportant ainsi une contribution majeure à la stabilité de notre système électrique.<br/>L’hydroélectricité est appelée à jouer un rôle de plus en plus important, dans un contexte de développement des énergies renouvelables non modulables que sont l’éolien et le solaire, pour compenser les éventuels déficits de production liés à l’absence de vent ou de soleil.<br/>Nos installations sont aussi, bien évidemment, un instrument de gestion de ce bien commun qu’est la ressource en eau. Les 7 milliards de mètres cubes d’eau retenus par nos barrages sont un bien précieux pour l’agriculture, l’alimentation des populations en eau potable, l’industrie, le refroidissement de nos réacteurs nucléaires, le développement des activités de loisirs. Les ouvrages contribuent aussi à prévenir les risques, qu’il s’agisse de l’atténuation des crues ou, a contrario, du contrôle des étiages.<br/>Les services rendus par nos installations hydroélectriques excluent de se situer dans une logique d’exploitation gouvernée par la recherche de l’optimum de la production d’électricité. Un large consensus se dessine, dans la population comme chez les élus locaux et nationaux, pour rejeter l’ouverture à la concurrence de ce secteur stratégique au plan économique, social et environnemental, qui s’adosse à un patrimoine financé de longue date par les Français et largement amorti.<br/>Marie-Noëlle Battistel soulignait en avril 2018, dans les conclusions du groupe de travail relatif aux concessions hydroélectriques, que l’hydroélectricité « dépasse de très loin le seul cadre de la production d’énergie et recouvre de multiples enjeux. » Elle apportera sa contribution éclairée au débat.<br/>L’injonction de Bruxelles apparaît d’autant plus absurde que chez ceux de nos voisins qui ne disposent pas d’un régime concessif, la mise en concurrence n’a pas lieu d’être et n’a pas été mise en œuvre.<br/>Le formalisme et le dogmatisme de la Commission européenne apparaissent donc, une fois de plus, en parfait décalage avec l’intérêt général, les exigences de la rationalité économique et de la promotion des biens communs. Il appartient au Gouvernement de prendre ses responsabilités et de défendre à Bruxelles une alternative solide à la mise en concurrence. Les traités autorisent notre pays à organiser la fourniture de services en tant que services d’intérêt économique général, assortis ou non d’un droit exclusif ou spécial de gestion ou d’exploitation, sous réserve du respect des dispositions relatives à l’abus de position dominante.<br/>Nous privilégions cette option, dont le sérieux a été établi par l’excellent travail d’expertise conduit par la CGT Mines Énergie. Rien n’interdit aujourd’hui de désigner la production hydroélectrique comme un service d’intérêt économique général. Si les services d’intérêt économique général ont été conçus au départ  comme l’exception à une règle, celle de l’application du droit de la concurrence, les États membres conservent un rôle majeur pour déterminer les missions d’intérêt général et qualifier certaines activités de services d’intérêt économique général.<br/>Le contrôle par la Commission européenne et le juge européen de la définition de la mission est limité, de fait, au contrôle restreint de l’erreur manifeste d’appréciation et à la présence de trois critères cumulatifs : le caractère économique de l’activité, son caractère d’intérêt général et une définition précise des missions de service public confiées par la loi ou le règlement aux entreprises qui en assurent la gestion.<br/>La qualification de l’exploitation des ouvrages hydroélectriques en service d’intérêt économique général est une condition nécessaire, mais pas suffisante, pour protéger ces ouvrages et leur exploitation contre les logiques de mise en concurrence.<br/>Il faut en outre doter les entreprises qui en assurent la gestion et l’exploitation d’un droit exclusif ou spécial et, pour cela, démontrer que le bon accomplissement des missions d’intérêt général liées à l’hydroélectricité impose de désigner un ou plusieurs opérateurs, seuls en mesure d’accomplir ces missions.<br/>À cet égard, nous considérons que les opérateurs historiques que sont Électricité de France, la société anonyme d’intérêt général Compagnie nationale du Rhône et la Société hydroélectrique du Midi, sont les seuls à offrir des garanties suffisantes pour gérer les risques sécuritaires, soutenir l’économie et l’emploi et prendre en compte la diversité des usages de la ressource en eau. Ils sont aussi les seuls à pouvoir s’inscrire dans des logiques de long terme et conduire les investissements nécessaires pour accroître nos capacités en hydroélectricité. Nous disposons en effet d’un potentiel de 6 000 mégawatts supplémentaires selon les salariés, de 3 000 selon le Gouvernement.<br/>Face aux risques que représenterait la mise en concurrence pour l’optimisation, l’emploi et les atouts du système hydroélectrique français, y compris en termes de  tarifs pour les consommateurs, les autorités françaises doivent plaider en faveur d’une dérogation au principe de mise en concurrence.<br/>La simplicité pratique d’une solution fondée sur l’existant et son intérêt en termes de politique énergétique française justifient de la défendre devant la Commission européenne.<br/>C’est, à l’évidence, une question de volonté politique, dont nous doutons aujourd’hui. En tout état de cause, le groupe GDR attend du Gouvernement qu’il clarifie sa position. L’ouverture à la concurrence des concessions hydroélectriques ne rencontre pas seulement l’opposition des salariés des entreprises, attachés au caractère public des aménagements, mais de tous ceux qui, dans notre pays, sont attachés au service public et ne veulent pas livrer cet élément de notre patrimoine commun et de notre souveraineté à des sociétés énergétiques entièrement privées ou à des sociétés d’économie mixte où les collectivités publiques seraient minoritaires.<br/>Le démantèlement programmé de ce précieux ensemble de production construit au fil des décennies n’est pas acceptable, comme n’est pas acceptable que le souci de la rentabilité prime sur l’intérêt général et la grande diversité des usages et des enjeux qui entourent nos installations. Alors que le réchauffement climatique invite à améliorer la concertation autour de la gestion de l’eau et à porter une ambition nouvelle pour le développement des énergies renouvelables, il apparaît nécessaire que le Gouvernement modifie radicalement ses orientations.<br/>Il apparaît également indispensable que syndicats et parlementaires soient informés du contenu de la lettre de mission adressée à Jean-Bernard Lévy au sujet de l’avenir du groupe EDF, qui concerne de fait une grande partie du parc de production hydraulique.<br/>Salariés et parlementaires ne sauraient être les otages de décisions qui se trament dans leur dos. Nous exigeons du Gouvernement qu’il fasse désormais, en toute transparence, la clarté sur ses intentions.<br/>C’est pourquoi nous proposerons aux différents groupes de notre assemblée, dans la séquence qui s’ouvre, de coconstruire une initiative parlementaire formalisée qui rassemble les volontés conjointes pour une solution durablement maîtrisée des exploitations hydroélectriques françaises. <italique>(Applaudissements sur les bancs des groupes GDR et SOC, ainsi que sur plusieurs bancs des groupes LT et LR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. François-Michel Lambert" id_acteur="PA605518" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722518">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302255" ordre_absolu_seance="27" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638410" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François-Michel Lambert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302255" ordre_absolu_seance="28" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est le moment de défendre les territoires !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302256" ordre_absolu_seance="29" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Évoquer l’avenir du secteur hydroélectrique, c’est poser la question de la transition énergétique ainsi que de l’indépendance énergétique de notre pays.<br/>L’hydroélectricité est la première des sources d’électricité renouvelable en France. Elle assure environ 12 % de la production d’électricité, contre 5 % pour l’éolien et 2 % pour le solaire. Ces chiffres démontrent à eux seuls combien est méconnue cette forme d’énergie, qui est pourtant au cœur de notre économie et représente pour la France un potentiel d’excellence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302256" ordre_absolu_seance="30" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302258" ordre_absolu_seance="31" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638413" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302259" ordre_absolu_seance="32" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638414" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet, la richesse des massifs montagneux de notre pays lui ouvre de grandes capacités hydroélectriques : les Alpes, les Pyrénées de ma collègue Jeanine Dubié, la Corse de mes amis députés, qui est une île-montagne, le Massif central constituent des territoires hydroélectriques en puissance.<br/>Vous-même, madame la secrétaire d’État, venez d’une circonscription alimentée par la chaîne hydroélectrique du Verdon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302260" ordre_absolu_seance="34" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638420" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quelle chance !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1302260" ordre_absolu_seance="35" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638419" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nos concitoyens le savent peu, mais l’hydroélectricité représente plus de 12 % de la production électrique française, ce qui fait de notre pays le troisième pays européen en la matière, derrière la Norvège et la Suède. Nous sommes classés au quinzième rang mondial.<br/>L’hydroélectricité demeure le mode de production le moins cher, celui qui limite le plus, et de loin, les surcoûts de production d’électricité. De plus, avec un château en forme de montagne en pleine Méditerranée comme la Corse, l’hydroélectricité peut aider cette île à devenir autonome en énergie.<br/>Cette énergie entièrement renouvelable a une particularité : elle permet de stocker l’énergie potentielle sous forme de réserves en eau, convertissables ensuite de manière flexible et rapide en électricité.<br/>Or, nous le savons, l’accès à l’eau est un autre des défis majeurs du XXI<exposant>e </exposant>siècle.<br/>En France, l’ensemble des réservoirs représentent 7 milliards de mètres cubes d’eau utilisables pour l’agriculture, l’alimentation des populations en eau  potable, l’industrie ou les activités de loisirs. Les ouvrages contribuent aussi à la prévention des risques, par exemple pour l’atténuation des crues – ils réduisent ainsi le risque de crue de 20 à 40 centimètres dans une ville comme Auxerre, et de plusieurs centimètres dans une ville comme Paris. La responsabilité de ces réserves d’eau donne à EDF un rôle majeur dans la gestion de la ressource. Dans certaines vallées, l’hydroélectricité est même la dernière activité industrielle présente, jouant ainsi un rôle important d’aménagement du territoire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302524" ordre_absolu_seance="4" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638424" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302525" ordre_absolu_seance="5" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Libertés et territoires est, comme l’indique son nom, particulièrement attaché à cet aspect.<br/>Un récent rapport parlementaire, dû à notre collègue Adrien Morenas, rappelait le coût important que représentent les mesures de rétablissement de la continuité écologique : des investissements d’environ 40 millions d’euros par an, entraînant une perte de production récurrente estimée à 80 millions d’euros par an, soit un coût total de 120 millions d’euros par an.<br/>Dans la suite de notre débat, ma collègue Jeanine Dubié vous interrogera au nom du groupe Libertés et territoires, madame la secrétaire d’État, sur l’ouverture à la concurrence. Il y a là, je crois, un axe stratégique sur lequel la France doit rester incomparable.<br/>Toutefois, force est de constater que l’État français n’a pas toujours rempli ses obligations à l’égard de son partenaire historique : la navigation sur le Rhin est pour EDF un gouffre financier. Or, la France n’a jamais compensé le coût lié à la concession. Les dépenses de fonctionnement directement liées à ce service de navigation sont de l’ordre de 14 millions d’euros par an.<br/>Nous devons parler un langage de vérité. La question de l’indemnisation des charges de service public doit être posée à l’occasion du renouvellement des concessions. En effet, 20 % de la puissance du parc arrive à échéance, et d’ici à 2023 le renouvellement portera sur 150 aménagements ; il concernera toutes les régions hydrauliques, sans que le droit de préférence prévu par la loi de 1919 puisse jouer, puisqu’il a été supprimé afin de satisfaire aux demandes de la Commission européenne.  Celle-ci exige désormais l’organisation systématique d’une mise en concurrence dans les procédures de renouvellement des concessions hydroélectriques.<br/>Force est de constater que, depuis l’arrivée d’Emmanuel Macron à la présidence de la République, les choses semblent s’accélérer et la mise en concurrence se rapprocher.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302531" ordre_absolu_seance="11" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638431" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une faute !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302532" ordre_absolu_seance="12" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638432" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne reviendrai pas ici sur les prochaines privatisations d’Aéroports de Paris et de la Française des jeux ; mais ce gouvernement continue à prendre le risque de brader nos services d’excellence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302533" ordre_absolu_seance="13" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638433" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302534" ordre_absolu_seance="14" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638434" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe Libertés et territoires est attaché à la souveraineté énergétique de notre pays, et soucieux de notre savoir-faire ; nous ne pourrons rester silencieux face à ces enjeux de la première importance.<br/>Il faut aussi rappeler ce qu’est l’importance d’une infrastructure hydroélectrique. Elle est source d’énergie électrique, bien sûr, mais elle apporte aussi de formidables réponses aux enjeux de ce XXI<exposant>e </exposant>siècle : gestion partagée de l’eau, gestion de la biodiversité, économie circulaire et économie de la ressource, aménagement des paysages dans le premier pays au monde pour le tourisme. Nous devons préserver ce « en même temps » : assurer notre souveraineté énergétique tout en répondant à ces questions nouvelles.<br/>Je laisserai ma collègue Jeanine Dubié développer ce sujet, mais en attendant, je souhaitais, en y associant tous mes collègues du groupe Libertés et territoires, redire combien il nous importe d’entrer rapidement dans l’énergie du XXI<exposant>e </exposant>siècle : en ce sens, l’hydroélectricité représente une opportunité certes économique, mais aussi sociale et environnementale de premier ordre. Faisons attention à ne pas faire les mauvais choix. <italique>(Applaudissements sur les bancs des groupes LT, SOC et LR et sur plusieurs bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302537" ordre_absolu_seance="17" id_acteur="PA333421" id_mandat="PM722920" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638437" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bertrand Pancher</nom>
+              <id>333421</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voilà un orateur qui a déployé une belle énergie ! <italique>(Sourires.)</italique><italique/></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Bernard Sempastous" id_acteur="PA720780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723074">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302538" ordre_absolu_seance="18" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638438" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Bernard Sempastous.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302539" ordre_absolu_seance="55" id_acteur="PA720780" id_mandat="PM723074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638439" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Bernard Sempastous</nom>
+              <id>720780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’occasion nous est donnée par le groupe GDR de débattre de l’avenir du secteur hydroélectrique, à mon sens trop peu souvent discuté entre nous. Pourtant, l’hydroélectricité, première source d’énergie renouvelable, joue un rôle majeur dans la transition énergétique de la France. C’est une source d’énergie stratégique pour notre pays.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302539" ordre_absolu_seance="56" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638468" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302539" ordre_absolu_seance="57" id_acteur="PA720780" id_mandat="PM723074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638467" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Bernard Sempastous</nom>
+              <id>720780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Grâce à ses capacités de stockage, il est possible d’équilibrer efficacement le réseau électrique national et européen. C’est même bien plus que cela, car les barrages hydrauliques façonnent nos territoires. Ils font partie de leur histoire et tiennent une place fondamentale dans leur développement, en montagne et dans la ruralité.<br/>L’attention se cristallise autour de la question du renouvellement des concessions hydroélectriques. Le droit français en vigueur, en conformité avec le droit européen, prévoit que les concessions hydroélectriques échues doivent être renouvelées par mise en concurrence.<br/>Ce n’est pas là une volonté nouvelle : le principe en a été arrêté par les précédentes majorités. Il est inscrit dans la loi depuis 2006, et la loi de transition énergétique de 2015 a créé de nouveaux outils pour faciliter le renouvellement. Depuis la mise en demeure de la Commission européenne de 2015, aucun accord n’a cependant pu être obtenu. Environ 150 concessions sur 400 doivent arriver à échéance avant 2023. Pourtant, le processus est bloqué. Sur le terrain, l’inquiétude des salariés, des élus et des territoires est vive.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302541" ordre_absolu_seance="60" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638469" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À juste titre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302542" ordre_absolu_seance="61" id_acteur="PA720780" id_mandat="PM723074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638442" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Bernard Sempastous</nom>
+              <id>720780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les négociations doivent se poursuivre dans le respect des lignes rouges : renouvellement des seules concessions échues et égale concurrence. Une avancée doit être notée, puisque la possibilité pour EDF de concourir semble admise.<br/>J’en profite par ailleurs pour combattre quelques idées fausses souvent entendues. Ainsi, le régime de la concession signifie qu’il n’y aura pas de privatisation des barrages : l’État est et restera le propriétaire des ouvrages, et l’exploitation sera encadrée par un cahier des charges. La reprise du personnel en place est garantie par la loi de 2015.<br/>La remise en concurrence permettra d’optimiser la gestion de nos barrages et de relancer l’investissement tant attendu, tout en redistribuant des ressources financières vers les territoires.<br/>Toutefois – j’insiste sur ce point – les renouvellements doivent être bien préparés, main dans la main avec les collectivités et les territoires, pour prendre en compte les spécificités locales et la complexité du sujet hydraulique.<br/>Élu d’une circonscription de montagne, je sais l’importance de la concertation que les hydroélectriciens mènent avec les acteurs locaux, au vu des enjeux cruciaux qui existent dans les vallées, autour des centrales : conciliation avec la pêche et les sports d’eau vive, dialogue régulier avec les associations environnementales, contribution à la production de neige de culture pour les stations de ski, sans oublier la participation au soutien des étiages, enjeu majeur dans le contexte du réchauffement climatique, notamment pour coordonner les besoins en irrigation. L’héritage historique des barrages doit également être pris en considération : liens avec les territoires, mais aussi emplois. Je pense notamment aux relations avec les sous-traitants.<br/>J’appelle votre attention, madame la secrétaire d’État, sur cette véritable complexité qui devra être concrètement intégrée aux cahiers des charges, tant pour définir les enjeux que pour suivre la concession.<br/>Cette complexité invite également à réfléchir à la mise en place de formules partenariales sur les territoires, notamment entre l’opérateur économique, qui pourrait rester majoritaire, et d’autres acteurs publics qui pourraient être présents au capital – en particulier les collectivités.<br/>En conclusion, je souhaite revenir sur le potentiel de développement de cette filière : il existe, mais il est insuffisamment valorisé dans notre politique énergétique. Sur les territoires, au-delà des concessions existantes, de nouveaux projets de centrales demandent à exister ; les opérateurs économiques et les collectivités sont force de proposition. Pourquoi ne pas lancer des initiatives publiques, comme des appels d’offres, pour leur permettre d’émerger ?<br/>Pensons aussi à valoriser et renforcer les compétences scientifiques et techniques des exploitants, pour s’assurer de leurs capacités en recherche et développement et en innovation. Première source d’énergie renouvelable, l’hydroélectricité est en effet aussi une énergie d’avenir stratégique pour notre pays. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Martial Saddier" id_acteur="PA267527" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723274">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302551" ordre_absolu_seance="70" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Martial Saddier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302552" ordre_absolu_seance="71" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638452" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’hydroélectricité est encore aujourd’hui la première énergie électrique renouvelable, et surtout la deuxième source de production électrique française, avec 67 térawattheures en moyenne, soit la consommation de plus de 9 millions de personnes. Le bassin Rhône-Méditerranée produit pas moins de 60 % de l’énergie hydroélectrique nationale.<br/>Cette énergie a donné naissance à des aventures fabuleuses : je pense par exemple à celle de la Compagnie nationale du Rhône, la fameuse CNR, créée dans cet hémicycle même. À l’époque déjà, on parlait non seulement d’hydroélectricité, mais aussi des nombreux usages de l’eau.<br/>Contrairement à l’électricité qui n’est pas stockable, l’hydroélectricité peut être facilement mobilisable – dans un délai de l’ordre de dix à quinze minutes – en cas de pic de consommation, l’hiver notamment, ou en cas d’incidents sur le réseau électrique. On finance aujourd’hui de grands projets de recherche sur le stockage de l’électricité, sur les batteries. Mais les premières grandes batteries, ce sont les barrages ! Les stations de transfert d’énergie par pompage – STEP – permettent de remplir des réservoirs, la nuit par exemple, et ainsi de stocker de l’électricité.<br/>Si la construction des grands barrages visait au départ la production d’électricité, les temps ont bien changé ! L’hydroélectricité joue également un rôle important dans la gestion de la ressource en eau. Longtemps montrée du doigt pour ses conséquences sur le milieu naturel, la filière prend aujourd’hui en considération la protection des milieux aquatiques, par exemple : passes à poissons ; dispositifs de franchissement des cours d’eau ; délivrance de débit réservé – et les contraintes en la matière ont été renforcées durant les législatures précédentes ; participation aux plans de restauration d’espèces piscicoles en  voie de disparition… Je pourrais encore parler de la gestion des matériaux solides, afin de préserver le profil en long de la rivière, de la sécurisation des lâchers d’eau, de la gestion des débits d’étiage, déjà évoqués, de l’alimentation en eau potable, ou encore, ce qui est très peu connu, du rôle d’écrêteur de crue, par exemple là où se produisent des événements cévenols, ce qui est absolument essentiel pour faire face au changement de notre climat.<br/>Voilà autant d’actions qui sont nées au fil du temps et sont aujourd’hui menées en lien étroit avec les collectivités territoriales. Nous souhaitons bien évidemment que le cahier des charges, si mise en concurrence il doit y avoir, intègre l’ensemble de ces enjeux, peu à peu pris en considération par l’opérateur historique au cours des dernières décennies.<br/>Le groupe Les Républicains défend d’abord la modernisation de ces installations : nous pourrions ainsi améliorer notre potentiel hydroélectrique.<br/>Nous souhaitons, au cas par cas, lorsque les acteurs locaux, y compris les acteurs environnementaux, l’acceptent, la poursuite du développement de l’hydroélectricité. Comme dans beaucoup de secteurs, les normes fiscales et environnementales sont en croissance : rappelons que la fiscalité représente aujourd’hui un tiers du coût de l’hydroélectricité. Nous souhaitons néanmoins la développer à chaque fois que cela est possible. Les schémas d’aménagement et de gestion des eaux – SAGE – et les commissions locales de l’eau – CLE – permettent de trouver, avec les associations environnementales, les équilibres nécessaires.<br/>Le groupe Les Républicains regrette ainsi que le projet de programmation pluriannuelle de l’énergie – PPE – ne prévoie que 1 gigawattheure supplémentaire d’ici à 2038, alors que le potentiel est estimé à au moins 2 gigawattheures.<br/>Enfin, je voudrais, comme d’autres de nos collègues, aborder la question du renouvellement des concessions hydroélectriques. Il ne faudrait pas que l’ouverture à la concurrence conduise à une multiplication des acteurs, et ainsi à un démantèlement de la production hydroélectrique, alors que ce secteur est l’un de nos fleurons. Il ne faudrait pas non plus qu’elle mette fin à la gestion coordonnée des ressources en eau et aux efforts déjà réalisés dans ce domaine. Comment ne pas craindre que certains nouveaux concessionnaires ne s’intéressent davantage à la rentabilité de leurs investissements qu’à la gestion globale de l’eau et surtout à la sécurisation des ouvrages ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302562" ordre_absolu_seance="80" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638462" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302563" ordre_absolu_seance="81" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638463" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous demandons très clairement qu’au regard de l’évolution du climat, et notamment de ses conséquences sur l’eau, les grands réservoirs d’eau soient considérés comme un patrimoine stratégique de la nation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302564" ordre_absolu_seance="82" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302565" ordre_absolu_seance="83" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La filière hydroélectrique doit être considérée comme une grande filière industrielle, et son potentiel d’avenir – en raison notamment du capital humain fantastique développé depuis plus de cinquante ans dans notre pays – doit être reconnu. La gestion doit se faire à l’échelle des bassins versants : il n’est pas pensable, madame la secrétaire d’État, que des cours d’eau dangereux soient saucissonnés, si vous me permettez l’expression. La France ne peut pas être le seul pays, en Europe et presque dans le monde, qui brade son potentiel hydroélectrique.<br/>Des élections se tiendront dans quelques semaines. La position du groupe Les Républicains est très claire sur ces points. <italique>(Applaudissements sur les bancs des groupes LR et LT, ainsi que sur plusieurs bancs des groupes GDR et SOC.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1302566" ordre_absolu_seance="85" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638521" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur ces sujets-là, mieux vaut faire confiance aux communistes ! C’est plus durable !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jimmy Pahun" id_acteur="PA720334" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722932">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302567" ordre_absolu_seance="1" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638522" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jimmy Pahun.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302568" ordre_absolu_seance="2" id_acteur="PA720334" id_mandat="PM722932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638523" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Permettez-moi tout d’abord, au nom du groupe MODEM, de remercier le groupe GDR pour l’opportunité qu’il nous donne de débattre de l’hydroélectricité, l’une des composantes majeures – et peut-être la principale – d’un mix énergétique durable.<br/>Je distinguerai deux enjeux afférents à la production d’énergie hydraulique : d’abord, celui du renouvellement des concessions dont la puissance est supérieure à 4,5 mégawatts ; ensuite, celui du potentiel de développement de la petite hydroélectricité.<br/>Les concessions hydroélectriques d’une puissance supérieure à 4,5 mégawatts doivent être mises en concurrence, comme nous l’impose le droit européen. Je ne reviendrai pas sur le contexte, dont les grandes lignes ont d’ores et déjà été exposées. Il nous faut cependant rétablir quelques vérités, car s’il est concevable de critiquer l’obligation de mise en concurrence, il est tout à fait inexact de parler de privatisation. En effet, le renouvellement des concessions ne modifie en rien la propriété des ouvrages, donc leur appartenance au domaine public. Par ailleurs, il est vain de condamner par principe les fondements de la libre concurrence.<br/>Intéressons-nous davantage au cas présent, dans ce qu’il a de singulier, à ses caractéristiques et enjeux propres. La mise en concurrence des concessions hydroélectriques doit être appréciée au regard de l’intérêt général et des exigences du service public.<br/>À ce titre, madame la secrétaire d’État, je souhaiterais vous entendre sur un certain nombre de points qui posent question. La mise en concurrence est-elle pensée dans l’intérêt du consommateur ? Autrement dit, la multiplication des opérateurs dans le secteur hydraulique ne risque-t-elle pas de tirer les prix de l’électricité vers le haut ?<br/>La mise en concurrence est-elle réalisée dans l’intérêt du contribuable ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302573" ordre_absolu_seance="93" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638607" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Absolument pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302573" ordre_absolu_seance="94" id_acteur="PA720334" id_mandat="PM722932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638606" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est donc le coût financier attendu du transfert des concessions à d’autres exploitants ?<br/>La mise en concurrence respecte-t-elle également l’intérêt du citoyen ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302574" ordre_absolu_seance="96" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638609" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302574" ordre_absolu_seance="97" id_acteur="PA720334" id_mandat="PM722932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638608" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est ici question de l’indépendance énergétique de la Nation, du contrôle nécessairement public des biens communs et du rôle de l’État dans la mise en œuvre de la transition énergétique.<br/>Enfin, la mise en concurrence est-elle de nature à contrarier les droits des usagers de l’eau ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302575" ordre_absolu_seance="99" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638611" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302575" ordre_absolu_seance="100" id_acteur="PA720334" id_mandat="PM722932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638610" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au-delà des considérations énergétiques, la gestion de l’eau intéresse, par exemple, le devenir des activités nautiques établies en aval et en amont.<br/>En somme, madame la secrétaire d’État, il importe que vous puissiez rassurer tous les acteurs du secteur sur les bénéfices attendus de l’ouverture à la concurrence des concessions d’hydroélectricité, notamment en termes d’investissements et de relance de l’économie, ainsi que ceux qui y voient un démantèlement du service public. <br/>L’inquiétude est d’autant plus grande que la loi relative à la transition énergétique pour la croissance verte offre plusieurs possibilités pour pallier cette demande d’ouverture à la concurrence. Il s’agit notamment, cela a été dit, de la prolongation des concessions sous condition de travaux, qui pourrait permettre de prendre en compte les investissements réalisés pour la modernisation des ouvrages.<br/>Par ailleurs, il faut distinguer la grande et la petite hydroélectricité. Si nous considérons cet ensemble, nous avons là un panel d’acteurs, qui remet en cause la position dominante d’EDF.<br/>J’en viens donc à mon second point, relatif au potentiel de la petite hydroélectricité, et en particulier de l’énergie hydrolienne. La programmation pluriannuelle de l’énergie s’en désintéresse largement, car la technologie n’est pas encore mature et aucune filière n’est aujourd’hui suffisamment structurée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302579" ordre_absolu_seance="105" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638613" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Demandez aux Écossais !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302579" ordre_absolu_seance="106" id_acteur="PA720334" id_mandat="PM722932" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638612" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En témoigne, en 2018, la fermeture prématurée par Naval Group de son site de Cherbourg.<br/>Pour autant, des projets sont menés et des expérimentations sont en cours – sur la rivière d’Étel ou encore sur le Rhône, près de Lyon. Ces deux expérimentations sont d’ailleurs soutenues financièrement par l’Union européenne à travers les régions. Alors, comment soutenir cette filière ? Ne pourrait-on, par exemple, simplifier les procédures et accorder un tarif de l’électricité plus attractif, dit H16 ?<br/>Il en est de même de la petite hydroélectricité en général, notamment de basse chute au fil des rivières, pour laquelle des solutions innovantes et validées existent désormais, notamment pour préserver des continuités écologiques et des passes à poissons.<br/>Elle est également ignorée par la PPE, alors qu’elle représente un potentiel énergétique considérable, mis en évidence en 2006 par le rapport Dambrine, resté sans effet à ce jour. À titre d’exemple, les associations des moulins ont évalué le potentiel de production des seuls moulins à eau à l’équivalent d’un demi-réacteur nucléaire.<br/>Pour ma part, j’ai la conviction que l’hydrolien et la petite hydroélectricité peuvent contribuer à l’autonomie énergétique des zones non interconnectées au réseau d’électricité, telles que les îles de la métropole et des outre-mer. Certaines îles sont encore très dépendantes au fioul et cherchent à s’en défaire – je pense à Molène, à Sein, à Ouessant.<br/>En plus de soutenir la transition énergétique, ces sources d’énergie auraient l’énorme avantage de se fondre dans le paysage et, contrairement à l’éolien, d’échapper aux justes contraintes de la loi littoral.<br/>Ainsi, madame la secrétaire d’État, il importe que la France accorde par votre intermédiaire, tout en tenant compte des leçons de l’échec de Cherbourg, son concours au développement de l’énergie hydraulique, qui représente une énergie maritime formidable dans le mix énergétique, en particulier dans les zones non interconnectées et à l’export. <italique>(Applaudissements sur les bancs du groupe MODEM. – M. Martial Saddier applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie-Noëlle Battistel" id_acteur="PA342415" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722826">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302586" ordre_absolu_seance="113" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638541" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie-Noëlle Battistel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302587" ordre_absolu_seance="114" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638542" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je voudrais tout d’abord remercier le groupe GDR d’avoir bien voulu proposer à l’ordre du jour de notre Assemblée ce débat sur l’avenir du secteur hydroélectrique.<br/>Certains jugeront peut-être ce sujet technique, anecdotique ou éloigné des préoccupations quotidiennes exprimées par les Français, notamment en cette période d’urgence sociale et démocratique. Pour ma part, j’ai la faiblesse de penser qu’il s’agit d’un débat éminemment politique, au sens le plus noble du terme, déterminant sur le fond comme sur la forme.<br/>Non seulement ce débat de fond touche au quotidien des Français et interroge notre vision de la transition énergétique, donc de l’avenir, mais il est aussi révélateur de la manière dont nous concevons l’action publique.<br/>Ces dernières années, notre assemblée s’est saisie à plusieurs reprises de ce sujet. Lors de chacun de nos débats, sans dogmatisme, nous avons conclu à l’importance du service public de l’hydroélectricité, à la nécessité de la sécurité de tous et au caractère primordial de la maîtrise de l’eau.<br/>À chaque fois, bien au-delà de nos sensibilités politiques, nous avons rappelé que l’hydroélectricité est à la fois un patrimoine national tout autant qu’une chance pour le mix énergétique français et la transition énergétique.<br/>Tout cela, nous l’avons dit à l’occasion du rapport d’information de la commission des affaires économiques sur l’hydroélectricité, que j’avais présenté avec mon collègue Éric Straumann  en 2013.<br/>Nous l’avons rappelé dans la loi relative à la transition énergétique pour la croissance verte, adoptée en 2015. Et nous l’avons encore réaffirmé  en 2018 devant la commission des affaires économiques, en présentant les conclusions du groupe de travail relatif aux concessions hydroélectriques que j’ai eu l’honneur de présider.<br/>Je ne reviendrai donc que brièvement sur ce qui semble sonner à l’oreille de beaucoup comme une évidence : le maintien du caractère public de nos concessions hydroélectriques est une nécessité.<br/>Si nous devons sauvegarder le caractère public de ce patrimoine, ce n’est pas seulement parce que l’hydroélectricité est vertueuse, parce qu’elle est la première source de production d’énergie renouvelable ; ce n’est pas seulement parce qu’elle contribue à équilibrer le mix énergétique, tout en augmentant la part des énergies renouvelables, ni parce qu’elle représente 25 000 emplois directs et indirects ; ce n’est pas seulement parce que nous avons le devoir d’assurer la gestion des crues, la sécurité des riverains et des milliers de personnes qui peuplent les bassins versants ; ce n’est pas seulement pour sa capacité de stockage et sa flexibilité, qui sont indispensables à l’intégration des autres énergies propres, toutes intermittentes ; ce n’est pas seulement parce qu’elle nous permet de contribuer à l’indépendance énergétique de notre pays.<br/>C’est bien sûr pour tout cela, mais aussi pour le service public de l’eau, le multi-usage de l’eau et les rôles propres des barrages sur nos territoires.<br/>L’hydroélectricité joue en effet un rôle crucial sur le multi-usage de l’eau, en matière d’irrigation agricole, de soutien d’étiage, ou encore de tourisme.<br/>Je l’ai déjà écrit, je l’ai déjà dit et je le répète ici avec force : aborder la gestion des concessions sous le seul angle de la production d’énergie serait une erreur. Il faut au contraire prendre en compte l’ensemble des aspects qu’elle concerne, notamment le bien commun qu’est l’eau.<br/>Nous devons nous interroger, chers collègues : alors que chacun reconnaît la nécessité d’augmenter la part du renouvelable dans notre mix énergétique, est-il sérieux que notre pays se sépare de la gestion publique de l’outil hydroélectrique ?<br/>Est-il acceptable de donner les clés de notre sécurité, de l’usage de l’eau, à des entreprises dont la recherche de rentabilité s’accommoderait mal de l’intérêt général ?<br/>Est-il équitable, enfin, d’ouvrir des procédures de mise en concurrence ne reposant sur aucun principe de réciprocité ? Accepterions-nous de confier l’exploitation de nos ouvrages à des entreprises étrangères, alors même que dans leurs pays d’origine, nos entreprises françaises ne seraient pas autorisées à concourir ?<br/>Personne ne semble vraiment contester cela. Nous ne devrions donc pas avoir trop de difficulté à en tirer des conclusions communes et à proposer, tous ensemble, de manière volontariste, des solutions pour garder ces concessions dans le giron public et ne pas engager la mise en concurrence.<br/>L’hydroélectricité, qui repose sur les deux biens communs que sont l’eau et l’énergie, relève davantage du service public que du service marchand. C’est une évidence.<br/>Par ailleurs, la mise en demeure adressée à notre pays est de moins en moins justifiée. Elle repose sur la dénonciation de la situation dominante d’EDF, position qui se réduit de fait chaque mois avec l’ouverture du marché de détail et la montée en puissance des énergies renouvelables, portées majoritairement par des opérateurs concurrents, ce qui réduit mécaniquement ses parts de marché.<br/>En conclusion, madame la secrétaire d’État, je souhaiterais que nous puissions convenir ici que la mise en concurrence de nos barrages n’est pas une fatalité. Il ne s’agit pas pour nous de dire que le combat serait gagné d’avance ou que la seule volonté de la République française suffirait à convaincre les instances européennes.<br/>Nous, députés socialistes, restons persuadés que, pour être gagné, le combat pour le service public de l’énergie doit être mené. Nous refusons de baisser la garde ou d’accepter cette fatalité dogmatique. Nous refusons de nous contenter de la vigilance gouvernementale, qui ferait d’une mise en concurrence opérée par paquets une victoire pour « limiter les dégradations sociales ».<br/>Nous refusons de prendre la responsabilité de fragiliser une filière reconnue dans le monde entier, portée par nos opérateurs historiques, qui a fait la preuve de son efficacité énergétique et qui reste une vitrine de l’excellence industrielle et énergétique française. <italique>(Applaudissements sur les bancs des groupes SOC, GDR, LT et LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Lise Magnier" id_acteur="PA720230" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722898">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302609" ordre_absolu_seance="135" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638564" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Lise Magnier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1302610" ordre_absolu_seance="136" id_acteur="PA720230" id_mandat="PM722898" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638565" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Lise Magnier</nom>
+              <id>720230</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Notre séance de ce soir porte en effet sur l’avenir de l’hydroélectricité dans notre pays. Mes collègues l’ont dit, ce n’est pas un sujet mineur.<br/>L’hydroélectricité constitue une part importante dans le mix électrique français, puisqu’elle représente 10 % à 12 % de l’électricité au niveau national et 61 % de l’électricité produite à partir d’énergies renouvelables en France.<br/>Cela en fait la première source d’électricité renouvelable, l’éolien ne représentant que 5 % de l’électricité en France, le solaire 2 % et les bioénergies 1,5 %. À l’échelle de l’Europe, l’hydroélectricité couvre 16 % des besoins électriques, ce qui fait de la France l’un des premiers pays européens producteurs, après la Norvège.<br/>Notre pays compte sur son territoire 2 300 concessions hydroélectriques, de taille et de puissance très diverses : 40 % de l’hydroélectricité est fournie par des ouvrages installés sur les lacs ; 26 % par les stations de transfert d’énergie par pompage.<br/>Le principal objectif de la programmation pluriannuelle de l’énergie est de développer la production du parc hydraulique existant et de l’étendre avec l’installation de centrales hydroélectriques sur des barrages existants, mais qui n’en sont pas encore équipés.<br/>Cependant, le secteur hydroélectrique rencontre encore quelques difficultés, qui freinent son développement.<br/>S’agissant de la réglementation européenne, tout d’abord, la directive-cadre sur l’eau, adoptée en 2000 et transposée en 2004 dans la loi française, a eu une forte incidence sur la protection des cours d’eau, avec le classement de nombre d’entre eux sur la liste 1, qui interdit la dégradation de la continuité écologique par la création de nouveaux obstacles à cette continuité. Cette réglementation environnementale bloque de nombreux projets hydroélectriques sur notre territoire.<br/>Comme cela a été dit, l’ouverture à la concurrence des concessions hydroélectriques constitue aussi un frein au développement de nouveaux projets hydroélectriques.  150 d’entre elles arriveront à échéance d’ici à 2023 et le changement de concessionnaire suscite de nombreuses inquiétudes, notamment chez les salariés de ces concessions, dans un secteur qui emploie 25 000 personnes sur notre territoire.<br/>Il est impératif de sortir de cet enlisement pour lever un obstacle important à l’installation de nouveaux projets hydroélectriques, car ce climat d’inquiétude n’encourage pas leur développement.<br/>Les acteurs de la filière hydroélectrique subissent également une hausse des taxes locales depuis plusieurs années. Ces dernières ont pu augmenter de 10 euros par mégawattheure, ce qui correspond à un tiers du prix de vente, alors même que le prix de l’électricité a baissé de 30 % depuis 2010.<br/>Enfin, le secteur hydroélectrique a connu une diminution de sa production de 18 % en 2017, en raison d’un déficit d’eau supérieur à 10 % en moyenne sur le territoire par rapport à l’année précédente.<br/>Ainsi, chute de la pluviométrie, baisse du prix de l’électricité, mais aussi pression de la fiscalité et des réglementations environnementales sont autant d’obstacles à la production d’hydroélectricité sur notre territoire. Il est donc nécessaire que l’ensemble des acteurs affichent davantage de cohérence pour un développement optimal.<br/>Le développement de l’hydroélectricité sur notre territoire passe également par une multiplication des installations de petite et micro-hydroélectricité.<br/>L’hydroélectricité dite petite et micro peut se définir comme la production d’une électricité propre, sans déchet dans les cours d’eau, ni pollution de l’air, ni émission de CO<indice>2</indice>, ni consommation d’eau grâce au turbinage au fil de l’eau.<br/>La loi permet à chacun d’exploiter une petite centrale hydroélectrique pour sa propre consommation d’électricité ou pour sa vente. Les installations de micro-hydroélectricité s’adaptent aussi bien à un point d’eau qu’à une rivière ou un cours d’eau privatif et produisent une électricité stable. Si l’investissement dans une microcentrale peut s’avérer coûteux, il est rentable sur le long terme puisque les turbines utilisées résistent plusieurs dizaines d’années sans devoir être changées. Cependant, les obstacles réglementaires et procéduraux sont aujourd’hui insurmontables. Dans ma ville de Châlons-en-Champagne, il a fallu deux ans et demi pour obtenir l’autorisation d’installer une microcentrale hydroélectrique.<br/>Dans la mesure où, à travers la programmation pluriannuelle de l’énergie, le Gouvernement s’est engagé à atteindre 40 % d’énergies renouvelables dans le mix électrique, il serait judicieux d’encourager encore davantage le développement de la petite et micro-hydroélectricité en facilitant les procédures et en levant les freins que vous avez certainement identifiés.<br/>Il paraît important de multiplier les sources de l’hydroélectricité et de permettre son développement en rassurant les acteurs. <italique>(Applaudissements sur les bancs des groupes LT, MODEM et LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Caroline Fiat" id_acteur="PA720286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722918">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302425" ordre_absolu_seance="9" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638701" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Caroline Fiat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302426" ordre_absolu_seance="10" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638702" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Peut-on encore croire aux vertus salvatrices de la privatisation de nos biens publics au travers de montages public-privé ? Peut-on encore y croire un seul instant ?<br/>Les sites hydroélectriques représentent la limite à ne pas franchir : le transfert à des sociétés privées d’une infrastructure rentable que nous avons financée collectivement est une impasse économique et écologique.<br/>Actuellement, 662 barrages stockent 75 % des réserves en eau douce de surface. Première source d’énergie renouvelable, ils produisent 12 % de l’électricité de notre territoire et totalisent 2,5 milliards d’euros annuels d’excédent brut.<br/>En outre, l’hydroélectricité est au cœur d’un système éco-dynamique dans plusieurs régions de France. Elle est alors indissociable de l’agriculture, de l’industrie, du tourisme, et essentielle pour l’approvisionnement en eau potable. C’est donc un secteur hautement stratégique.<br/>Votre prétendue transition écologique est fondée sur le tout électrique. Passons sur les problèmes techniques et économiques pour en venir à la question de l’électricité. Un parc automobile de 36 millions de véhicules tout électriques nécessiterait l’équivalent de la production d’électricité de dix à quinze réacteurs nucléaires selon les calculs de l’ADEME – Agence de l’environnement et de la maîtrise des énergies. Comment pouvez-vous envisager de privatiser la première source d’électricité renouvelable tout en souhaitant le développement des voitures électriques et la réduction de la part du nucléaire ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302431" ordre_absolu_seance="15" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638707" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302432" ordre_absolu_seance="16" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638708" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après des décennies de négociations avec Bruxelles, vous n’avez pas simplement cédé, vous avez devancé les demandes européennes. Là où les gouvernements précédents temporisaient, vous sautez à pieds joints.<br/>Pourtant, vous auriez pu suivre l’exemple de la Slovénie en inscrivant dans la Constitution les barrages en tant que grand service public de l’eau afin d’éviter toute interférence de la part de la Commission.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302434" ordre_absolu_seance="18" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638710" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302435" ordre_absolu_seance="19" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638711" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour vous, c’était trop ; il fallait mettre fin à l’abus de position dominante d’EDF, incompatible avec l’article 106 du traité sur le fonctionnement de l’Union européenne.<br/>Mais le comble, c’est que le premier lot concerne les barrages les plus rentables – et d’emblée, vous empêchez EDF de se porter candidat pour plus de 60 % d’un lot hydroélectrique.<br/>Pour information, EDF investit chaque année 400 millions d’euros dans le renforcement des installations. Exclure l’entreprise publique d’un grand nombre d’appels d’offres, c’est se passer d’une expérience de terrain de soixante-quinze ans et maximiser les risques de catastrophe. Confier la gestion des barrages à des opérateurs aura des conséquences néfastes et multiples.<br/>Comme à votre habitude, vous vous évertuez à tenir un double discours. M. Macron, dans sa lettre aux citoyens d’Europe, dit vouloir « refonder notre politique commerciale : sanctionner ou interdire en Europe les entreprises qui portent atteinte à nos intérêts stratégiques et nos valeurs essentielles, comme les normes environnementales, la protection des données et le juste paiement de l’impôt ».<br/>Or, personne d’autre que vous ne porte atteinte à nos intérêts stratégiques. Le mythe des bienfaits de la privatisation ne trompe personne, et surtout pas dans le domaine de l’hydroélectricité. Même un pays comme les États-Unis, pourtant à la pointe du libéralisme économique, est revenu sur son choix en abandonnant la libéralisation de la gestion des barrages hydroélectriques.<br/>Il suffit de regarder l’expérience de vos prédécesseurs sur ces manœuvres de privatisation pour comprendre que tout ceci se traduit par une perte de pouvoir d’achat pour nos concitoyens.<br/>Prenons l’exemple de la privatisation des autoroutes en 2006 au profit de Vinci, Eiffage, etc. La rentabilité bat des records. Les concessions représentent entre 20 % et 24 % du chiffre d’affaires de ces entreprises. Elles ont permis à leurs actionnaires d’encaisser 14,9 milliards d’euros de dividendes entre 2006 et 2013.<br/>En 2014, l’Autorité de la concurrence considérait que cette « rentabilité exceptionnelle n’apparaissait justifiée ni par leurs coûts ni par les risques auxquels elles sont exposées ». Elle préconisait alors la révision du mécanisme d’indexation des tarifs des péages – qui avaient fortement augmenté – et l’obligation pour les sociétés d’autoroutes de réinvestir leurs bénéfices et de les partager avec l’État.<br/>Mais cela est impossible parce que les concessions arrivent à échéance entre 2027 et 2035. L’État ne dispose d’aucun moyen de pression, puisque les contrats signés avantagent les entreprises privées.<br/>C’est une liquidation de nos services publics que vous orchestrez au détriment de l’intérêt général : aéroports, autoroutes, stationnement, ports, train et maintenant les barrages.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302444" ordre_absolu_seance="173" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638756" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302445" ordre_absolu_seance="174" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638721" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une maladie macronienne !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302446" ordre_absolu_seance="175" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638722" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les transformations climatiques annoncées dans les prochaines décennies feront de l’eau un objet de tensions. Elles feront peser à long terme des contraintes sur les ressources en eau, notamment à cause des sécheresses.<br/>Comment allons-nous assurer un apport en eau à un coût juste pour nos concitoyens alors que l’opérateur privé cherchera à maximiser ses gains dans un contexte de changement climatique ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302448" ordre_absolu_seance="177" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638724" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est scandaleux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302449" ordre_absolu_seance="178" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638725" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aux yeux de La France insoumise, l’augmentation des prix des autoroutes est un parfait exemple de ce que la logique de privatisation des biens publics constitue une atteinte fondamentale aux intérêts vitaux de notre pays, de nos concitoyens et concitoyennes. <italique>(Applaudissements sur les bancs des groupes FI, GDR, SOC et LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État auprès du ministre d'État, ministre de la transition écologique et solidaire" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302450" ordre_absolu_seance="179" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638726" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès du ministre d’État, ministre de la transition écologique et solidaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302451" ordre_absolu_seance="180" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638727" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État auprès du ministre d’État, ministre de la transition écologique et solidaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous le savez, le Gouvernement soutient pleinement la production d’hydroélectricité pour une raison simple, que vous avez tous soulignée : c’est notre première source de production d’électricité renouvelable. L’hydroélectricité est essentielle à la fois pour le système électrique national, pour nos objectifs d’énergie renouvelable et pour le développement économique local.<br/>Le bilan de l’année 2018 publié récemment par RTE indique que l’hydroélectricité a permis de produire 68 térawattheures, soit l’équivalent de 14 % de notre consommation d’électricité.<br/>Le maintien et le développement de cette ressource, dans le respect des enjeux environnementaux, sont donc indispensables pour atteindre les objectifs énergétiques et climatiques ambitieux que notre pays s’est fixés.<br/>Le projet de révision de la PPE donne de la visibilité au développement de cette filière, d’abord en faisant le point sur le potentiel technique restant et surtout en fixant des objectifs de développement ambitieux. Le Gouvernement souhaite ainsi atteindre l’objectif de 26,4 à 26,7 gigawatts de puissance installée en 2028.<br/>Ces objectifs doivent être atteints grâce à l’optimisation et au suréquipement de barrages existants, mais aussi, dans une moindre mesure, par l’équipement de quelques nouveaux sites de puissance moindre.<br/>Je pense notamment à la petite hydroélectricité, qui fait l’objet, au même titre que les autres filières renouvelables, d’un constant soutien du Gouvernement, lequel se traduit, d’une part, par un arrêté tarifaire pour les plus petites installations, et d’autre part, par des appels d’offres de 35 mégawatts, lancés chaque année par le ministère de la transition écologique et solidaire.<br/>Mais le principal enjeu de la filière reste celui du renouvellement des concessions hydroélectriques. À la différence d’autres pays où les installations hydroélectriques appartiennent aux exploitants privés, en France, les grandes installations sont exploitées sous le régime de la concession. Ce régime permet un contrôle fort au travers de la réglementation et du contrat signé entre l’État et le concessionnaire, garantissant ainsi le respect de l’intérêt public.<br/>Le droit français, en conformité avec le droit européen, prévoit que les concessions hydroélectriques échues doivent être renouvelées par mise en concurrence. La loi de transition énergétique…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302459" ordre_absolu_seance="188" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638735" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Que vous ne respectez pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302460" ordre_absolu_seance="189" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638736" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…, votée sous le gouvernement précédent, avec le soutien de députés ici présents, a introduit plusieurs mesures capables de garantir le respect de l’intérêt public lors de ces renouvellements. Je pense notamment à la possibilité pour les collectivités locales d’être associées à la concession dans le cadre d’une société d’économie mixte hydroélectrique…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302461" ordre_absolu_seance="190" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638737" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est du pipeau !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302462" ordre_absolu_seance="191" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638738" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…mais aussi à l’option de regrouper des concessions pour faciliter leur exploitation, ou encore aux dispositions destinées à protéger les salariés des concessions.<br/>Comme vous le savez, comme vous l’avez tous rappelé, la Commission européenne a adressé en 2015 une mise en demeure aux autorités françaises au sujet des concessions hydroélectriques. Les gouvernements successifs ont contesté les fondements de cette mise en demeure…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302464" ordre_absolu_seance="193" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638740" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils ont eu raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302465" ordre_absolu_seance="194" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638741" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…mais ont entretenu de nombreux échanges avec la Commission européenne afin de parvenir à une solution partagée et équilibrée. La Commission n’a pas validé les différentes propositions faites, ni formulé de contre-propositions que nous pourrions juger acceptables.<br/>Néanmoins, le Gouvernement souhaite poursuivre les discussions dans le même état d’esprit, en tenant compte de l’ensemble des enjeux et de l’intérêt public. L’objectif est de sortir du statu quo, car, aujourd’hui, celui-ci nuit aux investissements dans le secteur et constitue une source d’incertitude pour les entreprises, les salariés et les collectivités. Mais cela exige une approche équilibrée, respectueuse de points qui sont pour nous intangibles. Ainsi, il ne peut être question d’interdire à EDF de candidater au renouvellement de ses propres concessions, ni de la défavoriser, ni encore de mettre en concurrence des concessions non encore échues.<br/>Vous l’aurez compris, le renouvellement des concessions est une politique nationale que nous souhaitons mener de manière stratégique. Il s’agit notamment d’optimiser la gestion de nos barrages et de relancer l’investissement, tout en redistribuant des ressources financières vers les territoires par de nouvelles redevances. Il ne faut pas oublier que les barrages appartiennent à l’État et demeureront propriété de l’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302468" ordre_absolu_seance="197" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638744" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais il faut les entretenir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1302469" ordre_absolu_seance="198" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638745" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, j’ai bien conscience que des inquiétudes se font jour parmi les salariés et chez certains élus. Je tiens donc à vous rassurer quant à notre démarche. D’une part, nous nous attacherons à informer régulièrement les acteurs sur l’avancée des discussions, et d’autre part, nous veillerons à ce que ce processus ne puisse pas aboutir à une dégradation sociale ou territoriale. J’ajoute que les préoccupations de sécurité sont fondamentales pour nous et le resteront. D’ailleurs, une réglementation exigeante s’applique déjà, sous le contrôle de l’État, par le biais des DREAL – directions régionales de l’environnement, de l’aménagement et du logement. Elle restera un impératif, un prérequis non négociable. Elle a d’ailleurs été renforcée par un arrêté ministériel national pris l’année dernière.<br/>Les cahiers des charges des concessions permettent de prendre en compte les enjeux d’intérêt général liés aux usages de l’eau, au soutien d’étiage, à la protection de l’environnement. C’est un impératif de l’État, auquel nous souhaitons associer étroitement les collectivités.<br/>C’est à ces conditions, et uniquement à ces conditions, que l’hydroélectricité pourra jouer tout son rôle dans la transition énergétique et le développement des territoires. Je sais que vous partagez ici les préoccupations du Gouvernement. Il s’agit là de défendre l’intérêt général. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique>  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gabriel Serville" id_acteur="PA610667" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723146">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302721" ordre_absolu_seance="201" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638026" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux questions.<br/>La parole est à M. Gabriel Serville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302722" ordre_absolu_seance="202" id_acteur="PA610667" id_mandat="PM723146" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638027" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gabriel Serville</nom>
+              <id>610667</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Alors que les gouvernements précédents ont tous cherché à gagner du temps face aux pressions de Bruxelles – je pense notamment à la proposition pertinente de Delphine Batho de créer des sociétés d’économie mixte pour exploiter nos barrages –, vous vous apprêtez à plier sous l’Europe de l’argent en ouvrant à la concurrence nos 150 plus grands ouvrages hydroélectriques.<br/>Je ne rappellerai pas les chiffres, d’autres l’ont déjà fait avant moi. En revanche, je tiens à manifester ma profonde opposition à ce qui ressemble fort à un non-sens stratégique et économique : vous n’escomptez que 520 millions d’euros de redevances annuelles, alors que l’excédent brut annuel des concessions s’élève actuellement à 2,5 milliards d’euros, dont la moitié revient aux collectivités territoriales. En réalité, les réformes envisagées diviseront par cinq l’argent qui entre dans les caisses publiques.<br/>Et je vous fais grâce des questions soulevées en matière de sécurité, alors que plusieurs ouvrages présentent des risques sérieux, souvent en raison de leur grand âge. Les investisseurs auront-ils envie d’investir pour les entretenir convenablement, sachant qu’EDF dépense 400 millions d’euros par an pour renforcer ses ouvrages ? Il y a de quoi s’inquiéter quand on voit le fonctionnement de la vaste majorité des infrastructures dont la gestion et la maintenance ont été confiées à des acteurs privés, notamment des réseaux de distribution d’eau et des autoroutes.<br/>S’agissant de la Guyane, je suis particulièrement préoccupé par le barrage de Petit-Saut, le premier de France par la surface d’ennoiement, qui alimente les trois quarts des foyers du littoral et représente 55 % de la production électrique du territoire. Ses coûts de production sont les plus élevés de France.<br/>Pouvez-vous me préciser, madame la secrétaire d’État, si le projet d’ouverture à la concurrence concerne également les ouvrages situés outre-mer ? Si oui, qu’en sera-t-il de l’avenir du barrage de Petit-Saut ?<br/>Par ailleurs, puisque nous débattons ce soir de l’avenir du secteur hydroélectrique, pouvez-vous nous indiquer votre position sur le projet, écocide, d’un second barrage hydroélectrique en Guyane ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302727" ordre_absolu_seance="208" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638032" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302728" ordre_absolu_seance="209" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638033" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je me demande si vous étiez présent dans l’hémicycle, monsieur Serville, au moment où j’ai prononcé mon discours introductif… Je ne vais pas le reprendre. Je vous conseille de le réécouter, ce qui nous permettra d’engager la discussion sur de bonnes bases. <italique>(Exclamations sur les bancs des groupes GDR et FI.)</italique><br/>L’hydroélectricité joue déjà un rôle très important en Guyane, puisqu’elle représente plus de la moitié de la production électrique du territoire, notamment grâce au grand barrage de Petit-Saut. Un second grand barrage hydroélectrique présenterait un certain intérêt pour le système électrique guyanais, mais son impact environnemental devrait faire l’objet d’une attention toute particulière, compte tenu des enjeux spécifiques du territoire.<br/>C’est pourquoi l’actuelle programmation pluriannuelle de l’énergie de la Guyane prévoit la réalisation d’études sur les potentiels techniques de l’hydroélectricité ainsi que d’une étude sur l’opportunité d’un second grand barrage « au regard de la dynamique de développement du territoire et de ses impacts environnementaux, sociaux et économiques ». Les services de l’État apporteront leur appui à la collectivité territoriale pour la réalisation de ces études et pour les suites éventuelles qui y seront données.<br/>Comme vous le savez, monsieur le député, vous pouvez discuter de cette question avec les services du ministère de la transition écologique et solidaire. Pour le reste, je vous invite à vous référer à mon propos introductif.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302732" ordre_absolu_seance="213" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638037" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Restez zen, madame la ministre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302733" ordre_absolu_seance="214" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638038" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous répondez à un élu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302734" ordre_absolu_seance="215" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638039" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, s’il vous plaît…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302735" ordre_absolu_seance="216" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638040" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Restez dans l’hémicycle, chers collègues !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302736" ordre_absolu_seance="217" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638041" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302737" ordre_absolu_seance="218" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638042" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les atouts de la filière hydroélectrique ne sont plus à démontrer. Les orateurs précédents les ont rappelés : il s’agit de la première énergie renouvelable ; les barrages contribuent au maintien de l’étiage des rivières, à l’écrêtement des crues et au stockage de l’eau. Qui plus est, c’est un secteur crucial pour certains territoires de montagne, notamment en matière d’emploi et d’aménagement.<br/>Ce secteur connaît des innovations majeures qui visent à améliorer la flexibilité ou la gestion du stockage de l’électricité. Celles-ci impliquent des investissements massifs et de long terme.<br/>Cela a été dit, nombre de concessions accordées au mitan du XX<exposant>e </exposant>siècle, très majoritairement au profit d’EDF, sont parvenues à expiration ou y parviendront dans les dix ans qui viennent. Cette situation découle de la libéralisation du secteur et de l’ouverture à la concurrence du marché européen de l’électricité. Le dossier constitue un point de friction entre Paris et Bruxelles.<br/>Depuis près de six ans, nous rappelons régulièrement dans cette assemblée combien l’hydroélectricité, première énergie renouvelable, pourtant trop peu considérée, constitue un atout en matière énergétique. Je salue le travail remarquable réalisé par Marie-Noëlle Battistel à ce sujet et la constance avec laquelle elle défend ce secteur industriel stratégique, qui appartient au patrimoine national.<br/>Le Gouvernement poursuit des négociations avec Bruxelles à propos de l’ouverture des concessions hydroélectriques à la concurrence. Qu’en est-il de ces tractations, qui inquiètent dans nos territoires ? À quelle échéance pensez-vous les achever ?<br/>Nous savons que des opérateurs privés, notamment étrangers, lorgnent sur ces concessions. Bruxelles souhaite, semble-t-il, que l’opérateur historique, EDF, ne puisse pas candidater au renouvellement de toutes les concessions. Est-ce bien le cas ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302743" ordre_absolu_seance="224" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638048" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle pose des questions précises, elle a raison ! </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302744" ordre_absolu_seance="225" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638049" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il paraît peu pertinent, voire irresponsable, d’ouvrir à la concurrence un secteur aussi stratégique. Nous sommes attachés à notre modèle de service public énergétique. Quelle est votre modèle, madame la secrétaire d’État ? Comment envisagez-vous de garantir la bonne gestion de notre industrie hydroélectrique du point de vue de la sûreté et de la sécurité énergétiques ? <italique>(Applaudissements sur les bancs des groupes LT et FI. – Mme Émilie Bonnivard applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302745" ordre_absolu_seance="226" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638050" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Encore une députée qui n’a pas écouté ce que disait Mme Poirson… <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302746" ordre_absolu_seance="227" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638051" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302747" ordre_absolu_seance="228" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638052" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je sais que vous, monsieur Lecoq, vous m’avez écoutée et je suis ravie de constater que vous êtes très attentif à tout ce que je dis !<br/>Vous m’avez interrogée, madame Dubié, sur l’état des négociations entre le Gouvernement et la Commission européenne. Comme vous le savez, la Commission nous a adressé une mise en demeure au sujet des concessions hydroélectriques, que les gouvernements successifs ont contestée. Nous continuons à discuter avec elle de façon à trouver un terrain d’entente. Elle a été, vous le savez, particulièrement véhémente à notre égard. Pour notre part, nous tenons à ce que les dispositifs existant dans le droit français soient appliqués de manière équilibrée. Nous avons soumis plusieurs propositions, qui n’ont pas été validées. De son côté, la Commission n’a pas formulé de proposition alternative. Nous poursuivons donc les discussions avec elle, notre objectif étant de sortir du statu quo, car celui-ci nuit aux investissements dans le secteur et suscite des interrogations de la part des collectivités, de ceux qui travaillent pour les barrages hydroélectriques et des populations locales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302749" ordre_absolu_seance="230" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638054" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous pouvons faire ce que nous voulons ! Il adviendra ce qu’il adviendra ! Un peu de courage !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Stéphanie Kerbarh" id_acteur="PA721514" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723298">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302750" ordre_absolu_seance="231" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638055" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Stéphanie Kerbarh.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302751" ordre_absolu_seance="232" id_acteur="PA721514" id_mandat="PM723298" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638056" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Stéphanie Kerbarh</nom>
+              <id>721514</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Concernant le renouvellement des concessions hydrauliques, il convient de rappeler que la mise en concurrence porte avant tout sur un savoir-faire détenu par des employés attachés à l’ouvrage hydraulique. Si l’on brise le quasi-monopole d’EDF en matière de production d’énergie hydraulique, qu’adviendra-t-il des employés attachés directement ou indirectement à l’ouvrage ? Comment qualifiez-vous juridiquement le critère de « l’emploi équivalent » que le futur concessionnaire devra proposer aux salariés ? La France ne risque-t-elle pas de perdre son savoir-faire et donc, de facto, son indépendance énergétique ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302752" ordre_absolu_seance="233" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638057" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302753" ordre_absolu_seance="234" id_acteur="PA721514" id_mandat="PM723298" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638058" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Stéphanie Kerbarh</nom>
+              <id>721514</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Par ailleurs, comme la Commission de régulation de l’énergie ne détient aucune compétence en matière de concessions hydroélectriques, quelles garanties le Gouvernement apportera-t-il à son opérateur historique, EDF, pour qu’il ne soit pas pénalisé lors de la mise en concurrence des concessions ? En d’autres termes, comment protéger juridiquement les candidatures d’EDF aux futurs appels d’offres, sachant que l’État est à la fois le propriétaire des ouvrages hydroélectriques, l’autorité concédante, l’organisateur des appels d’offres et l’actionnaire majoritaire de l’opérateur historique ? Le juge administratif ne risque-t-il pas d’accueillir favorablement les recours fondés sur l’hypothèse d’un conflit d’intérêts ?<br/>Pourquoi ne pas confier un rôle d’organisatrice à la Commission de régulation de l’énergie, comme pour les appels d’offres photovoltaïques ou éoliens onshore et offshore, afin de garantir une gestion indépendance des appels d’offres hydrauliques ?<br/>La France a la chance de bénéficier de plus de 2 300 installations hydrauliques, qui font de cette « houille blanche » la première source d’énergie renouvelable. Il serait dommage que la mise en concurrence vienne cristalliser des tensions sur l’une des rares sources d’énergie qui fait consensus.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302756" ordre_absolu_seance="237" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638061" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mme Kerbarh était, elle aussi, présente dans l’hémicycle… <italique>(Sourires.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302757" ordre_absolu_seance="238" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638062" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302758" ordre_absolu_seance="239" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638063" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous allons peut-être verser toute la soirée dans un certain comique de répétition… <italique>(Exclamations sur les bancs des groupes GDR et FI.)</italique><br/>Comme j’ai eu l’occasion de le rappeler, le Gouvernement soutient pleinement la production hydroélectrique. Il est convaincu de l’importance stratégique de la filière, tant au niveau national que dans les territoires. J’ai également souligné que le modèle français en matière d’hydroélectricité garantissait le respect de l’intérêt public lors du renouvellement des concessions hydroélectriques.<br/>En particulier, comme vous l’avez rappelé, la loi a prévu des mesures protectrices pour les salariés des concessions hydroélectriques, qui garantissent le maintien de leur statut et leur reprise par le nouveau concessionnaire dans des conditions équivalentes. La notion d’équivalence revêt une importance particulière à nos yeux, car les salariés concernés doivent se voir proposer, par le nouveau concessionnaire, un emploi assorti de responsabilités, d’une rémunération et d’avantages sociaux similaires à ceux qui sont attachés à leur emploi actuel. Bien entendu, des discussions auront lieu entre les personnels, le concessionnaire sortant et le concessionnaire entrant pour arrêter les modalités pratiques de reprise, mais les dispositions que j’ai citées constituent des garanties importantes. L’État y sera particulièrement attentif le moment venu.<br/>Concernant le deuxième point que vous avez soulevé, j’ai rappelé qu’il ne saurait être question d’interdire à EDF de candidater au renouvellement de ses propres concessions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302762" ordre_absolu_seance="243" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638067" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>De toutes ses concessions ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302763" ordre_absolu_seance="244" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638068" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous l’avons dit à la Commission européenne.<br/>En revanche, il n’est pas possible de confier à la Commission de régulation de l’énergie la responsabilité de l’octroi des concessions. Pour les autres énergies, la mise en concurrence porte uniquement sur le bénéfice d’un soutien tarifaire accordé à des installations privées. En l’espèce, il s’agit de confier, dans le cadre d’une concession, l’exploitation de biens publics dans des conditions respectueuses des intérêts publics, tant nationaux que locaux, ce qui dépasse largement le domaine de compétence du régulateur.<br/>Selon la taille de la concession, les procédures d’octroi relèvent de la responsabilité du préfet ou de celle du ministre chargé de l’énergie. Elles sont encadrées par des dispositions du code de l’énergie qui visent à garantir leur totale impartialité et leur sécurité juridique. Il y va de notre responsabilité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302766" ordre_absolu_seance="247" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638071" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est toujours pas clair !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Barbara Bessot Ballot" id_acteur="PA722312" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723536">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302767" ordre_absolu_seance="248" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638072" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Barbara Bessot Ballot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302768" ordre_absolu_seance="249" id_acteur="PA722312" id_mandat="PM723536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638073" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Barbara Bessot Ballot</nom>
+              <id>722312</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma question porte sur les freins au développement de la filière hydroélectrique en France.<br/>L’hydroélectricité est, de loin, la première filière de production d’électricité renouvelable, en France et dans le monde. Toutefois, il existe encore de nombreux freins qui fragilisent les installations existantes ou gênent le développement de nouvelles installations. Ils sont notamment de nature réglementaire, par exemple en matière environnementale.<br/>Tout d’abord, la mise en conformité des ouvrages hydroélectriques en matière de continuité écologique entraîne des coûts abyssaux pour les exploitants. Le coût des équipements environnementaux semble disproportionné par rapport aux gains écologiques supposés.<br/>En outre, il existe une instabilité, une complexité et une lourdeur administrative relatives. Ainsi, de nouveaux équipements ou des changements relatifs aux équipements existants peuvent être imposés à des ouvrages. La filière hydroélectrique semble alors faire l’objet d’une politique « à charge » : des ouvrages sont condamnés à l’arasement ; le renouvellement des autorisations est l’occasion de contentieux administratifs ; les procédures administratives pour le développement de nouveaux projets sont longues et jugées trop lourdes. Enfin, la fiscalité locale pèse considérablement sur les installations hydroélectriques.<br/>Le développement de l’hydroélectricité en France et en Europe constitue sans aucun doute une réponse majeure aux problèmes environnementaux, notamment pour le maintien de la continuité des cours d’eau et la préservation de la biodiversité. Quelles mesures le Gouvernement prévoit-il de prendre pour favoriser la modernisation et un développement optimal de la filière dans nos territoires ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302773" ordre_absolu_seance="254" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638078" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1302774" ordre_absolu_seance="255" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638079" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme vous l’avez rappelé, il importe que l’hydroélectricité se développe dans le respect des objectifs de bon état des eaux et de reconquête de la biodiversité. Depuis plusieurs années, vous l’avez dit, de nombreux producteurs ont consenti des efforts importants pour améliorer la qualité environnementale de leur installation, notamment pour garantir la continuité écologique. Ils ont par exemple installé des passes à poissons ou des turbines compatibles avec la circulation des poissons. Certains ont adopté des mesures d’exploitation innovantes.<br/>Bien sûr, ces mesures sont déterminées localement en fonction des enjeux de chaque site et en lien avec les services de l’État. Nous sommes néanmoins conscients que des divergences d’appréciation, voire des conflits peuvent apparaître dans certains cas.<br/>Une première réponse a été apportée avec la mise en place, en mars 2017, de l’autorisation environnementale unique, qui apporte aux porteurs de projet des garanties importantes en termes tant de transparence que de rapidité accrue de la procédure. Beaucoup d’échanges ont lieu entre les directions des ministères et les acteurs de la filière pour orienter ceux-ci vers des projets plus vertueux, tout en limitant les contraintes administratives parfois importantes qui peuvent peser sur les exploitants.<br/>Un groupe de travail a notamment été mis en place avec le Comité national de l’eau, pour faire le point sur la politique de restauration de la continuité écologique, en lien avec l’ensemble des acteurs concernés, dont les représentants de la filière hydroélectrique.<br/>Ses travaux ont débouché sur un plan d’action visant à améliorer la mise en œuvre de cette politique tout en prenant en compte d’autres enjeux, notamment énergétiques ou patrimoniaux. Il se traduira en particulier par des instructions aux services de l’État, afin de leur donner des outils supplémentaires lors de l’instruction des autorisations environnementales.<br/>En ce qui concerne la petite hydroélectricité, j’ai rappelé les mesures de soutien tarifaire dont elle fait l’objet. Il faut néanmoins être conscient que, compte tenu de leur taille et de leur puissance, ces installations ne pourront jouer qu’un rôle limité dans l’atteinte des objectifs nationaux. C’est une réalité.  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Xavier Breton" id_acteur="PA330008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722416">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302668" ordre_absolu_seance="6" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638086" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Xavier Breton.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302669" ordre_absolu_seance="7" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638087" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vais revenir sur l’ouverture à la concurrence lors du renouvellement de concessions, mais j’axerai mon intervention sur la sécurité des barrages hydroélectriques.<br/>On sait qu’aujourd’hui, EDF ou la CNR consacrent des sommes importantes à la sécurité ou à la sécurisation de ces barrages. Il existerait cependant un risque réel si l’ouverture à la concurrence se concrétisait lors du renouvellement des concessions.<br/>Contrairement à ceux qui l’ont précédé, le Gouvernement ne cherche ni à temporiser ni à freiner ce mouvement. Au contraire : il est complice de la libéralisation. Or on peut se demander si de nouvelles entreprises, plus attirées par la rentabilité que par l’intérêt général, continueraient à prendre en compte les impératifs de sécurité.<br/>Il y a quelques semaines, un reportage – certes alarmiste – a pointé le risque d’une rupture du barrage de Vouglans, situé dans le département du Jura. Dans ce cas, 600 millions de mètres cubes d’eau se déverseraient dans les vallées de l’Ain ou des départements voisins, ou encore dans l’agglomération et la métropole de Lyon.<br/>Il faut rassurer les populations. Que compte faire le Gouvernement non pour accompagner la mise en concurrence, mais pour la contester, voire la refuser, car ce n’est pas une fatalité ? D’autre part, si cette ouverture à la concurrence est effective, quelles modalités particulières prévoit-il pour assurer l’entretien et la sécurité des barrages hydroélectriques ?    </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302674" ordre_absolu_seance="12" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638092" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302675" ordre_absolu_seance="13" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638093" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La sécurité dépend d’une réglementation nationale – c’est à ce niveau que se prennent les décisions – qui l’a placée sous la responsabilité de l’exploitant. Le cadre réglementaire est aussi défini par des arrêtés nationaux, qui ont été renforcés en 2018, et par des compléments locaux, lesquels prévoient des inspections périodiques et des travaux de renforcement, comme la création d’évacuateurs de crue plus grands.<br/>La sécurité est une préoccupation majeure, essentielle et fondamentale pour le Gouvernement. Nous y veillons. C’est aussi une raison pour laquelle celui-ci tient à sortir du statu quo et à être volontariste : il faut veiller en premier lieu à la sécurité, et par conséquent donner une perspective aux concessions hydroélectriques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302677" ordre_absolu_seance="15" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638095" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne sais pas si cette réponse est tellement rassurante.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Émilie Bonnivard" id_acteur="PA721410" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723266">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302678" ordre_absolu_seance="16" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638096" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Émilie Bonnivard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302679" ordre_absolu_seance="17" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638097" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La production hydroélectrique représente 60 % de l’énergie renouvelable en France. Historiquement, elle est issue de territoires de montagne, qui ont consenti des sacrifices. Un village comme Tignes a été englouti et de grands travaux ont été accomplis pour que cette énergie propre soit disponible pour tous, notamment dans les territoires urbains.<br/>L’expertise et le savoir-faire des salariés, hommes et femmes qui, depuis des décennies, au sein d’EDF ou de la CNR, ont permis à ces installations de fonctionner en toute sécurité, avec un haut niveau de technicité, font aujourd’hui de la France un leader mondial en la matière.<br/>Députée d’un de ces territoires qui accueille parmi les plus grands barrages et ouvrages hydroélectriques de France – Mont-Cenis, Grand’Maison, centrale de Super-Bissorte –, je vous pose la question suivante : la France va-t-elle être le seul pays européen à accepter de fragiliser ce patrimoine, ce savoir-faire, cette expertise en ouvrant les concessions à la concurrence internationale, sans s’assurer que les enjeux du multi-usage de l’eau – eau potable, agriculture, sécurisation des biens et des personnes, débit d’étiage, enjeu piscicole et biodiversité – soient garantis, ni s’assurer non plus de la réciprocité d’interventions à l’international de l’opérateur historique ? En effet, une entreprise à capitaux essentiellement publics finlandais pourra exploiter nos barrages sans qu’EDF puisse le faire en Finlande.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302682" ordre_absolu_seance="20" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638100" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui ! C’est un vrai problème !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302683" ordre_absolu_seance="21" id_acteur="PA721410" id_mandat="PM723266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638101" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Émilie Bonnivard</nom>
+              <id>721410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comment expliquer cela à nos concitoyens ? Pourquoi la France ne défend-elle pas davantage ses entreprises nationales gérant un patrimoine, une ressource vitale – l’eau –, dont l’usage sera tendu à l’avenir ?<br/>Pourquoi devrions-nous accepter ce que d’autres États européens ont réussi à éviter, l’ouverture à la concurrence, qui n’est voulue ni par la majorité des Français <italique>(M. Hubert Wulfranc applaudit) </italique>ni par les populations locales vivant à proximité de ces barrages ?<br/>Enfin, comment expliquer à nos concitoyens, à quelques mois des élections européennes, que finalement nous n’avons pas d’autre choix et que la France doit se résigner à renoncer à cette ressource stratégique, parce que la Commission européenne l’exige et que nous sommes incapables de faire autrement ? <italique>(Applaudissements sur les bancs des groupes LR, SOC, GDR et FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302686" ordre_absolu_seance="24" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638104" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La secrétaire d’État est en difficulté !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302687" ordre_absolu_seance="25" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638105" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cette fois, il va falloir renoncer au comique de répétition !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302688" ordre_absolu_seance="26" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302689" ordre_absolu_seance="27" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638107" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai répondu dans mon discours introductif à beaucoup des questions très légitimes que vous soulevez. Je répète que le Gouvernement est pleinement concentré sur l’hydroélectricité, sujet qui relève de l’intérêt général.<br/>Nous avons fondamentalement besoin de cette énergie, qui nous permet d’atteindre un mix énergétique équilibré et qui donne sa pleine mesure aux énergies renouvelables. Nous sommes attachés à elle, ainsi qu’à sa sécurité. La programmation pluriannuelle de l’énergie prévoit d’ailleurs d’augmenter encore la production d’énergie hydroélectrique.<br/>Le fait est toutefois que la Commission européenne nous a mis en demeure, en nous indiquant à plusieurs reprises qu’elle souhaite nous voir mettre les concessions hydroélectriques en concurrence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302692" ordre_absolu_seance="30" id_acteur="PA722110" id_mandat="PM723474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638110" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Wulfranc</nom>
+              <id>722110</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sommes-nous à son service ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302693" ordre_absolu_seance="31" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638111" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous lui avons proposé plusieurs options. Elle les a toutes refusées et s’est montrée particulièrement exigeante. Nous avons toutefois fixé certaines lignes rouges, que nous ne voulons pas dépasser.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302694" ordre_absolu_seance="32" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638112" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quand Sarkozy a sauvé les banques, il a franchi la ligne rouge sans s’embarrasser de la Commission européenne !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302695" ordre_absolu_seance="33" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638113" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ainsi, il est indispensable qu’EDF puisse candidater au renouvellement des concessions. D’autres mesures nous semblent également nécessaires, comme la protection des salariés. J’ai eu l’occasion de le dire. Il s’agit de priorités. Nous nous battons sur ces questions. Nos lignes rouges sont très clairement définies. Je sais que, sur ce sujet, tous les députés sont d’accord avec nous.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302696" ordre_absolu_seance="34" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638114" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>N’ayez crainte ! Si vous avez du courage, nous vous soutiendrons !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302697" ordre_absolu_seance="35" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638115" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je suis contente de l’entendre !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Florence Lasserre-David" id_acteur="PA720764" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723070">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302698" ordre_absolu_seance="36" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638116" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Florence Lasserre-David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302699" ordre_absolu_seance="37" id_acteur="PA720764" id_mandat="PM723070" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638117" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Florence Lasserre-David</nom>
+              <id>720764</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En 2010, à la suite de la promulgation de la loi Grenelle 2, l’État et les acteurs intéressés ont signé une convention d’engagement pour le développement d’une hydroélectricité durable en cohérence avec la restauration des milieux aquatiques.<br/>Cette convention était le fruit d’un double constat, toujours d’actualité : d’abord, il est nécessaire de développer l’hydroélectricité pour satisfaire nos besoins d’énergie et lutter contre les changements climatiques ; d’autre part, le développement de l’hydroélectricité ne peut se faire que dans le respect des milieux naturels, donc en les préservant et en assurant leur bon état.<br/>Depuis dix ans, les producteurs d’hydroélectricité, en particulier les petits producteurs, ont consenti des efforts considérables et ont développé une production de haute qualité environnementale, conformément aux promesses qu’ils avaient faites en 2010.<br/>Pour sa part, l’État s’était engagé à rendre plus lisibles les procédures administratives et à sensibiliser les services instructeurs aux enjeux du secteur de la petite hydroélectricité, afin d’assurer une meilleure prise en compte de l’usage énergétique dans les demandes d’autorisation IOTA – installations, ouvrages, travaux et aménagements.<br/>Plus précisément, il devait rendre plus claire et plus transparente l’autorisation environnementale pour les installations et ouvrages qui sont soumis à autorisation au titre de la loi sur l’eau et qui conduisent à une décision unique du préfet de département.<br/>Cet engagement tendait à garantir un juste équilibre entre l’absolue nécessité de maintenir la continuité écologique dans les cours d’eau et celle de développer une énergie vertueuse qui s’inscrit dans notre aspiration à verdir le mix énergétique français.<br/>Quelles mesures concrètes l’État a-t-il mises en place pour former et sensibiliser les services instructeurs aux défis du secteur hydroélectrique, et pour redonner du sens à la notion de partage et de gestion équilibrée de la ressource en eau inscrite dans la loi ? <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302706" ordre_absolu_seance="44" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638124" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302707" ordre_absolu_seance="45" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je sais, madame la députée, que ce sujet vous tient à cœur et que vous vous battez sur ces questions. Comme vous l’avez rappelé, il est très important que le développement de l’hydroélectricité se fasse dans le respect des objectifs de bon état des eaux et de reconquête de la biodiversité.<br/>Depuis plusieurs années, de nombreux producteurs ont fait des efforts considérables pour améliorer la qualité environnementale de leur installation, notamment, je l’ai indiqué, en installant des turbines compatibles avec le passage des poissons ou en prévoyant des mesures d’exploitation innovantes.<br/>Ces mesures sont bien entendu déterminées localement, en fonction des enjeux de chaque site et en lien avec les services de l’État, mais des conflits – le mot n’est pas trop fort – peuvent apparaître dans certains cas.<br/>Une première réponse a été apportée avec la mise en place, en 2017, de l’autorisation environnementale unique, qui permet plus de transparence et allège la durée de la procédure.<br/>De nombreux échanges ont lieu entre les directions du ministère et les acteurs de la filière. Un groupe de travail a été mis en place en lien avec le Comité national de l’eau, pour faire le point sur la politique de restauration de la continuité écologique. Il a débouché sur un plan d’action qui vise à améliorer la mise en œuvre de cette politique tout en prenant en compte d’autres enjeux, notamment énergétiques ou patrimoniaux. Il se traduira par des instructions aux services de l’État, afin de leur donner les outils supplémentaires lors de l’instruction des autorisations environnementales. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marie-Noëlle Battistel" id_acteur="PA342415" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722826">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302712" ordre_absolu_seance="50" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638130" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marie-Noëlle Battistel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302713" ordre_absolu_seance="51" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638131" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous vous dites soucieuse de l’avenir de l’hydroélectricité qui est, chacun l’a rappelé, la première des énergies renouvelables, et qui est en outre pourvoyeuse d’emploi et de ressources pour les territoires. Je regrette cependant que la programmation pluriannuelle de l’énergie n’en fasse pas assez état, et se montre en deçà des enjeux.<br/>Ainsi, elle n’envisage pas la possibilité de lancer des appels d’offres sur quelques sites vierges…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302715" ordre_absolu_seance="53" id_acteur="PA719740" id_mandat="PM722748" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638133" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Charles Colas-Roy</nom>
+              <id>719740</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En Guyane !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302716" ordre_absolu_seance="54" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638134" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…afin de tester une concurrence totalement ouverte. On enverrait ainsi un signal à Bruxelles. Parallèlement, pourquoi ne pas prolonger les concessions sous conditions de travaux, comme la loi nous y autorise, ce qui permettrait un investissement rapide ?<br/>Ma deuxième question porte sur les concessions déficitaires, dont l’exploitation repose aujourd’hui sur une péréquation. Il n’y a que deux solutions. Soit personne n’en voudra, soit on devra verser à l’opérateur qui l’exploitera un complément de rémunération. Quel sera le bénéfice pour le consommateur ?  </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302718" ordre_absolu_seance="56" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638136" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et pour le contribuable ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1302719" ordre_absolu_seance="57" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638137" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez dit, en répondant à certains députés, qu’EDF pourrait concourir pour toutes les concessions. C’est vrai, mais, pour être tout à fait transparent, il faut ajouter qu’aux termes de votre proposition, EDF ne pourra pas en obtenir plus de 66 %, puisque, sur les allotissements de trois barrages, un opérateur ne pourra guère obtenir plus de deux ouvrages sur trois. Cette limitation s’entend même si l’opérateur est moins-disant.<br/>S’agissant du cahier des charges, il est vrai que les renouvellements de concessions et les éventuelles remises en concurrence font l’objet d’un encadrement. Néanmoins, comme vous le savez, madame la secrétaire d’État, un cahier des charges est établi à un instant t. Il y a un certain nombre d’années, lorsque les premiers cahiers des charges ont été conçus, on n’avait pas imaginé que des bases nautiques pourraient s’établir sur les lacs de retenue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302620" ordre_absolu_seance="2" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638139" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez conclure, ma chère collègue !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302621" ordre_absolu_seance="3" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638140" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On ne peut pas tout prévoir. Tout avenant, vous le savez, donne lieu à une renégociation financière et à une augmentation des tarifs appliqués aux consommateurs. <italique>(Applaudissements sur les bancs des groupes FI et LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302622" ordre_absolu_seance="4" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638141" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302623" ordre_absolu_seance="122" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638142" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame Battistel, votre question, qui aborde plusieurs sujets, montre combien, pour vous y intéresser depuis de longues années, vous connaissez ce sujet important.<br/>La PPE prévoit d’augmenter la puissance hydroélectrique totale, ce qui justifiera le lancement d’appels d’offres. Par ailleurs, en ce qui concerne les concessions déficitaires, un complément de rémunération est possible.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302624" ordre_absolu_seance="124" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638143" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302625" ordre_absolu_seance="125" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Cela se pratique pour la petite hydroélectricité. Je ne dis pas que cela se fera de manière certaine, mais c’est envisageable.<br/>Enfin, en ce qui concerne la limitation d’EDF à 66 % du périmètre des concessions – soit deux ouvrages sur trois –, rien n’est acté à ce stade. Comme je l’ai dit, il existe un certain nombre de lignes rouges ; nous l’avons abondamment expliqué à la Commission européenne, et nous continuerons à le faire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Auconie" id_acteur="PA719806" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722768">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302627" ordre_absolu_seance="127" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638146" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Auconie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302628" ordre_absolu_seance="128" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638147" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, sous l’influence, notamment, de la jurisprudence européenne, l’ordonnance du 19 avril 2017 modifie les règles de gestion du domaine public. Désormais, lorsque l’autorisation d’occupation temporaire du domaine public permet à son titulaire de l’occuper ou de l’utiliser en vue d’une exploitation économique, l’autorité compétente organise librement une procédure de sélection préalable présentant toutes les garanties d’impartialité et de transparence.<br/>Ainsi, dans le cadre de l’exploitation d’un barrage hydroélectrique, selon sa puissance, une autorisation d’occupation temporaire du domaine public fluvial peut être délivrée par une commission librement composée par l’autorité préfectorale. Je regrette que, trop souvent, ces commissions se caractérisent par leur dimension technicienne et technocratique, et qu’elles ne prennent en compte que les seuls critères normatifs, sans tenir compte de l’ancrage des candidats dans l’économie des territoires. Je pense à un cas précis, qui se retrouve dans un certain nombre de lieux.<br/>Les critères de sélection peuvent être la qualité environnementale, la qualité technique, l’aptitude de l’occupant et la solidité économique. Pour apprécier le critère de la « solidité économique et financière du porteur de projet », l’incidence sur l’emploi local est essentielle ; on ne la prend pourtant pas en compte. Une définition élargie de ce critère laisserait leur chance aux acteurs locaux qui souhaitent s’investir dans la gestion de nos petits barrages hydroélectriques pour ancrer leurs efforts économiques. M. le ministre de l’économie et des finances a affirmé que chaque entreprise industrielle ancrée dans un territoire rural était importante. Je suis prête à échanger avec vous à ce sujet. Je tiendrai le Gouvernement responsable si une entreprise devait quitter un territoire rural…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302630" ordre_absolu_seance="131" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638149" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302631" ordre_absolu_seance="132" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638150" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…parce qu’on n’a pas pris en compte, dans le critère économique, son développement…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302632" ordre_absolu_seance="133" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638151" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez conclure, ma chère collègue !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302633" ordre_absolu_seance="134" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638152" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et sa capacité de gestion d’un barrage.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302634" ordre_absolu_seance="135" id_acteur="PA342415" id_mandat="PM722826" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638153" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marie-Noëlle Battistel</nom>
+              <id>342415</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça arrivera, soyez-en sûre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302635" ordre_absolu_seance="136" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638154" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, quel est votre sentiment concernant la consolidation du critère économique dans le choix de la délégation de la gestion des barrages hydroélectriques ? <italique>(Applaudissements sur les bancs du groupe FI. – M. Martial Saddier applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302636" ordre_absolu_seance="137" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638155" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302637" ordre_absolu_seance="138" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638156" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame Auconie, votre question concerne principalement la petite hydroélectricité. Certains projets peuvent effectivement nécessiter une autorisation d’occupation temporaire du domaine public, par exemple pour équiper des barrages se trouvant sur son périmètre. L’ordonnance du 19 avril 2017, que vous avez évoquée, a consolidé les règles fixées en la matière par le code général de la propriété des personnes publiques. Ces règles relèvent de la compétence du ministère de l’action et des comptes publics. Les gestionnaires du domaine public ont toute latitude pour organiser les procédures de sélection concernant son occupation, à partir du moment, bien entendu, où ces procédures respectent les garanties d’impartialité et de transparence. En particulier, elles peuvent librement choisir les critères de sélection, dès lors que ces derniers sont cohérents avec la nature du domaine et de l’occupation concernés.<br/>Madame la députée, il faut être prudent à l’égard des critères visant à favoriser l’emploi local, lesquels peuvent être jugés discriminatoires par certains participants aux procédures. C’est un fait, qu’il est important de prendre en compte.  </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302639" ordre_absolu_seance="140" id_acteur="PA719806" id_mandat="PM722768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638158" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Auconie</nom>
+              <id>719806</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On en reparlera !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Mathilde Panot" id_acteur="PA720892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723106">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302640" ordre_absolu_seance="141" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638159" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Mathilde Panot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302641" ordre_absolu_seance="142" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638160" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, vous ne nous ferez jamais croire que votre gouvernement œuvre en faveur de l’intérêt général en privatisant les barrages !<br/>Par ailleurs, vous nous dites que votre gouvernement est engagé en faveur de la petite hydroélectricité. Pourtant, la domination du nucléaire et le dogme centralisateur en matière de production énergétique ont conduit à la suppression des microcentrales hydroélectriques. L’avantage décisif des petites installations hydrauliques tient à ce que la production peut être dirigée localement.<br/>Dans le cadre des dynamiques climatiques qui vont affecter profondément notre pays, il me semble fondamental de développer des projets résilients de production énergétique. Les dommages écologiques créés par de telles installations peuvent être limités par des projets de rénovation de l’existant, soit en remettant en service d’anciennes microcentrales, soit en transformant des moulins déjà existants afin qu’ils produisent de l’électricité. <br/>La part de l’énergie hydraulique  – environ 15 % – est stable dans notre pays depuis les années 1960. Afin de réduire la place du nucléaire, énergie particulièrement vulnérable au changement climatique – pensez par exemple à la baisse du niveau du Rhône et à ses effets sur les circuits de refroidissement –, il semble primordial de développer de façon coordonnée ce secteur. Du fait de l’élévation de la nappe phréatique, les installations hydrauliques permettent de résister plus efficacement aux phases de sécheresse. En effet, au cours de ces périodes, un accident nucléaire peut survenir. Par ailleurs, les phases de sécheresse peuvent être atténuées par la multiplication de centrales microhydrauliques. La suppression de tant de petites installations de ce type constitue l’application d’un schéma énergétique dont nous savons tous aujourd’hui qu’il est dépassé. <br/>Madame la secrétaire d’État, plutôt que de privatiser les barrages <italique>(Exclamations sur quelques bancs du groupe LaREM)</italique>…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302645" ordre_absolu_seance="147" id_acteur="PA719890" id_mandat="PM722790" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638164" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danielle Brulebois</nom>
+              <id>719890</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ne s’agit pas de privatiser !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302646" ordre_absolu_seance="148" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638165" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…ce qui constitue une aberration écologique, économique et démocratique, allez-vous mettre en œuvre un plan de réhabilitation des microcentrales hydroélectriques ? <italique>(Applaudissements sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Brune Poirson" qualite="secrétaire d'État" id_acteur="PA721872" id_nomination_oe="PM730082" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302647" ordre_absolu_seance="149" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1638166" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302648" ordre_absolu_seance="150" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1638167" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, vous ne nous ferez jamais croire que nous voulons privatiser les concessions hydroélectriques en France <italique>(Applaudissements sur les bancs du groupe LaREM)</italique> – jamais ! <italique>(Exclamations sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302649" ordre_absolu_seance="151" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638168" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est le principe de la concession !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302650" ordre_absolu_seance="152" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638169" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai rappelé l’importance qu’attachait le Gouvernement à la filière de l’hydroélectricité. <italique>(Exclamations sur les bancs du groupe FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302651" ordre_absolu_seance="153" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638170" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Veuillez écouter la secrétaire d’État, mes chers collègues !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302652" ordre_absolu_seance="154" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638171" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il est clair que les objectifs affichés par la programmation pluriannuelle de l’énergie, les mesures de soutien à la petite hydroélectricité, les perspectives de suréquipement dans le cadre des renouvellements de concessions et l’entretien des installations existantes vont engendrer des investissements dans ce secteur. Je l’ai dit dans mon propos introductif, et je le répète : l’hydroélectricité est une énergie absolument capitale dans le mix énergétique français, et elle le restera.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302652" ordre_absolu_seance="155" id_acteur="PA720892" id_mandat="PM723106" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Mathilde Panot</nom>
+              <id>720892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302652" ordre_absolu_seance="156" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638334" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour cela, il ne faut pas de concessions !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302652" ordre_absolu_seance="157" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638277" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est une question d’intérêt général. Nous l’avons défendue, et nous continuons à la défendre auprès de la Commission européenne. C’est une priorité, qui demeurera.<br/>En ce qui concerne la petite hydroélectricité, des appels d’offres pour les installations moyennes…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302654" ordre_absolu_seance="159" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638173" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Des appels d’offres qui ne concernent pas le secteur privé, naturellement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302655" ordre_absolu_seance="160" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638174" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Seule Mme la secrétaire d’État a la parole !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302656" ordre_absolu_seance="161" id_acteur="PA721872" id_mandat="-1" id_nomination_oe="PM730082" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1638175" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Brune Poirson</nom>
+              <id>721872</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…vont être lancés. Je crois qu’il est aussi important d’utiliser les ouvrages existants, même si le potentiel total est limité, en France comme, plus généralement, en Europe occidentale. C’est un fait reconnu. Le potentiel hydroélectrique le plus élevé se situe dans des régions qui disposent de peu de barrages, par exemple en Asie, notamment en Inde et en Chine. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302656" ordre_absolu_seance="162" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638367" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous, nous vous parlons de la France !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1302657" ordre_absolu_seance="163" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638176" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat est clos.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1302659" ordre_absolu_seance="165" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1638178" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1302660" ordre_absolu_seance="166" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1638179" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures trente :<br/>Discussion de la proposition de loi visant la justice fiscale par le rétablissement de l’impôt de solidarité sur la fortune et le renforcement de la progressivité de l’impôt sur le revenu ;<br/>Discussion de la proposition de loi visant à augmenter le salaire minimum interprofessionnel de croissance et les salaires en accompagnant les très petites entreprises et les petites et moyennes entreprises ;<br/>Discussion de la proposition de loi portant suppression de la prise en compte des revenus du conjoint dans la base de calcul de l’allocation aux adultes handicapés ;<br/>Discussion de la proposition de loi visant à renforcer l’intégrité des mandats électifs et de la représentation nationale ;<br/>Discussion de la proposition de loi en faveur de la transparence sur l’utilisation de l’épargne populaire en matière énergétique.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1302661" ordre_absolu_seance="167" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1638180" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1302662" ordre_absolu_seance="168" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1638181" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

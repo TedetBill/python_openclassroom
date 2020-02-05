@@ -1,0 +1,1633 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N121</uid>
+  <metadonnees>
+    <dateSeance>20200115150000000</dateSeance>
+    <dateSeanceJour>mercredi 15 janvier 2020</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>121</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200121</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Thu, 16 Jan 2020 12:34:59 GMT</horaireGmt>
+    <heureGeneration>2020-01-16T13:34:59.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1985659">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1985663">
+          <intitule>Accès à la prestation de compensation<br/>du handicap</intitule>
+        </titreStruct>
+        <para id_syceron="1985664"/>
+        <sommaire2>
+          <titreStruct id_syceron="1985666">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="1985668">Mme Sophie Cluzel, secrétaire d’État chargée des personnes handicapées</para>
+          <para id_syceron="1985683">Mme Nathalie Elimas, rapporteure de la commission des affaires sociales</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1985924">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="1985926">Mme Agnès Firmin Le Bodo</para>
+          <para id_syceron="1985938">Mme Jeanine Dubié</para>
+          <para id_syceron="1985959">Mme Caroline Fiat</para>
+          <para id_syceron="1985971">M. Pierre Dharréville</para>
+          <para id_syceron="1986054">Mme Emmanuelle Fontaine-Domeizel</para>
+          <para id_syceron="1986067">M. Stéphane Viry</para>
+          <para id_syceron="1986081">Mme Michèle de Vaucouleurs</para>
+          <para id_syceron="1985857">M. Jean Lassalle</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1985871">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="1985873">
+              <intitule>Article 1<exposant>er</exposant></intitule>
+            </titreStruct>
+            <para id_syceron="1985875">Mme Laurence Vanceunebrock</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1985883">
+              <intitule>Article 2</intitule>
+            </titreStruct>
+            <para id_syceron="1985885">Mme Martine Wonner</para>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="1985889"> 3</lienAdt>, <lienAdt id_syceron="1985705"> 9</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1985708">
+              <intitule>Article 3</intitule>
+            </titreStruct>
+            <para id_syceron="1985710">Mme Carole Grandjean</para>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="1985714"> 5</lienAdt>, <lienAdt id_syceron="1985725"> 14</lienAdt>, <lienAdt id_syceron="1985736"> 8, 11</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1985983">
+              <intitule>Après l’article 3</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="1985984"> 7</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1985998">
+              <intitule>Article 4</intitule>
+            </titreStruct>
+            <para>Amendements n<sup>os</sup><lienAdt id_syceron="1985999"> 12</lienAdt>, <lienAdt id_syceron="1986001"> 15</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1986012">
+            <intitule>Explications de vote</intitule>
+          </titreStruct>
+          <para id_syceron="1986014">Mme Jeanine Dubié</para>
+          <para id_syceron="1986019">M. Pierre Dharréville</para>
+          <para id_syceron="1986023">M. Cyrille Isaac-Sibille</para>
+          <para id_syceron="1986025">Mme Emmanuelle Fontaine-Domeizel</para>
+          <para id_syceron="1986029">Mme Agnès Firmin Le Bodo</para>
+          <para id_syceron="1986032">M. Stéphane Viry</para>
+          <para id_syceron="1986036">Mme Caroline Fiat</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1986039">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1986046">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 15 janvier 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1543699" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1985659" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1543700" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985660" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1543701" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985661" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543703" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1985663" valeur=" (n[[o]] 2538)">
+      <orateurs/>
+      <texte>Accès à la prestation de compensation<br/>du handicap</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543704" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1985664" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion d’une proposition de loi</italique>
+        <italique>
+          <br/>
+        </italique>
+        <italique>adoptée par le Sénat</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543705" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985665" valeur=" (n° 2538)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion de la proposition de loi, adoptée par le Sénat après engagement de la procédure accélérée, visant à améliorer l’accès à la prestation de compensation du handicap (n<exposant>o</exposant> 2371, 2538).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543706" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1985666" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État chargée des personnes handicapées" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543707" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985667" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Cluzel, secrétaire d’État chargée des personnes handicapées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543708" ordre_absolu_seance="10" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985668" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Cluzel</nom>
+              <id>717165</id>
+              <qualite>secrétaire d’État chargée des personnes handicapées</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je suis très heureuse d’être présente devant vous aujourd’hui afin d’examiner la proposition de loi visant à améliorer l’accès à la prestation de compensation du handicap – PCH. Ce texte montre que l’initiative parlementaire est porteuse de progrès pour nos concitoyens.<br/>Il montre aussi qu’en matière de handicap, nous arrivons à nous fédérer autour de cet objectif cardinal qu’est la pleine participation des personnes handicapées à notre société, à laquelle nos concitoyens dans leur ensemble ont tout à gagner. Ce sujet est un puissant moteur de cohésion sociale. Il rassemble, sur vos bancs comme dans la société et dans nos territoires. J’ai à cœur de le rappeler et le constate sans exception lors de chacun de mes déplacements à vos côtés.<br/>Cet objectif a été érigé en priorité par le Gouvernement qui, lui aussi, s’engage, comme le démontrent les différentes mesures qu’il a prises depuis plus de deux ans. Je tiens à rappeler, dans cette période particulière, que j’ai ouvert, avec ma collègue Nicole Belloubet, le droit de vote à près de 300 000 personnes majeures sous tutelle. Nous avons ainsi fait entrer 300 000 Françaises et Français dans la citoyenneté inconditionnelle. Je ne doute pas que vous serez un relais efficace de cette mesure dans les semaines à venir.<br/>Je souhaite aussi rappeler, car ce n’est pas sans lien avec notre sujet d’aujourd’hui, que nous avons engagé un mouvement massif de simplification des démarches des personnes concernées, simplification incontournable si nous voulons réellement faciliter la vie des gens, créer les conditions de la confiance avec nos différentes administrations et rétablir chacun dans sa dignité. Parmi ces mesures de simplification, il y a l’octroi de droits à vie sur l’allocation aux adultes handicapés – l’AAH –, la reconnaissance de qualité de travailleur handicapé, l’allocation d’éducation de l’enfant handicapé – l’AEEH – ou encore la carte mobilité inclusion – CMI –, lorsque le handicap n’est pas susceptible d’évoluer favorablement. Voilà une évolution majeure que nous devons collectivement garantir aux personnes.<br/>Au-delà de la nécessité de simplification administrative, il devenait insupportable de renvoyer sans cesse certains de nos concitoyens à leur situation de handicap. C’est pourquoi une nouvelle étape a encore été franchie le 1<exposant>er</exposant> janvier 2020 puisque, depuis cette date, les maisons départementales des personnes handicapées – MDPH – peuvent, sans que les usagers en fassent la demande, transformer une des prestations susmentionnées en droits à vie, dans les conditions d’octroi classique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543711" ordre_absolu_seance="15" id_acteur="PA720870" id_mandat="PM723100" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985671" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean François Mbaye</nom>
+              <id>720870</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543712" ordre_absolu_seance="16" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985672" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Cluzel</nom>
+              <id>717165</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ainsi nous est aussi donnée l’opportunité de refaire des maisons départementales des personnes handicapées le lieu de l’accompagnement, notion au cœur de leur création par la loi de 2005, et cette approche gagnant-gagnant doit être en permanence rappelée.<br/>Il y a quinze ans était promulguée la grande loi du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, loi sans laquelle nous ne pourrions aborder le sujet qui nous réunit. Cette loi porte en germe tous les fondamentaux de la pleine citoyenneté des personnes en situation de handicap, notamment parce que, outre qu’elle affirme de façon fondamentale leurs droits pleins et entiers, elle a permis de fixer l’ambition d’un soutien spécifique, aussi important que nécessaire, pour accompagner leurs projets et leurs choix de vie.<br/>Rappelons à ce titre l’importance de la prestation de compensation du handicap, laquelle constitue indéniablement un levier essentiel pour leur autonomie dans tous les domaines de leur quotidien. Près de 300 000 personnes, dont plus de 20 000 enfants, sont aujourd’hui bénéficiaires de la PCH, prestation dont l’objet est de soutenir au plus près les besoins des personnes, établis sur le fondement d’une évaluation individualisée et multidimensionnelle de l’impact du handicap dans les grands domaines de la vie quotidienne.<br/>Aujourd’hui, quinze ans après sa fondation, le chemin n’est pas fini. Vous le savez, il nous faut encore poursuivre et consolider les avancées sur le champ de la compensation. C’est le gage d’une société qui offre à chacun la capacité du plein exercice de ses droits et de ses choix. À cet effet, il nous faut continuer, en lien avec les départements, à en renforcer l’efficacité.<br/>C’est notre responsabilité collective que d’assurer, chacun à notre place, aux personnes handicapées que leur expertise d’usage sera entendue et prise en compte dans la construction des plans de compensation, gage de l’adéquation de ces derniers à leurs choix et à leurs aspirations. C’est également notre responsabilité collective que d’assurer un traitement des demandes dans des délais décents car, chacun le sait, derrière chaque dossier, il y a une histoire, il y a une personne, il y a des aspirations, des désirs et souvent des souffrances. Chacun le sait mais cela mérite néanmoins d’être rappelé pour que là encore, collectivement et en responsabilité, nous réfléchissions ensemble aux moyens d’offrir cette garantie de la maîtrise des délais que nous devons à nos concitoyens. Les droits à vie en sont un levier. Enfin, c’est aussi notre responsabilité collective que d’avoir une exigence d’équité, sur tout le territoire, dans l’accès aux droits, face à une disparité de situations qui doit nous interpeller.<br/>Il faut en outre mobiliser la PCH au bénéfice de la diversification des solutions proposées aux personnes. À ce titre, la mutualisation de la PCH permet de développer de nouveaux projets de logements inclusifs, et c’est essentiel. Le Premier ministre a d’ailleurs confié à M. Denis Piveteau et à M. Jacques Wolfrom le soin de proposer une stratégie opérationnelle de déploiement à plus grande échelle de cette solution qui permet aux personnes en faisant le choix de trouver un chez soi et un projet de vie sociale porteur, afin de mener une vie comme les autres.<br/>Le Gouvernement, qui s’était engagé à faire mieux, va donc poursuivre non seulement sur les enjeux que j’ai évoqués mais aussi sur d’autres. Réjouissons-nous déjà de cette l’occasion de faire, grâce au texte qui nous est présenté, un grand pas en avant. Le fait que votre commission des affaires sociales s’en soit tenu à une version quasi-identique à celle du Sénat montre que nous en sommes proches.<br/>La proposition de loi dont nous discutons s’inspire directement, dans ses premiers articles, de celle de votre collègue Philippe Berta, que je tiens vraiment à saluer pour son engagement, votée par votre chambre le 17 mai 2018. Elle se nourrit en outre de l’initiative du Sénat, notamment du rapport « Repenser le financement du handicap pour accompagner la société inclusive », rédigé par le sénateur Philippe Mouiller au nom de sa commission des affaires sociales.<br/>Aujourd’hui vous est donnée l’occasion de nouvelles concrétisations. Les travaux et les débats de votre commission des affaires sociales, notamment grâce au rapport de Mme Nathalie Elimas, ont été particulièrement riches. Si des questions ont été soulevées, et j’y reviendrai, tous ici avez su voir les avancées apportées par ce texte.<br/>Permettez-moi dès lors de m’arrêter sur la proposition de loi plus en détail.<br/>L’article 1<exposant>er</exposant> traite de la suppression de la barrière d’âge à 75 ans. Cette mesure figurait déjà dans la proposition de loi de votre collègue Philippe Berta, que vous aviez adoptée. Dans sa rédaction actuelle, la loi pénalise les personnes handicapées qui n’ont pas jugé utile de demander la PCH avant 75 ans, mais se trouvent après cet âge en difficulté du fait d’un changement survenu dans leur environnement, par exemple le vieillissement ou le décès du conjoint qui leur apportait dans les faits une aide humaine. Je me réjouis dès lors du consensus trouvé sur cette évolution, qui devrait concerner autour de 10 000 personnes.<br/>L’article 2 propose une évolution du dispositif législatif régissant les fonds de compensation du handicap. Il va enfin nous permettre d’ouvrir la possibilité de fixer, par voie réglementaire, pour l’emploi de ces fonds, un cadre transparent et partagé qui fera l’objet d’une concertation avec les associations. Votre commission des affaires sociales a adopté un amendement de la rapporteure prévoyant la remise au Parlement d’un rapport qui permettra à chacun d’en juger l’effectivité.<br/>Pour autant, je ne nie pas les difficultés relatives au reste à charge, qui ne seront pas résolues du jour au lendemain. Je souhaite à ce titre que nous puissions agir sur la construction même du système afin qu’il soit plus efficace dans ses fondements. C’est l’une des raisons pour lesquelles j’ai annoncé avec ma collègue Agnès Buzyn, à l’occasion du comité interministériel du handicap du 3 décembre dernier, le lancement d’une mission sur les aides techniques car celles-ci comptent de façon importante dans les motifs de sollicitation des fonds départementaux, sachant que l’accès auxdites aides est encore trop difficile et que l’organisation du dispositif ne fait pas suffisamment place à leur qualité d’usage pour les personnes. La mission est désormais lancée. Le docteur Philippe Denormandie doit nous remettre ses propositions d’ici à la rentrée 2020. C’est évidemment un sujet délicat, mais il a été laissé trop longtemps de côté, compte tenu de sa complexité, et nous devons nous y attaquer.<br/>L’article 3 vise à étendre le droit à vie à la PCH en cas de handicap non susceptible d’évoluer favorablement, et l’alignement des durées d’attribution des éléments de la PCH sur une durée unique. Il participe à ce titre du mouvement, énoncé précédemment, qui vise à simplifier la vie des personnes et celle des administrations. Évidemment, je m’en réjouis. Mais il faudra là aussi que nous soyons attentifs à ce que les équipes puissent s’emparer de cette mesure concrètement.<br/>Enfin, l’article 4 de la proposition de loi propose de créer un comité stratégique sur deux questions qui peuvent paraître éloignées dans leur objet mais qui sont d’importance égale.<br/>Le premier concerne les transports, que vous avez raison de considérer comme un sujet d’importance. Nous souhaitons que les personnes puissent retrouver leur pouvoir d’agir et être actrices de leurs choix. La mobilité est indéniablement une condition de ce projet. Je m’engage devant vous aujourd’hui, comme je l’ai fait devant les sénateurs, à réunir l’ensemble des parties prenantes, du droit commun comme du droit spécifique, afin d’engager ces travaux sur lesquels j’ai demandé aux administrations de proposer une structuration tant ils sont multidimensionnels.<br/>Les sénateurs ont aussi fait le choix d’enrichir ce comité de la dimension attachée à la compensation du handicap pour les enfants. Il y a eu des progrès dans l’analyse des difficultés sur ce sujet dont je sais, madame la rapporteure, qu’il vous tient à cœur. À ce titre, la clarification de l’articulation entre l’allocation d’éducation de l’enfant handicapé et la PCH attribuée aux enfants est un vrai sujet. Le récent rapport de M. Lenoir, au nom de l’inspection générale des affaires sociales, doit nous permettre d’approfondir nos options dès lors que les différents scénarios possibles ont été esquissés.<br/>Cela nécessite certes du temps car le sujet est sérieux et complexe, mais sachez que je suis déterminée à ne pas le laisser de côté. L’engagement à l’automne 2019 de la stratégie « Agir pour les aidants », bâtie avec l’apport des associations et des parlementaires, et à laquelle j’attache avec Agnès Buzyn une très forte importance, a déjà permis une avancée par la défiscalisation et l’exonération de contributions sociales du dédommagement aidant attaché à la PCH. Un autre interviendra bientôt, avec la possibilité de son cumul avec le RSA. Ainsi, nous faisons sauter un verrou dans l’exercice du droit d’option entre la PCH et l’AEEH, et nous permettons aux familles d’exercer leurs droits en la matière de manière beaucoup plus sereine.<br/>Mesdames et messieurs les députés, l’année qui débute sera une année riche pour le handicap. Cette proposition de loi en est une première traduction. Le 11 février prochain aura lieu la Conférence nationale du handicap sous l’égide du Président de la République : ce sera un rendez-vous important avec les Françaises et les Français. Et je tiens à redire toute la part que vous avez dans cette ambition pour les personnes en situation de handicap. Cette proposition de loi est le fruit d’un travail parlementaire exigeant et de qualité que je tenais à nouveau à saluer. <italique>(Applaudissements sur les bancs du groupe LaREM. – Mme</italique><italique> </italique><italique>Michèle de Vaucouleurs applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure de la commission des affaires sociales" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-3615570" id_mandat="PM723114">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543722" ordre_absolu_seance="35" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985682" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nathalie Elimas, rapporteure de la commission des affaires sociales.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1543723" ordre_absolu_seance="36" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-3615570" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nathalie Elimas</nom>
+              <id>720924</id>
+              <qualite>rapporteure de la commission des affaires sociales</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi que nous examinons aujourd’hui vise à améliorer l’accès à la compensation des conséquences du handicap. Ce texte nous en rappelle un autre puisque l’Assemblée nationale avait adopté, le 17 mai 2018, une proposition de loi similaire sur ce sujet, dans le cadre d’une niche du groupe MODEM. Cette proposition de notre collègue Philippe Berta, dont je tiens à saluer ici le travail, n’a toutefois pas été inscrite à l’ordre du jour du Sénat. La présente proposition de loi, qui a été adoptée par le Sénat en première lecture le 5 novembre dernier, reprend néanmoins l’essence du texte que nous avions adopté l’an dernier et l’enrichit sur plusieurs points.<br/>La prestation de compensation du handicap, appelée plus brièvement « PCH », est le fruit de la loi du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées qui a modifié en profondeur la politique en faveur des personnes handicapées.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543725" ordre_absolu_seance="1" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-723114" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985903" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nathalie Elimas</nom>
+            <id>720924</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte>La principale avancée de cette loi réside dans la reconnaissance d’un droit à la compensation des conséquences du handicap par la solidarité nationale. La PCH en est la traduction : il s’agit d’une prestation individualisée, attribuée quasiment sans condition de ressources et permettant la prise en charge des surcoûts de toute nature liés au handicap.<br/>Néanmoins, près de quinze ans après la promulgation de la loi de 2005, les objectifs initiaux du texte n’ont pas été complètement remplis. Les personnes en situation de handicap continuent d’éprouver des difficultés, liées à l’exclusion de certaines personnes handicapées âgées du bénéfice de la PCH en raison du maintien des barrières d’âge à 60 et 75 ans, à la permanence de restes à charge élevés – notamment en matière de transport ou d’équipements –, ou encore à l’inadaptation de la PCH aux besoins des enfants. Les défis à relever sont donc encore nombreux et les attentes des personnes handicapées, de leurs proches et des associations qui les représentent restent fortes.<br/>La proposition de loi que nous examinons aujourd’hui vise à corriger certaines insuffisances de la loi de 2005 à travers quatre articles.<br/>Tout d’abord, l’article 1<exposant>er</exposant> tend à supprimer la limite d’âge de 75 ans au-delà de laquelle il n’est plus possible de demander la PCH. La limite d’âge pour la sollicite est actuellement fixée à 60 ans, mais les personnes qui remplissaient les critères d’attribution de la PCH avant l’âge de 60 ans peuvent également demander à en bénéficier, sous réserve de la solliciter avant d’atteindre 75 ans. La limite d’âge est injuste, puisqu’elle pénalise ceux qui n’ont pas jugé utile de demander la PCH avant 75 ans mais qui, passé cet âge, se trouvent mis en difficulté par un changement survenu dans leur environnement, comme la disparition d’un proche aidant. La personne handicapée ne peut alors solliciter que l’allocation personnalisée d’autonomie – l’APA –, qui ouvre droit à une prise en charge moins complète des besoins de compensation que la PCH.<br/>La suppression de la barrière d’âge de 75 ans répond donc à un souci d’équité, ainsi qu’à l’allongement de l’espérance de vie des personnes concernées. Cette mesure permettra d’améliorer le droit à la compensation d’environ 8 000 personnes handicapées vieillissantes, pour un coût net évalué à environ 33 millions d’euros par an. Elle nous invite aussi, évidemment, à nous interroger sur la pertinence de la barrière d’âge de 60 ans. Je sais que certains de mes collègues avaient déposé à ce sujet des amendements, qui ont été déclarés irrecevables. À titre personnel, j’estime que le débat sur la suppression de cette barrière mériterait d’être ouvert.<br/>J’en viens maintenant à l’article 2, qui traite de la question des restes à charge des personnes en situation de handicap et vise à sortir d’une impasse juridique liée aux imprécisions de la loi de 2005 concernant le fonctionnement des fonds départementaux de compensation du handicap. Ces derniers sont chargés d’attribuer des aides financières extralégales permettant aux personnes en situation de handicap de faire face aux frais de compensation restant éventuellement à leur charge après intervention de la PCH.<br/>Or, l’article de loi relatif aux fonds de compensation du handicap repose sur deux logiques contradictoires. D’une part, l’abondement des fonds est assuré par des financements facultatifs, qui peuvent être apportés par différents acteurs : l’État, l’assurance maladie, les caisses d’allocations familiales, les départements et les conseils régionaux – ou plutôt, en l’occurrence, un conseil régional, celui d’Île-de-France. D’autre part, la loi impose que les frais de compensation restant à la charge du bénéficiaire de la PCH n’excèdent pas 10 % de ses ressources personnelles nettes d’impôts, « dans des conditions définies par décret ». Il existe donc une obligation juridique, qui doit être appliquée grâce à des fonds abondés de manière facultative. La contradiction intrinsèque à cet article n’a jamais permis la publication du décret d’application, donc l’entrée en vigueur effective de cette disposition relative au reste à charge.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543732" ordre_absolu_seance="8" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985910" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’eût été trop beau !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543733" ordre_absolu_seance="9" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-723114" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985911" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nathalie Elimas</nom>
+            <id>720924</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte>En l’absence de décret, la création des fonds de compensation est intervenue de façon disparate : chaque conseil départemental a pu décider à la fois des publics éligibles au fonds, des montants et des types d’aides attribués. Cette situation se traduit par de fortes inégalités, qui ne sont pas acceptables, entre les départements. Le Conseil d’État a d’ailleurs, au mois de février 2016, condamné l’État pour non-respect du délai raisonnable entre la publication de la loi et celle du décret d’application. Il est nécessaire de sortir aujourd’hui de cette impasse juridique.<br/>Dans ce contexte, l’article 2 vise à concilier l’obligation de réduction du reste à charge des personnes en situation de handicap avec les ressources disponibles des fonds départementaux de compensation. Cette clarification du cadre législatif permettra au Gouvernement de prendre un décret d’application et d’harmoniser en partie les modalités d’intervention des fonds départementaux. Conformément à un amendement adopté en commission, le Parlement devra être tenu informé de la publication de ce décret, en particulier de l’évolution du reste à charge pour les personnes ayant sollicité un fonds départemental de compensation du handicap. Nous proposerons, le cas échéant, des améliorations.<br/>L’article 3 vise quant à lui à préciser les modalités de contrôle et d’attribution de la PCH.<br/>S’agissant du premier volet, il consacre au niveau législatif le rôle du président du conseil départemental dans le contrôle de l’utilisation des aides versées au titre de la PCH. Il précise surtout que ce contrôle devra désormais s’exercer sur une période minimale de six mois.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543737" ordre_absolu_seance="13" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985915" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543738" ordre_absolu_seance="14" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985916" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Descoeur</nom>
+            <id>330909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ce ne sera pas toujours très simple…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543739" ordre_absolu_seance="15" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-723114" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985917" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nathalie Elimas</nom>
+            <id>720924</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Cette disposition répond à une revendication des associations représentant les personnes en situation de handicap, qui estiment que les contrôles, tels qu’ils sont pratiqués dans certains départements sur les aides humaines, sont parfois trop rigides et ne prennent pas suffisamment en considération l’évolution des besoins des bénéficiaires de la PCH tout au long de l’année.<br/>À travers le second volet de l’article, relatif aux modalités d’attribution de la PCH, il est proposé d’alléger les démarches administratives des bénéficiaires, de deux façons : d’une part, les durées d’attribution des différentes aides seraient harmonisées ; d’autre part, un droit à vie à la PCH serait consacré pour les personnes dont le handicap n’est pas susceptible d’évoluer favorablement. Ces dispositions s’inscrivent dans la continuité des mesures de simplification dans le champ du handicap prises en fin d’année 2018.<br/>J’en viens enfin au quatrième et dernier article, qui dépasse le cadre de la PCH. Il prévoit la création d’un comité stratégique chargé de proposer des adaptations du droit à la compensation du handicap répondant aux besoins spécifiques des enfants, mais aussi des évolutions des modes de transport des personnes handicapées assurant une gestion intégrée. Il vise ainsi à répondre à deux problématiques relevées dans le cadre des travaux de la cinquième conférence nationale du handicap – la CNH.<br/>Un des cinq chantiers engagés par la CNH porte sur l’amélioration de la prise en charge des besoins des enfants en situation de handicap – vous connaissez mon attachement à cette question. Lors de l’examen de la proposition de loi visant à renforcer la prise en charge des cancers pédiatriques, dont j’étais l’auteure, les travaux parlementaires avaient mis en lumière l’inadaptation de notre protection sociale aux situations particulières rencontrées par les parents d’enfants gravement malades.<br/>La ministre des solidarités et de la santé s’était alors engagée à ce que l’IGAS, l’Inspection générale des affaires sociales, étudie tout particulièrement l’articulation entre l’AEEH et l’allocation journalière de présence parentale – l’AJPP –, afin de simplifier le système. Dans son rapport remis en juin dernier, l’IGAS recommande de définir « une nouvelle cartographie des prestations proposées aux familles, permettant d’accompagner les parcours des enfants en situation de handicap de la naissance à l’âge adulte ». Nous devons désormais avancer sur le sujet.<br/>Par ailleurs, les déplacements des personnes en situation de handicap, qui sont naturellement essentiels pour permettre leur intégration dans notre société, sont aujourd’hui entravés par des restes à charge élevés – voire très élevés – et par des dispositifs de prise en charge peu lisibles. L’article 4 a également pour objet, à travers la création du comité stratégique, d’améliorer cette situation.<br/>En conclusion, je dirai simplement que, si cette proposition de loi ne réglera pas à elle seule toutes les difficultés auxquelles sont confrontées les personnes en situation de handicap, elle apporte néanmoins sa pierre à l’édifice en vue d’améliorer l’accès à la compensation. Je vous invite par conséquent à adopter le texte que je viens de présenter. <italique>(Applaudissements sur les bancs des groupes </italique><italique>LaREM et MODEM</italique><italique>.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543746" ordre_absolu_seance="22" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1985924" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="Mme Agnès Firmin Le Bodo" id_acteur="PA267780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723504">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543747" ordre_absolu_seance="23" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985925" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à Mme Agnès Firmin Le Bodo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543748" ordre_absolu_seance="24" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985926" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <id>267780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La loi du 11 février 2005 a posé le principe du droit à compensation du handicap pour les personnes concernées. La PCH, créée par cette même loi, se trouve au cœur du dispositif visant à permettre cette compensation.<br/>Elle constitue un dispositif innovant et ambitieux, quasiment non soumis à conditions de ressources, et a avantageusement remplacé l’allocation compensatrice pour tierce personne, qui était cantonnée aux aides humaines. La PCH englobe en effet un périmètre plus large et mieux adapté aux dépenses liées au handicap – qu’elles soient humaines, techniques ou liées à l’aménagement d’un véhicule. Elle permet également de prendre en charge l’achat d’un animal d’assistance. Elle est donc mieux calibrée.<br/>Ce dispositif n’est toutefois pas sans défaut : il prend insuffisamment en compte l’allongement de la durée de vie et le vieillissement d’une partie grandissante de la population, qui concerne également les personnes en situation de handicap.<br/>La présente proposition de loi vise, en son article 1<exposant>er</exposant>, à supprimer la barrière d’âge de 75 ans pour l’accès à la PCH. Il s’agit d’une réelle avancée, que nous saluons, et qui ne constitue d’ailleurs qu’un rattrapage de ce que prévoyait la loi de 2005. Alors que nos concitoyens vivent plus longtemps, le maintien de cet âge limite au-delà duquel il était impossible de faire droit à une demande de PCH pour un handicap survenu avant 60 ans n’était pas justifié. Il importait d’adapter notre droit en conséquence.<br/>La clarification apportée par l’article 2 relatif au reste à charge nous paraît également aller dans le bon sens. Nous espérons que cet article permettra, tout en tenant compte des moyens des départements, de faire davantage droit au plafonnement du reste à charge du bénéficiaire à 10 % de ses revenus nets d’impôts. Il s’agit d’ailleurs de sortir d’une impasse juridique qui a conduit à la formation de fortes inégalités entre départements dans la détermination du reste à charge. Cet article permettra d’amorcer une harmonisation dans les modalités d’intervention des fonds départementaux.<br/>Cela étant, il est indéniable que nous restons au milieu du gué, et je comprends le malaise de certains de mes collègues sur cette question. L’ouverture de ce droit est en effet conditionnée aux ressources des départements, dont les finances sont déjà très contraintes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543754" ordre_absolu_seance="30" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985932" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exact !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543755" ordre_absolu_seance="31" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985933" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <id>267780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour assurer une véritable effectivité du droit à compensation, nous sommes favorables à une contractualisation entre l’État et les départements, sur le modèle de celle qui s’applique à la prise en charge des mineurs non accompagnés.<br/>S’agissant de l’article 3, nous sommes évidemment favorables à l’instauration d’un droit à vie à la PCH en cas de handicap irréversible. Cette prestation connaîtrait ainsi la même évolution que l’allocation aux adultes handicapés – depuis l’année dernière – ou l’allocation compensatrice pour tierce personne. Nous ne pouvons que souscrire à ces mesures, qui facilitent et simplifient le quotidien des personnes concernées.<br/>Enfin, nous sommes en accord avec les préoccupations exprimées dans l’article 4. Celui-ci prévoit de créer un comité stratégique chargé à la fois de répondre aux besoins spécifiques des enfants handicapés et de proposer des solutions nouvelles de mobilité. De récents rapports mettent en évidence l’importance d’une approche calibrée concernant les handicaps de l’enfant et de l’adolescent et regrettent la complexité des prestations existantes. Il ne nous paraît cependant pas nécessaire de créer une nouvelle instance à cet effet : rien n’empêche aujourd’hui d’engager une réflexion approfondie sur ces sujets dans le cadre de structures existantes, comme la Conférence nationale du handicap.<br/>Nous sommes convaincus, comme tous les députés présents sur ces bancs, de la nécessité d’agir avec volontarisme en faveur des personnes en situation de handicap, pour une société plus inclusive. Le groupe UDI, Agir et indépendants aborde donc favorablement l’examen de la proposition de loi, qui constitue un nouveau pas dans la bonne direction. <italique>(Applaudissements sur les bancs du groupe UDI-Agir et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543759" ordre_absolu_seance="35" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985937" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543760" ordre_absolu_seance="36" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985938" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La nécessité d’améliorer l’accès à la prestation de compensation du handicap fait consensus. Si la création de la PCH par la loi du 11 février 2005 a constitué une avancée majeure, nous avons tous conscience des difficultés persistantes auxquelles sont confrontées personnes qui en font la demande.<br/>Le constat de l’inadéquation des critères d’obtention de la PCH à l’évolution de la société – en particulier le vieillissement de la population – doit nous inciter à les revoir et à les améliorer. La proposition de loi que nous examinons aujourd’hui vise, en principe, à répondre à cet objectif.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543762" ordre_absolu_seance="75" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985940" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En principe…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1543763" ordre_absolu_seance="76" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985941" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pourtant, malgré les objectifs de simplification et de justice affichés, le groupe Libertés et territoires l’aborde avec de sérieuses réserves.<br/>Certaines mesures vont dans le bon sens – elles sont d’ailleurs réclamées depuis longtemps par les associations, les personnes en situation de handicap et les proches aidants. Je songe notamment à la reconnaissance d’un droit à vie à la PCH dès lors que le handicap n’est pas susceptible d’évoluer, ou à la suppression de la condition d’âge de 75 ans pour solliciter cette prestation, dès lors que les conditions requises pour en bénéficier étaient remplies avant l’âge de 60 ans.<br/>Ces deux dispositions, bien que modestes, améliorent le dispositif. En revanche, si l’article 4 a le mérite de poser la question importante de la prise en charge des transports pour les personnes en situation de handicap, il ne remédie pas à la complexité du système actuel, basé sur une répartition floue entre l’assurance maladie et les départements.<br/>J’en viens maintenant à l’article 2, dont les effets nous semblent particulièrement dangereux. Il prévoit en effet que l’action des fonds départementaux de compensation ne pourra s’exercer que dans la limite de leurs financements disponibles – cela parce que l’État n’a jamais pris le décret prévu par l’article concerné…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543767" ordre_absolu_seance="3" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985946" valeur="330909 720386. ">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur et M. Fabien Di Filippo</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Effectivement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543768" ordre_absolu_seance="4" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985947" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et a, du reste, été condamné par le Conseil d’État à une astreinte d’un montant fixé de 100 euros par jour.<br/>Cela revient à conditionner le respect des 10 % du reste à charge au budget résiduel des départements, au risque d’accentuer les inégalités territoriales que la proposition de loi prétend pourtant réduire. Nous ne comprenons pas comment sera garantie l’harmonisation des pratiques entre départements, car la participation aux financements des fonds demeure facultative. La question se pose d’autant plus dans un contexte où les moyens des départements sont très contraints.<br/>En d’autres termes, cette disposition prévoit tout simplement la fin de la limitation du reste à charge et aura donc pour conséquence de limiter foncièrement l’accès des personnes aux aides techniques indispensables à leur autonomie. Notre groupe Libertés et territoires demande donc la suppression de cet article.<br/>Enfin, plusieurs améliorations possibles, pourtant essentielles, ne sont malheureusement pas abordées dans la proposition de loi. Certaines ont d’ailleurs fait l’objet de discussions lors de la dernière conférence nationale du handicap. Je pense avant tout à la barrière d’âge liée à la reconnaissance du handicap, fixée à 60 ans. Actuellement, la PCH est conditionnée à la survenue d’un handicap avant 60 ans. Dans le cas contraire, les personnes dépendantes sont uniquement éligibles à l’APA. Or les deux prestations sont d’une nature et d’un montant différents.<br/>Qui plus est, dès son origine, comme vous le reconnaissez volontiers dans votre rapport, madame la rapporteure, et l’avez du reste rappelé dans votre intervention, ce dispositif a été conçu comme provisoire et devait disparaître dans un délai de cinq ans. Or, quinze ans plus tard, aucun texte n’a été adopté pour y mettre fin.<br/>Les amendements que nous avons déposés ont malheureusement été déclarés irrecevables au motif qu’ils convenaient à l’article 40 de la Constitution, ce qui nous empêche d’en débattre dans l’hémicycle. C’est regrettable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543773" ordre_absolu_seance="88" id_acteur="PA331582" id_mandat="PM722646" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985952" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Vigier</nom>
+              <id>331582</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543774" ordre_absolu_seance="89" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985953" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Maintenir la barrière d’âge à 60 ans est source de traitements inéquitables et d’injustices car, à situation d’incapacité et à besoins de compensation égaux, les plans d’aide au titre de la PCH sont bien plus importants qu’au titre de l’APA. Souhaitons que, dans la prochaine loi sur le grand âge et l’autonomie, la suppression de la barrière d’âge soit effective. Ce serait là une vraie mesure de justice sociale.<br/>Notre groupe se demande enfin s’il était pertinent d’inscrire aujourd’hui la proposition de loi à notre ordre du jour, alors que la prochaine conférence nationale du handicap se tiendra le 11 février 2020…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543776" ordre_absolu_seance="91" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985955" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543777" ordre_absolu_seance="92" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985956" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et que l’un des objectifs des travaux menés dans ce cadre porte précisément sur l’amélioration des conditions d’octroi de la PCH.<br/>Le groupe Libertés et territoires demeure donc très inquiet quant aux conséquences de l’article 2 de la proposition de loi. En l’état actuel, nous attendrons l’issue des débats pour nous prononcer. <italique>(M.</italique><italique> </italique><italique>Philippe Vigier applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Caroline Fiat" id_acteur="PA720286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722918">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543779" ordre_absolu_seance="94" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985958" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Caroline Fiat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543780" ordre_absolu_seance="95" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985959" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La prestation de compensation du handicap vise à compenser la perte d’autonomie. Le handicap vécu dans le corps et dans la tête dépend étroitement de la manière dont il est pris en charge par la société. Il est considérablement allégé lorsque des moyens logistiques dédiés sont mis en place pour accompagner la personne en situation de handicap. Cela passe par des facilités de stationnement ou de transport, des adaptations dans le logement, l’achat d’un fauteuil ou encore une aide animalière.<br/>Le rôle de la puissance publique est précisément de pallier la perte d’autonomie en offrant au minimum un accompagnement pour les besoins matériels du quotidien. Aujourd’hui, cette responsabilité incombe principalement aux départements, chargés de calculer le reste à charge des familles, de faire le lien avec l’assurance maladie et la CAF, la Caisse d’allocations familiales, et de financer ce que l’État ne prévoit pas.<br/>Sur les bancs de notre assemblée, nombreux sont ceux qui ont souhaité la fin des départements. Au lieu de les asphyxier, mieux vaudrait au contraire les doter davantage et respecter leur autonomie financière. Les départements supportent en effet 70 % des dépenses liées au versement de la PCH. Avec 608 millions d’euros de dotation de l’État pour une dépense moyenne de 2 milliards, le trou est important. Si l’enjeu de décentralisation est louable, l’absence de moyens est condamnable.<br/>Dans la même veine, la centralisation à Lille de la gestion des cartes de stationnement pour personnes en situation de handicap a transformé ce service en une superstructure technocratique. Dans ma circonscription, je reçois régulièrement des doléances dénonçant le temps de traitement des demandes, qui empêche certains administrés d’obtenir leur carte à temps et fait d’eux des victimes de la réorganisation administrative. Il n’est pas normal qu’une personne qui réclame le renouvellement de sa carte trois mois avant son terme se trouve sans solution pendant plusieurs semaines, voire plusieurs mois, parce que le service ne lui répond pas. Les agents, que j’ai pu contacter, n’y sont pour rien. Ce sont les moyens qui manquent.<br/>La PCH est nécessaire, mais elle est imparfaite et cela nuit grandement à son efficacité. Je n’en donnerai que quelques exemples : le traitement des demandes peut varier de trois à douze mois, alors que le handicap est vécu tout de suite, sans délai, par les personnes qui en sont victimes ; le critère d’âge d’attribution de la PCH à 60 ans ne correspond pas à la réalité des situations de handicap, qui surviennent souvent sans prévenir ; la prestation n’a pas été augmentée depuis 2006, soit près de quinze ans, à coût constant, pendant que l’inflation suit son cours ; quant au prix des produits et des matériels destinés à compenser le handicap, souvent très élevé, il a, lui aussi, augmenté, ce qui déconnecte l’aide des coûts supportés par les ménages concernés.<br/>Cette proposition de loi, très courte – elle est composée de quatre articles –, vise à apporter des correctifs, notamment quant aux financements qui pèsent sur les départements, mais elle suscite des interrogations.<br/>Ainsi, l’article 1<exposant>er</exposant> supprime la condition d’âge de 60 ans, âge avant lequel il est possible de demander le versement de la PCH, mais il ne revient pas sur la nécessaire détermination du handicap avant 60 ans, ce qui est contraire à l’article 13 de la loi du 11 février 2005 prévoyant la suppression du critère d’âge au plus tard en 2010. Pour cette raison, le groupe La France insoumise s’abstiendra sur cet article.<br/>Plus largement, après la Loi ELAN – portant évolution du logement, de l’aménagement et du numérique –, qui réduit à 10 % le nombre de logements devant être accessible aux PMR, les personnes à mobilité réduite, cette loi est un timide rattrapage – une occasion, pour le Gouvernement et la majorité parlementaire, de se donner bonne conscience sans agir réellement sur le fond.<br/>Chaque jour, vous le savez, nous dénonçons cette loi ELAN. Comment peut-on justifier par la loi l’impossibilité, pour certains de nos concitoyens, d’accéder à des commerces, à des services publics et à des logements ? On ne peut pas compter sur la seule bonne volonté de l’ensemble des propriétaires fonciers : il suffit d’une brebis galeuse, d’un marchand de sommeil, d’un propriétaire égoïste pour créer une injustice entre les personnes valides et celles qui ont des difficultés.<br/>Le handicap n’est pas une fatalité, mais c’est une éventualité pour tout le monde. Vous, moi, chaque Française et chaque Français risquons chaque jour de basculer dans le handicap. La moindre des choses est de pouvoir compter sur l’État.<br/>Finalement, cette loi vise à donner bonne conscience. Dans les faits, elle va encore accroître la pression vécue par les départements et les difficultés des interlocuteurs politiques en prise directe avec nos concitoyens. En tant que législateurs, nous ne pouvons pas nous satisfaire de cette situation.<br/>Parce que nous ne concevons pas que les collectivités territoriales supportent une nouvelle fois la charge que l’État ne veut pas assumer, parce que nous ne digérons pas le recul social que vous avez opéré avec la loi ELAN, le groupe La France insoumise ne participera au vote de la proposition de loi. Nous réclamons en revanche une loi nationale d’envergure pour que l’État réponde financièrement aux besoins des collectivités territoriales et impose l’accessibilité pour toutes les personnes en situation de handicap. La France doit être une République solidaire et véritablement inclusive.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543791" ordre_absolu_seance="107" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985970" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Dharréville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543792" ordre_absolu_seance="108" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985971" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Se trouver en situation de handicap, c’est rencontrer dans sa vie quotidienne des obstacles supplémentaires, c’est avoir besoin d’aide, d’équipements, d’aménagements. Tout cela représente un coût. C’est là, dans la prise en charge de ces besoins, qu’intervient la prestation de compensation du handicap, aide personnalisée versée par les départements. C’est un droit essentiel, qui doit être couvert par la solidarité nationale et qui mérite de véritables améliorations. Un récent rapport de l’IGAS précise que « plus le handicap est sévère, plus le revenu est faible et le niveau de pauvreté élevé ». Le revenu des personnes en situation de handicap est en effet 1,4 fois moins élevé que la moyenne. Il y a donc urgence à agir pour améliorer leurs conditions de vie, en particulier dans la prise en charge des besoins directement liés au handicap.<br/>Il est ici proposé de supprimer la barrière de 75 ans au-delà de laquelle il n’est plus possible de demander à bénéficier de la PCH. En effet, comment expliquer qu’on soit empêché d’y accéder au moment où l’on peut en avoir le plus besoin ? Selon la loi de 2005, le critère d’âge devait être supprimé au plus tard en 2010. Il faudrait donc également supprimer la barrière de 60 ans après laquelle la première demande ne peut plus être effectuée. C’est d’autant plus incompréhensible que cette prestation n’a aucune raison de n’être pas universelle. Pourquoi laisser perdurer une injustice et des situations intenables ?<br/>Depuis 2006, le montant de la prestation a fortement diminué – d’environ 250 euros par mois –, les plafonds n’ayant pas évolué. De plus, le périmètre de la compensation est trop resserré et l’est d’autant plus qu’il peut induire un reste à charge qui constitue un véritable frein à la mise en place des plans d’aide. Le reste à charge zéro ne devrait-il pas être la règle pour certaines prestations indispensables lorsqu’un diagnostic et un plan d’aide sont établis ?<br/>Pour corriger les insuffisances de la PCH, ont été créés des fonds départementaux de compensation, sortes de palliatifs dont la raison d’être est de réduire la part du reste à charge en la maintenant au-dessous de 10 % des ressources personnelles nettes impôts. Cependant, cela ne constitue pas un véritable droit pour les personnes et, puisque les ressources de ces fonds ne sont pas clairement établies, le texte précise obscurément que ce droit n’est actionnable que dans la limite des tarifs et montants. Le décret d’application n’a donc pas été publié, d’où un rappel à l’ordre du Conseil d’État en 2016.<br/>La formule proposée ici, dans la limite des financements du fonds départemental de compensation, ne nous sort pas de cette ornière. Au-delà des disparités entre départements, comment imaginer que, dans un même département, certains de nos concitoyennes et concitoyens puissent voir leur reste à charge ainsi contenu et limité – tandis que ce ne serait pas le cas pour d’autres – parce que le fonds serait arrivé au bout des financements ? Il faut des moyens suffisants et pérennes pour répondre à toutes les demandes et il n’est pas dans notre esprit de créer des charges nouvelles pour les départements sans leur donner les ressources correspondantes,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543796" ordre_absolu_seance="113" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985975" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1543797" ordre_absolu_seance="114" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985976" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…à l’heure où les collectivités locales sont étranglées par l’austérité budgétaire décidée conjointement à Paris et à Bruxelles. En fin de compte, ce sont bien une modernisation et une revalorisation de la PCH qui semblent devoir être mises à l’ordre du jour.<br/>Le texte prévoit par ailleurs une amélioration de la procédure d’attribution de la PCH, avec l’instauration d’une automaticité du droit à prestation lorsque le handicap n’est pas de nature à évoluer favorablement. Cette disposition va dans le bon sens, épargnant aux bénéficiaires des démarches inutiles et parfois vexatoires.<br/>Il nous est également proposé de reformuler les principes des contrôles d’effectivité. Ne vaudrait-il pas mieux faire porter les efforts sur des démarches qui aideraient les personnes à mettre en œuvre leur plan d’aide dans les meilleures conditions, puisque leur besoin a été clairement établi ?<br/>La proposition de loi indique que le contrôle doit porter sur une période de référence de six mois minimum. Il faut laisser aux plans d’aide le temps de se mettre en place pour pouvoir en juger. L’APF – l’Association des paralysés de France –, par exemple, suggérait une période d’un an, ce qui permettrait sans doute d’avoir une vision plus juste. Il est indiqué que ce contrôle ne peut s’exercer que sur les sommes qui ont été effectivement versées et il faudrait préciser qu’il ne s’agit pas de contrôler les heures, mais la destination conforme des aides allouées. Au passage, je rappelle que la rémunération de l’aide humaine est un sujet sur lequel nous devrions nous pencher sérieusement.<br/>La proposition de loi n’est pas dépourvue de bonnes intentions, mais – et nous en connaissons les contraintes –, elle demeure insuffisante. Des pistes ont été avancées par les associations et je profite de l’occasion pour saluer leur engagement. Ce texte a du moins le mérite de nous rappeler les failles de la solidarité nationale. <italique>(Mme</italique><italique> </italique><italique>Caroline Fiat applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Fontaine-Domeizel" id_acteur="PA718706" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM733715">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543802" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986053" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Fontaine-Domeizel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543803" ordre_absolu_seance="2" id_acteur="PA718706" id_mandat="PM733715" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986054" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Fontaine-Domeizel</nom>
+              <id>718706</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Suppression de la barrière d’âge de 75 ans, création d’un droit à vie, modalités de versement facilitées, reste à charge de moins de 10 % : voilà certaines avancées, très attendues par les associations et les personnes handicapées, de cette proposition de loi relative à la PCH.<br/>Il y a près de quinze ans, la loi fondatrice du 11 février 2005 pour l’égalité des droits et des chances des personnes handicapées posait les grands principes de la politique du handicap et instaurait la prestation de compensation du handicap.<br/>Le Gouvernement et la majorité inscrivent pleinement leur action dans l’esprit de cette loi, puisque l’inclusion des personnes en situation de handicap constitue une priorité du quinquennat. Le chemin reste encore long, nous en avons conscience, mais nous devons mener ce combat ensemble pour améliorer le quotidien de milliers de personnes en situation de handicap et de leurs proches.<br/>Le groupe La République en marche salue tout naturellement cette proposition de loi que nous souhaitons voir adoptée au-delà des clivages politiques et qui comporte des réponses concrètes et très attendues à des dysfonctionnements connus de la PCH. J’en profite pour saluer mon collègue Philippe Berta, auteur en 2018 d’une proposition de loi qui a largement inspiré celle que nous examinons aujourd’hui.<br/>L’article 1 propose tout d’abord la suppression de la barrière d’âge de 75 ans au-delà de laquelle il est aujourd’hui impossible, pour les personnes dont le handicap s’est déclaré avant 60 ans, de solliciter la PCH. Nous y sommes tout à fait favorables.<br/>Pour mieux comprendre l’intérêt de cette mesure, donnons l’exemple d’une personne victime, à 57 ans, d’un accident entraînant l’apparition d’un handicap et qui se ferait aider pendant dix, quinze, voire vingt ans par son conjoint sans demander la PCH. Il paraît cohérent que, lors d’un changement de situation – par exemple la disparition de son conjoint –, cette personne ait le droit de bénéficier de la PCH sans limite d’âge.<br/>Certains, dans cet hémicycle, souhaiteraient aller plus loin : repousser la barrière d’âge de 60 ans à 65 ans, voire lever cette limite au-delà de laquelle il n’est en principe plus possible d’accéder à la PCH. La question est légitime. En effet, on ne peut poser le problème de la perte d’autonomie des personnes vieillissantes en situation de handicap sans ouvrir le débat de l’articulation de la PCH avec l’APA. Nous souhaitons, pour notre part, inscrire la question de cette évolution dans le débat qui aura lieu lors de l’examen du projet de loi sur le grand âge et l’autonomie.<br/>En outre, nous saluons la clarification bienvenue du mécanisme de financement des fonds départementaux de compensation. Ceux-ci ont été créés par la loi de 2005 mais le décret d’application n’a jamais vu le jour. Grâce à l’article 2, les frais qui pèsent sur les bénéficiaires ne dépasseront pas 10 % de leurs ressources personnelles nettes d’impôts. Nous serons donc attentifs à la publication du décret d’application qui apportera davantage de convergence territoriale dans les pratiques.<br/>Enfin, nous sommes particulièrement fiers de la création, prévue par l’article 3, d’un droit à vie pour les personnes dont le handicap ne peut connaître d’évolution favorable. Cette mesure s’inscrit pleinement dans le cadre de l’engagement du Gouvernement à simplifier le quotidien des personnes handicapées mais aussi à faciliter l’action des MDPH.<br/>Cependant l’attribution de la PCH à vie ne doit pas porter préjudice aux actions d’accompagnement et de conseil exercées par les MDPH. Le groupe défendra un amendement en ce sens. La question des aides techniques et humaines, notamment les aides à la parentalité, à la communication ou encore ménagères, a été soulevée. Sur ce point, Philippe Denormandie a rendu un rapport comprenant une évaluation et des préconisations qui nous permettront de répondre, au plus près, aux besoins des personnes handicapées.<br/>Enfin, notre système présente des lacunes concernant deux questions traitées dans l’article 4 : le transport des personnes handicapées et la compensation répondant aux besoins spécifiques des enfants. Nous sommes donc favorables à l’instauration d’un comité qui pourra faire évoluer les situations. S’agissant de la première question, nous défendrons un amendement permettant d’ouvrir la réflexion à tous les types de transports.<br/>Je le répète : le groupe La République en marche est très satisfait des avancées prévues par cette proposition de loi, que nous voterons. <italique>(Applaudissements sur les bancs du groupe LaREM. – Mme</italique><italique> </italique><italique>Michèle de</italique><italique> </italique><italique>Vaucouleurs applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543815" ordre_absolu_seance="14" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986066" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Viry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543816" ordre_absolu_seance="15" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986067" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aujourd’hui, notre Assemblée débat d’une proposition de loi déjà adoptée par le Sénat. Je tiens à rappeler en préambule que notre groupe, et plus généralement la droite, a toujours été au rendez-vous des questions liées au handicap qui touchent bon nombre de nos concitoyens. Sous le quinquennat de Jacques Chirac, le Gouvernement avait fait adopter le 11 février 2005 une loi pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, qui a permis la création de la PCH en réformant les dispositions antérieures portant sur la participation et la citoyenneté des personnes en situation de handicap.<br/>En 2015, 335 000 personnes bénéficiaient de cette prestation – c’est le chiffre le plus récent dont nous disposions –, soit 7 % de plus qu’en 2014. Je citerai l’article 11 de la loi de 2005 : « La personne handicapée a droit à la compensation des conséquences de son handicap quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie. Cette compensation consiste à répondre à ses besoins. » L’article précise que « les besoins de compensation sont inscrits dans un plan élaboré en considération des besoins et des aspirations de la personne handicapée tels qu’ils sont exprimés dans son projet de vie ».<br/>Nous devons nous interroger sur l’application de cette loi, quinze ans après sa promulgation. Nous constatons que la majorité des objectifs du texte n’ont pas été atteints. Les personnes en situation de handicap continuent d’affronter trois types de contraintes que la présente proposition de loi vise à atténuer. Tout d’abord, certaines personnes âgées en situation de handicap demeurent exclues du bénéfice de la PCH en raison du maintien des barrières d’âge à 60 et à 75 ans.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543819" ordre_absolu_seance="18" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986070" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543820" ordre_absolu_seance="137" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1986071" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ensuite, les restes à charge demeurent élevés, notamment en matière de transport ou d’équipements.<br/>Par ailleurs, la prestation de compensation est inadaptée aux besoins des enfants. Nous devions travailler sur ces trois difficultés majeures.<br/>Devant les multiples complexifications de l’accès à cette aide, il était nécessaire, et même impératif, d’en modifier les conditions et modalités de versement. Il apparaît tout aussi urgent de simplifier le cadre juridique de l’attribution de cette aide, d’éclaircir les conditions de son versement et de supprimer les contraintes que subissent les conseils départementaux qui en sont – comme vous le savez – les principaux financeurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543822" ordre_absolu_seance="140" id_acteur="PA330909" id_mandat="PM722548" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986073" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Descoeur</nom>
+              <id>330909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est exact !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543823" ordre_absolu_seance="141" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1986074" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour améliorer et fluidifier le système, la présente proposition, émise par notre collègue sénateur Philippe Mouiller, vise à réformer les dispositifs de la loi de 2005 – cela a déjà été dit mais je reprends ces propos à mon compte –, d’une part en supprimant l’âge limite de 75 ans pour demander la PCH et d’autre part, comme le prévoit l’article 2, qui est important, en atténuant l’obligation faite aux MDPH de verser aux personnes handicapées une aide financière issue du fonds départemental de compensation du handicap, le FDCH, afin de couvrir l’essentiel des frais à leur charge après déduction de la prestation de compensation. Le président du conseil départemental ne pourra demander de contrôle de conformité de l’utilisation de la PCH par les bénéficiaires que si celle-ci a été versée pendant au moins six mois continus.<br/>Enfin, pour consolider l’ensemble du système, la loi prévoit la création d’un comité stratégique auprès du ministre chargé des personnes handicapées. Ce comité élaborera et proposera des solutions concernant leurs modes de transport afin d’en assurer la gestion logistique et financière.<br/>S’il faut réfléchir à bien d’autres progrès, et les traduire dans les faits, pour permettre une meilleure inclusion de tous nos concitoyens, je tiens à souligner que de telles mesures doivent toujours appeler l’attention du législateur, quelle que soit sa place sur les bancs de cet hémicycle. Pour ma part, je salue devant vous les contributions, apportées lors des travaux parlementaires, qui ont permis d’améliorer le système actuel. Les enjeux auxquels nous devons répondre demeurent multiples et les attentes des personnes en situation de handicap, de leurs familles et des associations qui les soutiennent restent élevées.<br/>Je note pour conclure qu’un décret devra préciser les modalités de sortie de la situation actuelle. Je souhaite qu’il soit publié dès que possible pour nous permettre d’aller de l’avant avec ce texte.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543827" ordre_absolu_seance="145" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986078" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela fait quinze ans que nous attendons cette publication !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543828" ordre_absolu_seance="146" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1986079" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ces observations faites, le groupe Les Républicains soutient la proposition de loi. <italique>(Applaudissements sur plusieurs bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle de Vaucouleurs" id_acteur="PA721924" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723422">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543829" ordre_absolu_seance="147" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986080" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle de Vaucouleurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1543830" ordre_absolu_seance="148" id_acteur="PA721924" id_mandat="PM723422" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986081" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle de Vaucouleurs</nom>
+              <id>721924</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La proposition de loi en discussion s’inspire très largement de celle de notre collègue Philippe Berta qui avait été adoptée à l’unanimité en mai 2018 par l’Assemblée dans le cadre de la journée réservée à notre groupe. Si le texte n’a finalement pas été inscrit à l’ordre du jour du Sénat, ses principales mesures ont été reprises dans une autre proposition du président de la commission des affaires sociales de la Chambre haute, Alain Milon. C’est donc de cette version que nous allons débattre aujourd’hui.<br/>Comme l’a rappelé Mme la rapporteure, cette proposition de loi apporte des avancées significatives à l’un des dispositifs emblématiques de la loi du 11 février 2005 : la PCH. En effet, si cette prestation démontre sa pertinence depuis quinze ans, elle nécessite certains ajustements demandés par les personnes en situation de handicap et par les associations qui les défendent.<br/>Ainsi, le premier article reprend la disposition phare du texte de Philippe Berta qui consiste à supprimer la barrière d’âge de 75 ans pour l’accès à la PCH. Cette limite empêche, jusqu’à présent, une personne de demander cette prestation, alors même qu’elle répondait à ses critères d’attribution avant l’âge de 60 ans. Il s’agit là d’une mesure de bon sens, puisqu’elle met fin à une injustice dont souffrent ceux qui n’ont pas jugé utile de demander la PCH avant 75 ans et qui peuvent se retrouver en difficulté, une fois cet âge atteint, en raison d’aléas de la vie. Par ailleurs, l’allongement de l’espérance de vie dans notre pays renforce la cohérence de cette disposition.<br/>Une telle mesure est donc nécessaire et attendue par les acteurs institutionnels, les associations et les principaux concernés : nos concitoyens en situation de handicap. En outre, comme l’a expliqué notre rapporteure, son coût, de l’ordre de 30 millions d’euros, est largement supportable. Il faut donc prendre cette mesure dès à présent pour qu’elle entre en vigueur le plus rapidement possible.<br/>L’article 2 texte vise à clarifier les dispositions législatives relatives aux fonds départementaux de compensation du handicap. Il inscrit dans la loi que les frais de compensation ne peuvent excéder 10 % des ressources personnelles nettes d’impôts des personnes handicapées dans la limite des financements de chaque fonds. Cela va plus loin que l’expérimentation qu’avait proposée Philippe Berta, mais l’esprit est identique.<br/>Avec l’adoption de ce dispositif, il incombera au Gouvernement de prendre le décret d’application nécessaire qui permettra d’harmoniser les modalités d’intervention de ces fonds. Si cette mesure doit permettre de faire converger l’ouverture du droit à compensation par les fonds, cela ne résoudra pas le problème des disparités financières entre départements. Madame la secrétaire d’État, quelles solutions envisagez-vous pour répondre au risque d’inégalité de traitement en fonction des territoires ?<br/>Nous souscrivons à l’esprit de l’article 3 qui développe un éventail de dispositifs visant à améliorer les modes d’attribution et de contrôle de la PCH. Tout d’abord, il inscrit dans la loi le rôle des présidents de conseils départementaux dans le contrôle des fonds destinés à l’attribution de la PCH, mesure logique puisque les départements sont les relais indispensables au déploiement de la politique du handicap dans les territoires.<br/>Par ailleurs, nous souscrivons pleinement à la simplification des démarches des bénéficiaires via l’harmonisation des durées d’attribution des différents types d’aides que recouvre la PCH. Chacun sait le parcours du combattant que peut représenter l’ensemble des formalités administratives à accomplir pour les personnes handicapées. Nous soutenons particulièrement la création d’un droit à vie à cette prestation concernant les handicaps les plus lourds, pour lesquels une amélioration n’est pas envisageable.<br/>Enfin, l’article 4 se saisit de deux questions primordiales et toujours en suspens : la prise en charge intégrée du transport des personnes en situation de handicap et l’adaptation du droit à la compensation du handicap pour les enfants. La constitution d’un comité stratégique chargé d’apporter des solutions à ces problèmes est une proposition intéressante. Cependant, les instances déjà existantes, telles que le Conseil national handicap ou encore la Conférence nationale du handicap, ne pourraient-elles pas se révéler tout aussi efficaces ?<br/>La constitution d’un comité stratégique chargé de proposer des solutions est une proposition intéressante. Cependant, les instances déjà existantes, telles que le Conseil national handicap ou la Conférence nationale du handicap, ne pourraient-elles pas se révéler tout aussi efficaces ?<br/>En conclusion, le groupe du Mouvement démocrate et apparentés soutiendra l’ensemble de cette proposition de loi pertinente, cohérente et juste. Elle constitue une étape supplémentaire vers la construction d’une société plus inclusive. <italique>(Applaudissements sur les bancs du groupe MODEM et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean Lassalle" id_acteur="PA1838" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723068">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543889" ordre_absolu_seance="3" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985856" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean Lassalle.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543890" ordre_absolu_seance="4" id_acteur="PA1838" id_mandat="PM723068" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985857" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean Lassalle</nom>
+              <id>1838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le 5 novembre dernier, le Sénat a adopté à l’unanimité, en première lecture, la proposition de loi du sénateur du groupe Les Républicains Alain Milon visant à améliorer l’accès à la prestation de compensation du handicap.<br/>Elle vise à supprimer l’une des limites d’âge en vigueur, à créer un droit à vie à la prestation de compensation du handicap, à assouplir ses modalités de versement, enfin à clarifier les choses et à apporter des précisions s’agissant des frais liés au reste à charge – elle permet ainsi de se pencher aussi sur les fonds départementaux de compensation du handicap.<br/>La prestation de compensation du handicap bénéficie actuellement à plus de 284 000 personnes, selon le rapporteur du texte au Sénat, M. Philippe Mouiller, membre du groupe Les Républicains, décidément en pointe sur ce très important dossier…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543893" ordre_absolu_seance="7" id_acteur="PA720386" id_mandat="PM722948" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985860" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabien Di Filippo</nom>
+              <id>720386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543894" ordre_absolu_seance="8" id_acteur="PA1838" id_mandat="PM723068" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985861" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean Lassalle</nom>
+              <id>1838</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle bénéficie à 284 000 personnes, disais-je, pour un coût global de 1,9 milliard d’euros. Les aides humaines représentent la majeure partie des montants accordés, suivies des aides techniques, des aménagements du logement ou du véhicule, ou encore des frais de transport.<br/>Comme cela est précisé dans l’exposé des motifs de la proposition de loi sénatoriale, « l’accès à la PCH pour les personnes handicapées est aujourd’hui fortement compliqué par la pluralité de ses objectifs, les conditions de son ouverture et les contraintes que subissent ses principaux financeurs, les conseils départementaux ».<br/>L’article 1<exposant>er</exposant> du texte supprime la barrière d’âge, actuellement de 75 ans, au-delà de laquelle il n’est plus possible de demander à bénéficier de la PCH, pour toute personne dont le handicap s’est déclaré avant l’âge de 60 ans. L’article 2 prévoit de clarifier le dispositif des fonds départementaux de compensation du handicap. L’article 3 renforce les prérogatives de contrôle du président du conseil départemental. L’article 4 poursuit un double objectif : le suivi des enfants et la création d’un comité stratégique.<br/>Quelques critiques ont été émises. L’association Coordination handicap et autonomie – CHA – dénonce, dans un communiqué du 5 novembre 2019, « une remise en cause du droit à la compensation du handicap ». Elle insiste sur le fait que « la proposition de loi, qui n’a pas été soumise pour avis au CNCPH, le Conseil national consultatif des personnes handicapées, remet dramatiquement en cause le droit à la compensation du handicap ».<br/>Elle dénonce en particulier l’article 2 du texte qui, selon elle, « vise à réduire la portée des fonds départementaux de compensation du handicap ». Alors que ces fonds avaient été créés par la loi de 2005 afin que les personnes en situation de handicap n’aient pas à financer un reste à charge supérieur à 10 % de leurs ressources, l’association considère que la proposition de loi réduit leur intervention en fonction de « la limite des financements du fonds départemental de compensation ».<br/>L’association estime aussi que la suppression de la limite d’âge de 75 ans « n’est pas suffisante », puisque la barrière d’âge de 60 ans a été maintenue.<br/>J’évoquais la loi de 2005 créant les fonds départementaux de compensation du handicap, mais l’association rappelle que depuis quatorze ans, « les gouvernements successifs n’ont jamais publié le décret qui aurait permis d’appliquer l’article » en question. C’est sans doute la raison pour laquelle tous ces gouvernements ont perdu les élections. <italique>(Sourires.)</italique> L’association ajoute : « Chaque fonds départemental a donc fonctionné avec ses propres règles et selon le bon vouloir de ses contributeurs : État, département, autres collectivités territoriales, CPAM, CAF, etc. »<br/>L’État a déjà été condamné deux fois pour non-publication du décret. Cette proposition de loi ne vise en fait qu’à restreindre la portée de la loi en fonction des pratiques actuelles et à éviter ainsi une nouvelle condamnation de l’État.<br/>Pour l’ensemble de ces raisons, je voterai ce texte avec enthousiasme.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543903" ordre_absolu_seance="17" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985870" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543904" ordre_absolu_seance="18" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1985871" valeur=" (n[[o]] 2538)" bibard=" (n[[o]] 2538)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543905" ordre_absolu_seance="19" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985872" valeur="" bibard=" (n[[o]] 2538)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543906" ordre_absolu_seance="20" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1985873" valeur=" 1er" bibard=" (n[[o]] 2538)" art=" 1er" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 1<exposant>er</exposant></texte>
+      <interExtraction nom_orateur="Mme Laurence Vanceunebrock" id_acteur="PA718728" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722438">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543907" ordre_absolu_seance="21" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985874" valeur="" bibard=" (n[[o]] 2538)" art=" 1er" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laurence Vanceunebrock, inscrite sur l’article 1<exposant>er</exposant>.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543908" ordre_absolu_seance="22" id_acteur="PA718728" id_mandat="PM722438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985875" valeur="" bibard=" (n[[o]] 2538)" art=" 1er" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Vanceunebrock</nom>
+              <id>718728</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’article 1<exposant>er</exposant> supprime la barrière d’âge de 75 ans, au-delà de laquelle le bénéfice de la prestation compensatoire du handicap n’est plus ouvert pour une personne dont le handicap s’est déclaré avant l’âge de 60 ans. Il s’agit de mettre fin à une règle administrative considérée comme absurde, inadaptée à l’évolution de notre société.<br/>L’allongement de l’espérance de vie n’étant pas nécessairement lié à une vie en bonne santé, la France doit adapter sa réglementation en conséquence. Pour les personnes handicapées, cela est d’autant plus vrai que la complexité des démarches administratives liées à leur handicap empêche encore trop souvent l’accès à des prestations comme la PCH à un âge avancé.<br/>La barrière de 75 ans empêche ainsi 7 500 à 10 000 personnes de percevoir cette prestation. Une distinction est donc opérée entre les personnes handicapées selon un critère qui n’est pas lié au handicap mais à l’âge, ce qui est incohérent. C’est pourquoi la suppression de cette limitation a été régulièrement recommandée, notamment par l’inspection générale des affaires sociales en 2011 ou en 2016. Elle est surtout très attendue par les personnes handicapées elles-mêmes.<br/>En effet, dire à une personne qu’elle ne peut plus percevoir une prestation parce qu’elle s’y prend trop tard, alors que son handicap est déclaré depuis plusieurs années, est parfaitement incompréhensible.<br/>Il arrive que le handicap se déclare avant 60 ans mais que la personne handicapée n’ait pas souhaité recourir à la PCH, pour des raisons souvent personnelles. Dans ce cas, nous ne pouvons la punir en l’empêchant d’y avoir accès quelques années plus tard. Il faut tenir compte de l’évolution de son environnement avec, par exemple, le décès du conjoint aidant ou la dégradation des conditions de vie liée à l’âge. Les règles administratives complexes, telles que celle-là, nous empêchent d’intégrer certaines personnes handicapées.<br/>La barrière d’âge de 75 ans ne peut plus tenir dans une société que l’on revendique désormais comme étant inclusive. L’article 1<exposant>er</exposant> vient donc mettre fin à une discrimination en donnant le même accès à tous à une prestation. Il s’agit d’une mesure de justice sociale, qui se fonde sur les conditions de vie réelles de la personne handicapée.<br/>Si plusieurs lois ont permis d’étendre formellement les droits des personnes porteuses d’un handicap ces dernières années, il était temps de concrétiser cette volonté dans la pratique. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543915" ordre_absolu_seance="29" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985882" valeur=" 1er &amp;#10;" decision="ADOPTION d’un article (vote à main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>1<exposant>er</exposant></italique>
+          <italique/>
+          <italique>est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543916" ordre_absolu_seance="30" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1985883" valeur=" 2" bibard=" (n[[o]] 2538)" art=" 2" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 2</texte>
+      <interExtraction nom_orateur="Mme Martine Wonner" id_acteur="PA722268" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723522">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543917" ordre_absolu_seance="31" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985884" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Martine Wonner, inscrite sur l’article 2.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543918" ordre_absolu_seance="32" id_acteur="PA722268" id_mandat="PM723522" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985885" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Martine Wonner</nom>
+              <id>722268</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon propos n’est pas directement lié à l’article 2, mais je compte sur l’indulgence de Mme la présidente.<br/>Février 2005 a vu à la fois la création de la PCH et la définition légale du handicap psychique, avec trente ans de retard sur nos partenaires. En décembre 2019, le Premier ministre et la secrétaire d’État chargée des personnes handicapées ont présenté six nouvelles ambitions prioritaires du Gouvernement pour 2020 dans le cadre du troisième comité interministériel du handicap. L’une de ces ambitions consiste à garantir un meilleur accès à la PCH pour prendre en compte les besoins spécifiques des personnes souffrant de troubles psychiques.<br/>Aujourd’hui, le nombre de ces personnes qui en bénéficient est infime. Un décret de 2017 a affiné les critères d’éligibilité à la PCH et un guide d’appui de la Caisse nationale de solidarité pour l’autonomie est susceptible d’aider les maisons départementales des personnes handicapées dans les prises de décision. C’est encore insuffisant. L’UNAFAM, l’Union nationale de familles et amis de personnes malades et/ou handicapées psychiques, et la FNAPSY, la fédération nationale des associations d’usagers en psychiatrie, nous ont rappelé que la méconnaissance du handicap psy et de ses caractéristiques, notamment son instabilité, décourage toujours et encore les familles et les personnes de demander la PCH.<br/>Je ne doute pas que le rapport Denormandie-Talbot, évoqué par ma collègue Emmanuelle Fontaine-Domeizel, devrait permettre des améliorations dans ce domaine pour ne pas laisser toujours et encore de côté les personnes handicapées psychiques.</texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543922" ordre_absolu_seance="36" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1985889" valeur=" 3" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+        <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543922" ordre_absolu_seance="36" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985889" valeur=" 3" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Madame la députée, les inscrits sur un article doivent en principe s’exprimer sur ce dernier, mais vu l’atmosphère assez consensuelle qui caractérise nos débats, vous avez bénéficié de mon indulgence.<br/>La parole est à Mme Jeanine Dubié, pour soutenir l’amendement n<exposant>o</exposant> 3 qui vise à supprimer l’article 2.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543923" ordre_absolu_seance="37" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985890" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Jeanine Dubié</nom>
+                <id>608292</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Pourquoi supprimer l’article 2 ? Il y a un premier problème. La lecture de la proposition de loi donne l’impression que, grâce à l’article 2, l’article L. 146-5 du code de l’action sociale et des familles fait l’objet d’une nouvelle rédaction : ce n’est pas vrai ! En fait, la proposition de loi se contente d’ajouter au début de la rédaction actuelle les mots suivants : «  Dans la limite des financements du fonds départemental de compensation, ». Autrement dit, il ne s’agit pas d’améliorer la situation, mais de limiter le bénéfice d’un dispositif par l’introduction d’une restriction.<br/>Je relève un second problème au II de l’article 2, qui dispose que « le Gouvernement remet au Parlement un rapport sur la mise en œuvre du décret, mentionné au deuxième alinéa de l’article L. 146-5 du code de l’action sociale et des familles, dans un délai de dix-huit mois à compter de sa publication ». Vous rendez-vous compte à quel point il est absurde que le législateur en soit à demander dans les dix-huit mois un rapport sur la mise en œuvre d’un décret attendu depuis plus de quinze ans ? Celui-ci n’est toujours pas publié ; il ne sera pas mis en œuvre. J’ai vu votre amendement, madame la rapporteure, et je connais votre sérieux, mais je ne comprends pas comment vous pouvez accepter des choses pareilles !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-723114" id_mandat="PM723114">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543925" ordre_absolu_seance="39" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1985892" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543926" ordre_absolu_seance="40" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-723114" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1985893" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Elimas</nom>
+                <id>720924</id>
+                <qualite>rapporteure</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Avis défavorable. Madame Dubié, l’article 2 dont vous demandez la suppression apporte une clarification juridique qui permettra que sorte enfin le décret d’application qui n’est pas paru, ce qui a constitué un blocage jusqu’à maintenant.<br/>J’entends vos questions et vos craintes. Vous avez raison de rappeler que la loi de 2005 a consacré le droit des bénéficiaires de la PCH à ne pas dépenser en frais de compensation plus de 10 % de leurs ressources personnelles nettes d’impôts. Pour autant, ce droit est de fait contraint par les capacités financières limitées des fonds départementaux de compensation du handicap.<br/>Je conviens qu’il aurait été préférable que ces fonds disposent de ressources garanties ; c’est d’ailleurs un point sur lequel nous pourrions travailler avec le Gouvernement. Mais aujourd’hui, notre objectif est de sortir de l’impasse juridique dans laquelle nous nous trouvons depuis 2005 en rendant enfin possible la publication d’un décret d’application.<br/>Ce décret permettra d’harmoniser a minima les pratiques des fonds départementaux et de réduire les disparités que l’on observe aujourd’hui entre les départements dans la prise en charge des frais de compensation du handicap, qui ont été dénoncées à maintes reprises en commission des affaires sociales. Il reviendra aux fonds de préciser leurs critères d’éligibilité pour garantir au mieux le droit des bénéficiaires de voir le reste à charge limité à 10 % de leurs ressources personnelles nettes d’impôts.<br/>Je reviens sur l’amendement relatif au rapport d’évaluation adopté en commission des affaires sociales. Je crois que nous pourrons obtenir cette évaluation dans le délai imparti.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543931" ordre_absolu_seance="45" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1985898" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1543932" ordre_absolu_seance="46" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1985899" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je rappelle que la réduction du reste à charge des personnes en situation de handicap est une priorité du Gouvernement. Il est nécessaire de rendre vraiment opérantes les dispositions relatives aux fonds départementaux de compensation du handicap qui ne sont pas applicables à ce jour du fait de contradictions entre le plafonnement du reste à charge et le caractère volontaire de l’abondement des fonds.<br/>L’article 2 de la proposition de loi permet de sortir de cette impasse en maintenant le caractère volontaire de son financement par les différentes parties prenantes, auquel le Gouvernement est attaché dans le cadre de sa relation constructive avec les collectivités territoriales. Il ouvre enfin la voie à une réduction du reste à charge des personnes handicapées, dans la limite des ressources du fonds départemental de compensation.<br/>La suppression de cet article équivaudrait à un retour en arrière pour le droit des personnes en situation de handicap, car la disposition en vigueur depuis 2005 est inapplicable dans les faits. Je tiens à vous rassurer sur mon engagement de sortir le décret en moins de six mois, afin que nous puissions ensuite l’évaluer dans l’état d’esprit rappelé par Mme la rapporteure.<br/>En l’état, le Gouvernement est donc défavorable à l’amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Agnès Firmin Le Bodo" id_acteur="PA267780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723504">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543840" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985692" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Agnès Firmin Le Bodo.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543841" ordre_absolu_seance="2" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985693" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Firmin Le Bodo</nom>
+                <id>267780</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Le groupe UDI, Agir et indépendants votera contre l’amendement. Nous sommes tous d’accord, madame la secrétaire d’État, pour diminuer le reste à charge qui incombe aux personnes en situation de handicap ; ma collègue Dubié l’est aussi. Je réitère pour ma part la proposition qu’avait formulée mon groupe : agir sur le problème des inégalités territoriales. En effet, tous les départements ne traitent pas la question de la même façon, car ils n’ont pas tous les mêmes moyens. Peut-être faudrait-il envisager une contractualisation entre l’État et les départements, qui rassurerait certains, sur le modèle de ce qui a été fait pour la gestion des mineurs non accompagnés, les MNA. Cette solution n’est pas forcément satisfaisante, mais elle permet au moins de graver dans le marbre le fait que l’État et les départements se chargent de ce problème ensemble.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543842" ordre_absolu_seance="3" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985694" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Jeanine Dubié.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543843" ordre_absolu_seance="4" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985695" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Jeanine Dubié</nom>
+                <id>608292</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je n’insisterai pas plus. Madame la secrétaire d’État, madame la rapporteure, j’ai beaucoup de respect pour vous, mais vous ne me ferez pas croire que le décret que vous sortirez peut améliorer la situation. En effet, vous allez limiter le financement du fonds départemental, au risque que certaines personnes ne puissent pas percevoir l’argent. Si les contributeurs du fonds ne le financent pas suffisamment, il faut créer des dispositifs les obligeant à le faire : il est aberrant de sanctionner les bénéficiaires !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543844" ordre_absolu_seance="5" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985696" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Stéphane Viry.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543845" ordre_absolu_seance="6" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985697" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Stéphane Viry</nom>
+                <id>721474</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Un mot, madame la secrétaire d’État, pour rappeler nos débats en commission, même si vous en avez connaissance. Le nœud gordien de la proposition de loi, c’est l’article 2, notamment le décret. Je comprends l’état d’esprit de notre collègue, même si je ne voterai pas l’amendement car il faut que le texte avance. Ce qui a été dit en commission et en séance vous impose une forme d’obligation de résultat.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543846" ordre_absolu_seance="7" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985698" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Tout à fait !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543847" ordre_absolu_seance="8" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985699" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Stéphane Viry</nom>
+                <id>721474</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>À défaut, c’est tout l’esprit et toute la volonté de la proposition de loi qui deviendraient caducs. Nous scruterons donc le contenu du décret d’un œil vigilant et exigeant.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543848" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985700" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Pierre Dharréville.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543849" ordre_absolu_seance="10" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1985701" valeur="" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Dharréville</nom>
+                <id>718926</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je voudrais en préambule souligner que la réforme du règlement, qui limite l’expression à un orateur par groupe pour chaque article et pour la discussion générale, peut paradoxalement conduire, comme cela vient d’être le cas, à des interventions qui ne portent pas nécessairement sur l’article concerné. C’est potentiellement problématique, dans cette discussion comme dans celles à venir.<br/>Pour ce qui est du texte qui nous occupe, la question est de savoir si, oui ou non, il existe un droit. Ici, il y a un droit à moitié, un droit incertain : en effet, l’article indique que ce droit est valable dans la limite des possibilités du fonds. On est donc en train de faire une réparation dont on sait qu’elle ne tiendra pas. La proposition que vous faites ne résout pas la contradiction que vous avez pointée. Le problème étant plus global, il faut une réforme d’une autre ampleur. Vous ne faites que reformuler ce qui était mal écrit. La rédaction retenue est un peu meilleure, mais le problème reste entier.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543851" ordre_absolu_seance="12" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985703" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Un point de procédure : la réforme du règlement limite l’expression à un orateur par groupe. Mme Wonner ne m’a pas laissé le temps de lui donner ou non l’autorisation de s’exprimer, alors que son groupe était déjà intervenu ; cette prise de parole est tout à fait exceptionnelle et ne doit pas se reproduire, au risque de voir les manquements aux règles se multiplier.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543852" ordre_absolu_seance="13" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985704" valeur=" 3" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>3 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543853" ordre_absolu_seance="14" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_30" code_parole="" sommaire="1" id_syceron="1985705" valeur=" 9" bibard=" (n[[o]] 2538)" art=" 2" adt=" 3" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543853" ordre_absolu_seance="14" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ADT_SORTS_DIRECT_1_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985705" valeur=" 9" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 9 de Mme Nathalie Elimas est rédactionnel.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543854" ordre_absolu_seance="15" code_grammaire="ADT_SORTS_DIRECT_1_40" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985706" valeur=" 9">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>9, accepté par la commission et le Gouvernement, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543855" ordre_absolu_seance="16" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985707" valeur=" 2" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>2, amendé, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543856" ordre_absolu_seance="17" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1985708" valeur=" 3" bibard=" (n[[o]] 2538)" art=" 3" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 3</texte>
+      <interExtraction nom_orateur="Mme Carole Grandjean" id_acteur="PA720170" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722880">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543857" ordre_absolu_seance="18" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1985709" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Carole Grandjean.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543858" ordre_absolu_seance="19" id_acteur="PA720170" id_mandat="PM722880" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1985710" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Carole Grandjean</nom>
+              <id>720170</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe La République en marche salue l’objectif de cette proposition de loi : apporter des améliorations à la prestation de compensation du handicap. Au-delà de la possibilité de bénéficier de la PCH si l’intéressé est encore en activité, ou de l’APA s’il ne l’est plus, nous sommes attentifs à la cohérence des politiques départementales dans la gestion des financements et à la publication des décrets visant à réduire l’hétérogénéité entre les fonds départementaux.<br/>S’agissant des modalités concrètes de versement de la PCH, il est nécessaire de simplifier les aides et de les rendre plus lisibles, et de soutenir les plus fragiles.<br/>L’article 3 contient deux avancées que nous soutenons avec vigueur : le droit à vie à la PCH lorsque le handicap n’est pas susceptible d’évoluer favorablement et l’harmonisation des durées d’attribution avec la création d’une durée unique pour les différents types d’aides relevant de la prestation.<br/>Le département pourra par ailleurs améliorer le contrôle de l’effectivité de l’utilisation de la PCH par les bénéficiaires, les contrôles s’effectuant désormais sur des périodes de référence et non mensuellement, comme aujourd’hui. C’est également une mesure que nous soutenons. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543862" ordre_absolu_seance="23" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1985714" valeur=" 5" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+        <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543862" ordre_absolu_seance="23" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985714" valeur=" 5" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Pierre Dharréville, pour soutenir l’amendement n<exposant>o</exposant> 5.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543863" ordre_absolu_seance="24" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985715" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Dharréville</nom>
+                <id>718926</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>J’ai expliqué dans la discussion générale ma préoccupation : ouvrir le débat sur la manière dont le service public peut accompagner la mise en œuvre des plans d’aide. Le contrôle se fait a priori : on examine la situation, on établit un diagnostic et on détermine l’aide dont la personne a besoin ; ensuite, ce plan d’aide doit bien sûr être mis en œuvre. L’article 3 propose pour sa part un contrôle d’effectivité, qui vise à vérifier que la personne a employé les aides qui lui étaient allouées de la façon prévue. Or dans la vie quotidienne, on rencontre parfois des obstacles qui empêchent d’appliquer le plan d’aide correctement. L’intervention publique doit se faire davantage dans un esprit d’accompagnement de la mise en œuvre du plan d’aide que dans un esprit de contrôle visant à établir l’absence de fraude, celle-ci étant d’autant plus difficile que les remboursements se font sur facture.<br/>Pour le reste, il est évidemment nécessaire de préciser ce qu’on contrôle et de prévoir une plage de temps plus large. Enfin, s’agissant du contrôle des heures, le tarif auquel celles-ci sont effectivement payées ne correspond pas toujours à celui qui est pratiqué – à juste raison – par un certain nombre d’organismes, notamment parce que leur personnel a de l’ancienneté. Ce sujet mérite lui aussi d’être approfondi.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543864" ordre_absolu_seance="66" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985850" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Caroline Fiat</nom>
+                <id>720286</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très bien !</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-1446228" id_mandat="PM723114">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543865" ordre_absolu_seance="67" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1985717" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543866" ordre_absolu_seance="68" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-1446228" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1985718" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Elimas</nom>
+                <id>720924</id>
+                <qualite>rapporteure</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Cher collègue, vous proposez de supprimer l’alinéa 5 de l’article 3, qui porte sur le contrôle d’effectivité de la PCH par le conseil départemental. Avant tout, sachez que je partage votre conviction : il nous faut développer une approche plus bienveillante et faire confiance aux bénéficiaires de la PCH. Mais vous connaissez l’adage : la confiance n’exclut pas le contrôle.<br/>Les contrôles que vous avez mentionnés sont aujourd’hui régis par un décret de 2005 selon lequel le président du conseil départemental « peut à tout moment procéder ou faire procéder à un contrôle sur place ou sur pièces en vue de vérifier si les conditions d’attribution de la prestation de compensation sont ou restent réunies ou si le bénéficiaire de cette prestation a consacré cette prestation à la compensation des charges pour lesquelles elle lui a été attribuée ». La suppression de l’alinéa 5 que vous proposez conduirait en réalité à un statu quo et ne permettrait pas d’améliorer la façon dont les contrôles sont réalisés.<br/>L’article 3, cela a été dit plusieurs fois dans la discussion générale, vise à assouplir les contrôles puisque ceux-ci doivent désormais porter sur une période minimale de six mois, afin de mieux prendre en compte la variation des besoins – je pense notamment à l’aide humaine. Il répond aux critiques formulées par les associations représentant des personnes en situation de handicap, qui considèrent que les contrôles opérés par les conseils départementaux sont souvent trop stricts, voire trop tatillons. Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543869" ordre_absolu_seance="71" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1985721" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543870" ordre_absolu_seance="72" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1985722" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 5" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur Dharréville, je sais votre attachement aux notions d’équité et d’accompagnement des personnes en situation de handicap. Vous avez raison : tout l’enjeu est de bien évaluer les besoins et de fournir la juste compensation. Mais il faut malgré tout que les départements puissent ensuite effectuer des contrôles.<br/>C’est toute la chaîne que nous souhaitons améliorer : s’il faut garder l’alinéa 5 pour laisser le contrôle à la main des départements, qui – vous l’avez tous rappelé – financement majoritairement la PCH, il faudra ensuite travailler sur les modalités d’évaluation et d’accompagnement. L’accompagnement est le maître mot : accompagnement de la définition du projet de compensation et accompagnement de son exécution. Pour l’heure, laissons cependant aux départements la possibilité de contrôle. Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543872" ordre_absolu_seance="74" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985724" valeur=" 5">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>5 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543873" ordre_absolu_seance="75" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1985725" valeur=" 14" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+        <interExtraction nom_orateur="Mme Emmanuelle Fontaine-Domeizel" id_acteur="PA718706" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM733715">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543873" ordre_absolu_seance="75" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985725" valeur=" 14" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Emmanuelle Fontaine-Domeizel, pour soutenir l’amendement n<exposant>o</exposant> 14.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543874" ordre_absolu_seance="76" id_acteur="PA718706" id_mandat="PM733715" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985726" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Fontaine-Domeizel</nom>
+                <id>718706</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>En premier lieu, je tiens à souligner l’importance du droit à vie à la PCH que l’article 3 ouvre aux personnes dont le handicap ne peut évoluer favorablement. C’est une grande avancée, car ce droit facilite le quotidien déjà très difficile des personnes qui souffrent d’un lourd handicap. Concrètement, avec la création du droit à vie, elles ne seront plus obligées de renouveler leur demande d’attribution auprès de la MDPH. Cela veut dire moins de formalités administratives, moins de paperasse pour les bénéficiaires de cette prestation : nous nous en réjouissons.<br/>Cependant, les bénéficiaires de ce droit à vie doivent rester accompagnés par les MDPH. Le groupe La République en marche propose donc un amendement qui vise à garantir l’accompagnement et le conseil des MDPH à ces personnes tout au long de leur vie. <italique>(Mmes</italique><italique> </italique><italique>Monique Limon et Michèle Peyron applaudissent.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-1446228" id_mandat="PM723114">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543876" ordre_absolu_seance="78" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1985728" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543877" ordre_absolu_seance="79" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-1446228" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1985729" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Elimas</nom>
+                <id>720924</id>
+                <qualite>rapporteure</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Madame Fontaine-Domeizel, merci d’avoir salué la création de ce droit à vie à la PCH dans le cadre de ce texte. Votre amendement vise à préciser que les personnes en situation de handicap qui bénéficient désormais de ce droit pourront continuer à être accompagnées par les MDPH. La loi de 2005 a donné pour mission à celles-ci d’accueillir, d’informer, d’accompagner et de conseiller les personnes en situation de handicap et leurs familles. Je tiens à vous rassurer : ces missions ne seront pas remises en cause par le droit à vie à la PCH. Les MDPH continueront à accomplir leurs missions, que je viens d’énumérer, de la même manière. Votre demande est donc satisfaite et je vous propose de retirer votre amendement ; à défaut, avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543878" ordre_absolu_seance="80" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1985730" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543879" ordre_absolu_seance="81" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1985731" valeur="" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Voici ma conviction profonde : ce n’est pas l’octroi du droit à vie qui va changer le quotidien des personnes en situation de handicap, mais bien l’exécution des solutions qu’on peut leur proposer. Le droit à vie est un dispositif gagnant-gagnant qui va alléger le travail des équipes des MDPH, qui pourront dès lors mieux conseiller et accompagner les bénéficiaires dans l’exécution des plans d’aide. J’effectue en ce moment un tour de France des MDPH – j’y tiens des permanences citoyennes –, et l’accompagnement est la mission première que je leur demande d’assurer.<br/>Pas plus tard qu’hier, j’étais à la MDPH de Paris, où j’ai rencontré une vingtaine de familles qui m’ont expliqué que leurs besoins évoluaient au cours de la vie. J’ai alors dit aux équipes qu’elles avaient beaucoup d’autres moyens d’accompagner les familles : les informer des améliorations de leurs droits, qui changent en permanence, et surtout leur proposer des solutions nouvelles. Les MDPH vont devenir des assembleurs de solutions ; c’est à cela que nous travaillons avec l’ensemble des 102 MDPH de notre pays.<br/>N’ayez crainte : l’accompagnement et l’exécution des plans d’aide sont la mission essentielle que nous confions aux MDPH. Elles devront aller vers les bénéficiaires, prendre les familles par la main pour que les plans d’aide soient enfin accompagnés. Je vous demande de retirer votre amendement, car l’accompagnement constitue véritablement l’ADN des MDPH à venir.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543882" ordre_absolu_seance="84" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985734" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Cyrille Isaac-Sibille</nom>
+                <id>722374</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très bien !</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543883" ordre_absolu_seance="85" code_grammaire="RETRAIT_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985735" valeur=" 14">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>14 est retiré.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543884" ordre_absolu_seance="86" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_30" code_parole="" sommaire="1" id_syceron="1985736" valeur=" 8 et 11" bibard=" (n[[o]] 2538)" art=" 3" adt=" 14" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543884" ordre_absolu_seance="86" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ADT_SORTS_DIRECT_1_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985736" valeur=" 8 et 11" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les amendements n<exposant>os</exposant> 8 et 11 de Mme Nathalie Elimas sont rédactionnels.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543885" ordre_absolu_seance="87" code_grammaire="ADT_SORTS_DIRECT_1_40" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985737" valeur=" 8 et 11">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant></italique>
+            <italique> </italique>
+            <italique>8 et 11, acceptés par la commission et le Gouvernement, successivement mis aux voix, sont adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1543886" ordre_absolu_seance="88" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985738" valeur=" 3" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>3, amendé, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543936" ordre_absolu_seance="1" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1985983" valeur="Après_ 3" bibard=" (n[[o]] 2538)" art="Après_ 3" adt="" ssadt="">
+      <orateurs/>
+      <texte>Après l’article 3</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543937" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1985984" valeur=" 7" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="">
+        <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543937" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985984" valeur=" 7" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Pierre Dharréville, pour soutenir l’amendement n<exposant>o</exposant> 7.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543938" ordre_absolu_seance="3" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985985" valeur="" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Dharréville</nom>
+                <id>718926</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Dans mon intervention précédente, j’ai évoqué la demande formulée dans cet amendement : nous voulons que les contrôles a posteriori, effectués par les services payeurs des départements au titre de la PCH aide humaine, se fassent sur l’effectivité des dépenses, et non sur le volet d’heures attribuées comme c’est le cas actuellement.<br/>Il existe parfois un décalage entre le tarif PCH aide humaine, notamment dans le cadre de la modalité en emploi direct, et le coût réel de l’intervention supporté par la personne. Les bénéficiaires de la prestation peuvent ainsi se voir réclamer des indus alors qu’ils ont vraiment dépensé la somme pour les actions pour lesquelles elle était allouée, même si le coût horaire n’était pas celui qui était prévu initialement. C’est une source de difficultés pour les bénéficiaires de la prestation.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-1446228" id_mandat="PM723114">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543940" ordre_absolu_seance="5" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1985987" valeur="" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543941" ordre_absolu_seance="6" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-1446228" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1985988" valeur="" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Elimas</nom>
+                <id>720924</id>
+                <qualite>rapporteure</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Monsieur le député, vous avez raison d’appeler notre attention sur cette question importante. Il est vrai que certains conseils départementaux contrôlent l’utilisation des moyens alloués au titre de la PCH en fonction du volume horaire défini dans le plan d’aide.<br/>Or plusieurs facteurs peuvent conduire les bénéficiaires de la PCH à consommer un nombre d’heures d’aide humaine inférieur au volume horaire prévu dans le plan, notamment lorsqu’il existe un décalage entre les tarifs de l’aide humaine et les prix facturés aux personnes handicapées. Une telle situation se produit, par exemple, dans le cas de l’emploi direct d’une aide à domicile, ou lorsqu’il est difficile de recruter une telle aide parce que les besoins de la personne impliquent des interventions de nuit ou le week-end.<br/>Lorsque les contrôles sont réalisés en fonction du volume horaire du plan d’aide, ils peuvent alors générer des indus significatifs mettant financièrement en difficulté les bénéficiaires de la PCH.<br/>L’article 3 est rédigé de manière à clarifier ce point. Il est indiqué que les contrôles des conseils départementaux devront « s’assurer de l’effectivité de l’utilisation de l’aide » versée. Les contrôles devront donc porter sur les crédits consommés, et non sur le volume horaire.<br/>Votre demande étant satisfaite, je vous invite à retirer votre amendement. En l’absence de retrait, j’émettrai un avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543946" ordre_absolu_seance="11" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ANN_SCR_TEXTE_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1985993" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Sur l’ensemble de la proposition de loi, je suis saisie par le groupe La République en marche d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>Quel est l’avis du Gouvernement sur l’amendement n<exposant>o</exposant> 7 ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543948" ordre_absolu_seance="13" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1985995" valeur="" bibard=" (n[[o]] 2538)" art="Après_ 3" adt=" 7" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je me range à l’avis de la rapporteure pour les mêmes raisons. Nous devons accompagner l’utilisation des heures d’évaluation effectuées ; nous avons plusieurs façons de le faire.<br/>Les départements doivent juger de la « consommation » des heures d’un point de vue qualitatif, mais aussi financier puisqu’elles peuvent être exécutées de trois manières différentes. La proposition me semble donc équilibrée. Je vous invite donc à retirer cet amendement. À défaut, j’y donnerai un avis défavorable.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543949" ordre_absolu_seance="269" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986051" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Dharréville</nom>
+                <id>718926</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je ne peux quand même pas retirer tous mes amendements… <italique>(Sourires.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543950" ordre_absolu_seance="270" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1985997" valeur=" 7" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>7 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543951" ordre_absolu_seance="271" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1985998" valeur=" 4" bibard=" (n[[o]] 2538)" art=" 4" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 4</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543952" ordre_absolu_seance="272" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_30" code_parole="" sommaire="1" id_syceron="1985999" valeur=" 12" bibard=" (n[[o]] 2538)" art=" 4" adt="" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543952" ordre_absolu_seance="272" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_30" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1985999" valeur=" 12" bibard=" (n[[o]] 2538)" art=" 4" adt="" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 12 de Mme Nathalie Elimas est rédactionnel.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543953" ordre_absolu_seance="273" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986000" valeur=" 12" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>12, accepté par l</italique>
+            <italique>a commission et le</italique>
+            <italique> Gouvernement, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543954" ordre_absolu_seance="274" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1986001" valeur=" 15" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+        <interExtraction nom_orateur="Mme Emmanuelle Fontaine-Domeizel" id_acteur="PA718706" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM733715">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543954" ordre_absolu_seance="274" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1986001" valeur=" 15" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Emmanuelle Fontaine-Domeizel, pour soutenir l’amendement n<exposant>o</exposant> 15.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543955" ordre_absolu_seance="275" id_acteur="PA718706" id_mandat="PM733715" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986002" valeur="" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Emmanuelle Fontaine-Domeizel</nom>
+                <id>718706</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La capacité à se déplacer est un marqueur fort de la liberté de chacun à vivre selon ses choix. La question des modes de transport et de l’accès à tous les types de mobilités, celles du milieu ordinaire comme du transport adapté, est majeure pour une société inclusive.<br/>Le présent amendement vise donc à préciser que le comité stratégique devra s’attacher à ce que tous les acteurs du transport, et notamment les transports dits ordinaires, soient intégrés dans la réflexion et qu’il devra les engager à s’inscrire dans une démarche d’accessibilité universelle, pour permettre à nos concitoyens en situation de handicap de se déplacer selon leurs choix et leurs besoins.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Nathalie Elimas" qualite="rapporteure" id_acteur="PA720924" id_nomination_oe="-1" id_nomination_op="-1446228" id_mandat="PM723114">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543957" ordre_absolu_seance="277" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1986004" valeur="" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543958" ordre_absolu_seance="278" id_acteur="PA720924" id_mandat="PM723114" id_nomination_oe="-1" id_nomination_op="-1446228" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1986005" valeur="" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Nathalie Elimas</nom>
+                <id>720924</id>
+                <qualite>rapporteure</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Vous posez une question importante : on ne peut, en effet, ignorer les difficultés que rencontrent les personnes en situation de handicap pour se déplacer. Notre société se veut toujours plus inclusive et, à cet égard, je salue l’engagement plein et entier de Mme la secrétaire d’État.<br/>Nous devons donner le maximum de moyens à tous nos concitoyens afin qu’ils puissent se déplacer facilement. La question des transports ordinaires a donc toute sa place dans les travaux qui seront conduits par le comité. Je suis favorable à cet amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Sophie Cluzel" qualite="secrétaire d'État" id_acteur="PA717165" id_nomination_oe="PM730305" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543960" ordre_absolu_seance="280" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1986007" valeur="" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543961" ordre_absolu_seance="281" id_acteur="PA717165" id_mandat="-1" id_nomination_oe="PM730305" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1986008" valeur="" bibard=" (n[[o]] 2538)" art=" 4" adt=" 15" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Sophie Cluzel</nom>
+                <id>717165</id>
+                <qualite>secrétaire d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Mme la députée a pointé du doigt quelque chose de très important. Si nous voulons que le degré d’acceptation de la différence s’accroisse de manière très importante, cette différence doit être visible. Nous devons donc permettre aux personnes en situation de handicap de circuler et nous devons travailler sur l’environnement, y compris sur les mobilités les plus ordinaires, en employant tous les moyens possibles : formation, accessibilité et autres. Je suis évidemment très favorable à cette proposition.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543962" ordre_absolu_seance="282" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986009" valeur=" 15" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>15 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543963" ordre_absolu_seance="283" code_grammaire="SORT_ARTICLE_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986010" valeur=" 4" decision="ADOPTION d’un article (vote à main levée)">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique> </italique>
+            <italique>4, amendé, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543965" ordre_absolu_seance="30" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1986012" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543966" ordre_absolu_seance="31" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_2_1_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986013" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543967" ordre_absolu_seance="32" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_2_2_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1986014" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous arrivons à la fin de l’examen de ce texte. J’ai noté, madame la rapporteure, madame la secrétaire d’État, que vous partagiez mes interrogations sur l’article 2, même si vous pensez que la solution que vous proposez va nous permettre de sortir de l’impasse. Pour ma part, j’en doute : je vous donne rendez-vous dans six mois !<br/>Mes doutes se confirment quand je regarde les délais, d’autant que nous venons de modifier l’article. Si le délai de mise en œuvre est différent de celui de la publication, nous devrons ajouter dix-huit mois aux six mois. Je crains fort que nombre d’entre nous ne siègent plus dans cet hémicycle quand le rapport sera remis au Parlement…<br/>La proposition de loi comporte quelques avancées, mais nous aurions aimé qu’elles soient plus importantes. Un nouveau texte doit nous être présenté prochainement : j’espère qu’il nous permettra d’avoir un vrai débat sur l’autonomie à tous les âges.<br/>En dépit de la réserve qu’il émet sur l’article 2, le groupe Libertés et territoires votera ce texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre Dharréville" id_acteur="PA718926" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543971" ordre_absolu_seance="36" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986018" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre Dharréville.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543972" ordre_absolu_seance="37" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986019" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je reste un peu dubitatif face aux reformulations auxquelles procède cette proposition de loi. Je n’ignore pas qu’elle a un parcours et que vous avez, madame la rapporteure, essayé de faire avancer les choses autant que possible. J’en tiens compte.<br/>En tout cas, notre débat a montré la nécessité d’aller bien au-delà des mesures proposées. Le groupe de la Gauche démocrate et républicaine prend les quelques avancées contenues dans le texte, en regrettant néanmoins que nous ne soyons pas allés plus loin.<br/>Pour en revenir à mon amendement n<exposant>o</exposant> 7, je ne suis pas tout à fait convaincu que la formulation du texte réponde à mes préoccupations. S’agissant de l’article 2, nous regrettons le maintien d’une ambiguïté qui ne permet pas de créer un véritable droit.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723556">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543975" ordre_absolu_seance="40" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986022" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Cyrille Isaac-Sibille.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543976" ordre_absolu_seance="41" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cyrille Isaac-Sibille</nom>
+              <id>722374</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe du Mouvement démocrate et apparentés est évidemment très favorable à ce texte qui trouve son origine dans une proposition de loi de Philippe Berta, à qui je tiens à rendre hommage : il faut rendre à Philippe Berta ce qui est à Philippe Berta. <italique>(Applaudissements sur les bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Fontaine-Domeizel" id_acteur="PA718706" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM733715">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543977" ordre_absolu_seance="42" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986024" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Fontaine-Domeizel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543978" ordre_absolu_seance="43" id_acteur="PA718706" id_mandat="PM733715" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986025" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Fontaine-Domeizel</nom>
+              <id>718706</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remercie Philippe Berta, dont il me semble que nous avons encore amélioré le texte. <italique>(Applaudissements sur les bancs du groupe MODEM et sur quelques bancs du groupe LaREM.) </italique>Nous allons plus loin que Philippe Berta, mais nous pouvons le remercier d’avoir fait évoluer ce droit à la prestation de compensation du handicap.<br/>Si l’article 2 suscite des inquiétudes, je tiens à dire qu’il permet de sortir d’un imbroglio qui durait depuis trop longtemps. Puisque nous poursuivons tous le même but, nous serons attentifs au décret. Donnons-nous rendez-vous dans six mois ou un an pour constater la satisfaction des gens qui auront pu bénéficier de cette prestation de compensation.<br/>Le groupe La République en marche se félicite de tous les articles de ce texte : le droit à vie, la suppression de la barrière des 75 ans, la création du comité stratégique. Nous voterons évidemment cette proposition de loi sur l’amélioration de l’accès à la prestation de compensation du handicap. <italique>(Applaudissements sur les bancs des groupes LaREM, MODEM et UDI-Agir.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Firmin Le Bodo" id_acteur="PA267780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723504">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543981" ordre_absolu_seance="46" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986028" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Firmin Le Bodo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543982" ordre_absolu_seance="47" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986029" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <id>267780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe UDI, Agir et indépendants votera évidemment cette proposition de loi. Nous avons tous évoqué, en filigrane, une politique des petits pas ; mais le droit à vie et la suppression de la barrière des 75 ans ne sont pas des petits pas pour les personnes en situation de handicap ! <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.) </italique>En fait, nous faisons un grand pas dans leur direction. Il faut vraiment le noter.<br/>Madame la secrétaire d’État, je vous ai vu opiner à l’évocation de la proposition de contractualisation. Peut-être sera t-il possible, à l’occasion de la parution du décret, d’évoluer sur ce sujet pour rassurer une partie d’entre nous. Il est parfois important de rassurer. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Viry" id_acteur="PA721474" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723286">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543984" ordre_absolu_seance="49" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986031" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Viry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543985" ordre_absolu_seance="50" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986032" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au groupe Les Républicains, nous nous réjouissons que la belle et grande loi de 2005, voulue par Jacques Chirac, continue à être étayée au fil des législatures. <italique>(Mme Agnès Firmin Le Bodo applaudit.)</italique> La présente proposition de loi permet de progresser sur plusieurs points : mobilité et transports, création d’un comité stratégique, levée de la barrière d’âge.<br/>Il n’en demeure pas moins que toute prestation nécessite un financement et oblige à se poser la question de la ressource. Dans un pays qui cherche à maîtriser l’usage des deniers publics, nous serons vigilants sur ce point et nous veillerons à ce qu’il n’y ait pas de transfert de charges sur les conseils départementaux.<br/>Cela étant dit, nous sommes aujourd’hui à l’unisson et nous soutiendrons cette proposition de loi. <italique>(Applaudissements sur les bancs des groupes LR, UDI-Agir, LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Caroline Fiat" id_acteur="PA720286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722918">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543988" ordre_absolu_seance="53" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1986035" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Caroline Fiat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543989" ordre_absolu_seance="54" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="EXPL_VOTE_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1986036" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai dit dans la discussion générale, il n’y a pas de petits pas : il n’y a que des grands pas. Pour le groupe La France insoumise, certaines dispositions de cette proposition de loi sont à saluer ; d’autres ne nous satisfont pas.<br/>Notre appréciation n’a pas changé depuis la discussion générale. Je ne vais donc pas me répéter, mais je dois dire que je partage assez l’avis exprimé par Mme Dubié sur l’article 2.<br/>Notre groupe ne prendra pas part à ce vote. <italique>(Exclamations sur quelques bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543992" ordre_absolu_seance="57" code_grammaire="VOTE_ENS_PPL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1986039" valeur=" (n[[o]] 2538)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543993" ordre_absolu_seance="58" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_ENS_PPL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986040" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble de la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543994" ordre_absolu_seance="59" code_grammaire="VOTE_ENS_PPL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986041" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543995" ordre_absolu_seance="60" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_ENS_PPL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986042" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        57<br/>        Nombre de suffrages exprimés                57<br/>        Majorité absolue                        29<br/>                Pour l’adoption                57<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1543996" ordre_absolu_seance="61" code_grammaire="VOTE_ENS_PPL_S_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986043" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(La proposition de loi est adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1543999" ordre_absolu_seance="317" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1986046" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1544000" ordre_absolu_seance="318" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1986047" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Discussion de deux projets de loi, en procédure d’examen simplifié, autorisant l’approbation d’accords internationaux ;<br/> Discussion d’un projet de loi autorisant l’approbation du protocole France-Arménie sur la réadmission de personnes en séjour irrégulier ;<br/> Discussion d’un projet de loi autorisant l’approbation d’accords de défense et de coopération avec l’Albanie et Chypre ;<br/> Discussion d’un projet de loi autorisant la ratification du protocole additionnel à la Charte européenne de l’autonomie locale sur le droit de participer aux affaires des collectivités locales.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1544001" ordre_absolu_seance="319" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1986048" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures quarante-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1544002" ordre_absolu_seance="320" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1986049" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

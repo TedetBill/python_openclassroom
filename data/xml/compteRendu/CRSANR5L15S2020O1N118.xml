@@ -1,0 +1,1448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N118</uid>
+  <metadonnees>
+    <dateSeance>20200108220000000</dateSeance>
+    <dateSeanceJour>mercredi 08 janvier 2020</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>118</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20200118</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 10 Jan 2020 18:07:50 GMT</horaireGmt>
+    <heureGeneration>2020-01-10T19:07:50.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1982223">Présidence de M. Marc Le Fur</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1982228">
+          <intitule>Questions sur la situation dans les EHPAD</intitule>
+        </titreStruct>
+        <para id_syceron="1982232">Mme Agnès Firmin Le Bodo</para>
+        <para id_syceron="1982239">Mme Agnès Buzyn, ministre des solidarités et de la santé</para>
+        <para id_syceron="1982247">Mme Béatrice Descamps</para>
+        <para id_syceron="1982253">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982257">M. Olivier Becht</para>
+        <para id_syceron="1982262">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982267">M. Thierry Benoit</para>
+        <para id_syceron="1982272">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982277">Mme Sylvia Pinel</para>
+        <para id_syceron="1982284">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982288">Mme Jeanine Dubié</para>
+        <para id_syceron="1982294">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982298">Mme Caroline Fiat</para>
+        <para id_syceron="1982303">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982359">Mme Caroline Fiat</para>
+        <para id_syceron="1982365">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982382">M. Jean-Paul Dufrègne</para>
+        <para id_syceron="1982388">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982392">M. André Chassaigne</para>
+        <para id_syceron="1982397">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982400">Mme Monique Iborra</para>
+        <para id_syceron="1982467">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982444">M. Didier Martin</para>
+        <para id_syceron="1982447">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982451">Mme Annie Vidal</para>
+        <para id_syceron="1982454">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982461">Mme Pascale Fontenel-Personne</para>
+        <para id_syceron="1982464">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982604">Mme Nicole Trisse</para>
+        <para id_syceron="1982609">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982613">M. Éric Pauget</para>
+        <para id_syceron="1982620">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982626">M. Jérôme Nury</para>
+        <para id_syceron="1982633">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982690">M. Patrick Hetzel</para>
+        <para id_syceron="1982692">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982697">Mme Constance Le Grip</para>
+        <para id_syceron="1982703">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982706">M. Philippe Bolo</para>
+        <para id_syceron="1982711">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982714">Mme Maud Petit</para>
+        <para id_syceron="1982720">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982729">M. Cyrille Isaac-Sibille</para>
+        <para id_syceron="1982734">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982736">Mme Christine Pires Beaune</para>
+        <para id_syceron="1982741">Mme Agnès Buzyn, ministre</para>
+        <para id_syceron="1982746">Mme Michèle Victory</para>
+        <para id_syceron="1982752">Mme Agnès Buzyn, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1982756">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 08 janvier 2020</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1541981" ordre_absolu_seance="1" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1982223" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Marc Le Fur<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1541982" ordre_absolu_seance="2" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982224" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1541983" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1982226" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt-deux heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1541985" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1982228" valeur="">
+      <orateurs/>
+      <texte>Questions sur la situation dans les EHPAD</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1541986" ordre_absolu_seance="6" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982229" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>1874</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle les questions sur la situation dans les EHPAD.<br/>Je vous rappelle que la conférence des présidents a fixé à deux minutes la durée maximale de chaque question et de chaque réponse, sans droit de réplique.<br/>La parole est à Mme Agnès Firmin Le Bodo.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1541989" ordre_absolu_seance="9" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982232" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Agnès Firmin Le Bodo</nom>
+            <id>267780</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Madame la ministre des solidarités et de la santé, la crise dans les EHPAD – établissements d’hébergement pour personnes âgées dépendantes –, révélée en 2018, a eu pour effet d’ajouter le dossier du grand âge et du vieillissement de la population sur la pile des dossiers que vous avez eu à traiter.<br/>Vous avez commandé de nombreux rapports, tous produits et publiés. Malgré tout, nécessité et actualité faisant loi, le projet de loi sur le grand âge qui nous était promis pour 2019 s’est fait doubler sur la gauche par la crise des gilets jaunes, sur la droite par la crise dans les hôpitaux, et vient de se faire tacler par la réforme des retraites.<br/>Nous sommes dans une période de vœux : je crois que beaucoup de parlementaires travaillant sur ce sujet, les professionnels que vous rencontrez régulièrement et tous les acteurs sont dans l’attente de cette fameuse loi sur le grand âge et l’autonomie. Au-delà de son caractère professionnel, c’est une loi qui dira beaucoup, je l’espère, sur la politique de vieillissement que nous souhaitons et sur notre manière d’appréhender le phénomène de vieillissement dans notre société.<br/>Madame la ministre, pourriez-vous faire un petit point de calendrier sur ce qui nous attend en 2020, et nous présenter les grandes orientations sur les métiers du grand âge, notamment en matière de gouvernance et de financement ? Ce sont des points importants, très attendus par tous les acteurs.<br/>La crise des EHPAD a été le principal révélateur du caractère essentiel des métiers du grand âge. Il faudra en simplifier la gouvernance et préciser qui pilote les politiques : cela est important pour les acteurs comme pour les familles.<br/>Enfin, peut-être pourrez-vous apporter quelques précisions sur ce qui a manqué ? Nous vieillissons, c’est la vie. Une politique de prévention permettrait-elle, dans les années à venir, d’avoir moins besoin de réformes sur le sujet de la dépendance ?</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre des solidarités et de la santé" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1541995" ordre_absolu_seance="15" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982238" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre des solidarités et de la santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1541996" ordre_absolu_seance="16" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982239" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre des solidarités et de la santé</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci de cette question très large. Au travers des questions qui me seront posées au cours de la soirée, j’aurai probablement l’occasion de revenir sur plusieurs des points que vous avez abordés ; je commencerai donc par le calendrier. La crise des EHPAD de 2017 a permis de mettre en lumière un réel problème, qu’il nous faut anticiper : le vieillissement de la population. Même si nous avons le temps, puisque nous savons que le virage démographique n’est attendu que pour 2030, nous devons le préparer. Aujourd’hui, dans les établissements, les personnels, les professionnels, mais aussi les familles et les personnes âgées souffrent déjà d’une insuffisance de présence à leurs côtés. Il nous faut travailler sur ce sujet.<br/>Comme vous le savez, je l’ai pris à-bras-le-corps dès mon arrivée, puisque j’ai accéléré l’instauration des mesures financières qui accompagnaient la convergence tarifaire, de façon à aider les établissements à recruter plus de personnel. Nous avons d’ores et déjà mobilisé des sommes importantes, même si elles ne suffisent pas à régler le virage domiciliaire que les personnes vieillissantes appellent de leurs vœux. Il nous faut également repenser les métiers du grand âge, notamment en termes d’attractivité.<br/>S’agissant du calendrier, nous avons lancé en 2018 une large concertation citoyenne à l’échelle nationale, qui a mobilisé dix ateliers nationaux et cinq forums régionaux. Cette grande consultation nationale, qui a recueilli plus de 1,7 million de votes, a réuni 414 000 participants. Cent rencontres bilatérales et des groupes d’expressions de personnes âgées, professionnels et aidants ont été organisés. Tout cela nous a permis de construire une stratégie, sur laquelle je reviendrai dans la soirée.<br/>S’agissant des financements, nous avons débloqué dès le PLFSS – projet de loi de financement de la sécurité sociale – 500 millions d’euros qui permettront de recruter du personnel en 2020.<br/>Enfin, le rapport de Dominique Libault nous permettra évidemment d’inscrire dans la loi les grandes orientations de la stratégie nationale.<br/>Le calendrier est clair : le Président de la République l’a dit dans ses vœux, ce projet de loi sera présenté en 2020.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542002" ordre_absolu_seance="22" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982245" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <id>332228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Béatrice Descamps" id_acteur="PA720696" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723044">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542003" ordre_absolu_seance="23" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982246" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Béatrice Descamps.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542004" ordre_absolu_seance="24" id_acteur="PA720696" id_mandat="PM723044" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982247" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Béatrice Descamps</nom>
+              <id>720696</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, un plan national pour les métiers du grand âge a été annoncé le 28 mars 2019. Au total, ce sont 830 000 personnes qui travaillent à temps plein dans ce domaine, chiffre appelé à augmenter du fait du vieillissement de la population.<br/>Parallèlement, dans la même lignée et en vue de la future loi sur l’autonomie et le grand âge, vous avez récemment confié à Denis Piveteau une mission sur la diversification des lieux d’accueil pour les personnes les moins autonomes, afin de mailler tout le territoire. Votre volonté de faire des départements les premiers acteurs en la matière permettra l’émergence d’une véritable gouvernance au niveau local.<br/>Cependant, il serait souhaitable de faire évoluer l’offre d’accompagnement en limitant les intervenants et en réorganisant les métiers. En effet, le poids de la dépendance pèse sur les EHPAD, en sous-capacité d’encadrement.<br/>Par ailleurs, le déficit d’attractivité des métiers soignants en EHPAD fait l’objet d’un constat partagé de l’ensemble des acteurs. Au regard des enjeux d’évolution de prise en charge et de transformation des métiers, les acteurs appellent d’ailleurs à mobiliser l’ensemble des leviers figurant dans les propositions de Dominique Libault, rapporteur de la concertation nationale « Grand âge et autonomie », pour apporter une réponse adaptée aux besoins.<br/>Vous l’avez dit vous-même, madame la ministre : pour augmenter drastiquement l’attractivité du secteur, la revalorisation des métiers du grand âge est essentielle. Qu’en est-il ? Et comment articuler la formation des aidants et la limitation des intervenants avec l’augmentation du nombre de personnes de grand âge ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542009" ordre_absolu_seance="29" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982252" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542010" ordre_absolu_seance="30" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982253" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée Béatrice Descamps, je vous remercie de votre question et, plus généralement, pour votre engagement, que je sais de longue date sur ce sujet.<br/>Comme vous le savez, j’ai confié le 3 juillet dernier à Mme Myriam El Khomri l’élaboration d’un rapport sur l’attractivité des métiers du grand âge et de l’autonomie : elle me l’a rendu au mois d’octobre. Il dresse le constat, partagé par tous les professionnels du secteur, d’un morcellement des métiers, d’une incapacité à recruter et d’un défaut dans les vocations. Il nous semble pourtant que de très nombreux jeunes pourraient aujourd’hui se diriger vers ces métiers qui ont du sens et ne sont pas délocalisables : ce sont des métiers d’avenir.<br/>Les évolutions démographiques des vingt prochaines années nous imposant de réfléchir à l’attractivité de ces métiers, nous avons retenu trois axes de travail. Le premier porte sur la revalorisation, y compris financière, des métiers. Le deuxième axe concerne les formations initiale et continue, qui doivent être totalement revues et adaptées en fonction des connaissances sur la perte d’autonomie dont nous disposons aujourd’hui. Enfin, le troisième axe a pour objectif de disposer d’un budget à long terme pour le maintien à domicile.<br/>La mise en œuvre de ces propositions requérant l’adhésion et un volontarisme de très nombreux acteurs – je pense notamment aux collectivités territoriales, aux départements, aux partenaires sociaux, aux employeurs et à leurs fédérations –, nous souhaitons lancer, avec la ministre du travail Muriel Pénicaud, une grande conférence sociale sur les métiers du grand âge. Les recommandations qui en seront issues et l’application des réformes souhaitées seront intégrées au plan national pour les métiers du grand âge et au projet de loi. C’est donc un engagement majeur du Gouvernement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Olivier Becht" id_acteur="PA642935" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723238">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542013" ordre_absolu_seance="34" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982256" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Olivier Becht.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542014" ordre_absolu_seance="35" id_acteur="PA642935" id_mandat="PM723238" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982257" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Becht</nom>
+              <id>642935</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, ayant présidé durant plus de dix ans un EHPAD à Rixheim, dans la région mulhousienne, je m’étais permis lors d’une des toutes premières séances de questions au Gouvernement de la législature, d’appeler l’attention du Gouvernement sur la situation des EHPAD.<br/>Il y a répondu avec une série de mesures qui restent bien entendu insuffisantes. Vous connaissez la situation : elle est de plus en plus difficile, que ce soit pour les personnels ou, du point de vue sanitaire, pour les patients et les résidents ; et comme vous l’avez dit vous-même, elle n’ira pas en s’améliorant, compte tenu de l’évolution démographique.<br/>Aujourd’hui, il s’agit justement de savoir comment gérer cette masse démographique. Sachant que l’on ne pourra pas construire demain 1 500 EHPAD supplémentaires, il faudra maintenir à domicile près de 1,6 million de personnes âgées dépendantes supplémentaires, voire, vraisemblablement, les y hospitaliser. Il y a donc tout un système à bâtir, en prenant en compte trois éléments majeurs : tout d’abord, l’instauration d’un guichet unique. Lorsque la dépendance survient, les familles sont dans une situation tragique car il leur faut organiser tout un système et frapper à trente-six portes. C’est très compliqué. Ensuite, il faut combler les trous dans la raquette : beaucoup de métiers ne sont toujours pas exercés en libéral et à domicile, comme celui d’aide-soignant, si bien que ce sont souvent les infirmières qui sont obligées d’assumer ce type de tâches. Enfin, il faut organiser la coordination d’ensemble avec les plateaux techniques des centres hospitaliers, dans le respect du secret médical.<br/>Madame la ministre, que compte faire le Gouvernement pour développer le maintien et l’hospitalisation à domicile, autrement dit pour coordonner tout le système de la dépendance qui reste aujourd’hui à construire ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542018" ordre_absolu_seance="39" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982261" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1542019" ordre_absolu_seance="40" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982262" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Votre question est large : je reviendrai sur les métiers du grand âge et la formation en répondant à d’autres questions. S’agissant du virage domiciliaire, il existe plusieurs leviers, mais j’aborderai plus précisément la façon dont je l’envisage. Il est très clairement ressorti de la concertation citoyenne que les Français souhaitent vieillir à domicile. Nous devons donc organiser le virage domiciliaire sur tous les territoires, dans les zones rurales comme en ville. Vous avez très bien posé la question : la multiplicité des acteurs rend en effet la coordination extrêmement compliquée pour les familles.<br/>Il existe dans les territoires des réseaux d’EHPAD, mais également des réseaux de maintien à domicile, qui se développent sous des formes très diverses et des appellations variées : les EHPAD « hors les murs », qui rendent plusieurs services, les EHPAD à domicile, mais aussi des plateformes de services. J’ai d’ailleurs eu l’occasion de visiter en décembre l’EHPADadom de la Croix-Rouge, à Sartrouville, qui offre une véritable palette de services.<br/>L’intérêt de ce dispositif a été souligné par le rapport de Dominique Libault, car il semble répondre aux demandes, besoins et nécessités que vous avez évoqués, et notamment la construction d’un guichet unique pour les familles. Mon souhait est donc de développer ce type de structures, peut-être également de les rationaliser et de les évaluer, et de renforcer le lien entre l’aide à la personne, la prévention de la perte d’autonomie, l’accompagnement médico-social et le soin, grâce à ces structures capables de mieux assurer la coordination.<br/>Je souhaite donc que ces deux dispositifs se développent, raison pour laquelle nous avions prévu à l’article 51 la loi de financement de la sécurité sociale pour 2018 plusieurs expérimentations, dont une, très ambitieuse, qui devrait être lancée très prochainement. L’idée est de compléter les réponses apportées par les services à domicile, afin de construire ce qui sera l’EHPAD à domicile ou le virage domiciliaire de demain, avec pour corollaire l’amélioration de la coordination avec le secteur sanitaire – ce que nous faisons au travers des plateformes territoriales d’appui.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Thierry Benoit" id_acteur="PA332228" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722754">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542023" ordre_absolu_seance="1" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982266" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Thierry Benoit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542024" ordre_absolu_seance="2" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <id>332228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je veux prolonger les réflexions de mes collègues, et plus particulièrement celle de Béatrice Descamps au sujet de l’attractivité des métiers. Comme vous l’avez vous-même indiqué, ces métiers du secteur de l’économie non marchande ne sont pas délocalisables. Il n’est pas normal que les EHPAD rencontrent des difficultés pour recruter et il n’est ni populiste ni démagogique d’affirmer que les agents hospitaliers, les personnels, les aides-soignants et les infirmières qui travaillent dans ces établissements ne sont pas suffisamment rémunérés. <italique>(Mme</italique><italique> </italique><italique>Caroline Fiat applaudit.)</italique> J’ajoute, madame la ministre, que vous n’êtes pas, à ce jour, responsable de cette situation.<br/>Existe-t-il un document d’information qui permettrait aux résidents et à leurs familles de comprendre précisément la part de chacun dans la prise en charge ? Il existe plusieurs sections tarifaires : l’hébergement, la dépendance et le soin, qui relèvent respectivement de la famille du résident, du département et de l’État. Un document pédagogique explique-t-il ce découpage aux familles ?<br/>Ma deuxième question concerne le droit du travail. Les rémunérations relèvent d’une convention collective. Là où je vis, en Bretagne, on me parle souvent de la convention collective de 1951, qui devrait être rénovée et actualisée. Projetez-vous de le faire, afin de permettre une réévaluation des salaires ?<br/>Enfin, envisagez-vous d’autoriser la fixation d’un prix de journée différencié en fonction des ressources du résident ? Je n’entends pas que l’on s’ingère dans les compétences des conseils départementaux, mais il me semble que ce sujet mérite d’être abordé. On pourrait imaginer que le prix de journée soit différent selon que le résident perçoit 5 000 ou 1 000 euros de retraite. Quel est votre avis sur ces trois questions ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542028" ordre_absolu_seance="6" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982271" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542029" ordre_absolu_seance="7" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982272" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député Benoît, vous m’avez posé de nombreuses questions auxquelles je vais m’efforcer de répondre rapidement.<br/>Il est certain, tout d’abord, que ces métiers nécessitent une revalorisation salariale. J’ai commencé à y travailler avec la mise en œuvre de la prime d’assistant de soin en gérontologie. Toutes les aides-soignantes travaillant aujourd’hui auprès des personnes âgées dans le secteur public, en EHPAD ou dans un service de gériatrie, ont accès, depuis cette année, à une prime de 100 euros net par mois – somme non négligeable – dès lors qu’elles ont suivi une formation d’assistant de soin en gérontologie. Il s’agit d’une formation courte, qui leur permet de percevoir très rapidement cette prime et de mieux appréhender la prise en charge de personnes vieillissantes.<br/>S’agissant ensuite de la tarification triple, nous travaillons à la simplifier car, du fait de ce système, les résidents et leurs familles, notamment, ont du mal à comprendre qui paye quoi. Sans doute devons-nous simplifier la répartition entre les frais liés à la dépendance et ceux liés aux soins. D’ailleurs, les gériatres considèrent aujourd’hui que la dépendance ou la perte d’autonomie sont intimement liées à la maladie et qu’un patient ne se trouve pas en perte d’autonomie sans souffrir d’une pathologie sous-jacente. La distinction entre la dépendance et le soin est délicate, même si, comme vous le savez, des grilles sont prévues à cet effet. Nous allons travailler sur ce sujet et ferons une proposition dans le cadre du projet de loi relatif au grand âge et à l’autonomie.<br/>Enfin, la question des tarifs différenciés est tout à fait pertinente. Les familles demandent leur mise en place à juste titre, et ce sujet est intégré à la réflexion que nous menons sur le financement des résidents en EHPAD.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sylvia Pinel" id_acteur="PA336175" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723328">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542033" ordre_absolu_seance="11" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sylvia Pinel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542034" ordre_absolu_seance="12" id_acteur="PA336175" id_mandat="PM723328" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982277" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sylvia Pinel</nom>
+              <id>336175</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les Français redoutent de plus en plus leurs vieux jours et ceux de leurs proches, et pour cause : la prise en charge des résidents est coûteuse, les conditions d’accueils des EHPAD se dégradent et le personnel est en sous-effectif constant, en dépit d’un dévouement extraordinaire qu’il convient de souligner et de saluer. Face à cette situation, les rapports encourageants se succèdent mais la situation de détresse dans les EHPAD demeure. Première question, madame la ministre : pourquoi la loi annoncée sur ce sujet est-elle repoussée ? Pouvez-vous nous en préciser le calendrier ?<br/>L’ensemble des personnels et des organisations syndicales demandent la création immédiate de deux postes supplémentaires dans chaque établissement et service, ce qui correspond à la création de 40 000 postes pour soulager des équipes à bout de souffle. Que comptez-vous faire à cet égard ?<br/>Quant à la question du financement des EHPAD, elle doit être saisie à bras-le-corps. Que pensez-vous de la mise en place d’une prestation d’autonomie grâce à un financement solidaire, accepté par la majorité des Français ? Ces derniers attendent davantage de transparence fiscale. Aussi serait-il judicieux de flécher les crédits collectés par la Caisse nationale de solidarité pour l’autonomie – CNSA – vers le secteur d’aide aux personnes âgées. En effet, depuis la création de la CNSA, plus de 1,5 milliard d’euros ont été dédiés à d’autres objectifs.<br/>Je souhaite par ailleurs vous interroger sur un second point, le manque d’attractivité des métiers en EHPAD, même si vous avez commencé à nous répondre sur ce point. En plus d’une faible valorisation salariale, le secteur du grand âge souffre d’une forte pénibilité, qui se traduit notamment par un nombre d’accidents du travail et de maladies professionnelles trois fois supérieur à la moyenne nationale. Confrontés aux difficultés de recrutement du personnel qualifié aide-soignant en EHPAD, les directeurs de ces établissements demandent notamment une augmentation du nombre de sessions de formation dans les instituts de formation en soins infirmiers. Ne perdons pas de vue que ces dépenses constituent un véritable investissement pour l’ensemble de nos territoires, car elles créent des emplois de proximité non délocalisables, en particulier pour les plus jeunes.<br/>Madame la ministre, comment comptez-vous répondre à ces attentes fortes de nos concitoyens dans le cadre du futur projet de loi ? <italique>(M.</italique><italique> </italique><italique>Philippe Vigier applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542040" ordre_absolu_seance="60" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982283" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542041" ordre_absolu_seance="61" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982284" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai dit précédemment au député Benoît, de très nombreux acteurs interviennent dans le financement des EHPAD. La concertation a ainsi mis en évidence des problèmes liés au financement, à la gouvernance et à la transparence. Ces sujets ont été expertisés et figureront bien sûr dans le projet de loi. Je ne souhaite pas en dire plus tant que le texte n’est pas entièrement rédigé.<br/>J’en viens à votre question sur l’attractivité des métiers. Tout d’abord, je tiens comme vous à souligner le dévouement extrême de ces personnels qui travaillent souvent dans des conditions dégradées, parfois faute de trouver des candidats pour des postes qui restent vacants. Le contexte actuel de grèves, notamment en Île-de-France, rend aussi leur travail encore plus difficile, et je tiens à saluer leur présence au côté des personnes âgées, car ils ne font pas défaut : c’est là un sujet que je suis de très près.<br/>Le rapport El Khomri a par ailleurs permis d’identifier des leviers pour attirer les jeunes ainsi que les personnes éloignées de l’emploi, susceptibles d’être séduites par ces métiers. Un travail de fond doit être réalisé sur la polyvalence des formations et des compétences : il s’agit de renforcer le contenu de ces métiers et de permettre plus de passerelles d’un métier à l’autre mais aussi entre le travail en EHPAD et à domicile, pour offrir davantage de diversité. Nous nous efforçons ainsi de décloisonner ces métiers et d’intégrer la question de la prévention de la perte d’autonomie dans les formations, car il s’agit d’un enjeu fondamental.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Jeanine Dubié" id_acteur="PA608292" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723076">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542044" ordre_absolu_seance="64" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982287" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Jeanine Dubié.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542045" ordre_absolu_seance="65" id_acteur="PA608292" id_mandat="PM723076" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Jeanine Dubié</nom>
+              <id>608292</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est plus un secret ; bien qu’ils soutiennent et estiment les professionnels qui y travaillent, les Français ont une mauvaise image des EHPAD. Seuls 13 % d’entre eux seraient prêts à intégrer un tel établissement en cas de perte d’autonomie.<br/>Pourtant, la loi du 2 janvier 2002 rénovant l’action sociale et médico-sociale et les décrets d’application qui l’on suivie, en promouvant la pleine citoyenneté des personnes âgées, permettent d’améliorer les procédures d’accueil des résidents. En théorie, une personne prise en charge par un établissement social ou médico-social doit bénéficier d’un accompagnement individualisé de qualité favorisant son développement, son autonomie et son insertion. Ainsi, à l’entrée de chaque résident, les professionnels de l’EHPAD établissent avec lui et sa famille un projet de vie individualisé qui doit ensuite être actualisé en fonction de l’évolution de son état de santé et de ses besoins.<br/>Mais c’est là un schéma théorique car, en pratique, le manque d’effectifs limite la portée de cette mesure. Par manque de personnels et de temps, l’élaboration et le suivi des projets de vie individualisés ne se font pas. Pourtant, au-delà du bien-être des résidents, cette démarche donne du sens au travail des soignants et participe à l’amélioration des conditions de travail.<br/>En 2017, le taux d’encadrement médian s’élevait à 0,63 équivalent temps plein – ETP – par résident. Pour accueillir et accompagner nos aînés dans les meilleures conditions, il faudrait a minima relever ce ratio à 0,80 ETP par résident.<br/>Après une loi de financement de la sécurité sociale bien en deçà des attentes, et tandis que nous attendons toujours le projet de loi relatif au grand âge et à l’autonomie, envisagez-vous enfin, madame la ministre, de donner aux EHPAD les moyens humains et financiers d’accueillir dignement les résidents, en augmentant significativement les dotations dédiées aux soins ? <italique>(Applaudissements sur les bancs du groupe LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542050" ordre_absolu_seance="70" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542051" ordre_absolu_seance="71" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je crois que nous poursuivons tous le même objectif, celui d’augmenter le ratio entre le nombre de soignants et le nombre de résidents actuels mais aussi à venir. Cela représente des besoins très importants en formation et en postes. Je rappelle néanmoins que depuis mon arrivée au ministère en 2017, plus de 7 000 postes de soignants supplémentaires ont été financés dans les EHPAD.<br/>La loi relative à l’adaptation de la société au vieillissement avait introduit un nouveau mode de tarification dont vous savez qu’il a eu des effets pervers. J’ai d’abord souhaité neutraliser les effets néfastes de cette convergence tarifaire, avant d’accélérer le rythme de sa mise en œuvre, la ramenant de sept à cinq ans. J’ai ainsi pu adjoindre des moyens supplémentaires ; un effort cumulé de 284 millions d’euros a permis de recruter environ 7 100 ETP supplémentaires dédiés aux soins. Nous avons aussi, comme vous le savez, créé des postes d’infirmière de nuit pour l’ensemble des EHPAD, afin de réduire le risque d’hospitalisation nocturne inopinée par les urgences, faute d’avis infirmier ou médical. Nous équipons également tous les EHPAD en matériel de télémédecine et de téléconsultation, afin d’accompagner les soignants qui sont souvent très seuls la nuit, et de les rassurer.<br/>Néanmoins, nous avons besoin d’aller plus loin. Notre objectif est bien de nous rapprocher de la cible qui avait été préconisée par le rapport de Dominique Libault, c’est-à-dire une hausse de 25 % du taux d’encadrement à l’horizon 2024 par rapport à 2015, ciblée sur le personnel de proximité contribuant directement à la qualité de vie non seulement des soignants mais aussi des personnes hébergées. C’est sur la base de cet objectif que le projet de loi sera élaboré puis soumis au Parlement.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Caroline Fiat" id_acteur="PA720286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722918">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542054" ordre_absolu_seance="74" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982297" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Caroline Fiat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542055" ordre_absolu_seance="75" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, en juillet 2017, j’ai dressé devant vous un bilan de nos conditions de travail dans les établissements de santé, en reprenant les quatorze besoins fondamentaux de Virginia Henderson. À la suite de cette interpellation, une mission flash puis une mission d’information sur la situation des EHPAD ont été menées. Cela fait bientôt deux ans que Monique Iborra et moi-même avons rendu notre rapport accablant sur la situation des EHPAD. Depuis, si peu a été fait ! Enfin si : deux nouveaux rapports ont été commandés, peut-être pour faire oublier notre rapport parlementaire qui faisait pourtant l’unanimité parmi tous les observateurs.<br/>En juillet 2017, je parlais de « maltraitance institutionnelle », mais cette expression n’est plus d’actualité car elle ne désigne pas clairement les responsables. Et puisque les responsables sont désormais connus, il faut parler de maltraitance gouvernementale.<br/>Faisons la lumière sur ce qui se cache derrière le mot de « maltraitance » : des résidents baignant des heures dans leurs excréments par faute de temps ou de moyens ; des toilettes réalisées en moins de six minutes sur des corps meurtris ; des repas au lance-pierre – nos résidents souffrent de malnutrition, en France ; des soins dentaires inexistants ; des personnes alitées vingt-quatre heures sur vingt-quatre, sans même que l’on puisse les faire changer de position ; des escarres ; des larmes, des pleurs ; des familles qui vacillent entre angoisse et culpabilité ; des soignants qui changent de profession ou sont cassés par des troubles musculo-squelettiques et des accidents du travail à répétition, quand ils ne sont pas en burn out ou, pire, quand ils n’ont pas mis fin à leurs jours.<br/>La maltraitance gouvernementale dans nos EHPAD est un cauchemar mais, hélas,  nous ne rêvons pas : nous sommes bien éveillés ! Quand, madame la ministre, allez-vous mettre en œuvre les trente et une propositions de notre rapport parlementaire ? Quand allez-vous faire cesser cette ignominie ? <italique>(Mme</italique><italique> </italique><italique>Danièle Obono applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542059" ordre_absolu_seance="79" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1542060" ordre_absolu_seance="80" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame Fiat, j’avais lu avec attention le rapport que vous aviez produit avec Mme Iborra. Au cours de l’année écoulée, j’ai demandé deux rapports, non pas supplémentaires sur le même sujet, mais  complémentaires au vôtre, lequel pointait bien sûr les difficultés que vous mentionnez.<br/>J’ai rappelé tout à l’heure que le rapport de M. Dominique Libault était issu d’une très large concertation citoyenne, à laquelle ont participé plus de 415 000 personnes. Cette concertation importante a montré que les personnes âgées souhaitaient rester à domicile ; elle a pointé du doigt la question des aidants, celle du reste à charge supporté par les familles des résidents en EHPAD et, plus généralement, celle du financement.<br/>J’ai également commandé à Mme Myriam El Khomri un rapport beaucoup plus spécifique sur la nécessaire évolution des métiers du grand âge et de l’autonomie. Il s’agit d’étudier comment nous pouvons rendre ces métiers attractifs, quelles formations nous devons proposer et quels décloisonnements nous devons attendre entre les différents secteurs, notamment entre le soin et l’accompagnement.<br/>Ces deux rapports sont complémentaires : ils nous permettent d’avoir une vision très globale de la question du vieillissement de la population. Le rapport de Dominique Libault a aussi permis d’identifier des demandes autour de l’hébergement intermédiaire diversifié – je pense, par exemple, à l’hébergement en famille d’accueil agréée ou à l’hébergement en colocation intergénérationnelle. Tout cela n’était pas dans votre rapport, madame Fiat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542290" ordre_absolu_seance="83" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982355" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais nous, nous parlons du rapport de Mme Fiat !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542291" ordre_absolu_seance="84" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982356" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le rapport de Dominique Libault a mis en avant la question des aidants. Ainsi, nous avons élaboré, avec le Premier ministre, un plan spécial consacré aux aidants qui a abouti à la création, pour la première fois, d’un congé proche aidant indemnisé – une mesure que vous avez votée, je l’espère, dans le cadre du PLFSS pour 2020. Enfin, le rapport de Dominique Libault a mis en évidence la nécessité d’un financement, qui sera évidemment présenté dans le projet de loi à venir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542292" ordre_absolu_seance="85" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982357" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En deux minutes, vous n’avez pas dit un seul mot du rapport de Mme Fiat !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Caroline Fiat" id_acteur="PA720286" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722918">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542293" ordre_absolu_seance="86" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982358" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Caroline Fiat, pour une seconde question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542294" ordre_absolu_seance="87" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982359" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, vous avez répondu à Mme Dubié que vous aviez créé 7 000 postes en deux ans. Or l’une des premières des trente et une propositions du rapport Fiat-Iborra était la création de 210 000 postes. La création de 7 000 postes, rapportée aux 210 000 qui seraient nécessaires, est donc assez loin de répondre aux besoins. À ceux qui me rétorquent que l’argent n’apparaît pas comme par magie, je réponds que la mesure préconisée aurait coûté 6 milliards d’euros la première année, en 2018-2019, soit deux fois le coût de la suppression de l’ISF. Ces créations auraient donc pu être financées facilement – et cela aurait fait 210 000 chômeurs de moins…<br/>Vous dites que les personnes âgées préfèrent rester à domicile, mais la donne est faussée : au vu de la situation actuelle dans les EHPAD, personne n’a envie d’y aller ! Les gens répondent forcément qu’ils veulent rester à domicile, mais si la situation dans les EHPAD était meilleure, ils voudraient y aller.<br/>Nous avons effectivement voté la création du congé proche aidant, mais nous avons aussi fait remarquer que ce dispositif ne concernait pas les personnes à la retraite aidant leur conjoint.<br/>Quant au fameux rapport Libault et au ratio soignants-soignés, attention à ne pas tout confondre ! Nous demandons 0,60 soignant par résident, ce qui n’a rien à voir avec le ratio de 0,65 salarié par résident : il y a une grande différence entre soignant et salarié. M. Libault parle de salarié quand nous parlons de soignant ; c’est pourquoi nous ne sommes pas d’accord avec les chiffres qu’il présente dans son rapport.<br/>Madame la ministre, je ne vous ai pas demandé quand vous présenteriez votre projet de loi relatif au grand âge et à l’autonomie, annoncé pour 2020. En effet, lors de l’examen du PLFSS pour 2020, je vous ai fait remarquer que le financement prévu pour ce projet de loi était de 0 euro – en d’autres termes, il n’est pas financé. Ma question est donc simple : quand allez-vous financer la fin de la maltraitance dans nos EHPAD ? <italique>(Mme</italique><italique> </italique><italique>Danièle Obono applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542299" ordre_absolu_seance="92" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982364" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542300" ordre_absolu_seance="93" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982365" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Dans le PLFSS pour 2020, nous avons abondé le budget des EHPAD de 500 millions d’euros.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542301" ordre_absolu_seance="94" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982366" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non, cette somme est dédiée à l’aide à domicile !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542302" ordre_absolu_seance="95" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982367" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je ne crois pas qu’on puisse dire aux Français que 500 millions d’euros supplémentaires en une année, ce n’est rien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542303" ordre_absolu_seance="96" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982368" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur les 6 milliards d’euros nécessaires, ce n’est pas grand-chose !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542304" ordre_absolu_seance="97" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982369" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Un effort particulier a été réalisé afin de recruter en 2020 des personnes supplémentaires. En matière de recrutement, je le rappelle, des moyens ont été mis en œuvre depuis 2015 – donc avant mon arrivée – et sont programmés jusqu’en 2021. Cela représentera quatre ETP supplémentaires pour un EHPAD de 100 places, soit 21 000 postes créés entre 2015 et 2021.<br/>Le rapport Libault souligne la nécessité d’une augmentation des recrutements de 25 % à l’horizon 2025. C’est exactement ce que la loi va permettre et prévoir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542306" ordre_absolu_seance="99" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le rapport Libault parle de salariés mais nous demandons des soignants !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542307" ordre_absolu_seance="100" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982372" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Cela figure dans le rapport Libault et c’est l’engagement que nous prenons. Cette augmentation de 25 % équivaut à 13 ETP supplémentaires dans un EHPAD de 100 places.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542308" ordre_absolu_seance="101" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982373" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous parlez de salariés, pas de soignants !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542309" ordre_absolu_seance="102" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982374" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, seule Mme la ministre a la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542310" ordre_absolu_seance="103" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982375" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais elle ne répond pas à la question !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542311" ordre_absolu_seance="104" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982376" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Enfin, l’accélération de la convergence tarifaire sur les soins constitue une réponse aux problèmes actuels : dans ce cadre, en effet, plus de 900 millions d’euros supplémentaires ont été injectés dans les budgets des EHPAD.<br/>Aujourd’hui, des recrutements sont donc financés. Bien entendu, il faut faire plus, et nous allons faire plus – c’est l’objet du projet de loi qui sera déposé –,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542313" ordre_absolu_seance="106" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982378" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous faites plus pour les contribuables soumis à l’ISF, mais pas pour les résidents en EHPAD !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542314" ordre_absolu_seance="107" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982379" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…mais d’ores et déjà, nous avons beaucoup accéléré la convergence tarifaire par rapport à ce que prévoyait la loi de 2015, votée par le Parlement avant que je n’arrive aux responsabilités.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542315" ordre_absolu_seance="108" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982380" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez apporté aucune réponse aux trente et une propositions du rapport de Mme Fiat !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542316" ordre_absolu_seance="109" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982381" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542317" ordre_absolu_seance="110" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982382" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À mesure que la population mondiale croît et que l’espérance de vie s’allonge, le vieillissement de la population s’amplifie. Au niveau mondial, la population de plus de 65 ans devrait passer de 9,3 % à 15,9 % de la population totale d’ici à 2050, avec, bien sûr, des chiffres beaucoup plus élevés en Europe. Se pose légitimement la question de la dépendance et de la place des EHPAD dans l’accompagnement des personnes âgées.<br/>Nous savons tous que la situation est critique dans ces établissements. Dans ma circonscription, plusieurs EHPAD, mais aussi des familles de résidents, m’ont interpellé à ce sujet. Les moyens financiers et humains manquent. Le reste à charge pour les familles pèse de plus en plus dans un pays où de nombreux retraités perçoivent de petites pensions. L’efficacité et le rendement priment sur le respect des uns et des autres. En conséquence, une énorme souffrance est engendrée, tant pour de nombreux résidents de ces établissements que pour les équipes soignantes.<br/>Nous avons récemment déposé, à l’initiative de notre collègue Alain Bruneel, une proposition de loi portant mesures d’urgence pour la santé et les hôpitaux. Dans ce texte, nous abordons notamment la question des EHPAD. Toute une série de mesures y sont proposées – je pense en particulier à l’intégration du risque dépendance dans la branche maladie de la sécurité sociale, à un plan de recrutement de 100 000 emplois statutaires par an sur trois ans dans la filière gériatrique, au soutien à l’investissement, à la mise en place de tarifs publics réglementés ou encore à un meilleur ratio d’encadrement.<br/>Le contexte est plus que préoccupant : il est critique et alarmant. Nous assistons à une véritable crise de société. Pour lutter contre cette maltraitance institutionnalisée, quelles mesures financières réelles proposez-vous ? Que proposez-vous pour rétablir la dignité des personnes âgées et le respect des soignants ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542321" ordre_absolu_seance="114" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982386" valeur="267306 720286. ">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne et Mme Caroline Fiat</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542322" ordre_absolu_seance="115" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982387" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542323" ordre_absolu_seance="116" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982388" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai déjà répondu à Mme Fiat en rappelant les financements alloués à ce secteur depuis mon arrivée aux responsabilités ainsi que la volonté du Gouvernement d’aller plus loin, car il existe un besoin pour le présent et pour l’avenir. Nous devons prendre des mesures afin d’être prêts à faire face au vieillissement massif de la population autour de 2030 : il faudra alors que nous ayons formé suffisamment de professionnels dans ce secteur et que nous ayons inventé de nouveaux modes de prise en charge, l’EHPAD étant probablement un choix ultime car nous savons que les Français veulent vieillir à domicile, ce qui nous oblige à organiser un virage domiciliaire ambulatoire. Tout cela va faire l’objet du projet de loi qui sera déposé en 2020.<br/>Pour autant, je n’ai pas été inactive – loin de là. J’ai augmenté les budgets prévus par la loi relative à l’adaptation de la société au vieillissement et accéléré la convergence tarifaire, qui était trop longue et insuffisante. Les EHPAD ont donc vu leurs budgets augmenter, ce qui leur a permis de recruter. Comme je l’ai déjà dit, nous avons créé en deux ans 7 000 postes supplémentaires, et nous allons continuer dans cette voie. Ainsi, le PLFSS pour 2020 a prévu 500 millions d’euros supplémentaires pour ce secteur. En outre, j’ai renforcé les postes d’infirmière de nuit et encouragé le recours à la télémédecine afin de rassurer les aides-soignantes, qui sont souvent très seules la nuit dans les EHPAD – cette angoisse de se retrouver seules face à une personne âgée, malade et souffrante, participe au manque d’attractivité du métier. Dans le cadre du plan urgences, nous avons également travaillé sur les admissions aux urgences, de sorte que les personnes âgées ne soient plus obligées de passer par les urgences et puissent être admises directement en gériatrie : nous voulons éviter de voir des personnes âgées sur des brancards, et des moyens ont été alloués aux services d’urgences et aux hôpitaux pour cela.<br/>Enfin, la loi que je compte mettre en œuvre comportera toute une série de mesures visant à rendre ces métiers plus attractifs, à mieux valoriser ces professions et à recruter.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. André Chassaigne" id_acteur="PA267306" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723054">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542326" ordre_absolu_seance="119" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982391" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. André Chassaigne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542327" ordre_absolu_seance="120" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982392" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je remplace ce soir Pierre Dharréville, qui a eu un empêchement.<br/>En novembre dernier, la Caisse nationale pour la solidarité et l’autonomie a mis à jour ses statistiques sur les tarifs des EHPAD. Le prix médian d’une chambre en maison de retraite médicalisée se rapproche de 2 000 euros. En comparaison, le revenu médian d’un retraité en 2017 s’élevait à 1 827 euros. Si les tarifs ont augmenté de 1,92 % à 2,62 % en trois ans, les revenus des retraités sont loin de suivre la même tendance. Les restes à charge sont astronomiques pour les personnes hébergées. Je pense en particulier aux agriculteurs et à leurs retraites de misère – 750 euros pour une carrière complète, guère plus de 500 euros pour la conjointe, parfois même moins. Les familles sont souvent mises à contribution alors que la perte d’autonomie de nos aînés devrait être une affaire de solidarité nationale. C’est une double peine pour les familles les plus modestes, et les personnes qui vieillissent ressentent même une forme de culpabilité car elles savent que cela va coûter cher à leurs enfants.<br/>Cela fait des années que nous vous alertons, madame la ministre, sur la situation des EHPAD et de l’hôpital public. Il est temps d’agir. Or vous ne faites que repousser la présentation de votre projet de loi relatif au grand âge et à l’autonomie. Quant à nous, parlementaires communistes, nous avons des propositions pour relever ce que vous appelez le défi de la perte d’autonomie. L’une des mesures d’urgence pour la santé et les hôpitaux doit être la mise en place de tarifs publics réglementés dans les EHPAD afin que le reste à charge des personnes placées et de leurs familles soit limité.<br/>Madame la ministre, où en sont vos mesures pour les EHPAD ? Avez-vous l’intention de mettre en place une telle tarification réglementée ? <italique>(M.</italique><italique> </italique><italique>Jean-Paul Dufrègne et Mme</italique><italique> </italique><italique>Caroline Fiat applaudissent.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542331" ordre_absolu_seance="124" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982396" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542332" ordre_absolu_seance="125" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982397" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci, monsieur le président Chassaigne, pour cette question qui est effectivement majeure pour les Français. Elle sera au cœur du futur projet de loi. Je vous rejoins sur ce point : en France, comme le souligne le rapport Libault, le reste à charge demeure très élevé – beaucoup trop élevé – en établissement. Si les prestations de soins sont couvertes à 100 % par l’assurance maladie et les prestations liées à la dépendance aux deux tiers par l’allocation personnalisée d’autonomie – APA –, le tarif d’hébergement reste aujourd’hui à la charge des ménages. L’allocation logement et la réduction d’impôt solvabilisent toutefois une partie de ces dépenses, mais de façon très différenciée en fonction des revenus. Selon la direction de la recherche, des études, de l’évaluation et des statistiques, la DREES, le reste à charge après les aides diverses reste autour de 1 850 euros par mois – soit le niveau médian avant versement de l’aide sociale à l’hébergement, qui excède donc les dépenses courantes des personnes âgées dans 75 % des cas.<br/>Après la concertation sur le grand âge et l’autonomie, un consensus s’est dégagé sur cet enjeu du reste à charge en EHPAD. Les mesures que nous pourrions prendre dans les mois à venir doivent veiller, d’une part, à respecter un principe d’équité intergénérationnelle et à ne pas organiser un transfert des actifs vers les générations nées dans l’immédiat après-guerre, et, d’autre part, à respecter un principe d’équité intragénérationnelle en améliorant en priorité la situation et la prise en charge des personnes âgées les moins bien dotées en termes de revenus ou de patrimoine. Ces principes d’équité intergénérationnelle et intragénérationnelle font clairement écho aux préoccupations des Français : ils seront donc au cœur des mesures contenues dans le futur projet de loi, lesquelles répondront, je pense, à votre préoccupation.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Monique Iborra" id_acteur="PA331835" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722688">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542334" ordre_absolu_seance="127" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982399" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Monique Iborra.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1542335" ordre_absolu_seance="128" id_acteur="PA331835" id_mandat="PM722688" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982400" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Monique Iborra</nom>
+              <id>331835</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, je souhaite vous interroger sur trois thèmes, que vous avez déjà abordés.<br/>Le premier concerne les sous-effectifs en personnel soignant, aujourd’hui unanimement reconnus. Si ce constat était contesté par certains dans le cadre de la mission d’information que j’ai menée avec Caroline Fiat, il n’est plus le cas aujourd’hui – voilà un premier effet positif de notre rapport. Alors que la Conférence nationale des directeurs d’établissements pour personnes âgées et handicapées préconise de créer 36 000 postes de soignants, pouvez-vous nous dire, madame la ministre, si le futur projet de loi prévoira un ratio de personnel soignant minimum opposable ?<br/>La deuxième question concerne le reste à charge dans les EHPAD, préoccupation qui inquiète nos concitoyens alors que, vous le savez, l’aide sociale à l’hébergement financée par les conseils départementaux semble en retrait et que l’étude annuelle du CNSA relative aux tarifs des EHPAD montre une forte évolution des prix à la hausse depuis trois ans, les disparités tarifaires entre les départements restant toujours très marquées. Pouvez-vous me dire comment il serait éventuellement possible de contrôler ces hausses tarifaires et ces inégalités territoriales ?<br/>Enfin, pouvez-vous me dire quelles dispositions pourraient être inscrites dans la future loi grand âge pour promouvoir de nouveaux modèles d’EHPAD et l’utilisation des nouvelles technologies, notoirement sous-utilisées en France aujourd’hui ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542259" ordre_absolu_seance="134" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982466" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542259" ordre_absolu_seance="135" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982467" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vais d’abord revenir, évidemment, sur le ratio d’encadrement. Nous sommes tous favorables à son augmentation et tous conscients de la nécessité de recruter. Mais le problème que pointe l’enquête de la DREES, c’est que dans 63 % des établissements, des postes sont non pourvus depuis six mois, toutes professions confondues – avec des variations selon les statuts et l’implantation de l’établissement. Les EHPAD privés sont les plus concernés : un sur deux est confronté à des difficultés de recrutement, contre seulement 35 % des EHPAD publics hospitaliers. J’ajoute que 10 % des EHPAD ont un poste de médecin coordonnateur qui demeure non pourvu – on sait la difficulté de recruter des médecins aujourd’hui – et 9 % des postes d’aide-soignant non pourvus. L’augmentation du ratio suppose aussi d’augmenter l’attractivité – en repensant la formation – parce que l’un n’ira pas sans l’autre : on peut créer des postes, mais s’ils ne sont pas pourvus, nous n’aurons pas réglé le problème.<br/>Par ailleurs, nous savons qu’en matière d’hébergement, l’EHPAD sera l’ultime recours, et c’est d’ailleurs ainsi qu’il est perçu par nos concitoyens. Nous devons donc repenser l’accompagnement à domicile, en le simplifiant et en instaurant le guichet unique pour que les familles aient une accessibilité plus importante à cet accompagnement ainsi qu’aux soins intégrés, et réfléchir à des hébergements intermédiaires à travers de petites unités de vie dotées d’une qualité de services, car c’est aussi ce que réclament les Français. Toutes les solutions d’hébergement intermédiaires figureront dans le projet de loi.<br/>Enfin, concernant les tarifs, j’aurai l’occasion d’y revenir. Mais l’objectif est évidemment multiple : il s’agit, d’une part, de réduire le reste à charge en l’adaptant aux revenus des familles les plus modestes pour les toucher en priorité, comme l’a demandé M. Chassaigne, et, d’autre part, d’harmoniser le système, tout en sachant que, les départements étant aujourd’hui en responsabilité dans ce secteur, il est difficile pour l’État d’aller plus loin.<br/>La loi grand âge et autonomie devrait en tout cas apporter des réponses aux questions que vous vous posez, madame la députée.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Didier Martin" id_acteur="PA719154" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722578">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542265" ordre_absolu_seance="8" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982443" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Didier Martin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542266" ordre_absolu_seance="9" id_acteur="PA719154" id_mandat="PM722578" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982444" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Didier Martin</nom>
+              <id>719154</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout d’abord je veux saluer vos déclarations successives, madame la ministre, qui nous assurent de la future présentation d’un projet de loi sur le grand âge et l’autonomie. Certains d’entre nous se posaient la question, mais je mesure ainsi votre détermination à défendre ce texte que vous évoquez très souvent. Il répond évidemment à un besoin important de notre société, sachant que l’entrée dans un EHPAD est souvent un moment doublement douloureux pour les familles et pour les aînés parce qu’il correspond fréquemment à un accident de la vie – un deuil, une perte d’autonomie, une maladie qui s’aggrave brutalement – et qu’elle a un aspect financier. À cet égard, la baisse du reste à charge de 300 euros environ – contre 1 850 euros par mois en moyenne – telle que l’a préconisée le rapport de Dominique Libault, serait de nature à rassurer les familles. Nous savons aussi, bien sûr, que les politiques publiques concernées nécessiteront des investissements, peut-être de l’ordre de plusieurs milliards d’euros, comme cela a été évoqué.<br/>Ma question portera, madame la ministre, sur les EHPAD d’un nouveau type. Je me permets d’indiquer que dans ma circonscription de Côte-d’Or, à Talant, entre la crèche, la pouponnière et l’EHPAD Robert Grandjean existent depuis 2013 des échanges intergénérationnels. Et de tels échanges doivent être favorisés. Je veux appeler votre attention sur ces solutions alternatives et vous inviter à développer ce soir vos idées sur le sujet, qu’il s’agisse des EHPAD « hors les murs » ou de l’intégration entre domicile et établissement, bref, sur le nouveau type d’établissement que vous souhaitez mettre en place pour que vieillir ne soit plus une angoisse et un problème, autrement dit pour que l’image du grand âge, avec le bien vieillir, ne soit plus redoutée par les Français.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542268" ordre_absolu_seance="11" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982446" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542269" ordre_absolu_seance="12" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982447" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je tiens d’emblée à souligner, monsieur le député, que le Gouvernement fera tout pour que les Français puissent vieillir le plus longtemps possible, soit dans leur propre domicile grâce au soutien de services à domicile renforcés, soit dans des habitats intermédiaires comme ils le demandent – je pense à l’habitat inclusif, à la colocation ou à la résidence autonomie. Mais il est clair que l’allongement de l’espérance de vie et la prévalence des maladies neurodégénératives qui s’ensuit nécessiteront toujours un habitat collectif de type EHPAD. L’enjeu, dans les années à venir, est qu’une structure de ce genre corresponde au souhait de vie des résidents et qu’elle soit la plus proche possible d’un vrai domicile, d’un vrai lieu de vie, même si la logique du soin doit être présente.<br/>Certains prérequis sont évidents, tels que, par exemple, garantir la pleine citoyenneté des personnes âgées dans les EHPAD du futur. Il faut aussi ouvrir les établissements sur l’extérieur afin qu’ils deviennent vraiment des lieux de vie et des lieux de rencontre intergénérationnels pour tous les habitants du quartier. Il y a à cet égard de nombreux exemples d’EHPAD ouverts sur la ville, parfois en connexion, vous l’avez dit, avec des crèches ou des restaurants collectifs, et ces initiatives devraient se généraliser. Beaucoup d’établissements, d’ailleurs, se lancent dans cette logique d’ouverture.<br/>Enfin, il y a l’architecture, laquelle doit à mon avis se mettre au service d’une forme d’habitat renouvelé, moins anxiogène et peut-être moins sanitaire, et plus individualisable pour les résidents. J’ai déjà annoncé ce soir que je souhaitais explorer cette question avec un groupe d’experts interdisciplinaires, accompagnés de personnes âgées mais aussi d’architectes, de sociologues et de personnels travaillant dans les EHPAD <italique>(Mme</italique><italique> </italique><italique>Maud Petit applaudit)</italique>, de façon à définir les grandes lignes directrices d’un établissement répondant aux nouveaux enjeux de l’EHPAD du futur. Je crois nécessaire ce laboratoire d’idées pluridisciplinaire, et je vais y travailler. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM et sur quelques bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Annie Vidal" id_acteur="PA722102" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723472">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542272" ordre_absolu_seance="15" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Annie Vidal.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542273" ordre_absolu_seance="16" id_acteur="PA722102" id_mandat="PM723472" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Annie Vidal</nom>
+              <id>722102</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis 2017, de nombreuses mesures ont été mises en place en faveur des EHPAD ; l’année 2019 a été riche de réflexions et de propositions, notamment pour les métiers du grand âge. Pourtant, depuis quelques années, il y a dans chaque EHPAD au moins un poste d’aide-soignant non pourvu, signe d’un manque criant d’attractivité de métiers peu rémunérés et peu valorisés, avec un niveau de pénibilité notoire. Identifiée comme un sujet prioritaire dans le rapport de Dominique Libault, confirmée dans le rapport de Myriam El Khomri en octobre dernier, l’attractivité des métiers du grand âge est aujourd’hui la pierre angulaire pour réussir la transition démographique déjà engagée. Les besoins ont été évalués à 93 000 postes à créer dans les cinq prochaines années et, lors de votre audition en commission des affaires sociales, vous avez annoncé la création en 2020 de 5 000 postes, tous métiers confondus. Encore faut-il trouver les profils attendus… Compte tenu des postes actuellement non pourvus, c’est au total 260 000 professionnels qui seront à former. Il y a donc urgence à agir, notamment pour que les mesures en faveur de la revalorisation du métier d’aide-soignant proposées dans le plan « investir pour l’hôpital » puisse aussi s’appliquer aux aides-soignants des EHPAD et du domicile.<br/>Madame la ministre, alors que la loi grand âge et autonomie, tant attendue par les professionnels du secteur, ne figure pas à l’agenda législatif du premier semestre 2020, alors que les professionnels sont à bout de souffle et que nos aînés et leurs proches aidants comptent sur vous, comptent sur nous, pouvez-vous préciser les projets du Gouvernement pour aujourd’hui, pour demain et pour après-demain, afin que le grand âge s’inscrive dans un temps de vie renouvelé, celui de la longévité qui nous est chère ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542275" ordre_absolu_seance="18" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982453" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542276" ordre_absolu_seance="19" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison évidemment, madame la députée, de souligner la nécessité de repenser les métiers du grand âge, et je l’ai déjà évoquée ce soir avec d’autres députés.<br/>Je veux revenir sur la mission que j’ai confiée à Myriam El Khomri et à son rapport, lequel a été unanimement salué comme étant de très grande qualité. Mme El Khomri propose un plan de mobilisation nationale en faveur de l’attractivité de ces métiers et de mobiliser à cet effet plusieurs leviers pour éviter la sinistralité de ce secteur et les difficultés de fidélisation qui s’ensuivent, et permettre de recruter davantage car, vous l’avez dit, les besoins vont être immenses dans les années qui viennent.<br/>Parmi les axes qu’elle propose, il y a celui des conditions d’emploi et de rémunération pour les salariés du secteur. Comme vous l’avez rappelé, de premières mesures ont été décidées en faveur des aides-soignantes, notamment une prime de 100 euros net par mois pour toutes celles qui ont suivi une formation d’assistant de soins en gérontologie. Mais mon ministère doit encore creuser le sujet des rémunérations s’agissant du secteur privé puisque, aujourd’hui, seules les aides-soignantes du secteur public ont accès à cette prime.<br/>Ensuite, pour réduire la sinistralité et améliorer la qualité de vie au travail, nous devons renouveler la répartition du temps dédié au temps collectif et au temps de formation. Le temps collectif entre professionnels permet de réduire la sinistralité. Quant à la formation, elle doit permettre d’augmenter notamment la part des professionnels diplômés au travers de la valorisation des acquis de l’expérience. C’est une piste qui a été insuffisamment creusée. L’apprentissage est par ailleurs une bonne façon d’entrer dans le métier. Des travaux sont en cours pour moderniser les formations d’aide-soignante ; ils devraient aboutir au premier trimestre de 2020. Cet axe passera également par la mobilisation de crédits spécifiques, en cours d’expertise dans le cadre du programme d’investissement dans les compétences.<br/>Enfin, il nous faut innover sur le plan des organisations du travail tout en changeant l’image de ces métiers à travers, notamment, une campagne de communication sur le point de débuter.<br/>Toutes ces pistes sont pertinentes et nécessitent la mobilisation de l’ensemble des partenaires.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Pascale Fontenel-Personne" id_acteur="PA721384" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723256">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542282" ordre_absolu_seance="25" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982460" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Pascale Fontenel-Personne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542283" ordre_absolu_seance="26" id_acteur="PA721384" id_mandat="PM723256" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982461" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Pascale Fontenel-Personne</nom>
+              <id>721384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La gestion du grand âge et de l’autonomie fait partie des grands chantiers du quinquennat. Nous aurons l’occasion de réformer cette branche primordiale du service à la personne très rapidement, et je connais votre engagement sur ce point, madame la ministre : vous nous l’avez encore confirmé à plusieurs reprises ce soir.<br/>Nous nous devons d’être au rendez-vous car c’est un secteur vraiment très en peine. Les difficultés s’y accumulent, notamment dans nos territoires ruraux, où s’ajoute à l’isolement géographique le manque criant de médecins traitants, pourtant les seuls capables de finaliser les admissions en EHPAD. Dans ma Sarthe natale, c’est le cas de Rémy, qui, handicapé GIR 2 – groupe iso-ressources 2 –, ne peut être admis en EHPAD faute de médecin traitant et de médecin coordonnateur. Vous noterez l’absurdité administrative de la situation, puisqu’il ne peut rester à son domicile et que sa seule aidante est à ce jour sa fille, très courageuse, qui m’a alertée.<br/>Le projet de loi sur le grand âge et l’autonomie doit être une chance ; il doit permettre de gommer ces non-sens administratifs tout en s’inscrivant dans une logique toujours plus grande de lutte contre la désertification médicale. Quelle réponse pouvons-nous donner à cette famille et à toutes les autres qui vivent de telles situations au quotidien ? D’ici cinq à sept ans, un médecin sarthois sur deux cherchera un remplaçant… Cette crise est majeure, profonde, totalement alarmante. Nous vivons chez nous le résultat d’années d’errance en matière de politique de santé locale. Cette même réalité de la désertification médicale a d’ailleurs entraîné la fermeture du service de réanimation pédiatrique de l’hôpital du Mans.<br/>Il faut agir. Comment changer les procédures d’admission en EHPAD pour pallier le manque récurrent de médecins ? Peut-être en innovant à travers les pratiques avancées pour ne pas laisser nos concitoyens sans réponse ? Quels moyens réels seront alloués, plus particulièrement en Sarthe, pour l’hôpital et pour la dépendance dans les mois à venir ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542285" ordre_absolu_seance="161" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982463" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1542286" ordre_absolu_seance="162" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, vous m’alertez sur la nécessité d’avoir un médecin traitant pour entrer en EHPAD. Mais je tiens à souligner qu’il n’y a pas de justification juridique à cela, et qu’il n’existe nulle obligation d’avoir un médecin traitant pour entrer en EHPAD.<br/>Pour autant, il y a aujourd’hui des difficultés à accéder à ce médecin, notamment en zone rurale, en raison de la désertification médicale que vous évoquez. Vous savez que j’ai pris ce sujet à bras-le-corps depuis mon arrivée aux responsabilités. La situation actuelle est liée à l’évolution de la démographie médicale, assez catastrophique dans notre pays : on n’a pas formé suffisamment de médecins dans les années 1990-2000, et nous en payons le prix aujourd’hui avec le départ à la retraite en masse de médecins formés dans les années 1970-1980. Nous vivons donc une période difficile puisqu’il n’y aura pas d’augmentation du nombre de nouveaux médecins français avant 2027.<br/>Nous avons donc besoin de repenser nos organisations.<br/>C’est la raison pour laquelle, dans la loi relative à l’organisation et à la transformation du système de santé votée en juillet, j’ai proposé la création de communautés professionnelles territoriales de santé – CPTS – couvrant l’ensemble du territoire. Sur les 1 000 CPTS que nous prévoyons de créer en France, 200 ont déjà vu le jour en 2019. Parmi leurs missions figure – elles sont d’ailleurs financées pour cela – l’obligation de trouver un médecin traitant à tous les patients sur leur territoire : elles ont une responsabilité populationnelle. Les patients, et notamment les personnes âgées, ne devront donc pas chercher eux-mêmes un médecin traitant : ils pourront, si une CPTS existe – et elles monteront en charge dans les deux ans à venir –, s’adresser à la CPAM de leur quartier pour obtenir un médecin traitant.<br/>La délégation de tâches se déploie également. Elle permet à d’autres professionnels de santé – infirmiers ou pharmaciens, notamment – de prendre en charge des tâches qui incombaient jusqu’à présent au médecin, comme le suivi de pathologies chroniques. Tout cela permettra de décharger du temps médical et de rendre l’accès à un médecin traitant plus facile pour les personnes âgées.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Nicole Trisse" id_acteur="PA720394" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722950">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542153" ordre_absolu_seance="4" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982603" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Nicole Trisse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542154" ordre_absolu_seance="5" id_acteur="PA720394" id_mandat="PM722950" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982604" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Nicole Trisse</nom>
+              <id>720394</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le sujet dont nous traitons ce soir est préoccupant : l’allongement de l’espérance de vie, couplé à un accroissement des pathologies liées à l’âge, conduit inexorablement à une augmentation très importante du nombre de personnes âgées dépendantes. Il est désormais urgent de réformer le système de prise en charge de ces personnes.<br/>On ne peut donc que se réjouir du plan pour les EHPAD que vous avez présenté en 2018, car il va dans ce sens et vous l’avez doté de moyens exceptionnels. C’est dans ce cadre que vous avez choisi de poursuivre la démarche amorcée en 2015 : la réforme de la tarification dans les EHPAD. Vous avez même accéléré le processus, puisque vous y avez consacré des moyens, en dégageant par exemple, dès 2018, 70 millions d’euros pour le recrutement de personnels soignants. Cette convergence tarifaire me semble indispensable.<br/>Cela étant – et bien que chacun s’accorde sur le principe de la convergence tarifaire et d’une modification du système –, on constate également que, dans les EHPAD, le personnel soignant souffre aujourd’hui d’un manque cruel de moyens matériels et humains. Je ne reviendrai pas sur tout ce qui a été dit concernant le problème du recrutement ou la nécessité d’accroître l’attractivité des métiers du grand âge.<br/>En revanche, j’aimerais vous interroger plus précisément sur l’efficacité de la réforme tarifaire : pouvez-vous nous dire en quoi son instauration a été bénéfique ? Avez-vous des exemples concrets à nous communiquer sur les effets positifs induits par la convergence tarifaire ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542158" ordre_absolu_seance="9" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982608" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542159" ordre_absolu_seance="10" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982609" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La convergence tarifaire permettait d’appliquer une philosophie plus saine – chacun savait exactement ce qu’il avait à payer, en responsabilité – et aboutissait à une forme d’harmonisation des pratiques sur l’ensemble du territoire. La réforme permettait – on l’a compris – de mieux expliquer la coexistence des trois postes de dépense : les soins, pris en charge par l’assurance maladie, la dépendance, prise en charge par les départements, et l’hébergement, pris en charge par les résidents ou leur famille.<br/>Il apparaît aujourd’hui que cette convergence tarifaire n’a pas produit toutes les améliorations attendues, et le rapport Libault pointe la nécessité de la faire évoluer. Je ne suis donc pas certaine que nous continuerons indéfiniment à financer des EHPAD comme nous le faisons actuellement. Le rapport Libault prône en effet une fusion des sections « soins » et « dépendances » – qui sont actuellement abondées par des financeurs distincts – au sein d’une section « soins et entretien de l’autonomie ».<br/>Vous estimez d’ailleurs qu’il y aura, à l’avenir, toujours plus de personnes dépendantes. Je pense qu’il ne s’agit pas d’une fatalité : la dépendance – je l’ai dit tout à l’heure, et les gériatres l’affirment – est intimement liée à l’existence d’une maladie sous-jacente. Si nous parvenons à améliorer, dès le plus jeune âge, la prévention contre les maladies chroniques – qu’elles soient cardiovasculaires ou neurodégénératives – par une meilleure alimentation ou une meilleure activité physique, l’augmentation du nombre de personnes dépendantes n’est pas écrite. Il y a un enjeu majeur à ne pas subir une telle évolution à cause d’une prise en charge trop tardive de la perte d’autonomie, qui ne permet plus d’améliorer la situation des personnes.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Pauget" id_acteur="PA718784" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722456">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542162" ordre_absolu_seance="13" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982612" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Pauget.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542163" ordre_absolu_seance="14" id_acteur="PA718784" id_mandat="PM722456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982613" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Pauget</nom>
+              <id>718784</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En 2070, la France comptera 14 millions de personnes de plus de 75 ans, dont 2,5 millions de personnes en situation de grande dépendance. Les EHPAD cristallisent l’urgence de la situation et imposent qu’un travail soit engagé pour évaluer précisément les besoins des personnes âgées. Je recense trois axes prioritaires d’action.<br/>Le premier est d’ordre quantitatif : il concerne le taux d’encadrement des aidants et soignants dans les EHPAD. Ce dernier doit être établi relativement aux nombres de résidents, et non en fonction de la nature des établissements, comme c’est le cas aujourd’hui.<br/>La deuxième priorité consiste à répondre à l’état de vétusté de très nombreux EHPAD publics, qui entraîne trop souvent une accumulation de défaillances techniques préjudiciables aux résidents, aux familles et aux aidants. Je sais, pour avoir récemment rencontré dans ma circonscription les familles des résidents de l’EHPAD public Thiers à Antibes Juan-les-Pins, que cette urgence locale illustre une situation nationale préoccupante.<br/>Le troisième chantier est de rendre attractifs les métiers du grand âge par une meilleure rémunération et une meilleure formation des personnels encadrants et soignants dans les EHPAD. Je sais combien le service à la personne est exigeant pour les professionnels engagés dans cette noble tâche, et je veux ici les saluer et rendre hommage à leur professionnalisme.<br/>Les soins en établissement nécessitent, toutefois, a minima, plus de 2,5 milliards d’euros : on est aujourd’hui loin du compte ! Un rapport sur l’attractivité des métiers du grand âge et de l’autonomie vous a certes été remis à la fin d’octobre 2019 par Mme El Khomri, mais, dans le même temps, la grande loi sur la dépendance voulue par le Président de la République, qui devait être présentée en 2019, est repoussée de plusieurs mois, sans calendrier, alors que ce sujet devait être une priorité du Gouvernement.<br/>L’urgence est à la fois sociale, financière et humaine : comme le rappelait souvent le Président Chirac, une société doit être jugée à sa façon de traiter les plus faibles. Aussi ma question est-elle simple : madame la ministre, quand prendrez-vous la pleine mesure de la situation des EHPAD – avec, vous l’aurez compris, un regard particulier sur celui de ma commune d’Antibes Juan-les-Pins – et quand déploierez-vous enfin une politique répondant réellement aux attentes des familles, des aidants et des métiers du grand âge ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542169" ordre_absolu_seance="20" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982619" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542170" ordre_absolu_seance="21" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982620" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai rappelé en réponse aux questions précédentes, le Gouvernement est engagé de façon très volontariste pour accompagner ce secteur et répondre à l’inquiétude des Français, qui touche toutes les familles : personne n’est épargné – nous allons tous vieillir. Il n’existe donc pas, d’une certaine manière, de projet de loi plus universel que celui de la réforme de la prise en charge du grand âge et de l’autonomie.<br/>Le Président de la République a pris cet engagement. Il l’a renouvelé il y a encore une semaine lors de ses vœux aux Français, en assurant que ce texte de loi serait présenté en 2020. Nous y travaillons. Les rapports nous ont permis d’éclaircir les attentes des Français, mais nous n’avons pas attendu pour agir.<br/>Ainsi, dès la crise survenue dans les EHPAD en 2017, j’ai accéléré la convergence tarifaire, de façon à dégager des moyens supplémentaires. Le premier objectif de cette convergence consistait à augmenter le ratio de personnels soignants par rapport aux personnes hébergées dans les EHPAD. C’est ce que nous avons fait. Pour 2020, nous n’avons pas voulu attendre la loi relative au grand âge et à l’autonomie pour augmenter les budgets dans le secteur médicosocial : 500 millions d’euros ont ainsi été consacrés aux EHPAD dans la loi de financement de la sécurité sociale pour 2020. La présentation du projet de loi a certes été reportée de quelques, mais des budgets ont d’ores et déjà été alloués au recrutement de personnels.<br/>Ce qui compte, c’est d’anticiper le véritable tournant démographique qui aura lieu en 2030 afin que nous soyons prêts, dans dix ans, à accueillir toutes les personnes âgées. Grâce à des mesures de prévention renforcées, elles ne seront pas, je l’espère, aussi dépendantes qu’elles peuvent l’être aujourd’hui. Cela constituera d’ailleurs un autre un axe du futur projet de loi : au-delà du ratio de personnels soignants et de la tarification, nous devrons traiter des aidants et de la prévention de la perte d’autonomie.<br/>Tous ces éléments figureront dans le texte qui sera présenté au Parlement en 2020.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jérôme Nury" id_acteur="PA720644" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723026">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542175" ordre_absolu_seance="26" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982625" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jérôme Nury.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542176" ordre_absolu_seance="27" id_acteur="PA720644" id_mandat="PM723026" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982626" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Nury</nom>
+              <id>720644</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans l’Orne, comme dans de nombreux départements, nos maisons de retraite ont connu ces dernières années des évolutions considérables, en se modernisant et en s’agrandissant pour faire face à un besoin croissant de places en EHPAD, lié à un vieillissement très marqué de la population ornaise.<br/>Face à ce constat, si les locaux sont souvent adaptés et fonctionnels dans ces établissements – qui tournent chez nous à 100 % de leur capacité –, ce qui manque cruellement, ce sont les moyens humains pour s’occuper de nos anciens. Le renforcement des équipes est indispensable, car les personnels sont souvent à bout : les rythmes de travail et la fatigue physique et morale font que le système, ainsi que les hommes et les femmes, est en train de craquer.<br/>Il y a urgence à redonner de l’oxygène à ces personnels, qui font leur travail avec beaucoup de professionnalisme, d’attention et d’affection. La mesure visant à promouvoir les assistants de soins en gérontologie – les ASG – en EHPAD, que vous avez annoncée il y a quelques mois, est une bonne piste, car elle valorise ces métiers et encourage la formation spécifique à la prise en charge du grand âge.<br/>Elle reste toutefois virtuelle, dans la mesure où elle n’est pas financée par l’État. Dans nos EHPAD, en ce mois de janvier, nous savons quel sera le budget « dépendance » accordé par le conseil départemental en 2020. Nous connaissons le prix d’une journée, et donc le montant du budget « hébergement ». Toutefois, nous ne savons pas quelle sera la dotation « soins » octroyée par l’agence régionale de santé, l’ARS, ni sur quels montants nous pourrons compter pour payer nos ASG actuels, embaucher des ASG supplémentaires, ou faire suivre des formations d’ASG à nos personnels.<br/>Si, comme l’an dernier, le budget « soins » n’est connu qu’au milieu de l’année en cours, vous comprendrez que l’évolution – si évolution positive il y a – ne se fera pas ressentir de sitôt sur le terrain.<br/>Sur quels critères seront attribués, par EHPAD, les moyens supplémentaires indispensables pour les ASG ? L’augmentation sera-t-elle proportionnelle au budget « soins », ou calculée en fonction du nombre de lits ? Enfin, à quelle date connaîtrons-nous la dotation 2020 par EHPAD – peut-on espérer ne pas attendre six mois ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542182" ordre_absolu_seance="33" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982632" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542183" ordre_absolu_seance="34" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982633" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous posez, monsieur le député, une question très précise, à laquelle je répondrai précisément.<br/>D’abord, je crois que la mesure à laquelle vous faites référence est bonne, car il me semble utile que les aides-soignants en EHPAD bénéficient de cette formation d’ASG. D’autre part, elle permet de revaloriser le métier : je rappelle avoir annoncé, dans le cadre du plan « investir pour l’hôpital », une prime de 100 euros net par mois pour toute personne ayant suivi cette formation. Cette dernière concernera a priori tous les EHPAD publics et tous les services de gériatrie : à terme, 60 000 personnes devraient pouvoir bénéficier de cette prime dans le secteur public hospitalier.<br/>Quant au financement de cette réforme, le plan « ma santé 2022 – Investir pour l’hôpital » a conduit, à l’occasion de  la lecture du projet de loi de financement de la sécurité sociale, à réévaluer l’ONDAM médicosocial  à hauteur de 53 millions d’euros, afin de permettre le financement de mesures catégorielles dès 2020. Les services du ministère déterminent actuellement le meilleur canal pour transmettre ces crédits aux ARS et aux établissements. Les crédits ont été intégrés dans l’ONDAM médicosocial à l’occasion du vote de la LFSS pour 2020 et parviendront aux établissements très rapidement, dans les mois à venir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542186" ordre_absolu_seance="37" id_acteur="PA720644" id_mandat="PM723026" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982636" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jérôme Nury</nom>
+              <id>720644</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En juin ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1542187" ordre_absolu_seance="38" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982637" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Avant le mois de juin, monsieur le député : j’ai bien compris votre demande. Nous travaillons ardemment pour que tous ces financements parviennent aux personnels concernés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Patrick Hetzel" id_acteur="PA608416" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723540">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542337" ordre_absolu_seance="1" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982689" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Patrick Hetzel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542338" ordre_absolu_seance="2" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982690" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <id>608416</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En 2019, une enveloppe financière de 15 millions d’euros a été débloquée pour le recrutement ou le développement des infirmiers de nuit dans les EHPAD. Elle devrait être reconduite en 2020. Cependant, d’après les éléments qui remontent du terrain et comme j’ai pu le constater dans ma circonscription, les établissements ont été peu nombreux à pouvoir déposer un dossier dans les temps en 2019 et ceux qui ne l’ont pas fait n’ont pas obtenu de financement. Je souhaite donc savoir ce qu’il est advenu de ce budget global en 2019. Plus précisément, a-t-il bien servi à compenser des indemnités de remplacement dans ces secteurs en grande difficulté ? Pouvez-vous préciser quelles seront les modalités permettant que ces moyens soient employés le plus efficacement possible en 2020 ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542339" ordre_absolu_seance="3" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982691" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542340" ordre_absolu_seance="4" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982692" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il s’agissait là, en effet, d’une mesure phare, importante pour moi, et qui avait fait l’objet d’une expérimentation très positive. Comme vous, monsieur le député, je reçois du terrain un retour indiquant qu’elle ne s’est pas déployée à la vitesse que je souhaitais. Or une telle mesure rassure les professionnels travaillant dans ce secteur, car elle évite nombre d’hospitalisations inutiles et de passages aux urgences.<br/>Nous avons ainsi réaffirmé, dans le cadre du plan « investir pour l’hôpital », la nécessité d’une mutualisation de postes infirmiers pour les EHPAD, afin que tous ces établissements soient couverts. J’ai donné aux ARS les moyens d’organiser cette couverture en la généralisant en 2020, pour assurer la présence d’une infirmière en EHPAD la nuit, sous une forme le plus souvent mutualisée, selon la taille des établissements du territoire. Une enveloppe de 36 millions d’euros, répartie en trois tranches en vue d’une montée en charge progressive, a déjà été allouée aux ARS, avec 10 millions d’euros en 2018 et 2019, puis 16 millions en 2020. Grâce à ces moyens, 20 % à 25 % des EHPAD sont aujourd’hui déjà couverts par une astreinte infirmière de nuit. Mon objectif est que la généralisation soit complète en 2020, car cette couverture accuse une très grande diversité territoriale.<br/>Cette mesure n’est pas la seule manière d’améliorer le parcours de soins en EHPAD : d’autres expérimentations existent, comme le projet ASSUR – Amélioration des soins d’urgence en EHPAD – déployé dans les Hauts-de-France. La télésurveillance et la téléconsultation, avec le lien entre les EHPAD et les SAMU, sont aussi une façon de rassurer les personnels soignants qui se trouvent auprès des personnes âgées la nuit et permettent d’éviter un grand nombre d’hospitalisations inutiles.<br/>Nous poursuivons donc les expérimentations et, de toute façon, les moyens sont déjà alloués pour la généralisation.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Constance Le Grip" id_acteur="PA345722" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723428">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542344" ordre_absolu_seance="8" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982696" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Constance Le Grip.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542345" ordre_absolu_seance="9" id_acteur="PA345722" id_mandat="PM723428" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982697" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Constance Le Grip</nom>
+              <id>345722</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le vieillissement et la perte d’autonomie sont des sujets qui inquiètent très sérieusement nos compatriotes, dont 85 % indiquent qu’ils souhaitent vieillir à domicile. La question se pose d’autant plus que les quelque 7 000 EHPAD actuels ne suffiront pas pour accueillir les générations du baby-boom. Du reste, nombreux seront ceux qui peineront à s’offrir une place en EHPAD, dont le coût est en moyenne de 1 850 euros par mois après aides et réductions d’impôt, alors que la retraite de droit direct moyenne est de 1 389 euros brut mensuel. La prise en charge du grand âge et de la dépendance est donc un enjeu majeur de notre temps.<br/>Selon l’INSEE, le nombre de seniors en perte d’autonomie, qui était de 2,5 millions en 2015, pourrait atteindre 4 millions en 2050.<br/>La reconnaissance d’un cinquième risque et sa traduction par la création d’une branche supplémentaire de la sécurité sociale – mesure qui, je crois, figurait dans le programme de campagne du candidat Macron – se pose donc de manière urgente.<br/>La réponse que vous avez commencé à apporter, notamment avec la loi de financement de la sécurité sociale pour 2020 et le déblocage d’une enveloppe de 500 millions d’euros pour les EHPAD, n’est, comme vous en êtes convenue en répondant à de récentes questions d’actualité posées par certains de mes collègues du groupe Les Républicains, qu’une réponse partielle, qui ne couvre pas, tant s’en faut, les besoins de financement. Je rappelle à cet égard que le rapport Libault, publié en mars 2019, fixe globalement à quelque 10 milliards d’euros le besoin global de financement pour faire face au défi du vieillissement d’ici à 2050, ce qui représente une augmentation de plus de 35 % de la dépense publique consacrée à la dépendance.<br/>Parmi les pistes possibles de financement pérenne, la proposition 160 du rapport Libault préconise de créer à partir de 2024 un nouveau prélèvement social dédié, en utilisant l’assiette de la CRDS – contribution au remboursement de la dette sociale –, qui devait théoriquement s’éteindre en 2024, après résorption de la dette sociale.<br/>Le rapport Libault préconise également, pour financer le plan de rénovation des EHPAD, de mobiliser le Fonds de réserve pour les retraites.<br/>Le Gouvernement entend-il retenir l’une ou l’autre de ces pistes, voire les deux, et selon quel calendrier ? Cette mesure sera-t-elle incluse dans le projet de loi ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542350" ordre_absolu_seance="217" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982702" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542351" ordre_absolu_seance="218" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982703" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, je comprends votre désir de connaître les modalités de financement prévues par le projet de loi, mais je souhaite d’abord communiquer amplement sur ses objectifs et sur cette stratégie pour le grand âge. En effet, si j’indique le moindre chiffre, il sera la seule donnée retenue et commentée, alors que nous voulons que soient vraiment pris en compte le changement sociétal qui s’annonce et la nécessité de mieux adapter notre société, l’hébergement, nos villes et nos modes de financement à la prise en charge des personnes âgées dépendantes.<br/>Les axes du rapport Libault sont très intéressants pour le projet de loi à venir, qu’il s’agisse de l’hébergement intermédiaire, de la diminution du reste à charge en EHPAD, de la nécessité de travailler pour les aidants avec un plan « aidants », d’améliorer le virage domiciliaire ou de repenser les métiers et la formation. Ces objectifs ont été désignés par le rapport Libault et j’y adhère pleinement.<br/>Aujourd’hui, je ne souhaite aller plus loin ni à propos de la somme allouée ni à propos des modalités de financement, car le projet n’est pas encore finalisé. Lorsqu’il sera présenté aux parlementaires dans son intégralité, il comportera ces modalités financières.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Bolo" id_acteur="PA720162" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722878">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542353" ordre_absolu_seance="221" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982705" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Bolo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542354" ordre_absolu_seance="222" id_acteur="PA720162" id_mandat="PM722878" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982706" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Bolo</nom>
+              <id>720162</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite aborder un sujet technique que j’ai évoqué à plusieurs reprises depuis novembre 2018 – dans une question au Gouvernement, lors d’une audition en commission des affaires économiques, à l’occasion de la préparation de la programmation pluriannuelle de l’énergie et, plus récemment, lors de l’examen du projet de loi de finances pour 2020. Il s’agit de la difficulté que rencontrent les résidents des EHPAD pour utiliser le chèque énergie que la loi leur a pourtant octroyé, c’est-à-dire d’une privation de jouissance d’un droit acquis, imputable à une procédure administrative. Cette procédure-verrou est le conventionnement des établissements au titre des aides personnalisées au logement, passage obligé pour la valorisation des chèques énergie. Mes diverses demandes de simplification se sont toutes heurtées à des arguments dont la variabilité me semble relever davantage de l’absence d’ambition d’agir que d’une réelle impossibilité à le faire.<br/>Alors que beaucoup des questions posées ce soir ont concerné les personnels et les financements, j’aborde donc celle de la simplification, qui renvoie, plus globalement, à la nécessité de réduire la charge normative qui pèse sur les établissements accueillant nos parents et grands-parents en situation de dépendance.<br/>La simplification de la procédure de valorisation des chèques énergie est, comme du reste d’autres simplifications, attendue par les gestionnaires des EHPAD. Avec l’aide de la Fédération nationale des associations de directeurs d’établissements et services pour personnes âgées, j’ai interrogé sur ce sujet, en décembre dernier, 1 400 directeurs : 256 d’entre eux, dont les établissements regroupent plus de 19 000 résidents, se sont prêtés au jeu de cette enquête. Les résultats sont les suivants : premièrement, 83 % des établissements accueillent des bénéficiaires de chèques énergie ; deuxièmement, les chèques énergie ne sont valorisés que dans 32 % des établissements ; enfin, 70 % des directeurs jugent positivement la perspective d’une simplification de la procédure. Ils sont même jusqu’à 80 % à le penser parmi les directeurs d’établissements non conventionnés.<br/>Il s’agit là d’une nouvelle démonstration de la nécessité de ne pas pénaliser certains détenteurs de chèques énergie à cause d’une procédure administrative contre-productive. Madame la ministre, partagez-vous cette vision de la question ? Que comptez-vous faire pour aider cette simplification qui permettra l’accès aux droits acquis, l’équité de traitement entre établissements et la diminution du reste à charge pour nos aînés aux revenus modestes ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542358" ordre_absolu_seance="226" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982710" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542359" ordre_absolu_seance="227" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982711" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison de rappeler que le chèque énergie, qui se substitue aux tarifs sociaux de l’énergie, a été généralisé depuis le 1<exposant>er</exposant> janvier 2018. Il touche 3,7 millions de bénéficiaires en situation de précarité énergétique et est une aide réelle pour les personnes à faibles revenus, puisqu’il permet d’alléger les frais d’énergie, qui constituent une dépense non négligeable. Les résidents d’EHPAD, qui supportent des coûts d’hébergement importants, sont donc particulièrement concernés par ce chèque énergie. Vous soulignez à juste titre que, dans certains cas spécifiques, les bénéficiaires du chèque énergie ne sont pas en mesure de l’utiliser, car ils ne sont pas logés dans un logement foyer conventionné. Dès lors, ils ne peuvent pas utiliser leur chèque énergie en le remettant au gestionnaire de la maison de retraite, car celui-ci ne peut pas encaisser ce titre spécial de paiement.<br/>Nous travaillons aujourd’hui, avec le ministère de la transition écologique et solidaire, à permettre à ces bénéficiaires de profiter de l’aide procurée par ce chèque énergie, en regardant très attentivement les conditions d’utilisation dans ces cas très spécifiques. Nous proposerons donc une évolution du texte nécessaire sur le plan législatif, à l’occasion de la discussion de la future loi sur le grand âge et l’autonomie.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Maud Petit" id_acteur="PA721234" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723210">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542361" ordre_absolu_seance="229" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982713" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Maud Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542362" ordre_absolu_seance="230" id_acteur="PA721234" id_mandat="PM723210" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982714" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit</nom>
+              <id>721234</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis quelques mois, je visite les établissements d’hébergement pour personnes âgées dépendantes de ma circonscription, dans le Val-de-Marne. Quarante-deux pour cent des 7 000 EHPAD que compte notre pays appartiennent au secteur public. Ces établissements médicosociaux connaissent aujourd’hui des dysfonctionnements, dont pâtissent directement nos anciens. D’ici à 2050, les statistiques tablent sur une augmentation de 25 % du nombre des personnes âgées de plus de 75 ans. Il faut donc agir  maintenant.<br/>Invariablement, au fil des discussions et des rencontres, je retrouve les mêmes problèmes. Financièrement, les directeurs, cadres et employés administratifs tentent de garantir la qualité de la prise en charge des résidents, malgré l’insuffisance budgétaire chronique.<br/>Humainement, le manque d’effectifs que connaît le personnel de santé en EHPAD a des répercussions directes sur la qualité des soins prodigués aux personnes âgées. Comme vous le savez, en effet, madame la ministre, plusieurs lanceurs d’alerte ont dépeint des conditions de vie inacceptables pour les résidents – nous pouvons même, malheureusement, parler de négligences.<br/>Professionnellement, le manque d’effectifs provoque une surcharge de travail trop importante pour les soignants, qui entraîne fatigue, stress, non-remplacement des collègues en arrêt de travail et pénibilité – autant de facteurs qui peuvent expliquer un grand nombre d’arrêts maladie dans cette profession. Comment un soignant peut-il prendre soin d’une autre personne lorsque lui-même est en détresse ? Malgré le dévouement et l’incroyable conscience professionnelle de toutes ces équipes, c’est un cri d’alarme puissant qu’ils nous adressent aujourd’hui, une alerte pour les aider à préserver la qualité d’accueil et la dignité des résidents qui séjournent dans ces établissements.<br/>Ma question porte donc, tout simplement, sur le calendrier du projet de loi sur le grand âge et l’autonomie que vous avez déjà évoqué tout à l’heure, madame la ministre, car la situation est urgente et, à ce titre, nous impose l’action. Il est souvent dit que l’on peut juger de l’humanité d’une société par la façon dont elle traite les plus faibles : je sais que notre pays et notre volonté politique s’attachent à faire bien mieux que ce que nous constatons aujourd’hui. <italique>(Mme</italique><italique> </italique><italique>Caroline Fiat applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542367" ordre_absolu_seance="235" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982719" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1542368" ordre_absolu_seance="236" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982720" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes tous persuadés que nous avons besoin de cette loi : les Français l’attendent et, comme le prouvent les questions que vous posez aujourd’hui, les parlementaires veulent qu’un geste fort rassure les familles françaises quant à l’accompagnement de nos aînés. Nous visons donc tous le bien vieillir que nous pourrons offrir à la population. Comme l’a annoncé le Président de la République, il s’agira d’un projet prioritaire pour l’année 2020. Un projet de loi financé visera à répondre aux besoins et aux interrogations des Français, exprimés lors de la concertation nationale qui a permis l’élaboration du rapport Libault.<br/>Nous avons, auparavant, besoin de disposer d’un plan métier, reposant sur une large concertation avec les fédérations d’employeurs et les collectivités locales. Une concertation nationale avec les partenaires sociaux à propos des métiers du grand âge sera lancée dans les prochaines semaines avec Muriel Pénicaud, et menée par une personnalité qualifiée nommée à cette fin, et nous travaillons déjà à cette loi sur le grand âge et l’autonomie.<br/>Nous devons aussi changer le regard de la société sur nos aînés. Les travaux d’Audrey Dufeu Schubert, consacrés notamment au regard sociétal sur le grand âge, ainsi qu’à la place et à l’image de nos aînés dans notre société, devraient aussi nous interpeller. Ce n’est pas forcément un projet de loi qui changera ce regard pour répondre à la nécessité d’une société bienveillante.<br/>Je tiens enfin à dire que l’image que nous avons renvoyée des EHPAD ces derniers mois, ces dernières années, a joué un rôle dans le manque d’attractivité de la profession. Nous devons bien sûr être attentifs lorsqu’il s’agit de relever les déviances, mais nous devons aussi souligner l’engagement exceptionnel de nombreux professionnels qui font leur travail avec dévouement et avec la bientraitance que méritent nos personnes âgées. Nous devons donc collectivement être attentifs à l’image que nous renvoyons des EHPAD afin de modifier le regard de la société sur nos aînés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Cyrille Isaac-Sibille" id_acteur="PA722374" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723556">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542190" ordre_absolu_seance="2" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982728" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Cyrille Isaac-Sibille.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542192" ordre_absolu_seance="3" id_acteur="PA722374" id_mandat="PM723556" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982729" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Cyrille Isaac-Sibille</nom>
+              <id>722374</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le futur projet de loi sur le grand âge et la perte d’autonomie doit proposer un virage domiciliaire ambitieux. Pour une meilleure prise en charge de la dépendance, nous devons passer à une politique intégrée qui mette enfin un terme à la segmentation entre domicile et établissement. Cela suppose de repenser l’organisation sur le terrain.<br/>Concrètement, comment cet objectif, que nous partageons tous, doit-il se traduire ? Quels seront les opérateurs et les acteurs de première ligne dans cette nouvelle organisation ? L’EHPAD en fera-t-il partie ? Si oui, quel rôle devra jouer l’EHPAD de demain ? Doit-il être le pivot de la nouvelle organisation et prendre ainsi en charge la coordination des acteurs du domicile ? Doit-il être identifié par les familles comme l’interlocuteur privilégié, le guichet unique ? Doit-il être l’acteur de première ligne, la porte d’entrée aux différents services présents sur un bassin de vie, la pierre angulaire de cette nouvelle organisation ?<br/>Cette organisation doit-elle être complétée par la mise en place d’une plateforme informatique ? Pourrait-on imaginer qu’un système similaire au logiciel Trajectoire, qui organise la sortie du patient de l’hôpital, s’applique au secteur du grand âge et recense en ligne l’ensemble des services disponibles sur le bassin de vie pour la personne âgée et sa famille : aide, soins, aménagement du domicile, portage de repas, accueil de jour et de nuit et hébergement temporaire ?<br/>Quelle place souhaitons-nous donc donner aux EHPAD dans la nouvelle organisation de terrain pour la prise en charge du grand âge que proposera la future loi ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542201" ordre_absolu_seance="7" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982733" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542203" ordre_absolu_seance="8" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982734" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous posez une très bonne question : celle du modèle. Force est de constater que les solutions sur le territoire sont variées et se diversifient de plus en plus : les EHPAD hors les murs sont des expérimentations intéressantes, il existe aussi sur tous les territoires des services d’aide à domicile. Je ne pense pas qu’il y ait un modèle unique ni que la loi doive établir une norme en matière de gouvernance. D’un territoire à l’autre, en fonction de l’offre de soins existante, on peut probablement promouvoir différents modèles d’accompagnement, y compris tous les modèles intermédiaires que j’ai déjà évoqués et que les personnes âgées réclament fortement, notamment ce que j’appelle l’hébergement intermédiaire : la colocation intergénérationnelle ou les accueils familiaux. Nous devons proposer une diversification des modèles de façon à fournir une offre adaptée aux territoires et à la demande formulée par la personne âgée en fonction de son souhait et de son parcours de vie. Aujourd’hui nous allons donc nous efforcer de proposer un éventail de solutions diversifiées, adaptables sur le territoire.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Christine Pires Beaune" id_acteur="PA608172" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723048">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542205" ordre_absolu_seance="9" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982735" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Christine Pires Beaune.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542207" ordre_absolu_seance="10" id_acteur="PA608172" id_mandat="PM723048" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982736" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Christine Pires Beaune</nom>
+              <id>608172</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En juin 2018, lors du congrès de la Mutualité française, le Président de la République s’était engagé à ce qu’une loi sur le financement de la dépendance soit votée avant la fin de l’année 2019. En mars 2019 vous ont été remises les conclusions du rapport Libault concernant le grand âge et l’autonomie, qui formulait 175 propositions, dont un grand nombre avait vocation à alimenter ce projet de loi. Le 12 juin dernier, lors de sa deuxième déclaration de politique générale, ici même, le Premier ministre annonçait : « La ministre de la santé présentera à la fin de l’année un projet de loi qui définira une stratégie et la programmation des moyens nécessaires pour prendre en charge la dépendance. »<br/>Nous sommes le 8 janvier 2020 et nous ne voyons toujours rien venir. Pourtant l’urgence est là. Personnes âgées, proches aidants, professionnels, aussi bien à domicile qu’en EHPAD, tous tirent la sonnette d’alarme et font part d’une immense attente en situation d’urgence, face au manque de personnel et à des taux d’encadrement très insuffisants, inadaptés à une prise en charge digne par les équipes de soignants, face à des restes à charge souvent insoutenables pour les résidents et leurs familles, avec d’ailleurs de profondes injustices fiscales entre le maintien à domicile et l’hébergement en EHPAD, face à des établissements parfois vétustes et inadaptés qui nécessitent de lourdes rénovations et parfois même, comme vous le savez, madame la ministre, des reconstructions totales. À Riom, par exemple, nous attendons depuis dix ans la reconstruction de l’EHPAD hospitalier.<br/>L’urgence est là. D’ailleurs, le rapport Libault lui-même indiquait la nécessité « que la représentation nationale puisse se saisir rapidement de ce sujet dans le cadre d’une loi. » Dès lors, ma question est simple : pouvez-vous nous indiquer, assez précisément, quand le Gouvernement compte enfin nous soumettre un projet de loi permettant de répondre à ces attentes et à l’engagement du chef de l’État ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542214" ordre_absolu_seance="13" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982739" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Est-ce prévu pour la Saint-Glinglin ? <italique>(Sourires</italique><italique>.</italique><italique>)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542216" ordre_absolu_seance="14" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982740" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542219" ordre_absolu_seance="15" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982741" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous souhaitons évidemment que ce projet de loi soit présenté le plus rapidement possible. Vous savez que le calendrier parlementaire est très chargé, mais nous mettons tout en œuvre pour proposer ce texte en 2020, conformément à ce qu’a rappelé le Président de la République lors de ses vœux aux Français, le 31 décembre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542222" ordre_absolu_seance="16" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982742" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Retirez le projet de loi sur les retraites, cela permettra de gagner du temps ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542224" ordre_absolu_seance="17" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1982743" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez plein de solutions à proposer, monsieur Chassaigne !<br/>Nous souhaitons en effet rénover les EHPAD, notamment publics. Le rapport Libault signale que 150 000 places n’ont pas été rénovées depuis plus de vingt-cinq ans dans les EHPAD publics. Le coût envisagé pour cette rénovation s’élève à 15 milliards d’euros, majoritairement destinés au secteur public. Celle-ci est nécessaire parce que le coût de fonctionnement est souvent lié au problème de vétusté. Tout cela est évidemment prévu dans le plan « grand âge et autonomie ». C’est l’objet d’un engagement du Président de la République et du Gouvernement. Ayant noté que le projet de loi prenait du retard, j’ai d’ores et déjà souhaité qu’un effort financier particulier soit fait dans le PLFSS 2020 pour les EHPAD, et 500 millions d’euros supplémentaires ont ainsi été destinés à ce secteur, sans attendre le projet de loi, afin de ne pas perdre une année d’investissement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542226" ordre_absolu_seance="257" id_acteur="PA720286" id_mandat="PM722918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982765" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Caroline Fiat</nom>
+              <id>720286</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et c’est comme ça que la loi n’est pas financée !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle Victory" id_acteur="PA340357" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM747435">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542228" ordre_absolu_seance="258" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982745" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Victory.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542230" ordre_absolu_seance="259" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982746" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <id>340357</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis de trop longs mois, les personnels des EHPAD vous demandent d’entendre leur épuisement, leur désenchantement face à la situation dans laquelle ils se trouvent, confrontés chaque jour à des conditions de travail trop souvent inacceptables. Ces 430 000 employés, engagés avec générosité dans l’accompagnement des personnes dépendantes, vous demandent de pouvoir exercer leur métier dignement et de ne pas être empêchés dans leur mission par un quotidien dont la charge physique et mentale est devenue trop lourde, surtout lorsque les spécificités liées à de nouveaux publics de résidents ne sont pas intégrées dans l’organisation des tâches ou dans la formation professionnelle.<br/>C’est pourtant ce que les résidents et les familles espèrent trouver dans nos établissements : un personnel à qui soit donné le temps de remettre le soin et le lien au cœur des préoccupations.<br/>Or les conditions d’une prise en charge adaptée à l’enjeu colossal que représente la question du grand âge et de la dépendance sont loin d’être réunies. Cet état des lieux ayant déjà été fait, je serai rapide.<br/>Je déplore la vision comptable de la gestion des établissements contraints de se conformer à des ratios de taux d’encadrement largement inadaptés à la réalité et aux besoins des personnes, et soumis à des prises en charge de plus en plus lourdes et spécifiques, comme celle des personnes handicapées vieillissantes, pour lesquelles le temps de soin nécessaire augmente tandis que les moyens, eux, n’augmentent pas.<br/>Je rappelle la nécessité d’une revalorisation des carrières : à quand une hausse du point d’indice et une juste rémunération ? Est-ce un salaire juste que celui qui s’élève à 1 255 euros net en début de carrière et à 1 575 en fin de carrière ? Comment développer les possibilités de VAE – validation des acquis de l’expérience – dans l’évolution des carrières ? Comment mettre fin au glissement systématique des tâches, une pratique qui désorganise les services et participe à la dévalorisation des missions ?<br/>Pour terminer, je veux évoquer la place de la Mutualité française dans l’accompagnement des personnes vieillissantes. Le monde mutualiste, qui participe activement au débat public, vous a fait, je crois, de nombreuses propositions. L’une d’entre elles, en particulier, vise à intégrer l’EHPAD à l’offre de soins de premier recours. Quelles suites pensez-vous donner à leurs propositions ?<br/>Je m’arrête là car le temps d’une question ne suffit évidemment pas à relayer tous les témoignages douloureux que nous font les soignants ou leurs familles qui doivent accepter que, faute de temps tout simplement, les soins les plus élémentaires, comme la toilette, le repas et les moments d’échange du quotidien de nos aînés, ne soient plus une priorité.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Buzyn" qualite="ministre" id_acteur="PA717153" id_nomination_oe="PM730062" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542241" ordre_absolu_seance="266" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1982751" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542244" ordre_absolu_seance="267" id_acteur="PA717153" id_mandat="-1" id_nomination_oe="PM730062" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1982752" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Buzyn</nom>
+              <id>717153</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez évoqué de très nombreuses pistes. Nous partageons vos préoccupations, notamment la nécessité de travailler sur la validation des acquis de l’expérience, mais aussi sur la revalorisation, y compris financière, de ces métiers, puisque j’ai d’ores et déjà créé une prime destinée à tous les aides-soignants travaillant en EHPAD public et qui suivent la formation d’assistant de soins en gérontologie.<br/>Dans le cadre de la réforme des retraites, mais en réalité pour améliorer les conditions de vie au travail de ce personnel, j’engage une concertation, lancée le 14 janvier prochain, avec les personnels de la fonction publique hospitalière, notamment les aides-soignants et les infirmières, autour des questions de la pénibilité au travail mais aussi de la deuxième partie de carrière. Il me semble en effet difficile d’exercer ces métiers pendant une très longue période, et il faut envisager des reconversions, des diversifications de parcours. J’avais pris cet engagement lors de la présentation du plan EHPAD en 2018 et je souhaite réellement que les aides-soignants puissent diversifier leurs activités en deuxième partie de carrière. Je l’ai observé dans certains EHPAD où ils ont par exemple des missions de coordination ou de tutorat qui leur permettent d’alléger leurs tâches quotidiennes.<br/>Toutes les pistes que vous avez évoquées sont aujourd’hui envisagées et seront également examinées dans le cadre de la concertation nationale autour des métiers du grand âge qui réunira les collectivités territoriales, les employeurs et les organisations syndicales, de façon à voir comment nous pouvons améliorer la qualité de vie au travail et, évidemment, l’attractivité de ces métiers.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1542247" ordre_absolu_seance="270" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982764" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons terminé les questions sur la situation dans les EHPAD.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="1542251" ordre_absolu_seance="272" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1982756" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1542254" ordre_absolu_seance="273" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="PM767303" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1982757" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures :<br/>Questions sur l’efficacité des mesures prises contre la désertification médicale ;<br/> Débat sur le projet Hercule.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1542256" ordre_absolu_seance="274" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1982758" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1542257" ordre_absolu_seance="275" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1982759" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N224</uid>
+  <metadonnees>
+    <dateSeance>20190509213000000</dateSeance>
+    <dateSeanceJour>jeudi 09 mai 2019</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>224</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20190224</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Sat, 11 May 2019 07:38:14 GMT</horaireGmt>
+    <heureGeneration>2019-05-11T09:38:14.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1708954">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1708958">
+          <intitule>Interdiction effective de la pêche électrique</intitule>
+        </titreStruct>
+        <para id_syceron="1708959"/>
+        <sommaire2>
+          <titreStruct id_syceron="1708961">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="1708963">M. Bruno Joncour</para>
+          <para id_syceron="1708976">Mme Michèle Victory</para>
+          <para id_syceron="1708998">M. Paul Christophe</para>
+          <para id_syceron="1709018">M. Éric Coquerel</para>
+          <para id_syceron="1709042">M. Sébastien Jumel</para>
+          <para id_syceron="1709075">Mme Samantha Cazebonne</para>
+          <para id_syceron="1709115">M. Jean-Pierre Pont</para>
+          <para id_syceron="1709122">M. Pierre-Henri Dumont</para>
+          <para id_syceron="1707889">Mme Liliana Tanguy</para>
+          <para id_syceron="1707898">M. François-Michel Lambert</para>
+          <para id_syceron="1708569">M. Erwan Balanant, rapporteur de la commission des affaires économiques</para>
+          <para id_syceron="1708583">M. François de Rugy, ministre d’État, ministre de la transition écologique et solidaire</para>
+          <sommaire3>
+            <titreStruct id_syceron="1708621">
+              <intitule>Article unique</intitule>
+            </titreStruct>
+            <para id_syceron="1708624">M. Michel Castellani</para>
+            <para id_syceron="1708629">M. Gilles Lurton</para>
+            <para id_syceron="1708635">M. Sébastien Jumel</para>
+            <para>Amendement n<sup>o</sup><lienAdt id_syceron="1708644"> 3</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1708033">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du jeudi 09 mai 2019</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1353183" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1708954" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1353184" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708955" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1353185" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1708956" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353187" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1708958" valeur=" (n[[o]] 1916)">
+      <orateurs/>
+      <texte>Interdiction effective de la pêche électrique</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353188" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1708959" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’une proposition de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353189" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708960" valeur=" (n[[os]] 1809, 1916)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la proposition de loi de M. Erwan Balanant et plusieurs de ses collègues pour une interdiction effective de la pêche électrique (n<exposant>os</exposant> 1809, 1916).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353190" ordre_absolu_seance="8" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1708961" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Bruno Joncour" id_acteur="PA719210" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722594">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353191" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708962" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Bruno Joncour.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353192" ordre_absolu_seance="10" id_acteur="PA719210" id_mandat="PM722594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1708963" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Joncour</nom>
+              <id>719210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis heureux que la niche parlementaire du groupe MODEM et apparentés nous permette de débattre à nouveau, dans cet hémicycle, d’un sujet vital pour la préservation non seulement de nos mers et de nos océans, mais également de la pêche traditionnelle. La menace de disparition de la petite pêche artisanale française, à taille humaine, ancrée dans l’économie d’un territoire et créatrice d’emplois, me préoccupe évidemment en tant que député breton, comme tous les parlementaires issus de territoires ayant une vocation maritime.<br/>La méthode de pêche que nous souhaitons interdire associe pêche à impulsion électrique et chalut à perche, les chaînes étant remplacées par des électrodes. Afin de faciliter le débusquage et la capture des poissons, des décharges sont envoyées dans la couche sédimentaire des fonds marins.<br/>En mars de l’année dernière, nous avions déjà alerté sur la dangerosité de cette technique de pêche destructrice pour l’environnement et l’économie. Notre assemblée avait adopté à l’unanimité une proposition de résolution européenne de notre collègue Joachim Son-Forget appelant les autorités françaises à s’opposer à l’autorisation de la pêche électrique sous toutes ses formes, y compris dans le cadre du maintien ou de la prorogation des dérogations actuelles.<br/>Pour le groupe MODEM et apparentés, il importe aujourd’hui que l’interdiction effective de cette pratique, désastreuse pour l’écosystème marin, pour la vie aquatique ainsi que pour l’activité de nos pêcheurs, soit entérinée par le Parlement afin d’achever ce que nous avons commencé il y a plus d’un an – d’autant que les députés français ont porté ce message, en janvier dernier, dans une tribune signée par 249 parlementaires de tous bords politiques. La question de la préservation de notre planète transcende les clivages et doit réunir un consensus sur tous les bancs de cette assemblée – nous l’avons constaté, une nouvelle fois, lors de l’examen en commission la semaine dernière.<br/>Face à la destruction des habitats et de la vie marine, face à la disparition quasi-intégrale de certaines espèces de poissons, face à la détresse des pêcheurs français et de leurs familles, qui n’ont parfois plus aucune ressource pour vivre, nous ne pouvions nous contenter d’une simple mesure réglementaire. Il était de notre devoir de dire à nos pêcheurs que nous avons entendu leurs appels et d’inscrire en toutes lettres dans la loi l’interdiction effective de la pêche électrique. Il s’agit de leur adresser un signal bien plus fort que ne l’aurait été un simple arrêté ministériel.<br/>En raison de l’importance toute particulière de cette interdiction et de l’unanimité qui nous avait rassemblés l’année dernière, je sais que le Sénat s’emparera vite de cette question et inscrira rapidement cette proposition de loi à son ordre du jour.<br/>Ainsi, avant l’été, nous serons le premier pays à profiter de la possibilité d’interdiction immédiate de la pêche électrique offerte par le règlement européen. À nouveau, la France tiendra son rôle de leader dans la lutte contre le changement climatique ainsi que dans le combat pour la préservation de la biodiversité marine et la gestion durable des ressources halieutiques. Nous rejoindrons ainsi nos nombreux partenaires internationaux qui, à l’instar de la Chine, des États-Unis, du Vietnam, du Brésil, de l’Uruguay ont interdit cette technique en raison de ses conséquences désastreuses pour l’environnement.<br/>Je tiens à saluer les députés européens qui ont fait le choix de la responsabilité en votant, le 16 avril dernier, l’interdiction de cette pratique dans l’ensemble de l’espace européen à partir de 2021. Cette décision n’était pas évidente, car elle a été précédée de plusieurs mois de négociations intenses entre les institutions européennes réunies en trilogue. Rappelons que le Conseil de l’Union européenne, en mai 2017, envisageait de maintenir la dérogation accordée en 2013 permettant à 5 % de la flotte de chalutiers à perche de chaque État membre de recourir à cette pratique dans le sud de la mer du Nord. Le Parlement européen a donc envoyé un message fort sur la scène mondiale, manifestant la volonté des parlementaires des États membres, quelle que soit leur sensibilité politique, de mettre un terme à une technique catastrophique pour la faune et la flore.<br/>La possibilité offerte aux États d’interdire la pêche électrique dans leurs eaux territoriales avant 2021 est extrêmement importante. J’espère que d’autres pays européens concernés par l’utilisation de cette technique se joindront à notre démarche. Nous devons tous profiter de cette formidable occasion qui nous est donnée d’éradiquer une méthode de pêche qui risque de vider totalement nos océans et de détruire tout notre écosystème.<br/>À la suite de cette interdiction, les subventions allouées aux pêcheurs néerlandais doivent cesser. Il n’est pas acceptable que des millions d’euros de fonds publics, notamment européens, servent à soutenir une technique frauduleuse destructrice pour notre planète. Les éventuelles subventions doivent être consacrées au développement d’une pêche durable et à la recherche de pratiques respectueuses et de long terme. La transparence absolue sur le financement doit d’ailleurs être de mise sur un sujet aussi important.<br/>Ne nous y trompons pas : derrière la question de la pêche électrique se profile celle, plus large, du modèle de pêche que nous souhaitons pour l’avenir. À rebours d’une pêche industrielle dévastatrice, dominée par la technique et la quête de la rentabilité, nous sommes convaincus de la nécessité de faire le choix d’une pêche artisanale, à taille humaine, ancrée dans l’économie d’un territoire et créatrice d’emplois. La France, je le rappelle, dispose de la seconde plus vaste surface maritime du monde. Nous aspirons à une pêche garante de la ressource halieutique, mais aussi de la préservation du métier de marin-pêcheur et de tous les métiers à terre qui en sont dépendants.<br/>La protection de la biodiversité et la pérennité du secteur économique de la pêche doivent être des priorités pour l’Union européenne. Le moment est donc historique. Nous nous devons de faire le choix d’une société durable – ce texte y contribue. Préserver un secteur économique entier, lutter contre la désertification des océans et défendre un modèle de pêche artisanale, durable et responsable, c’est ce que nous entendons faire au travers de cette proposition de loi.<italique> (Applaudissements sur les bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle Victory" id_acteur="PA340357" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM747435">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353204" ordre_absolu_seance="22" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708975" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle Victory.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1353205" ordre_absolu_seance="23" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708976" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <id>340357</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans cette législature, le groupe Socialistes et apparentés cherche à promouvoir la notion de bien commun. Il l’a déclinée dans ses propositions pour une alimentation sûre et de qualité dans le cadre du projet de loi EGALIM ou pour un meilleur partage de la valeur au sein de l’entreprise lors du projet de loi PACTE.<br/>La protection des ressources vivantes aquatiques et la promotion d’une pêche durable et respectueuse s’inscrivent pleinement dans cette conception. Nous sommes donc très heureux de pouvoir débattre aujourd’hui de la proposition de loi de notre collègue Erwan Balanant, qui vise à une interdiction effective de la pêche électrique dans nos eaux territoriales.<br/>Ce texte est soutenu par les députés de l’ensemble des groupes politiques de cet hémicycle, et c’est heureux : cela devrait nous permettre de voter unanimement en faveur de cette proposition de loi que la commission a adoptée sans modification.<br/>La lutte contre la pêche électrique est l’objet d’une forte mobilisation des associations écologistes depuis trois ans. Celle-ci a été initiée au Parlement européen en 2017 par l’association Bloom et sa fondatrice Claire Nouvian, lauréate du prix Goldman pour l’environnement et candidate sur la liste Envie d’Europe du parti socialiste et de Place publique pour les élections européennes à venir.<br/>Est-il nécessaire de le rappeler ? La pêche électrique consiste à envoyer des décharges dans le sédiment afin de capturer plus facilement les poissons plats qui vivent enfouis. Les chaînes gratteuses des chaluts à perche sont ainsi remplacées par des électrodes. Certains y voient une évolution, mais de quoi parlons-nous ? Je reprends les propos du rapporteur : nous parlons d’une immense hypocrisie.<br/>Les Pays-Bas, de loin le pays ayant le plus recours à cette technique, mettent en avant l’efficacité de ce type de pêche, qui permet de réduire fortement la consommation de carburant des navires – argument qui, sous couvert d’habillage écologiste, voudrait nous faire confondre les enjeux. Cette efficacité cause de nombreux dégâts collatéraux, car le courant électrique n’épargne aucun organisme. Nous connaissons tous aujourd’hui les impacts de cette technique sur le milieu marin. L’étude de l’IMARES  – l’institut de recherche en écologie marine des Pays-Bas – a montré que 50 à 70 % des cabillauds de grande taille capturés par les chaluts avaient la colonne fracturée. Les effets de la pêche électrique sur les poissons électrosensibles tels que les requins et les raies, sur les œufs, le plancton, la physiologie des poissons ou encore sur la chimie de l’eau sont mal connus.  <br/>Au-delà des interrogations sur les conséquences à long terme de cette technique sur la ressource halieutique, les associations écologistes, comme de nombreux pêcheurs, jugent celle-ci cruelle. Je ne reprends pas la description de ses effets sur le milieu marin, mais cela nous fait frémir – surtout, cela nous fait honte.<br/>La pêche électrique faisait déjà l’objet d’une interdiction assortie d’exceptions en mer du Nord pour seulement 5 % de la flotte de chalutiers à perche de chaque État membre. Les Pays-Bas sont les premiers utilisateurs de cette exception, vivement combattue par la communauté des marins-pêcheurs français.<br/>Le 2 février 2018, le groupe Socialistes, comme l’ensemble des groupes, avait voté la proposition de résolution demandant au Gouvernement de s’opposer à la prorogation ou à l’extension des dérogations autorisant la pêche électrique.<br/>Le 13 février 2019, l’Union européenne a acté l’interdiction totale de la pêche électrique à compter du 1<exposant>er</exposant> juillet 2021 dans le cadre du nouveau règlement relatif à la conservation des ressources halieutiques et à la protection des écosystèmes marins en cours d’adoption à Bruxelles.<br/>Le Parlement européen a adopté le règlement le 16 avril 2019. Celui-ci doit désormais être définitivement entériné par le Conseil.<br/>Par ce règlement, qui donne aux États membres la possibilité de limiter ou d’interdire sans délai la pêche électrique dans leurs eaux territoriales – dans la limite des 12 milles marins des côtes pour la France – dans la période transitoire, l’Union européenne donne un signe fort en faveur de la biodiversité et répond à la mobilisation de plus en plus vive de nos concitoyens européens, sensibilisés aux dangers vertigineux qui menacent notre planète, à la souffrance animale ainsi qu’à la nécessité d’instaurer des règles qui ne soient plus des réponses de court terme à des problématiques de rentabilité, mais qui prennent en compte les ressources de notre planète et qui réintègrent dans nos réflexions le respect du vivant et du bien commun.<br/>Cette mobilisation de la société civile, des marins-pêcheurs et des associations de défense de l’environnement auprès des États membres a permis que soient repoussés les derniers obstacles à la Commission et au Conseil, ce qui nous donne aujourd’hui la possibilité de prendre nos responsabilités. Comme l’a souligné notre collègue Dominique Potier en commission, cette proposition de loi, déposée par le groupe MODEM, est l’aboutissement d’un parcours qui mériterait évidemment d’être reproduit dans d’autres domaines, en particulier l’agriculture.<br/>Nos postures et nos pratiques d’hier ne sont plus compatibles avec le niveau d’information qui est le nôtre, ni avec les exigences des consommateurs avertis, ni avec l’urgence absolue qui s’impose à nous d’abandonner nos outrances et notre arrogance vis-à-vis d’un écosystème que nous avons voulu ignorer et asservir.<br/>En toute cohérence, nous ne pouvons qu’être très favorables à l’article unique de cette proposition de loi, dont la rédaction est conforme aux dispositions du projet de règlement européen. Dans la continuité de cette démarche et de son soutien à la proposition de résolution européenne, le groupe Socialistes et apparentés votera résolument, vous l’avez compris, en faveur de cette proposition de loi.<br/>Une seule question demeure : quel sera le traitement réservé à ce texte dans la navette parlementaire ? En commission, nos collègues ont été un peu surpris par l’intervention ultime d’une députée de La République en marche, qui semblait presque regretter que le groupe MODEM ait, en quelque sorte, « pris la main » sur la question au travers de cette proposition de loi…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353340" ordre_absolu_seance="5" id_acteur="PA721314" id_mandat="PM723236" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708992" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Raphaël Schellenberger</nom>
+              <id>721314</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y a une concurrence interne à la majorité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353341" ordre_absolu_seance="6" id_acteur="PA340357" id_mandat="PM747435" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708993" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle Victory</nom>
+              <id>340357</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et lui reprochait, peu ou prou, de s’arroger le monopole de la défense de la mer. Il ne nous appartient évidemment pas de commenter les divergences internes à la majorité parlementaire. Au demeurant, la première réponse apportée par le ministre de l’agriculture et de l’alimentation, Didier Guillaume, à la fin de la séance de cet après-midi, nous a plutôt rassurés.<br/>Je me tourne donc vers vous, monsieur le ministre d’État, ministre de la transition écologique et solidaire, pour vous poser une question simple : pouvez-vous ici prendre l’engagement que le Gouvernement inscrira à l’ordre du jour du Sénat, sur le temps législatif qui lui est imparti, la proposition de loi de notre collègue Erwan Balanant, afin de permettre son adoption définitive avant la suspension estivale ? Après les annonces faites il y a quelques jours par le Président de la République sur les questions écologiques, nous ne voulons pas douter que vous donnerez à cette question la réponse légitime que nous attendons.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Paul Christophe" id_acteur="PA642868" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722992">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353343" ordre_absolu_seance="8" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708995" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Paul Christophe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353344" ordre_absolu_seance="9" id_acteur="PA721314" id_mandat="PM723236" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708996" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Raphaël Schellenberger</nom>
+              <id>721314</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec Gravelines et Dunkerque, il est à la source en ce qui concerne la pêche électrique !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353345" ordre_absolu_seance="10" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708997" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Henri Dumont</nom>
+              <id>720684</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Défendez votre centrale nucléaire, Paul !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353346" ordre_absolu_seance="11" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708998" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le sujet de la pêche électrique revient une nouvelle fois à l’ordre du jour des travaux de cette assemblée. C’est en effet dans cet hémicycle que nous avons adopté, le 6 mars 2018, une proposition de résolution relative à l’interdiction de la pêche électrique invitant le Gouvernement à défendre cette position auprès des instances européennes.<br/>En ma qualité de député de Dunkerque, je peux témoigner des ravages produits par cette technique de pêche dans les eaux de la mer du Nord. Pourtant interdite en Europe en 1998 en même temps que la pêche aux explosifs, la technique de la pêche électrique a été réintroduite par le biais d’un statut dérogatoire en 2007 : sous la présidence des Pays-Bas, l’Union européenne a autorisé ses États membres à équiper d’électrodes jusqu’à 5 % de leur flotte de chaluts à perche, au titre d’une expérimentation. Profitant allègrement de cette autorisation, les Pays-Bas ont largement dépassé ce seuil dérogatoire en équipant jusqu’à 25 % de leur flotte. Le nombre de licences accordées est largement supérieur au niveau habituellement associé aux recherches scientifiques.<br/>La pêche électrique est une méthode qui allie l’impulsion électrique et le chalut à perche. Les chaînes y sont remplacées par des électrodes. Les décharges envoyées tuent les poissons, qui remontent à la surface et sont ensuite repêchés par les filets.<br/>Les Néerlandais nous parlaient d’une technique innovante, qui pouvait contribuer aux objectifs de réduction des émissions de carbone. Nous ne sommes pas dupes : seul le profit à court terme justifie le recours à la pêche électrique. Qui pouvait sérieusement croire que l’usage d’un filet à impulsion électrique serait sans conséquence sur la ressource ?<br/>Cette méthode de pêche ne permet aucune sélection. Absolument toute la ressource est dévastée par le passage des filets : les petits et les gros poissons, de même que les œufs, les larves et les juvéniles. Si certaines espèces sont rejetées à la mer, les chances de survie des poissons concernés sont faibles, voire nulles, tant la décharge électrique endommage leur colonne vertébrale. Les pêcheurs des Hauts-de-France nous ont signalé des captures de très petits individus morts à la suite du passage de chaluts électriques dans leur zone de pêche.<br/>C’est donc un véritable carnage, sur lequel les instances européennes ont trop longtemps fermé les yeux. La question s’est même posée, tout récemment encore, d’autoriser l’emploi généralisé du chalut électrique dans d’autres pêcheries et d’autres zones de pêche. Alors que l’on constate les dommages importants causés à la faune aquatique, c’est une aberration !<br/>En 2016, le Conseil international pour l’exploration de la mer a publié un avis duquel ressortaient deux informations saillantes. Il faisait état, d’une part, d’un manque certain de connaissances sur les impacts du chalut électrique sur les espèces des fonds marins et sur la dynamique des nutriments et, d’autre part, du faible taux de survie des individus rejetés et des lésions vertébrales sur les cabillauds ou les merlans.<br/>Attentiste sur ce sujet, la France s’est véritablement positionnée l’année dernière, en se prononçant strictement contre cette technique et en demandant son interdiction. La décision finale appartenait toutefois aux instances européennes. Si le Parlement européen s’est prononcé en janvier 2017 contre cette pratique, la Commission européenne a proposé, a contrario, le maintien de l’expérimentation.<br/>Ces derniers mois, le calendrier s’est toutefois accéléré, puisque les négociations en trilogue ont débouché sur un accord, le 13 février dernier. Repris dans un projet de règlement, cet accord porte sur l’interdiction totale de la pêche électrique à partir du 1<exposant>er</exposant> juillet 2021. Cette décision, qui mettra prochainement fin à l’usage de cette technique, a été saluée par tous. Notre pays s’est battu pour l’obtenir.<br/>L’année 2021 peut toutefois apparaître comme un horizon encore trop lointain, notamment au regard des dégâts que les navires néerlandais continuent de provoquer en mer du Nord, plus particulièrement sur le site dit des bancs de Flandre. Nous ne pouvons pas attendre deux années supplémentaires pour que cesse ce pillage des fonds marins.<br/>La proposition de loi que nous a présenté tout à l’heure Erwan Balanant, qui en est le rapporteur, permettra à notre pays d’anticiper sur la réglementation européenne et d’interdire la pratique de la pêche électrique dans ses eaux territoriales dès l’entrée en vigueur du règlement européen. Elle permettra à la France, d’une part, d’être proactive et d’encourager ses voisins européens à faire de même et, d’autre part, de protéger la ressource dans ses eaux territoriales et l’activité de ses petites pêcheries locales. Monsieur le rapporteur, cher Erwan, je souhaite vous remercier pour votre investissement constant sur cette question.<br/>Nous pouvons toutefois regretter qu’il nous ait fallu autant d’années pour faire émerger une réelle prise de conscience. Certes, la pêche électrique sera bientôt interdite, mais les dégâts qu’elle a provoqués sur la ressource sont durables. Les conséquences sur l’écosystème marin semblent irréversibles. Les chiffres que m’a transmis récemment la coopérative maritime de Dunkerque attestent malheureusement ce désastre.<br/>À titre d’exemple, sur les quatre dernières années, les pêcheurs ont subi une baisse de 75 % de leurs débarquements de soles. À Dunkerque, la coopérative maritime a déclaré une production de 22 tonnes seulement en 2019, contre 217 tonnes à la même date en 2018. Cette baisse des captures a entraîné de sérieuses difficultés financières pour les petits pêcheurs locaux, et nous ne pourrons pas rétablir la ressource dans l’immédiat. L’asphyxie de la petite pêche et la disparition de la ressource sont précisément les raisons qui avaient poussé la Chine, à l’époque, à abandonner cette technique de pêche.<br/>Aussi, je profite de votre présence au banc, monsieur le ministre d’État, ministre de la transition écologique et solidaire, pour vous demander votre soutien afin qu’une aide financière soit versée par l’Union européenne aux pêcheurs touchés par la baisse des captures.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353360" ordre_absolu_seance="25" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709012" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Henri Dumont</nom>
+              <id>720684</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353361" ordre_absolu_seance="26" id_acteur="PA642868" id_mandat="PM722992" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709013" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophe</nom>
+              <id>642868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous engagez-vous, monsieur le ministre d’État, à défendre auprès des instances européennes un droit à réparation pour nos pêcheurs ?<br/>À l’écoute de mon propos, vous avez compris aisément que le groupe UDI, Agir et indépendants soutiendra cette proposition de loi. Nous espérons qu’elle sera adoptée à l’unanimité ce soir dans l’hémicycle, comme elle l’a été la semaine dernière en commission des affaires économiques.<br/>Il y a quelques jours, l’ONU a adopté un rapport d’experts alarmant sur la biodiversité, dont l’état est très critique. Si nous n’agissons pas, une espèce sur huit, animale ou végétale, risque de disparaître à brève échéance. Les actes peuvent commencer dès ce soir par l’adoption de cette proposition de loi.<br/>Voter ce texte, c’est aussi envoyer un message fort à nos collègues européens, à l’image de celui qui nous avait réunis en janvier 2018. Une tribune contre la pratique de la pêche électrique, résultant là encore d’une initiative commune, cher Erwan, avait alors été signée par 249 d’entre nous, tous bords politiques confondus. Cela prouve que, lorsque la cause est juste, nous savons nous rassembler. <italique>(Applaudissements sur les bancs des groupes UDI-Agir, LaREM, MODEM, LR et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353365" ordre_absolu_seance="30" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1709017" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Éric Coquerel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353366" ordre_absolu_seance="31" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1709018" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous nous réjouissons de l’examen de la présente proposition de loi, qui tend à interdire, enfin, la pêche électrique. Je dis « enfin » parce qu’il a tout de même fallu deux ans de lutte acharnée aux niveaux européen et national pour mettre fin à cette pratique barbare et indigne. À l’heure où les scientifiques nous apprennent effectivement qu’une espèce sur huit est susceptible de disparaître, il est bon que nous fassions cesser le recours à une technique industrielle dévastatrice pour la biodiversité.<br/>Je ferai un rapide historique de l’incroyable mobilisation de citoyens, d’ONG et de formations politiques qui a permis d’aboutir à cette interdiction, ne serait-ce que pour leur rendre hommage.<br/>Dès 2017, une coalition d’ONG de protection de l’environnement, dont Bloom, et de plusieurs associations de pêcheurs artisans ont entamé une mobilisation contre la Commission européenne, qui proposait, à l’époque, de déclasser cette méthode de pêche électrique pour la déclarer conventionnelle.<br/>Devant cette mobilisation, une tribune demandant l’interdiction de la pêche électrique a été signée dans <italique>Le</italique><italique> </italique><italique>Monde</italique> par 249 députés de cette assemblée.<br/>Quelques jours plus tard, un amendement visant à interdire totalement cette pratique, déposé par notre camarade Younous Omarjee, député européen insoumis, a été adopté en séance plénière au Parlement européen, recueillant 402 voix. À la suite de ce vote, en février 2019, l’Union européenne a interdit la pêche électrique à compter de 2021.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353371" ordre_absolu_seance="36" id_acteur="PA721976" id_mandat="PM723438" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Millienne</nom>
+              <id>721976</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout vient à point à qui sait attendre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353372" ordre_absolu_seance="37" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709024" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le 20 février 2019, La France insoumise a déposé une proposition de loi pour interdire immédiatement la pêche électrique sur le territoire national, mais vous ne l’avez pas inscrite à l’ordre du jour, on ne sait pas bien pourquoi. Pour ma part, je fais mine de m’en étonner. <italique>(Murmures sur les bancs de la commission et du Gouvernement.)</italique><br/>Je tenais à faire ces rappels pour montrer que l’interdiction de la pêche électrique est issue d’un long combat mené par des citoyens, des ONG et des forces politiques. Le mérite ne saurait en être attribué uniquement à cette majorité, même s’il est salutaire que nous examinions le présent texte ce soir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353374" ordre_absolu_seance="39" id_acteur="PA720968" id_mandat="PM723126" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709026" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Justine Benin</nom>
+              <id>720968</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1353375" ordre_absolu_seance="40" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709027" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pêche électrique a été initialement interdite en Europe en 1998, en même temps que la pêche aux explosifs. Elle l’a également été en Chine, au Brésil et aux États-Unis. Cette technique a un effet désastreux sur la biodiversité, puisqu’elle électrocute indistinctement un grand nombre d’organismes. Elle est dévastatrice : pour 100 kilogrammes de poissons pêchés, 50 à 70 kilogrammes sont rejetés en mer. En comparaison, les fileyeurs ne rejettent que 6 kilogrammes de poissons pour 100 kilogrammes pêchés.<br/>En 2007, des dérogations ont été accordées sans aucun fondement scientifique pour permettre l’utilisation de cette technique en mer du Nord : les États membres ont été autorisés à équiper d’électrodes jusqu’à 5 % de leur flotte de chaluts à perche, prétendument à des fins d’expérimentation. Le prétexte de la recherche scientifique a été utilisé par de nombreux pays, notamment les Pays-Bas, pour recourir de manière abusive à la pêche électrique. Ainsi, 28 % de la flotte néerlandaise est aujourd’hui équipée de filets électriques, au lieu des 5 % autorisés. De cette situation, les pêcheurs français et, plus largement, les citoyens français ne veulent plus. Ils n’en peuvent plus !<br/>Nous apprenons d’ailleurs que des pêcheurs français ont déposé aujourd’hui même une plainte contre les Pays-Bas. Ceux-ci avaient déjà annoncé qu’ils n’appliqueraient pas l’accord européen, puisqu’ils comptent délivrer des licences pour permettre à vingt navires supplémentaires de pratiquer cette pêche jusqu’à la fin de l’année. Les pêcheurs demandent la réparation des dégâts causés par les chalutiers électriques dans les eaux territoriales françaises et la reconnaissance du caractère illégal de ces licences. Bien évidemment, nous les soutenons pleinement.<br/>La pêche électrique a des conséquences socio-économiques dévastatrices sur la pêche artisanale. Depuis 2014, les pêcheurs artisans des Hauts-de-France constatent une diminution effrayante des captures dans le sud-ouest de la mer du Nord ; cette baisse atteint près de 80 % pour les soles. Des navires font des incursions dans les eaux territoriales françaises en face de Dunkerque. La situation est catastrophique pour les pêcheurs. Ils ont longtemps été laissés seuls, ne bénéficiant d’aucune aide de l’État pendant des années.<br/>La pêche électrique n’est pas seulement une technique discutable permettant une exploitation de la nature abusive et cruelle envers les animaux – qui sont, je vous le rappelle, des êtres sensibles. Elle est aussi le symptôme d’un système de pêche industrielle encouragé par l’Union européenne, auquel il faut mettre un terme. Alors que les océans se vident de leurs poissons à cause de la surpêche, les flottes de chalutiers pratiquant la pêche électrique opèrent sur 200 millions de kilomètres carrés, soit une zone quatre fois plus vaste que celle utilisée par l’agriculture.<br/>La surpêche du fait de la pêche industrielle est intenable sur tous les plans.<br/>D’abord, elle cause des pertes d’emplois considérables et une baisse des revenus dans le secteur de la pêche. La Banque mondiale a évalué à 70 milliards d’euros les pertes annuelles liées à la mauvaise gestion des pêcheries et attribué 15 % de ce chiffre, soit 10 milliards d’euros, à l’Europe. Un chiffre a été publié aujourd’hui : le 10 mai, l’Union européenne aura déjà épuisé ses ressources naturelles pour l’ensemble de l’année. Elle est malheureusement en avance sur le reste du monde, pour lequel ce fameux jour de dépassement tombe au mois d’août.  <br/>La surpêche du fait de la pêche industrielle constitue ensuite un désastre écologique : 33,1 % des stocks de poissons exploités à l’échelle mondiale le sont au-delà de la limite de durabilité biologique. Ce chiffre est trois fois plus élevé qu’en 1974.<br/>Selon l’Agence européenne pour l’environnement, 60 % de toutes les espèces commerciales de poissons ne sont pas dans « un bon état environnemental ». Un rapport de l’IFREMER – Institut français de recherche pour l’exploitation de la mer – de février 2019 montre qu’en 2018, seuls 48 % des stocks de poissons ont été exploités durablement en France métropolitaine et que 27 % des stocks ont été surpêchés.<br/>Nous nous réjouissons que la majorité nous ait rejoints sur l’interdiction de la pêche électrique, mais il faut maintenant aller plus loin pour garantir une pêche durable. Il faut protéger les emplois et le savoir-faire artisans par la mise en place d’un usage exclusif de la bande côtière des 12 milles nautiques aux pêcheurs artisans.<br/>Il faut appliquer des quotas pluriannuels équitables pour donner de la visibilité aux pêcheurs et mettre fin au chalutage en eau profonde. Il faut aussi développer les plans de gestion des pêches pluriannuels pour donner de la visibilité aux professionnels et pour une gestion durable des stocks.<br/>Enfin, l’Union européenne doit réformer ses accords de pêche pour accompagner le développement des États, notamment africains, avec lesquels elle traite, afin d’avoir accès à leurs ressources sauvages.<br/>La politique industrielle et commerciale de pleine concurrence telle qu’elle est organisée par l’Union européenne est mortifère pour l’environnement et incompatible avec une pêche artisanale et durable. C’est pourquoi il faut y mettre un terme.<br/>La France, qui dispose du plus grand littoral maritime d’Europe et de la deuxième surface maritime du monde, derrière les États-Unis, a évidemment un rôle à jouer, une responsabilité particulière à exercer pour pousser toujours plus loin l’exemplarité dans ce domaine. Commençons déjà ce soir par adopter ce texte ! <italique>(Applaudissements sur quelques bancs du groupe MODEM.) </italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Jumel" id_acteur="PA722202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353298" ordre_absolu_seance="10" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1709041" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Jumel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353299" ordre_absolu_seance="11" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1709042" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La pêche électrique réduit la mer et les ports des Hauts-de-France au monde du silence. Pas le silence harmonieux et poétique des fonds marins filmés jadis par le commandant Cousteau, mais un silence de mort.<br/>Avec la pêche électrique, la zone sud de la mer du Nord, où s’applique la dérogation scélérate accordée par l’Europe des libéraux aux lobbyistes hollandais de la pêche au pognon de dingue,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353301" ordre_absolu_seance="13" id_acteur="PA721314" id_mandat="PM723236" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709044" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Raphaël Schellenberger</nom>
+              <id>721314</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oh là là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353302" ordre_absolu_seance="14" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709045" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…cette zone de la mer du Nord est devenue l’amer du Nord. Amer en un seul mot, amer comme l’est Stéphane Pinto, ce pêcheur boulonnais qui anime le combat pour la vie des artisans fileyeurs des Hauts-de-France, faisant honneur à son mandat de vice-président du comité régional des pêches des Hauts-de-France, et que notre mission d’information parlementaire sur la pêche a récemment auditionné.<br/>Stéphane Pinto parle d’un « cimetière de poissons » et chacun sait qu’il a raison. Même les études hollandaises les plus douteuses, que l’on hésite à qualifier de scientifiques, ne parviennent pas à réhabiliter l’emploi de la pêche à impulsion électrique.<br/>Ce taser des mers à l’ampérage non contrôlé fait le vide depuis une dizaine d’années, tue et blesse sans discrimination et sans limite ce qui nage, possède des écailles et des branchies, va chercher la ressource et l’élimine au plus près de la côte, là où sont les terroirs de reproduction et de nourricerie, là où sont les juvéniles, là où les chaluts traditionnels ne vont pas.<br/>Stéphane Pinto, qui est allé en ambassade partout où son combat pouvait trouver une oreille attentive, ne sort jamais sans ses feuilles A4. Dessus, il y a les fameux chiffres de l’effondrement des prises des fileyeurs des Hauts-de-France, corrélés à la montée en puissance de la pêche électrique. Ces feuilles sont la preuve que ça va mal dans le métier. La mer est vidée de ses poissons plats, et pas seulement de ceux-là.<br/>Ces feuilles accusent. Elles disent le cimetière qui menace la pêche artisanale, laquelle paie très cher le prix du nettoyage des fonds à l’électricité.<br/>Stéphane Pinto ne lâche rien. Il n’abdique pas, même si parfois, face au manque de soutien des instances, le découragement et la colère le guettent. Quand il parle des quarante-trois collègues et autant de familles qu’il défend, l’émotion n’est pas feinte. C’est une certaine idée de la pêche nourricière, de l’économie réelle au service du territoire et de ses habitants qu’il veut protéger. Il ne se résout pas au silence des quais rendus déserts par la disparition progressive des fileyeurs. « Chez moi, à Boulogne, dit-il, quarante-trois fileyeurs sont menacés à court terme. On en a déjà perdu beaucoup. Ils ne pouvaient pas tenir. ».<br/>Alors évidemment, nous voterons la proposition de loi, et je remercie son rapporteur Erwan Balanant de la défendre. Elle s’inscrit dans la continuité de la résolution adoptée ici même, à l’unanimité, il y a un an. Je l’ai dit à l’époque : si cette résolution n’avait pas d’effet normatif, elle conférait du moins au gouvernement français la légitimité de la représentation nationale pour porter une triple exigence dans les négociations.<br/>La première était de rappeler que la règle au sein de l’Union européenne est l’interdiction de la pêche électrique telle qu’elle résulte de l’article 31 du règlement du 30 mars 1998. La conservation des ressources de pêche est au cœur de cette résolution. Il faut par conséquent rappeler que la pratique d’une pêche par chalut à perche associée à l’utilisation de courant électrique impulsionnel résulte d’une dérogation. Le principe d’interdiction doit demeurer la règle au regard des engagements internationaux de l’Union européenne en matière de préservation des écosystèmes et de lutte contre la surpêche.<br/>La deuxième exigence consistait à affirmer qu’après plus d’une décennie de dérogation, le temps de l’expérimentation était largement révolu. L’interdiction totale de la pêche électrique pour préserver la ressource et les activités économiques de la pêche artisanale doit de nouveau prévaloir.<br/>La troisième exigence découle des deux premières : la France doit s’opposer résolument à toute prolongation de la dérogation à l’interdiction générale de la pêche électrique – je me réfère à la carte que le ministre n’aurait pas dû nous montrer – partout, et pas simplement sur une zone délimitée.<br/>Nous défendons l’idée que la force de la loi est nécessaire dans ce combat et c’est la raison de notre soutien. Mais ne nous y trompons pas : ce qui est en jeu, ce n’est pas une simple technique de pêche, mais une technique au service du profit maximal et immédiat, qui va à l’encontre de l’intérêt général.<br/>Cet intérêt général repose sur le modèle économique d’une pêche qui préserve la ressource, fait vivre nos ports et irrigue nos territoires littoraux en emplois. Cette pêche-là, indépendamment du sujet qui nous concerne, est victime de la pêche électrique, qui entraîne un report de l’effort de pêche jusqu’en Normandie.<br/>L’intérêt général, c’est une gestion responsable de la ressource pour préserver l’avenir. Cette gestion responsable est balayée par la pêche électrique.<br/>Si nous nous apprêtons à voter la proposition de loi, nous disons aussi qu’elle ne va pas assez loin dans l’analyse ni dans la démonstration. De quoi la pêche électrique est-elle le nom ? Il faut le dire. Or votre texte ne le fait pas suffisamment. Mais je comprends, monsieur le rapporteur, que le pro-européen adepte des traités libéraux que vous êtes ne puisse partager notre analyse.<br/>La pêche électrique est la fille de l’Europe libérale qui laisse un à un tous les pans de l’économie se financiariser au détriment de l’économie réelle et de l’emploi.<br/>La pêche électrique, le libre-échange débridé qu’illustre l’adoption du CETA – que vous soutenez et qui organise la mise au pas des États par les multinationales en soumettant leur souveraineté à une pseudo-justice arbitrale privée –, la privatisation de services entiers, notamment régaliens, de l’État, tout cela relève du même combat, de la même logique.<br/>Il s’agit de développer et d’étendre la logique de marché à toutes les activités humaines, de faire tomber toutes les protections, de faire le jeu des intérêts financiers de quelques-uns au détriment de la vie de presque tous, de faire fructifier les capitaux le plus possible et le plus vite possible, sans les mettre au service du développement des territoires.<br/>Ce qui arrive à la pêche arrive à l’industrie quand des fonds vautours rachètent des entreprises et des savoir-faire pour les dépecer. Ces capitaux volants ont trouvé dans la pêche électrique un jackpot. Mais ce n’est pas tout. Ils prennent progressivement le contrôle d’armements de pêche dans nos ports. Ils font du système des droits et des autorisations de pêche un véritable marché qui déstructure nos pêcheries et l’ensemble de la filière aval. Au fil des auditions, la mission d’information que j’ai l’honneur de présider est en train de le démontrer.<br/>La pêche électrique est fille d’une mondialisation de la pêche encouragée par une Europe que, malheureusement, vous ne désavouez pas. Cette lucidité, cette analyse font cruellement défaut dans l’exposé des motifs de la proposition de loi.<br/>Cette lecture et cette analyse permettent de comprendre comment et pourquoi la dérogation accordée à la pêche électrique dans la zone sud de la mer du Nord a été prorogée si longtemps, en dépit de toutes les évidences et de toutes les protestations, et pourquoi cette dérogation a elle-même failli triompher et devenir la règle à Bruxelles où ce qu’on appelle pudiquement les lobbys – pour ne pas dire « les faiseurs de pognon de dingue » – sont les véritables détenteurs du pouvoir.<br/>Cette lecture montre aussi ce que nous constatons dans le cadre des travaux de la mission d’information sur la pêche : une marche en avant qui fait mal.<br/>Face à ce rouleau compresseur, notre pays s’est désarmé. Il ne soutient pas assez son modèle de pêche durable, faute d’une véritable vision sur une activité qui a été délaissée et ne bénéficie pratiquement d’aucun portage politique. Quant à son portage administratif, il est affaibli, car des services partagés entre différents ministères sans moyens ont une force insuffisante pour défendre la pêche.<br/>En France, on a de l’or avec la deuxième façade maritime, avec nos ports, nos savoir-faire et nos pêcheurs sur l’ensemble du littoral, mais notre pays manque d’une vision globale pour protéger, défendre, aménager, développer cette activité dans une logique de pêche durable.<br/>La pêche durable, c’est la protection de la ressource, mais aussi celle des pêcheries et des emplois. C’est pourquoi je ferai en sorte que, sans attendre l’arrêté du ministre, la proposition de loi soit reprise au Sénat par notre groupe si nous n’arrivons pas à faire prospérer ce cheminement parlementaire. Ce n’est pas parce que la pêche est une compétence européenne que la France doit s’en désintéresser et tourner le dos à la mer.<br/>J’ai interrogé l’autre jour des responsables du ministère, à qui j’ai demandé s’il existait un discours qui fixe le cap du Gouvernement en matière de pêche. Silence gêné. La question est restée sans réponse…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353327" ordre_absolu_seance="39" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709070" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État, ministre de la transition écologique et solidaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous n’avez pas interrogé les bonnes personnes !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353328" ordre_absolu_seance="40" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709071" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…jusqu’à ce soir où, j’en conviens, le ministre de l’agriculture a donné quelques pistes intéressantes qui peuvent rejoindre nos préoccupations. Mais il a fallu attendre longtemps pour entendre enfin un discours, un petit discours, manquant de profondeur, mais donnant du moins quelques indications.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353329" ordre_absolu_seance="41" id_acteur="PA718978" id_mandat="PM722520" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1709072" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mohamed Laqhila</nom>
+              <id>718978</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mieux vaut tard que jamais !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353330" ordre_absolu_seance="42" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1709073" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Interdire la pêche électrique le plus rapidement possible dans nos eaux territoriales sans attendre l’entrée en vigueur en 2021 de l’interdiction générale en l’Europe est une nécessité absolue. Mais cette pêche électrique n’est que l’arbre qui cache la forêt. Son interdiction, que nous soutenons avec force, ne suffira pas à défendre une pêche durable dans notre pays. Pour cela, il faudra évidemment d’autres mesures, mais nous y reviendrons dans les prochains jours. <italique>(Applaudissements sur les bancs des groupes GDR et FI et sur plusieurs bancs des groupes  LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Samantha Cazebonne" id_acteur="PA721166" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM755857">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353331" ordre_absolu_seance="43" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1709074" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Samantha Cazebonne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1353332" ordre_absolu_seance="44" id_acteur="PA721166" id_mandat="PM755857" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1709075" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Samantha Cazebonne</nom>
+              <id>721166</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les océans couvrent plus de 70 % de notre planète, et la santé des écosystèmes marins joue un rôle déterminant pour la résilience du monde vivant dans le contexte d’urgence absolue rappelé lundi par la plateforme intergouvernementale scientifique et politique sur la biodiversité et les services écosystémiques. Nous nous devons d’agir vite et collectivement pour que cessent la surpêche et la destruction sans filtre de la biodiversité marine.<br/>C’est pourquoi nous ne pouvons plus nous permettre d’accepter des dérogations, y compris à titre expérimental, en faveur de la pêche électrique. Elles sont en effet le cheval de Troie de pratiques néfastes qui freinent les progrès indispensables pour atteindre l’objectif d’un bon état écologique des milieux marins édicté par la directive européenne pour le milieu marin.<br/>La pêche électrique est une méthode qui, en envoyant des décharges dans les sédiments pour assommer les poissons et les faire remonter à la surface, est dévastatrice pour les fonds marins. L’électrocution fracasse la colonne vertébrale et crée des hémorragies internes chez la plupart des grands poissons touchés. Elle ne fait aucune distinction entre les adultes et les juvéniles. Elle a des effets sur la fertilité des poissons, donc sur le renouvellement des espèces.<br/>Alors même qu’on ne connaît qu’une infime partie de la biodiversité marine, de son rôle dans l’écosystème marin et de diverses propriétés biologiques susceptibles de jouer un rôle prépondérant pour la santé, il s’avère particulièrement irresponsable de la mettre en danger par cette pratique. <br/>En rendant effective cette interdiction avant l’échéance de 2021 fixée par l’Union européenne, la France doit montrer l’exemple de son implication en faveur de l’environnement et d’une gestion durable des ressources. Il est urgent de verdir l’économie bleue. C’est sans réserve que je vous invite à soutenir cette proposition de loi et je remercie son rapporteur de l’avoir proposée. <italique>(Applaudissements sur quelques bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Pierre Pont" id_acteur="PA2449" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723036">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1353266" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1709114" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Pierre Pont.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1353267" ordre_absolu_seance="3" id_acteur="PA2449" id_mandat="PM723036" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1709115" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Pierre Pont</nom>
+              <id>2449</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’évoquerai une nouvelle fois l’historique de l’interdiction de la pêche électrique, avec le vote unanime, sans aucune abstention, de notre assemblée, en mars 2018, pour la suppression définitive du système de la pêche électrique à la suite d’une tribune signée par 249 députés français, toutes formations politiques confondues ; puis, les deux votes dans le même sens du Parlement européen, le 16 janvier 2018, confirmé le 16 avril dernier par 571 voix contre 60. En outre, un certain nombre de dispositions techniques ont été votées en même temps, en particulier la dérogation accordée à nos marins français pour un maillage de chalut plus petit.<br/>Après le trilogue, l’interdiction définitive de la pêche électrique est entérinée à compter du 1<exposant>er</exposant> juillet 2021, sans dérogation possible de la Commission et en interdisant le renouvellement des licences arrivant à terme le 1<exposant>er</exposant> février 2019. Cet accord laisse également aux États la possibilité d’interdire dès maintenant, avant la date du 1<exposant>er</exposant> juillet 2021, la pêche électrique dans leurs eaux côtières.<br/>Le ministre de l’agriculture, Didier Guillaume, particulièrement investi dans ce combat, tout comme son prédécesseur Stéphane Travert, a confirmé ici, en réponse à une question au Gouvernement que j’avais posée le 19 février dernier, sa volonté d’anticiper rapidement cette interdiction dans notre zone côtière des 12 milles – conviction que vous partagez, monsieur le ministre. Je souhaitais lui rappeler son engagement, mais il l’a fait dans son discours préliminaire. Cette décision attendue d’interdiction anticipée relève semble-t-il du domaine réglementaire – un arrêté ministériel suffit donc. Mais le groupe MODEM a présenté cette proposition de loi. Nous nous y associons et nous la soutenons pleinement si cela permet d’aller encore plus vite.<br/>Permettez-moi également d’appeler votre attention sur les graves conséquences des dérives difficilement explicables de la Commission en faveur de la pêche électrique et des dérogations abusives accordées aux bâtiments néerlandais. De plus, la ministre néerlandaise Carola Schouten aurait pris une décision scandaleuse : elle aurait étendu la validité des licences illégales du projet pilote jusqu’au 1<exposant>er</exposant> juin 2019, alors qu’elles expiraient en février 2019. Elle aurait également décidé de prolonger vingt et une dérogations jusqu’au 31 décembre 2019 pour mener de prétendues recherches : c’est le même argument fallacieux que les Pays-Bas agitent depuis des années pour contourner la loi. La ministre estimerait également que vingt-deux autres navires pourraient continuer jusqu’au 30 juin 2021. Je rappelle qu’à l’origine, seuls 5 % de la flotte étaient autorisés, ce qui représentait quatorze navires ; de plus, la Commission s’interdit désormais toute dérogation. <br/>Comme vous le savez, le système de la pêche électrique ratisse littéralement les fonds marins au détriment de la reproduction. Sur 100 kilos de produits remontés à bord, 40 à 50 sont rejetés à la mer. Au fil des années, les bâtiments français ne la pratiquant pas ont vu diminuer régulièrement leurs prises ; leur situation est actuellement dramatique. En effet, l’ensemble de la flottille de Boulogne-sur-Mer a pêché 61 tonnes de soles ce premier trimestre 2019, contre 130 tonnes pour la même période en 2018 ; elle accuse une diminution de 84 % des captures par rapport à 2014. Ses quarante-trois bateaux plongent inexorablement vers la faillite.<br/>Il paraît indispensable et justifié que la Commission, qui a sciemment détourné ses propres règles pour la pêche électrique, envisage une indemnisation des bateaux de pêche français opérant dans la Manche. Cette indemnisation, soutenue je l’espère à Bruxelles par le gouvernement français, peut être évaluée à 2 ou 3 millions d’euros. Cela étant exprimé, je vous confirme que le groupe LaREM s’associe à la proposition de loi présentée par le MODEM et votera l’article unique proposé. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Pierre-Henri Dumont" id_acteur="PA720684" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723040">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1353273" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1709121" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Pierre-Henri Dumont.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1353274" ordre_absolu_seance="10" id_acteur="PA720684" id_mandat="PM723040" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1709122" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre-Henri Dumont</nom>
+              <id>720684</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce soir, l’Assemblée nationale votera l’interdiction de la pêche électrique dans les eaux territoriales françaises. Ce vote, mémorable de par sa portée, de par l’espoir qu’il suscitera, de par la confiance dans les institutions nationales et européennes qu’il redonne, de par son unanimité aussi, est l’aboutissement d’un long chemin commencé il y a plusieurs années.<br/>L’aboutissement d’un long chemin, d’abord, pour nos fileyeurs qui, année après année, depuis plus d’une décennie, constatent l’amenuisement des stocks de poissons en général, et de soles en particulier. La ressource se raréfiant dans nos mers et océans met en danger la survie même des espèces mais aussi celle de leur profession, si dure, si exigeante, si essentielle.<br/>L’aboutissement d’un long chemin, ensuite, pour tous les amoureux de la mer, tous ceux qui se sont battus, depuis tant d’années, pour faire définitivement interdire cette pratique de la pêche électrique dans les eaux européennes : les ONG, les associations de pêcheurs locaux, les syndicats de professionnels, les élus des façades maritimes de notre pays, tous unis pour protéger la ressource, l’emploi, l’environnement, pour convaincre les plus réticents à Paris, à Bruxelles, à Strasbourg, pour sensibiliser l’opinion publique et amalgamer des publics qui, hier, s’affrontaient vainement, avant d’en arriver aujourd’hui à cette interdiction définitive.<br/>L’aboutissement d’un long chemin, enfin, pour les parlementaires français, qu’ils soient ici à l’Assemblée nationale ou qu’ils siègent au Parlement européen, des parlementaires qui ont, depuis deux ans, travaillé, proposé, amendé, unis la plupart du temps et sur tous les bancs, afin de trouver un large consensus en faisant évoluer les esprits les plus récalcitrants, en faisant bouger les lignes et en explosant la logique partisane des blocs.<br/>De la tribune parlementaire contre la pêche électrique publiée dans le journal <italique>L</italique><italique>e Monde</italique>, en janvier 2018, jusqu’au vote de ce soir, sans oublier l’adoption à l’unanimité par l’Assemblée nationale d’une proposition de résolution européenne condamnant cette pratique, nous avons, nous, parlementaires français, su apporter notre modeste pierre à cette décision de protection de la filière halieutique et de la biodiversité.<br/>L’interdiction de la pêche électrique dans les eaux territoriales françaises ne sera pas la victoire d’un camp politique contre un autre camp politique. Elle ne doit pas se réduire à un bras de fer gagné par les uns contre les autres, car cela diminuerait la portée symbolique de l’union sacrée de tous contre cette méthode de pêche dévastatrice ne bénéficiant qu’à quelques-uns. Elle ne peut même pas se résumer maladroitement à un affrontement culturel, simpliste, entre différents pays, tout simplement parce que cette victoire est avant tout collective, parce que cette victoire est surtout celle de la préservation de nos emplois et de notre biodiversité. À quelques encablures du scrutin européen, la tentation serait grande de tirer vers son camp politique la couverture de la victoire dans cette lutte contre la pêche électrique, mais nous ne devons, nous ne pouvons y succomber, tant les enjeux et la portée passés, présents et futurs de cette interdiction nous dépassent tous.<br/>Oui, l’action de la France, du Président de la République et de ses ministres a été déterminante au Conseil, lors des rencontres bilatérales et dans le cadre du trilogue. Oui, la détermination des parlementaires européens, qu’ils soient insoumis comme Younous Omarjee, écologistes comme Yannick Jadot ou issus de la droite comme Alain Cadec, président de la commission pêche au Parlement européen, cette détermination sans faille de tous fut cruciale au moment des différents votes afin de trouver des majorités au parlement européen. <italique>(M.</italique><italique> É</italique><italique>ric Coquerel applaudit.)</italique> Oui, la volonté unanime des parlementaires nationaux français et leurs multiples actions furent un appui important au moment des discussions au niveau européen.<br/>En ce 9 mai, jour de la Fête de l’Europe, l’interdiction totale de la pêche électrique dans les eaux territoriales françaises représente également un symbole fort, ce symbole qui jadis faisait la force de notre continent et qui peut aujourd’hui lui faire gravement défaut. En dépassant nos différences, en faisant fi de nos divisions, en s’unissant pour une juste cause, il est encore possible dans cette Union européenne technocratique, bureaucratique, de faire triompher la voie de la raison et du bon sens, la seule issue possible pour une construction européenne au service de l’intérêt des peuples qui la composent.<br/>C’est cette voie de la raison et du bon sens qui a prévalu, après de longues et âpres négociations, aboutissant à l’interdiction au niveau européen de la pêche électrique au 1<exposant>er</exposant> juillet 2021, avec une mise en place effective possible auparavant par dérogation, dans la limite des eaux territoriales de 12 milles marins, pour les pays qui en font la demande. C’est cette dérogation que nous appliquerons ce soir en votant ce texte, avec effet le plus rapidement possible dans les eaux territoriales françaises.<br/>En effet, l’interdiction immédiate de cette pratique de pêche dans nos eaux territoriales est devenue une nécessité absolue. Une nécessité absolue car, bien qu’interdite au sein de l’Union européenne depuis 1998, la pêche électrique a pu s’étendre le long de nos côtes européennes et surtout françaises, grâce à une dérogation accordée depuis 2007 et permettant ce type de pêche au moyen de chalut électrique à titre expérimental, dans la limite maximale de 5 % de la flotte de chalutiers à perche de chaque pays de l’Union européenne opérant en mer du Nord. Cette dérogation est largement mise en pratique par les chalutiers néerlandais et même outrepassée par ces derniers, puisque nous estimons à 28 %, soit quatre-vingt-quatre chalutiers, le nombre de navires néerlandais pratiquant ce type de pêche.<br/>L’interdiction immédiate de la pêche électrique dans nos eaux territoriales est une nécessité absolue car nos pêcheurs français opérant en mer du Nord, et je pense ici en particulier aux pêcheurs de mon département du Pas-de-Calais, font face à une concurrence parfaitement déloyale, la pêche électrique massive pratiquée par les Néerlandais permettant de concentrer de très grandes quantités de soles sur leur marché, déstabilisant ainsi la concurrence. Nos pêcheurs ne disposant pas des mêmes outils que leurs voisins, il est nécessaire de les défendre, non pas en tirant la qualité de leur travail vers le bas mais en alignant la qualité du travail de nos voisins sur les hauts standards qui sont les nôtres.<br/>L’interdiction immédiate de la pêche électrique dans nos eaux territoriales est une nécessité absolue car la qualité du poisson pêché électriquement demeure largement inférieure à la qualité du poisson pêché avec une technique traditionnelle. Si nous manquons de données fiables sur les conséquences de cette pêche sur les plans nutritionnel et sanitaire, force est de constater que ce type de décharge électrique provoque de graves hématomes et des fractures de colonne vertébrale sur les poissons. De plus, il y a quelques mois, 260 chefs cuisiniers ont signé un manifeste contre la pêche électrique, soulignant que les poissons sont de si mauvaise qualité que l’on ne peut rien en faire.<br/>L’interdiction immédiate de la pêche électrique dans nos eaux territoriales est enfin une nécessité absolue car ce type de pêche représente un danger grave pour l’écosystème de nos fonds marins, la préservation des ressources halieutiques et la biodiversité. Non sélective, la pêche électrique atteint l’ensemble des organismes vivants dans les fonds marins, avec des conséquences graves sur les ressources. Ainsi, 50 à 70 % des prises sont rejetées en mer avec la technique électrique contre 6 % pour la technique classique, avec des taux de survie extrêmement faibles. Par conséquent, les stocks de poissons disponibles, et pas seulement des soles, s’amenuisent, transformant la mer du Nord en désert, faisant peser une réelle menace sur la poursuite de l’activité halieutique. À titre d’exemple, la flottille de pêche de Boulogne-sur-Mer a ramené 61 tonnes de soles au premier semestre 2019, contre 130 tonnes au premier semestre 2018. En dix ans, les captures de soles ont diminué de 80 %.<br/>Notre parlement aura agi pour sauver la filière, pour sauvegarder notre biodiversité et pour préserver les stocks. Mais de nombreuses questions restant en suspens méritent des réponses gouvernementales claires. Monsieur le ministre, comment une dérogation expérimentale accordée à 5 % a-t-elle pu concerner 28 % des chaluts d’une flotte nationale ? Des sanctions seront-elles prises contre les Pays-Bas, qui ont encouragé et continuent d’encourager cette illégalité ? Comment comptez-vous venir en aide aux fileyeurs du nord de la France qui, depuis dix ans, font face à cette concurrence déloyale détruisant les stocks et mettant en péril grave leur activité ? Comment accompagnerez-vous les fileyeurs français ces cinq prochaines années, le temps de la reconstitution des stocks ? Enfin, quelles seront les zones de pêche au lendemain de la sortie du Royaume-Uni de l’Union européenne, le 31 octobre prochain, ou peut-être avant, ou peut-être jamais, alors même que certaines flottilles pêchent 50 % de leur production dans les eaux territoriales britanniques ?<br/>Le groupe Les Républicains votera en faveur de ce texte, gravant dans le marbre de la loi, et non pas dans le règlement, l’interdiction immédiate de la pêche électrique dans nos eaux territoriales françaises. Cette interdiction immédiate est un premier pas décisif vers une pêche plus durable, plus respectueuse de son environnement, donnant enfin de l’espoir aux acteurs de la filière halieutique. Il est néanmoins nécessaire d’aller plus loin et de répondre aux questions légitimes des professionnels de la mer, car la filière n’est pas sauvée pour autant. Monsieur le ministre, la balle est désormais dans votre camp. <italique>(Applaudissements sur les bancs du groupe LR et du groupe FI, ainsi que sur plusieurs bancs du groupe MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Liliana Tanguy" id_acteur="PA719550" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722694">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1353092" ordre_absolu_seance="150" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1707888" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Liliana Tanguy.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1353093" ordre_absolu_seance="151" id_acteur="PA719550" id_mandat="PM722694" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1707889" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Liliana Tanguy</nom>
+              <id>719550</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si j’ai tenu à m’exprimer aujourd’hui sur le sujet de la pêche électrique, c’est parce que je ne peux plus me résoudre à voir des images de poissons tuméfiés, victimes d’une technique de pêche particulièrement violente et qui a des effets catastrophiques pour la biodiversité marine.<br/>Comme en témoignent les récentes annonces du Président de la République, la préservation de la biodiversité est un objectif central à l’heure où 1 million d’espèces seraient menacées de disparition pure et simple. Or nous savons que c’est justement cette biodiversité qui est directement touchée par la pêche électrique.<br/>Quel non-sens que de soumettre à des décharges électriques de manière indifférenciée un grand nombre d’organismes vivants pour ne capturer qu’environ la moitié des poissons affectés, et abandonner en mer tous ces autres organismes dont les chances de survie après décharge sont quasiment nulles ? Plus grave encore, il est à présent avéré que la pêche électrique conduit à une raréfaction de certaines espèces marines et à une surpêche qui va à l’encontre des quotas européens inscrits au sein de la politique commune de la pêche.<br/>Plus largement, les impacts négatifs de cette technique de pêche sur la biodiversité marine sont documentés depuis de nombreuses années, à tel point que, dès 2002, la Chine l’avait interdite précisément pour cette raison.<br/>À ces arguments, certains rétorqueront que la pêche électrique permet une moindre utilisation de carburant, une meilleure rentabilité économique et, surtout, que son impact sur la biodiversité est insuffisamment prouvé. Certes, il existe une controverse scientifique, mais, dans ce cas, recourir au principe de précaution n’est-il pas préférable à l’utilisation tous azimuts de cette technique dont les effets de long terme ne sont pas évalués à l’heure actuelle, comme l’a souligné, en 2016, le Conseil international pour l’exploration de la mer ?<br/>Si toutefois la vue de ces poissons électrocutés et leur raréfaction ne suffisaient pas à interdire au plus vite la pêche électrique, l’argument économique viendrait clore ce débat. Comme nous le savons, la pêche électrique est interdite au sein de l’Union européenne depuis 1998, mais fait l’objet depuis 2013 d’un régime d’expérimentation qui s’est révélé très largement favorable à nos voisins néerlandais. Ces derniers se sont en effet affranchis du quota de 5 % fixé par la législation européenne et ont équipé 28 % de leur flotte nationale avec ces matériels électrifiés. Les pêcheurs néerlandais pèchent donc plus avec moins de bateaux, ce qui amoindrit d’autant la compétitivité de notre propre secteur de la pêche. Nos pêcheurs, dont ceux de ma circonscription dans le Finistère, pâtissent en outre de la raréfaction des ressources halieutiques et de leur moindre qualité, conséquences directes de l’activité des pêcheurs néerlandais. C’est donc l’ensemble de la filière française, déjà inquiète face à la perspective du Brexit, qui se trouve menacée.<br/>Dans ce contexte, je ne peux que saluer l’engagement de la France, porté au niveau européen par le Président de la République et par le Gouvernement. Après d’intenses négociations durant lesquelles la France a joué un rôle actif, le Parlement européen a ainsi entériné, le 16 avril dernier, l’interdiction de la pêche électrique à compter du 1<exposant>er</exposant> juillet 2021.<br/>Il apparaît toutefois légitime de s’interroger sur l’opportunité d’une échéance si lointaine quand les atteintes à l’environnement et la piètre qualité des poissons pêchés – 41 % de taux de rejet – sont, eux, très actuels. Ce compromis, de nature essentiellement politique, a certes le mérite d’exister à l’échelle de l’Union. Mais, dans un contexte d’élections européennes profondément marquées par la défiance des citoyens envers leurs institutions, il me semble que nous serions bien inspirés de faire preuve de volontarisme politique et, donc, de ne pas attendre 2021 pour réglementer strictement la pêche électrique.<br/>C’est dans cet esprit que s’inscrit la présente proposition de loi, que je soutiens pleinement tant sa nécessité m’apparaît évidente. Comme le précise le projet de règlement européen, les États membres peuvent prendre, dans le périmètre des 12 milles nautiques placés sous leur souveraineté « des mesures non discriminantes pour restreindre ou interdire l’utilisation du courant électrique impulsionnel ». Interdire purement et simplement la pêche électrique en France en adoptant aujourd’hui cette proposition de loi permettrait ainsi une plus grande efficacité, car l’interdiction serait alors effective dès l’entrée en vigueur du règlement européen si la loi est adoptée avant, ou dès la promulgation de la loi si le règlement entre en vigueur au préalable.<br/>Le caractère triplement néfaste de la pêche électrique pour l’environnement, les pêcheurs français et les consommateurs fait l’objet d’un réel consensus chez nos concitoyens. Gageons qu’il en sera de même au sein de notre hémicycle. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François-Michel Lambert" id_acteur="PA605518" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722518">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1353101" ordre_absolu_seance="161" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1707897" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François-Michel Lambert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1353102" ordre_absolu_seance="162" id_acteur="PA605518" id_mandat="PM722518" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1707898" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Michel Lambert</nom>
+              <id>605518</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’examen de la présente proposition de loi intervient alors que progresse chez nos concitoyens la prise de conscience des périls qui pèsent sur la biodiversité et sur les grands équilibres écologiques. Les marches pour le climat et l’environnement se multiplient et notre jeunesse est particulièrement mobilisée autour de ces combats. Cela apporte la confirmation que nos sociétés sont souvent en avance sur leurs décideurs.<br/>Ce lundi, s’est tenue, à Metz, la réunion des ministres du G7 aboutissant à la signature d’une simple charte. Ce document, évidemment non contraignant, n’est pas à la hauteur de la situation alarmante dépeinte par le rapport de la Plateforme intergouvernementale scientifique et politique sur la biodiversité et les services écosystémiques, l’IPBES, publié le même jour. Le président de ce groupe international d’experts sur la biodiversité, Robert Watson, déclarait : « Nous sommes en train d’éroder les fondements mêmes de nos économies, nos moyens de subsistance, la sécurité alimentaire, la santé et la qualité de vie dans le monde entier. »<br/>C’est que le premier rapport de l’IPBES, qui se veut le pendant du rapport du GIEC sur le dérèglement climatique, est particulièrement dramatique. Il met en lumière un déclin de la biodiversité sans précédent et qui a pour  principale cause les activités humaines.<br/>Je veux répéter à cette tribune les effroyables données qu’il contient. Sur les 8 millions d’espèces, animales et végétales présentes sur terre, 1 million sont menacées d’extinction et disparaîtront, si nous ne faisons rien. Ce constat vaut sur terre, mais aussi dans les océans. Un seul chiffre : toujours selon le rapport de l’IPBES, 66 % du milieu marin ont été significativement modifiés par l’action de l’homme.<br/>Plusieurs menaces planent plus spécifiquement sur les mers et les océans : le réchauffement climatique en est une, tout comme la surpêche et la pollution des eaux, notamment par les plastiques. Vous le savez, je suis particulièrement investi contre les ravages de la pollution par les plastiques. Selon un rapport du WWF, publié en mars dernier, d’ici à 2030, la production mondiale de déchets plastiques pourrait augmenter de 40 % et la quantité accumulée dans l’océan pourrait doubler. Ces chiffres sont effrayants.<br/>Nous mesurons déjà les dégâts causés par les 12 à 13 millions de tonnes de plastique qui finissent chaque année dans les océans. Leur impact sur les équilibres halieutiques est avéré. Or nous tardons à agir.<br/>Il se trouve que les pays riches sont aussi ceux qui produisent le plus de plastique. Parmi eux, la France s’illustre en figurant parmi les mauvais élèves européens en matière de recyclage, avec un taux de seulement 21 %, à 10 points de la moyenne européenne. Nous sommes bien loin de l’engagement pris par le Premier ministre, en juillet 2017, et réaffirmé lundi par le Président de la République, de recycler 100 % des plastiques sur tout le territoire d’ici à 2025.<br/>Vous comprendrez donc aisément que nous réagissions quand le Gouvernement ne tient pas les engagements qu’il s’était fixés. Je pense particulièrement au récent recul sur la date d’interdiction de certains plastiques jetables, comme les pailles : alors qu’en juillet 2018 Nicolas Hulot disait vouloir une interdiction en janvier 2020, elle a été repoussée sur l’impulsion du Gouvernement. Un monde sans pollution plastique passe nécessairement par l’élimination progressive du plastique à usage unique.<br/>Pour ces raisons, et beaucoup d’autres encore, nous serons particulièrement actifs et vigilants lors de l’examen du projet de loi sur l’économie circulaire qui devrait être présenté dans les prochaines semaines en conseil des ministres.<br/>Il est évidemment un autre facteur qui affecte durement les réserves halieutiques : la surpêche. La FAO estime qu’environ 93 millions de tonnes de poissons et de fruits de mer ont été capturés dans le monde en 2017, soit quatre fois plus qu’en 1950. Cette surexploitation des ressources ne permet pas aux stocks de se maintenir et est particulièrement destructrice de la biodiversité. Ainsi près de 60 % des stocks mondiaux sont pleinement exploités et près d’un tiers est même surexploité.<br/>Le non-respect des quotas et la pêche illégale sont en cause, mais aussi certaines techniques. La pêche électrique en fait partie, au premier chef. Figurez-vous que les électrodes placées sur les chaluts envoient des impulsions électriques qui paralysent les poissons et les expulsent des fonds marins. Outre sa violence, cette technique est critiquable en ce qu’elle est non sélective. Pour 100 kilos pêchés, 50 à 70 sont rejetés en mer. À titre de comparaison, ce chiffre est de 6 kilos pour les fileyeurs. Elle est enfin une catastrophe, parce qu’elle est particulièrement destructrice des écosystèmes marins.<br/>C’est pour cette raison qu’un grand nombre de pays, pour certains peu à la pointe sur les questions environnementales – je pense à la Chine, aux USA ou au Brésil – ont interdit ce type de pêche.<br/>À l’échelle de l’Union européenne, le combat pour son interdiction a été plus long et plus difficile, ce qui devrait nous inquiéter. Cela est notamment dû à la position de certains pays, principalement les Pays-Bas. La bataille a duré plus de vingt ans depuis le règlement de 1998 qui a établi une première interdiction de différents modes de pêches destructrices, notamment la pêche électrique. Ensuite, de dérogation en périodes transitoires, cette interdiction a été assouplie. Des chalutiers de plus en plus nombreux ont pu recourir à cette technique. Il faut à cet égard souligner que les Pays-Bas ont largement dépassé les quotas de navires qui leur étaient alloués.<br/>Cela a coïncidé avec la baisse drastique du chiffre d’affaires des autres pêcheurs, je pense notamment aux fileyeurs des Hauts-de-France ou à leurs voisins belges, car, une fois que le chalut électrique est passé, il ne reste plus rien ou presque.<br/>En 2016, la Commission européenne a même proposé une nouvelle extension des dérogations qui aurait permis une quasi-autorisation de la pêche électrique et aurait abouti à une disparition de la pêche artisanale.<br/>Les promoteurs de la pêche électrique mettent en avant son caractère « innovant » et le fait qu’elle permet de réduire la consommation de carburant. Attention au green washing. Cela ne suffit certainement pas à en faire une pêche durable, comme certains osent le prétendre, bien au contraire.<br/>L’année 2016 a marqué un point de bascule. La mobilisation a été menée par des associations, le Parlement européen a voté en faveur de l’interdiction totale de la pêche électrique. Nous, députés, avons agi et nous pouvons en être fiers. Avec 248 collègues, j’ai cosigné une tribune, et notre assemblée a adopté en mars 2018 une proposition de résolution européenne réclamant l’interdiction de la pêche électrique. Tout cela a concouru à l’accord du 13 février 2019 entre la Commission, le Parlement européen et le Conseil de l’Union, pour une interdiction au 1<exposant>er</exposant> juillet 2021.<br/>Il convient, à ce stade, de saluer l’action du Gouvernement français. Ce règlement, définitivement adopté par le Parlement en avril dernier, n’est pas totalement satisfaisant. Nous aurions préféré une interdiction immédiate et totale. Pourquoi attendre ?<br/>Nous sommes donc entrés dans une phase transitoire. Le règlement permet cependant aux États membres d’interdire dès à présent cette technique dans la limite de leurs eaux territoriales.<br/>C’est précisément ce que prévoit la présente proposition de loi à laquelle nous souscrivons bien évidemment. Nous ne pouvons considérer cependant que ce texte règle, à lui seul, la problématique de la surpêche, dont j’ai rappelé les grands chiffres. Si nous pouvons nous réjouir de cette victoire, elle doit aussi nous interroger sur le modèle de pêche que nous entendons promouvoir, car, derrière le combat pour ou contre la pêche électrique, deux conceptions s’opposent : celle d’une pêche industrielle, par essence peu soucieuse des grands équilibres et des écosystèmes et une pêche à taille humaine, fortement ancrée dans les territoires.<br/>Ma préférence va à la seconde, notamment parce qu’elle est plus respectueuse des ressources halieutiques et plus soucieuse de la protection de l’environnement. Il importe donc de lui apporter un meilleur soutien. Cette dimension doit être inscrite dans le prochain cycle de la politique commune de la pêche, à partir de 2020.<br/>C’est le vœu que nous pouvons formuler en cette journée de l’Europe et à quelques jours des élections européennes. Le 9 mai 1950, Jean Monnet déclarait que « L’Europe se fera par des réalisations concrètes, créant d’abord une solidarité de fait ». Face à l’urgence, impérieuse, cette solidarité doit, j’en suis convaincu et je sais que vous aussi, se nouer autour de la transition écologique. L’écologie doit être au cœur du projet européen, elle doit être son nouvel horizon, le moteur même de notre continent, qui est la première puissance mondiale. Soyons à la hauteur de nos responsabilités. Je sais que nous pouvons avancer de manière unanime sur ce sujet. <italique>(Applaudissements sur les bancs du groupe LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1353120" ordre_absolu_seance="183" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1707916" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à M. Erwan Balanant, rapporteur de la commission des affaires économiques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353218" ordre_absolu_seance="2" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708569" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite>rapporteur de la commission des affaires économiques</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je remercie tout d’abord l’ensemble des intervenants pour l’unanimité qui semble se dessiner.<br/>Le ministre de l’agriculture a dit que, aujourd’hui, la ressource était stabilisée. Certes, mais la situation est catastrophique dans la zone dont nous parlons, au sud de la mer du Nord. Suite aux propos de Paul Christophe, je considère qu’il conviendra sans doute d’aider les pêcheurs et les fileyeurs de cette région, qui connaissent de graves difficultés.<br/>Bruno Joncour a souligné un point important, celui des subventions européennes à la pêche. Non, elles ne peuvent pas aller à des méthodes de pêche destructrices de l’environnement ! Dans la nouvelle séquence qui s’ouvrira après les élections, le Parlement européen devra se saisir de cette question. </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353221" ordre_absolu_seance="5" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708572" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Jumel</nom>
+            <id>722202</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Changez les traités !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353222" ordre_absolu_seance="6" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708573" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>C’est inutile, monsieur Jumel : il suffit de les adapter…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353223" ordre_absolu_seance="7" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708574" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Jumel</nom>
+            <id>722202</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Adaptez-les !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353224" ordre_absolu_seance="8" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708575" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>…et de faire des choix politiques.<br/>Madame Victory, nous sommes entièrement d’accord : l’océan est notre bien commun. Je sais que vous réfléchissez sur ce thème avec Dominique Potier et nous devons en effet avancer, considérer que l’océan est le bien commun de l’humanité.<br/>Paul Christophe, je te remercie pour ton implication sur ce texte. Avec le groupe, nous avons souhaité que tu sois le deuxième cosignataire, tant ton investissement est grand. Merci, aussi, pour les pêcheurs de ton territoire, que tu défends !<br/>Pour en revenir à l’historique, chers collègues Éric Coquerel et Pierre-Henri Dumont, je filerai la métaphore footballistique, puisque nous jouons dans la même équipe parlementaire : oui, c’est une victoire collective, mais parce que, à un moment donné, certains joueurs ont changé de camp, ce qui est très bien. Tout le monde, en effet, n’a pas toujours défendu la pêche – s’agissant de la pêche en eau profonde, il a fallu se bagarrer –, mais je suis tout de même satisfait de voir Éric Coquerel applaudir Pierre-Henri Dumont : en tant que parlementaire, je pense que c’est une petite victoire ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353227" ordre_absolu_seance="50" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708617" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Jumel</nom>
+            <id>722202</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Balle au centre ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353228" ordre_absolu_seance="51" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708579" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Dharréville</nom>
+            <id>718926</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Que d’émotions ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353229" ordre_absolu_seance="52" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708580" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Tout le monde a souligné l’importance de ce texte. Cette unanimité me permet de demander au Gouvernement et au ministre d’État de le reprendre au Sénat. Je sais qu’un arrêté suffirait à décider de l’interdiction de la pêche pendant cette période transitoire, mais, pour nos pêcheurs, pour ceux de la mer du Nord, qui souffrent tant, elle doit être écrite dans la loi. Le Parlement le leur doit.<br/>Enfin, le paradigme de notre rapport avec la nature doit changer. L’homme doit moins être le « maître et possesseur de la nature », selon la formule de Descartes, que son tuteur et son protecteur. <italique>(Applaudissements sur les bancs des groupes MODEM et LaREM.) </italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. François de Rugy" qualite="ministre d'État, ministre de la transition écologique et solidaire" id_acteur="PA332747" id_nomination_oe="PM758790" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353231" ordre_absolu_seance="54" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708582" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. le ministre d’État, ministre de la transition écologique et solidaire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353232" ordre_absolu_seance="55" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708583" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État, ministre de la transition écologique et solidaire</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous le savez, le ministre de l’agriculture et de la pêche a dû partir pour le Japon à une réunion du G20 consacrée à l’agriculture. Je suis très heureux de vous retrouver, certes, mais aussi de le relayer pour saluer votre initiative parlementaire, monsieur le rapporteur, laquelle succède à une résolution très largement soutenue au début de 2018.<br/>En tant que ministre de la mer – Didier Guillaume et moi-même avons en partage les questions qui y sont liées –, je me félicite de l’unanimité qui se fait jour ce soir, car cette proposition de loi concerne à la fois la protection de la biodiversité marine, puisque c’est ainsi que vous l’avez conçue, monsieur le rapporteur…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353234" ordre_absolu_seance="57" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708585" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Balanant</nom>
+              <id>719558</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353235" ordre_absolu_seance="58" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708586" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…et la protection des activités de pêche respectueuses d’une telle biodiversité. C’est là une excellente chose, car, reconnaissons-le, entre satisfecit et lucidité, ce n’est pas toujours le cas lorsqu’il est question de biodiversité et de la protection des espèces animales ou végétales. Pour une fois qu’il en est différemment, tant mieux !<br/>Plusieurs orateurs l’ont dit, dont M. Dumont, le relais a fonctionné entre élus nationaux et locaux – ici, à l’Assemblée nationale, de façon transpartisane –, Gouvernement – avant Didier Guillaume, avec Stéphane Travers – et élus du Parlement européen. Cela démontre que l’on peut parfaitement changer les choses, obtenir des résultats en unissant nos forces. Chacun en tirera les conséquences politiques qu’il jugera utiles par rapport aux enjeux européens. En l’occurrence, c’est bien en unissant nos forces que nous obtenons des résultats plutôt qu’en nous divisant ou, pire encore, en nous repliant chacun sur nos pays.<br/>Sans doute les propos qu’a tenus M. Jumel sont-ils très critiques à l’égard de l’Union européenne, mais ils sont aussi, en quelque sorte, défaitistes : nous ne pourrions jamais rien y faire, les lobbies triompheraient toujours. J’ai entendu dire que la pêche électrique était fille de l’Europe libérale. </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353238" ordre_absolu_seance="61" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708589" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En effet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353239" ordre_absolu_seance="62" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708590" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mais son interdiction par les mêmes institutions européennes est la fille de qui ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353240" ordre_absolu_seance="63" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708591" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>D’un sursaut de lucidité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353241" ordre_absolu_seance="64" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708592" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>De la volonté politique au sein de l’Union européenne. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353242" ordre_absolu_seance="65" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708593" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après de longues tergiversations et hésitations !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353243" ordre_absolu_seance="66" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708594" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est elle que nous défendons, et nous continuerons à le faire ! En matière écologique, seule compte en effet la volonté politique. Le défaitisme, le fatalisme ou, pire, la volonté de revenir chacun dans notre coin…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353244" ordre_absolu_seance="67" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708595" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Personne ne dit cela !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353245" ordre_absolu_seance="68" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708596" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…seraient en l’occurrence terribles : concrètement, je ne donne pas cher de bien des armements de pêche en France avec le Brexit ! <italique>(Mêmes mouvements.)</italique><br/>J’ai été un peu étonné par ce qu’a ajouté M. Jumel. Ainsi, le Gouvernement français n’aurait jamais pris position, ni le ministre Didier Guillaume, ni moi-même, ministre de la mer, ni le Premier ministre. En tant que député normand, vous devriez particulièrement savoir combien nous sommes attachés aux questions maritimes. S’agissant de la pêche, nous menons la bataille depuis le premier jour pour les droits de pêche des armements français dans le contexte du Brexit ! Depuis le début, nous sommes extrêmement vigilants sur l’accord concernant la pêche. C’est l’un de nos critères principaux, c’est l’une des batailles que nous menons ! M. Dumont le sait bien, avec les élus de son département, le Pas-de-Calais, et de sa région qui porte maintenant un curieux nom.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353247" ordre_absolu_seance="70" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708598" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est moins pire que le « grand Est ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353248" ordre_absolu_seance="71" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708599" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’union est un fait, au-delà des clivages politiques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353249" ordre_absolu_seance="72" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708600" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est aussi le cas en Normandie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353250" ordre_absolu_seance="73" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708601" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est aussi le cas en Bretagne, Erwan Balanant le sait bien, comme Liliana Tanguy, tant les enjeux sont importants, d’ailleurs, pour tous les pêcheurs de France.<br/>Je ne laisserai donc pas dire que le Gouvernement français ne s’est jamais exprimé sur les questions de la mer et de la pêche. Je préfère voir là un léger manque de suivi de nos interventions en la matière plutôt que de la mauvaise foi ou de la malhonnêteté intellectuelle, car je ne souhaite pas briser l’unanimité de ce soir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353252" ordre_absolu_seance="75" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708603" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sortez-moi un discours officiel sur la pêche, en deux ans ! Nous le lirons ensemble !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353253" ordre_absolu_seance="76" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708604" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous allons vous envoyer tout cela et vous verrez que la pile sera assez épaisse !<br/>Vous savez parfaitement que, lors du dernier comité interministériel de la mer, au mois de novembre, nous sommes intervenus sur toutes ces questions avec M. le Premier ministre et que nous avons mené la bataille. En tant que ministre de la mer, même si je ne suis pas chargé du secteur de la pêche, qui revient à Didier Guillaume, je rencontre souvent le comité national des pêches maritimes et des élevages marins, M. Romiti pourra vous le confirmer, et ce fut très souvent le cas ces derniers mois, depuis ma nomination.<br/>Je salue les propos de M. Joncour sur la pêche artisanale. Cette proposition de loi montre bien qu’il serait absurde d’opposer la protection de la biodiversité marine à la protection de la pêche. Il faut à la fois protéger durablement l’activité de pêche dans notre pays et, plus généralement, en Europe, en protégeant la biodiversité marine.<br/>Je souhaite répondre à plusieurs orateurs, notamment à M. François-Michel Lambert, s’agissant des mesures de protection qui sont prises. Il est certes possible de dire que la charte de Metz sur la biodiversité n’apporte rien de neuf, mais il ne s’agit pas moins d’un engagement international sur les causes de la perte de la biodiversité et sur les actions qui doivent être menées après le rapport de l’IPBES. Certes, ce n’est qu’une déclaration internationale générale, mais c’est la première. Il n’y en avait jamais eu qui expose aussi clairement les causes de la perte de la biodiversité et les moyens et leviers d’action.<br/>Plus concrètement, vous savez sans doute que les mesures concernant la pêche du thon rouge en Méditerranée n’ont pas été prises aisément, que plusieurs gouvernements se sont impliqués depuis une dizaine d’années. J’étais déjà député et je me souviens des batailles qui se sont déroulées autour de cette question. Ce fut très dur, y compris avec certains pêcheurs. Aujourd’hui, ces mesures ont payé : la reconstitution des stocks de thon rouge en Méditerranée est effective, ce qui permet de donner de nouveaux quotas de pêches, lesquels peuvent être raisonnablement et sensiblement augmentés tous les ans, de manière à redonner du travail aux pêcheurs. C’est la bonne démarche !<br/>Cela fut également le cas pour la sole dans le golfe de Gascogne. J’ai entendu les propos de certains orateurs concernant les stocks sur les côtes du Nord et du Pas-de-Calais. Il faut bien évidemment trouver des solutions et prendre des décisions.<br/>Ce fut également le cas avec les grands fonds – M. le rapporteur en a parlé – où, là encore, l’unanimité ne fut pas au rendez-vous, c’est le moins que l’on puisse dire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353261" ordre_absolu_seance="45" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708612" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Erwan Balanant</nom>
+              <id>719558</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En effet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1353262" ordre_absolu_seance="46" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708613" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Aujourd’hui, les mesures ont été prises, ce qui permet là encore d’obtenir des résultats. Je ne veux surtout pas que s’installe l’idée d’une perte fatale de biodiversité.<br/>Enfin, c’est aussi le cas pour le bar en Bretagne, où des mesures contraignantes produiront leurs effets.<br/>M. Christophe s’est inquiété de mesures spécifiques. C’est évidemment Didier Guillaume qui est concerné, mais je relaie les actions qu’il entreprend avec son ministère pour les fileyeurs du Nord et du Pas-de-Calais, particulièrement touchés. Il existe un accompagnement spécifique depuis 2016, une action conjointe est menée dans le cadre d’un fonds entre la région Nord-Pas-de-Calais-Picardie, devenue Hauts-de-France, et l’État, lequel a abondé à nouveau ce dernier en 2018.<br/>Par ailleurs, comme vous le savez, il y a eu un report généralisé de cotisations sociales en 2018 et l’activation du chômage partiel. La concertation se poursuit afin de parvenir à des mesures.<br/>Tels sont les quelques éléments que je souhaitais apporter, en me félicitant une nouvelle fois de cette unanimité autour de la présente proposition de loi.<italique> (Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353382" ordre_absolu_seance="3" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1708621" valeur="" bibard="" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353383" ordre_absolu_seance="4" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ANN_SCRUTIN_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708622" valeur=" unique" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle maintenant, dans le texte de la commission, l’article unique de la proposition de loi.<br/>Sur l’article unique, je suis saisie par le groupe UDI, Agir et Indépendants d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à M. Michel Castellani.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353385" ordre_absolu_seance="6" id_acteur="PA719138" id_mandat="PM722574" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708624" valeur="" bibard="" art="" adt="" ssadt="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Castellani</nom>
+            <id>719138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Comme l’ont déjà dit les orateurs qui se sont succédé dans la discussion générale, la pêche électrique, parce qu’elle est aveugle et d’une grande violence, est particulièrement destructrice des écosystèmes. Nous devons donc impérieusement y mettre un terme immédiatement.<br/>Le règlement européen adopté au mois de février dernier est le fruit d’un consensus, par essence imparfait. Nous aurions souhaité une interdiction ferme et sans délai, mais il nous faut nous contenter d’une interdiction à l’échelle communautaire au 1<exposant>er</exposant> juillet 2021. Toutefois, je me réjouis que ce règlement européen laisse aux États membres la possibilité d’anticiper cette échéance. C’est cette ambition qui nous réunit aujourd’hui autour de la présente proposition de loi.<br/>Nous le savons, plusieurs fléaux menacent les grands équilibres des réserves halieutiques : le réchauffement climatique bien sûr, et la pollution par les plastiques notamment, sur laquelle François-Michel Lambert est largement revenu.<br/>Pour ma part, j’entends insister sur les conséquences de la surpêche. Si la pêche électrique concerne la partie méridionale de la mer du Nord, ses dérives touchent d’autres mers. Vous me pardonnerez d’évoquer la Méditerranée dont je connais mieux les rivages. Les pratiques de pêche non durables ont grandement réduit les stocks de poissons de certaines espèces en Méditerranée, la mer la plus surpêchée au monde. Souvenons-nous des menaces de disparition du thon rouge et rappelons que les stocks de merlu du golfe du Lion diminuent dangereusement. Or le plan de gestion pluriannuel en Méditerranée occidentale, tel qu’il a été adopté en commission au Parlement européen, ne semble pas à la hauteur du péril. Une gestion durable des ressources suppose de la responsabilité, une coopération étroite entre pêcheurs et chercheurs. C’est ce qu’ambitionne de faire la plateforme de recherche Stella Mare à Bastia qui dépend de l’université de Corse. Elle constitue, à mes yeux, un modèle que je tenais à mentionner. Vous me pardonnerez ce hors sujet méditerranéen, mais je pense que la question le mérite grandement. <italique>(Applaudissements sur les bancs des groupes LT et MODEM et sur plusieurs bancs du groupe LaREM.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Gilles Lurton" id_acteur="PA606712" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722756">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353389" ordre_absolu_seance="10" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708628" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gilles Lurton.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353390" ordre_absolu_seance="11" id_acteur="PA606712" id_mandat="PM722756" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708629" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Lurton</nom>
+              <id>606712</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai apprécié les propos du ministre de l’agriculture et de l’alimentation qui ont précédé la discussion générale, car, comme lui et comme de nombreux élus du littoral, nous considérons que les pêcheurs français ont déjà consenti et supporté de nombreux efforts pendant toutes ces années de construction européenne : réduction drastique du nombre de navires, modifications incessantes des tailles des mailles de filets, restrictions de pêche, interdiction même de pêcher certaines espèces – je pense notamment à la raie brunette qui pullule pourtant sur nos côtes –, restrictions à la modernisation des navires en fonction des progrès technologiques qui rendent impossibles aujourd’hui les successions familiales, difficultés à recruter de jeunes marins pêcheurs malgré des salaires pourtant très attractifs. Tout cela, c’est notre quotidien.<br/>Permettez-moi d’avoir une pensée toute particulière pour nos pêcheurs bretons, notamment ceux du pays de Saint-Malo, qui, eux aussi, vivent tout cela au quotidien et qui, malgré tout, continuent d’aimer leur métier, d’aimer la mer et d’aimer ses ressources.<br/>Oui, le ministre de l’agriculture a eu raison de dire que la question de la pêche dans les eaux territoriales britanniques après le Brexit ne doit pas se poser. Oui, il est hors de question que nos pêcheurs ne puissent pas continuer de pêcher dans les eaux territoriales britanniques après le Brexit. Le Gouvernement français aura tout notre soutien sur ce point. Je suis sûr que l’ensemble des forces politiques ici présentes vous soutiendront. Nous refusons que la pêche française soit la variable d’ajustement de négociations sur le Brexit, et nous voulons l’affirmer avec force.<br/>Nous l’affirmons d’autant plus que le sujet sur lequel nous sommes en train de débattre, la pêche électrique, cette pêche destructrice et cruelle, comme l’a dit le rapporteur Erwan Balanant, continue à être pratiquée par certains pays étrangers et pénalise nos pêcheurs, comme d’ailleurs d’autres pratiques sur lesquelles j’ai eu l’occasion d’interpeller le ministre de l’agriculture et qui consistent à racler les fonds marins des frayères du plateau de Rochebonne pendant les périodes de reproduction.<br/>Pour toutes ces raisons, le groupe Les Républicains soutient et votera  la présente proposition de loi. <italique>(Applaudissements sur les bancs des groupes LR et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Jumel" id_acteur="PA722202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353395" ordre_absolu_seance="16" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708634" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Jumel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353396" ordre_absolu_seance="17" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1708635" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis assez surpris de l’agressivité et de la manière clivante dont le ministre a répondu… <italique>(Protestations sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353397" ordre_absolu_seance="18" id_acteur="PA334654" id_mandat="PM723566" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708636" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Straumann</nom>
+              <id>334654</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas son genre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353398" ordre_absolu_seance="19" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708637" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…alors qu’il n’est pas habitué à cela.<br/>J’ai fait une intervention consensuelle pour soutenir cette proposition de loi. Cet après-midi, le ministre de l’agriculture a montré une carte et rappelé sa disponibilité pour prendre un arrêté. Mais il ne m’a pas échappé que le Gouvernement envisage une interdiction partielle de la pêche électrique sur une zone qui ne correspond pas à ce que le rapporteur prévoit.<br/>Pour le reste, nous savons que la pêche bretonne se fait à 60 % en zone britannique et qu’il est utile que les pêcheurs de Dieppe, du Tréport et de Normandie puissent continuer comme ceux des Hauts-de-France à pêcher en zone britannique. Nous disons simplement que l’Europe libérale que vous soutenez – et que vous n’avez pas toujours soutenue, car, ce qui vous caractérise, c’est votre cap politique qui suit le sens du vent comme les éoliennes <italique>(Exclamations sur les bancs du groupe LaREM) </italique>–<italique/>préconise la concurrence libre et non faussée et permet aux pêcheurs anglais de pêcher sans respecter les normes environnementales, les normes sociales et les normes sécuritaires et sanitaires imposées aux pêcheurs français.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353401" ordre_absolu_seance="22" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708640" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François de Rugy</nom>
+              <id>332747</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353402" ordre_absolu_seance="23" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_20" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708641" valeur="" bibard="" art="" adt="" ssadt="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous dites non, mais je vous invite à rencontrer les pêcheurs de Dieppe qui pêchent la coquille Saint-Jacques. Ils vous expliqueront que les pêcheurs anglais ne sont pas à égalité en ce qui concerne les contraintes qui pèsent sur nos pêcheurs en termes de calendrier, de quotas, de conditions sanitaires et de réglementation sociale.<br/>Oui à des règles communes qui permettent aux Français et aux Anglais de pêcher en bonne intelligence, oui pour que la pêche soit au-dessus de la pile des dossiers. C’est d’ailleurs, je le reconnais, ce que défendaient Stéphane Travert et le ministre chargé de la pêche dans leurs actes et leurs discours.<br/>Quant à votre agressivité, qui est une forme de mépris à l’égard du Parlement, ça commence à bien faire !</texte>
+        </paragraphe>
+      </interExtraction>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353405" ordre_absolu_seance="26" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="1708644" valeur=" 3" bibard="" art="" adt=" 3" ssadt="">
+        <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353405" ordre_absolu_seance="26" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1708644" valeur=" 3" bibard="" art="" adt=" 3" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Éric Coquerel, pour soutenir l’amendement n<exposant>o</exposant> 3.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353406" ordre_absolu_seance="27" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708645" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Éric Coquerel</nom>
+                <id>721202</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je me félicite du climat consensuel qui règne ici ce soir pour une aussi belle cause.<br/>Avec cet amendement, nous vous proposons d’aller plus loin, comme nous l’avions déjà expliqué dans la proposition de loi que notre groupe avait déposée, et dont Jean-Luc Mélenchon était le premier signataire.<br/>Il s’agit d’anticiper toute évolution technique et d’interdire strictement toute méthode future – et pas uniquement la pêche au chalut – faisant usage de courant électrique, y compris à titre scientifique.<br/>Nous proposons aussi d’élargir cette interdiction à toutes les eaux sous souveraineté ou juridiction française, soit 200 milles au lieu de 12 milles, dans la perspective où de nouvelles techniques associant du courant électrique impulsionnel seraient mises au point et utilisées dans les hauts-fonds.<br/>Nous proposons d’élargir également cette interdiction à tous les navires battant pavillon français en haute mer – espace maritime international – puisque cette méthode contrevient aux objectifs de conservation des ressources et aux engagements français sur la scène internationale.<br/>La disposition que nous proposons permettrait de frapper définitivement fort et de manière complète contre l’interdiction de la pêche électrique en France et sur le littoral, et plus largement sur la bande des 200 milles.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Erwan Balanant" qualite="rapporteur" id_acteur="PA719558" id_nomination_oe="-1" id_nomination_op="-722696" id_mandat="PM722696">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353412" ordre_absolu_seance="33" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="1708651" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353413" ordre_absolu_seance="34" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1708652" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Erwan Balanant</nom>
+                <id>719558</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je comprends vos préoccupations qui, je le crois, sont partagées unanimement sur le fond. Toutefois, cet amendement pose quelques problèmes.<br/>Si l’on veut que la proposition de loi soit efficace rapidement et qu’elle entre parfaitement dans le cadre du règlement européen, il faut qu’elle en respecte les attendus.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353415" ordre_absolu_seance="36" id_acteur="PA720422" id_mandat="PM722960" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708654" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Adrien Quatennens</nom>
+                <id>720422</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>On ne peut pas faire grand-chose dans le cadre de ce règlement !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353416" ordre_absolu_seance="37" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="1708655" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Erwan Balanant</nom>
+                <id>719558</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Si, avec cette proposition de loi nous faisons beaucoup, comme nous l’ont dit les pêcheurs.<br/>Vous souhaitez aller plus loin en anticipant les méthodes à venir. Mais légiférer sur des méthodes futures me paraît un peu compliqué. Cela se fait très peu, en vertu du principe de précaution. Nous serons toutes et tous vigilants sur cette question, ainsi que les nouveaux députés européens.<br/>Vous souhaitez également interdire la pêche électrique en tous lieux aux navires battant pavillon français. Or vous savez bien qu’aucun navire français et aucun armateur français ne pratiquent la pêche électrique, l’équipement d’un bateau de pêche électrique coûtant très cher. Je ne vois pas quel serait l’intérêt pour un armateur français d’équiper son bateau pour une période transitoire de deux ans, surtout qu’il ne pourra pas pêcher dans les 12 milles nautiques.<br/>Je signale au passage que beaucoup ont parlé des eaux territoriales alors qu’il s’agit en fait de la mer territoriale française, des 12 milles nautiques, juste la fine bande. Mais c’est là qu’il y a du poisson et qu’on peut pratiquer la pêche électrique puisqu’il faut aller dans les fonds marins.<br/>Je vous demande donc de retirer votre amendement. À défaut, j’y suis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. François de Rugy" qualite="ministre d'État" id_acteur="PA332747" id_nomination_oe="PM758790" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353420" ordre_absolu_seance="128" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="1708659" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353421" ordre_absolu_seance="129" id_acteur="PA332747" id_mandat="-1" id_nomination_oe="PM758790" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="1708660" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. François de Rugy</nom>
+                <id>332747</id>
+                <qualite>ministre d’État</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Même avis que le rapporteur. Vous souhaitez anticiper sur les méthodes à venir, ce qui est sans objet.<br/>La recherche scientifique n’a rien à voir avec la pêche électrique au chalut telle qu’elle est toujours pratiquée par les bateaux néerlandais. L’Agence française pour la biodiversité utilise des techniques électriques pour mesurer l’état de telle ou telle espèce en rivière, et elle pourrait être amenée à le faire également en estuaire ou en bord de mer. On est bien dans un champ scientifique qui est extrêmement encadré. Il ne faudrait pas qu’une disposition législative comme celle que vous proposez vienne empêcher ces mesures.<br/>C’est pourquoi je vous invite à retirer l’amendement. À défaut, j’émettrais un avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353424" ordre_absolu_seance="132" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708663" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Éric Coquerel.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1353425" ordre_absolu_seance="133" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708664" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Éric Coquerel</nom>
+                <id>721202</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je vous ferai remarquer que nous ne parlons que de la pêche. Je suis preneur d’un amendement qui concernerait des mesures scientifiques n’ayant aucun rapport avec la pêche électrique.<br/>Si j’ai bien compris vos propos, monsieur le rapporteur, notre amendement ne vous pose pas de problème mais il n’est pas nécessaire puisqu’il anticipe des choses qui n’existent pas aujourd’hui. En matière de prédation sur les ressources naturelles, le passé me convainc qu’il vaut parfois mieux anticiper les « progrès » – en fait ce serait plutôt le contraire d’un progrès. Je suis beaucoup moins optimiste que vous sur l’idée qu’il faudrait des années-lumière pour que les systèmes de chalut à hauts-fonds n’utilisent pas ce genre de procédé. Je ne vois pas pourquoi on ne pourrait pas légiférer pour l’avenir sur cette question et de ce fait clore le débat.<br/>Je maintiens donc cet amendement, en espérant que notre assemblée le votera.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Erwan Balanant" qualite="rapporteur" id_acteur="PA719558" id_nomination_oe="-1" id_nomination_op="-722696" id_mandat="PM722696">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353171" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1708025" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le rapporteur.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353172" ordre_absolu_seance="2" id_acteur="PA719558" id_mandat="PM722696" id_nomination_oe="-1" id_nomination_op="-722696" code_grammaire="DISC_ARTICLES_1_30_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1708026" valeur="" bibard="" art="" adt=" 3" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>M. Erwan Balanant</nom>
+                <id>719558</id>
+                <qualite>rapporteur</qualite>
+              </orateur>
+            </orateurs>
+            <texte>La question est aussi celle du texte par rapport au règlement européen. Nous aurons demain de nouveaux députés européens à qui il reviendra de se montrer extrêmement vigilants dans ce domaine. La pêche doit continuer à être gérée au niveau européen. Elle relève des institutions européennes qui doivent conserver cette compétence, sinon nous courons à la catastrophe, comme l’a souligné le ministre. </texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353173" ordre_absolu_seance="3" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1708027" valeur=" 3" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant></italique>
+            <italique> </italique>
+            <italique>3 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353174" ordre_absolu_seance="4" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SCRUT_ART_PUB_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708028" valeur=" article unique" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je mets aux voix l’article unique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353175" ordre_absolu_seance="5" code_grammaire="SCRUT_ART_PUB_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1708029" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(Il est procédé au scrutin.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353176" ordre_absolu_seance="6" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SCRUT_ART_PUB_1_8" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708030" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        54<br/>        Nombre de suffrages exprimés                54<br/>        Majorité absolue                        28<br/>                Pour l’adoption                54<br/>                Contre                0</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1353177" ordre_absolu_seance="7" code_grammaire="SCRUT_ART_PUB_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1708031" valeur=" article unique" decision="">
+          <orateurs/>
+          <texte>
+            <italique>(L’article</italique>
+            <italique/>
+            <italique>unique est adopté</italique>
+            <italique>, ainsi que l’ensemble de la proposition de loi.)</italique>
+            <italique/>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="1353179" ordre_absolu_seance="9" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1708033" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1353180" ordre_absolu_seance="10" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1708034" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, demain, à neuf heures trente :<br/>Discussion du projet de loi pour la conservation et la restauration de la cathédrale Notre-Dame de Paris et instituant une souscription nationale.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1353181" ordre_absolu_seance="11" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1708035" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1353182" ordre_absolu_seance="12" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1708036" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

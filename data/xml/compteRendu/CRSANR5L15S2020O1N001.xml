@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2020O1N001</uid>
+  <metadonnees>
+    <dateSeance>20191001100000000</dateSeance>
+    <dateSeanceJour>mardi 01 octobre 2019</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>1</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>session ordinaire 2019-2020</session>
+    <nomFichierJo>20190001</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Tue, 15 Oct 2019 17:41:07 GMT</horaireGmt>
+    <heureGeneration>2019-10-15T19:41:09.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1839637">Présidence de M. Richard Ferrand</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1839641">
+          <intitule>Ouverture de la session ordinaire</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1839644">
+          <intitule>Nomination du Bureau</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="1839675">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du mardi 01 octobre 2019</journee>
+      <session>session ordinaire 2019-2020</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1441806" ordre_absolu_seance="1" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1839637" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Richard Ferrand</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1441807" ordre_absolu_seance="2" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839638" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1441808" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1839639" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à dix heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1441810" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1839641" valeur="">
+      <orateurs/>
+      <texte>Ouverture de la session ordinaire</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1441811" ordre_absolu_seance="6" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839642" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Conformément au premier alinéa de l’article 28 de la Constitution, je déclare ouverte la session ordinaire 2019-2020.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1441813" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1839644" valeur="">
+      <orateurs/>
+      <texte>Nomination du Bureau</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1441814" ordre_absolu_seance="9" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839645" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>En application de l’article 10, alinéa 3, du règlement, les présidents des groupes se sont réunis hier soir. Ils sont parvenus à un accord sur la répartition des postes et l’ordre de présentation des candidats. Les présidents des groupes La France insoumise et de la Gauche démocrate et républicaine ont toutefois regretté que le règlement ne permette pas à tous les groupes de disposer d’un poste de vice-président.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1441814" ordre_absolu_seance="11" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839683" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est vrai !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1441814" ordre_absolu_seance="12" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="ANNONCE_CCATION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839682" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>606171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous prenons acte de cette position.<br/>En application de l’article 10, alinéa 8 du règlement, je proclame, dans l’ordre de leur présentation, vice-présidents :<br/>Mme Annie Genevard ;<br/>M. Hugues Renson ;<br/>Mme Laetitia Saint-Paul ;<br/>M. Sylvain Waserman ;<br/>M. Marc Le Fur ;<br/>M. David Habib.<br/><italique>(Applaudissements sur les bancs des groupes LaREM, LR, MODEM, SOC, UDI-AGIR, LT, GDR et parmi les députés non-inscrits.)</italique><br/> <br/>Je proclame questeurs :<br/>M. Florian Bachelier ;<br/>Mme Laurianne Rossi ;<br/>M. Éric Ciotti.  <br/><italique>(Applaudissements sur les bancs des groupes LaREM, LR, MODEM, SOC, UDI-AGIR, LT, GDR et parmi les députés non-inscrits.)</italique><br/> <br/>Enfin je proclame secrétaires :<br/>Mme Bérangère Abba ;<br/>Mme Sophie Auconie ;<br/>M. Alexis Corbière ;<br/>Mme Bérangère Couillard ;<br/>M. Yannick Favennec Becot ;<br/>Mme Véronique Hammerer ;<br/>Mme Laure de La Raudière ;<br/>M. Jean François Mbaye ;<br/>Mme Sophie Mette ;<br/>M. Rémy Rebeyrotte ;<br/>M. Gabriel Serville ;<br/>M. Bertrand Sorre.<br/><italique>(Applaudissements sur les bancs des groupes LaREM, LR, MODEM, SOC, UDI-AGIR, LT, GDR et parmi les députés non-inscrits.)</italique><br/> <br/>Le Bureau de l’Assemblée nationale est donc constitué. Sa composition sera notifiée au Président de la République, au Premier ministre, au président du Sénat et publiée au Journal officiel.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="1" id_preparation="1441844" ordre_absolu_seance="45" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1839675" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1441845" ordre_absolu_seance="46" id_acteur="PA606171" id_mandat="PM722632" id_nomination_oe="-1" id_nomination_op="PM758870" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1839676" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>606171</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, cet après-midi, à quinze heures :<br/>Hommage au Président Jacques Chirac ;<br/>Questions au Gouvernement.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1441848" ordre_absolu_seance="49" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1839679" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix heures cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="1441849" ordre_absolu_seance="50" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1839680" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

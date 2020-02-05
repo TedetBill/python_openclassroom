@@ -1,0 +1,1044 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N218</uid>
+  <metadonnees>
+    <dateSeance>20190430213000000</dateSeance>
+    <dateSeanceJour>mardi 30 avril 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>218</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20190218</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Thu, 02 May 2019 13:18:03 GMT</horaireGmt>
+    <heureGeneration>2019-05-02T15:18:03.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1702166">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1702170">
+          <intitule>Déclaration du Gouvernement sur le projet de programme de stabilité pour les années 2019-2022</intitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1702173">
+          <intitule>Débat sur le bilan social des ordonnances travail</intitule>
+        </titreStruct>
+        <para id_syceron="1702176">M. Pierre Dharréville</para>
+        <para id_syceron="1702200">M. Yannick Favennec Becot</para>
+        <para id_syceron="1702356">M. Laurent Pietraszewski</para>
+        <para id_syceron="1702371">M. Gérard Cherpion</para>
+        <para id_syceron="1702437">Mme Michèle de Vaucouleurs</para>
+        <para id_syceron="1702451">M. Boris Vallaud</para>
+        <para id_syceron="1702465">M. Francis Vercamer</para>
+        <para id_syceron="1702565">M. Adrien Quatennens</para>
+        <para id_syceron="1702583">Mme Muriel Pénicaud, ministre du travail</para>
+        <para id_syceron="1702552">M. Pierre Dharréville</para>
+        <para id_syceron="1702557">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702481">M. Yannick Favennec Becot</para>
+        <para id_syceron="1702487">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702491">Mme Carole Grandjean</para>
+        <para id_syceron="1702497">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702502">M. Sylvain Maillard</para>
+        <para id_syceron="1702508">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702513">Mme Isabelle Valentin</para>
+        <para id_syceron="1702614">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702619">Mme Laurence Trastour-Isnart</para>
+        <para id_syceron="1702623">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702627">Mme Sarah El Haïry</para>
+        <para id_syceron="1702631">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702635">Mme Ericka Bareigts</para>
+        <para id_syceron="1702433">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702394">Mme Agnès Firmin Le Bodo</para>
+        <para id_syceron="1702435">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702403">M. Alexis Corbière</para>
+        <para id_syceron="1702431">Mme Muriel Pénicaud, ministre</para>
+        <para id_syceron="1702412">Mme Emmanuelle Ménard</para>
+        <para id_syceron="1702478">Mme Muriel Pénicaud, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="1702421">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mardi 30 avril 2019</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1348994" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1702166" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1348995" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702167" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1348996" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1702168" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1348998" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1702170" valeur="">
+      <orateurs/>
+      <texte>Déclaration du Gouvernement sur le projet de programme de stabilité pour les années 2019-2022</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1348999" ordre_absolu_seance="6" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_DECL_50_1_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702171" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le scrutin sur la déclaration du Gouvernement sur le projet de programme de stabilité pour 2019-2022, en application de l’article 50-1 de la Constitution, a eu lieu en fin d’après-midi.<br/>En voici le résultat :<br/>        Nombre de votants                        532<br/>        Nombre de suffrages exprimés                515<br/>        Majorité absolue des suffrages exprimés                        258<br/>                Pour l’approbation                334<br/>                Contre                181<br/>L’Assemblée nationale a approuvé la déclaration du Gouvernement sur le projet de programme de stabilité pour 2019-2022.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="1349001" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1702173" valeur="">
+      <orateurs/>
+      <texte>Débat sur le bilan social des ordonnances travail</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1349002" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702174" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle un débat sur le bilan social des ordonnances travail.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Dans un premier temps, nous entendrons les orateurs des groupes, puis le Gouvernement. Nous procéderons ensuite à une séance de questions et réponses.<br/>La parole est d’abord à M. Pierre Dharréville.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1349004" ordre_absolu_seance="11" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702176" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Dharréville</nom>
+            <id>718926</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous voici à quelques heures du 1<exposant>er</exposant> mai, fête des travailleurs et des travailleuses, fête revendicative qui a d’abord grandi autour de la réglementation du temps de travail et notamment la journée de huit heures. Nous avons fêté la semaine dernière le centième anniversaire de cette grande victoire sociale acquise de haute lutte, dans le sang même, et face à la répression. Nous vivrons demain la centième édition du 1<exposant>er</exposant> mai comme jour chômé payé, et nous en profiterons pour souffler les cent bougies de l’Organisation internationale du travail, l’OIT.<br/>Au sortir de la boucherie de la Première Guerre mondiale, venue entraver les conquêtes du mouvement ouvrier, mais n’ayant pas éteint son espoir, tandis que les jeunes travailleurs avaient péri en masse sur le front et que les femmes avaient pris une place nouvelle dans le travail salarié, ces décisions s’imposaient. C’était le sens de l’histoire. Mais il avait fallu de gigantesques batailles pour y parvenir.<br/>Alors, ce soir, je me souviens. Je sais qu’un siècle a passé, et pourtant, dans cette société profondément transformée, des constantes apparaissent. La bataille du progrès social, la bataille du monde du travail face à la domination du camp du capital, requiert toujours des mobilisations puissantes. Car après le temps des victoires, il y a eu le temps des reculs, le temps des reflux ; et nous voici aujourd’hui effarés d’entendre à nouveau cette vieille rengaine de l’augmentation du temps de travail, qu’est venue servir cette batterie d’ordonnances.<br/>Alors, ce soir, je pense à tous ceux et celles qui, comme tant d’autres avant eux, manifesteront demain dans les villes de notre pays et partout dans le monde. Ils ne le feront pas par folklore, mais avec jusque dans leurs têtes ce parfum de muguet et de liberté. Ils le feront pour résister, mais aussi pour porter leurs rêves en place publique.<br/>Depuis le 16 septembre 2018, voici dix-huit mois maintenant, nous travaillons sous le régime de vos ordonnances, madame la ministre du travail. Avec ces ordonnances, vous affichiez l’intention bon enfant de renforcer le dialogue social. Ce fut le premier geste de votre majorité, notre premier grand coup de colère aussi : l’entrée en matière du quinquennat était une attaque frontale contre le code du travail, et vous agissiez en court-circuitant l’Assemblée nationale qui venait d’être élue et l’ensemble du Parlement.<br/>Comment ne pas y voir la marque de fabrique d’une politique qui a mis le pays sens dessus dessous ? Comment ne pas y voir le sceau d’une politique menée en faveur des puissants en affaiblissant la loi ? Comment ne pas y voir l’illustration d’une lutte de classe menée avec constance au détriment des salariés et de leurs conditions de travail ? On vous a bien entendue, madame la ministre, expliquer que la liberté du plus fort protège tous ceux qui lui sont liés, de même que sa gourmandise leur profiterait... On vous a bien entendue promettre que faciliter les licenciements ferait baisser le chômage. On vous a bien entendue prétendre que diminuer le nombre de représentants du personnel et contourner les organisations syndicales permettrait d’améliorer le dialogue social. On vous a bien entendue dire que la santé au travail ne pâtirait pas de la suppression d’une instance autonome dédiée, les comités d’hygiène, de sécurité et des conditions de travail – CHSCT. On vous a bien entendue prétendre que certes vous « libériez » – ou plutôt que vous libéralisiez – mais qu’ensuite on vous verrait protéger. Mais nous n’avons rien vu venir.<br/>La vérité est donc devant nous, nue et crue. Vous avez attaqué le code du travail à la hache. Vous avez affaibli l’ensemble des normes, les soumettant à la discussion et donc à la remise en cause. Vous avez donc ouvert les vannes au dumping social, vous l’avez débridé au sein même de notre pays. Vous pensez finalement que la meilleure norme est celle qui s’écrit au fil de l’eau, et que moins la puissance publique, par le biais de la loi, se mêle de fixer le cadre, plus on se rapproche du meilleur des mondes.<br/>Nous sommes donc curieux d’entendre le bilan que vous dressez de ces choix, dix-huit mois plus tard – curieux, mais sans illusions, car la capacité de remise en cause dont a fait preuve le Président de la République voici quelques jours nous semble fixer pour le coup un cadre très limité au Gouvernement en la matière.<br/>Quels constats peut-on faire ?<br/>Le chômage n’a pas amorcé de baisse significative, ni la précarité cessé de croître. Le travail ne se porte pas mieux. Le mal-travail, la souffrance au travail, l’exposition aux risques, la pénibilité sont loin de reculer. Les salaires et le pouvoir d’achat des salariés ne voient pas d’amélioration se profiler et vos tours de passe-passe dégradant le salaire brut et la protection sociale ne font que noircir le tableau. Le dialogue social n’a pas connu le gain de qualité promis, à moins qu’on ne le juge aux régressions enregistrées, parfois consenties dans un rapport de force compliqué et des relations asymétriques. En revanche, les droits des salariés et leurs conditions de travail, comme leur place dans les décisions des entreprises, deviennent de plus en plus inégaux d’une entreprise à l’autre et d’une branche à l’autre ; ils connaissent de nouveaux reculs.<br/>Prenons ces ordonnances une à une.<br/>La première ordonnance visait à renforcer la négociation collective. En réalité, il s’agissait de donner la primauté, dans un grand nombre de domaines, à la négociation d’entreprise puis à la négociation de branche, et d’affaiblir d’un côté le champ de la norme législative et de l’autre côté celui du contrat de travail. Un nombre modeste d’accords ont été conclus dans les TPE-PME. On aimerait avoir des éléments qualitatifs pour en juger, mais ces modifications générales des contrats de travail se sont-elles faites sans recul pour les salariés concernés ? Ce que vous appelez du grain à moudre, ce sont en réalité des droits et des conditions de travail et de rémunération à concasser.<br/>Pour ce qui concerne les accords de branche, une seule s’est saisie des nouvelles dispositions, et pour accentuer la précarisation dans son secteur.<br/>La deuxième ordonnance visait à réorganiser les instances représentatives du personnel et, prétendument, à favoriser l’exercice des activités syndicales. Résultat : 24 000 mandats ont été pourvus contre 36 000 précédemment, soit une diminution d’un tiers. Selon les estimations de France Stratégie, la réduction va, selon les entreprises, de 30 à 50 %. On constate un éloignement et un resserrement, critiqués par les organisations syndicales. Le conseil d’entreprise, allant plus loin encore, n’a pas séduit. La suppression des CHSCT débouche de fait sur une diminution des moyens disponibles en faveur de la santé, de la sécurité et des conditions de travail. Nous risquons d’en payer le prix fort.<br/>La troisième ordonnance voulait sécuriser les relations de travail. On constate une nouvelle baisse significative des contentieux devant les prud’hommes, ce qui n’est pas le signe d’une amélioration, mais d’un non-recours à la justice plus élevé et donc d’une plus grande difficulté à faire valoir ses droits. Il y a aujourd’hui une révolte des conseils de prud’hommes qui se réfèrent aux textes de l’OIT pour remettre en cause la barémisation des licenciements abusifs et illégaux. Vous devez entendre cette protestation qui naît de l’examen concret des cas, et de l’expertise des prud’hommes.<br/>Vous avez facilité les licenciements économiques, et les licenciements tout court. Vous avez mis en place la rupture conventionnelle collective, contournement organisé des plans sociaux et des obligations qu’ils imposent aux entreprises à l’égard des salariés. Soixante-six entreprises y ont eu recours, dont de grandes enseignes, parmi lesquelles des banques et des firmes des secteurs de l’automobile ou de l’informatique.<br/>La dernière ordonnance revient sur la reconnaissance de la pénibilité, un des rares aspects positifs de la loi travail, en simplifiant les obligations des entreprises. Le risque chimique notamment en a fait les frais ;  nous avions gagné un rapport sur le sujet, qui vous a été remis par le professeur Frimat. Mais il est resté pour l’heure lettre morte.<br/>Après cela, on peut toujours vanter la valeur travail. Nul ne doute de la valeur du travail. Madame la ministre, vous avez même affirmé cet après-midi, une fois n’est pas coutume, que la richesse d’une nation venait du volume de travail. Encore faudrait-il tirer toutes les conséquences de cette maxime, reconnaître le travail et le soigner comme il le mérite.<br/>Votre démarche est sans ambiguïté : vous voulez abaisser la rémunération du travail, augmenter le temps de travail, précariser les salariés pour faciliter la vie des employeurs, mobiliser la force de travail sans être trop tatillon sur les conséquences humaines, affaiblir les forces syndicales des salariés, encourager le dumping social, exonérer les entreprises – et notamment les plus grandes – de leurs responsabilités dans la bataille du pouvoir d’achat en leur épargnant de toucher aux dividendes et à la répartition de la valeur. Avec de tels attendus, on ne peut pas obtenir de bons résultats.<br/>La fuite en avant libérale dans laquelle vous précipitez le pays est dangereuse, et à bien des égards insupportable. Nous sommes là au cœur de la question sociale, qui est au centre du débat et des mobilisations dans notre pays.<br/>C’est pourquoi nous vous demandons de regarder en face ces ordonnances et leurs résultats. Votre responsabilité politique est d’entendre cette protestation profonde, qui demain encore résonnera le 1<exposant>er</exposant> mai pour appeler d’autres dynamiques sociales, une autre conception du travail, le respect de la dignité des femmes et des hommes qui font la richesse et qui veulent la partager.<br/>Et si vous tendez un peu l’oreille, vous entendrez résonner ce vieux poème de Jacques Charpentreau :<br/>« De notre peine est fait le monde,<br/>De nos mains nous l’avons construit,<br/>C’est par nous que la forge gronde,<br/>Que le bois chante et l’acier luit.<br/>Il reste tant et tant à faire<br/>Mais nous ferons jaillir demain<br/>Travailleurs, mes amis, mes frères,<br/>Un monde nouveau de nos mains. »<br/>Ce poème, et quelques autres, mais aussi des mots plus contemporains, sauront peut-être vous rappeler l’urgence d’œuvrer à la justice. <italique>(Applaudissements sur les bancs des groupes SOC et FI.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Yannick Favennec Becot" id_acteur="PA267042" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722910">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1349027" ordre_absolu_seance="34" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Yannick Favennec Becot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="1349028" ordre_absolu_seance="35" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec Becot</nom>
+              <id>267042</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La France de 2019 n’est plus la France de 1945. Les circonstances qui ont conduit à l’avènement de notre modèle social ont bien changé. La transition de notre société soulève des questions multiples ; en particulier, les évolutions sur le marché du travail remettent en question le cadre salarial classique et plus largement le modèle social, français auquel nous sommes tous tant attachés.<br/>À son arrivée au pouvoir, le président Emmanuel Macron semblait avoir saisi la nécessité de prendre en considération ces évolutions et d’actualiser ce modèle. Avec le Gouvernement, et avec vous en premier lieu, madame la ministre, il s’était attelé à un chantier majeur : celui de la réforme de notre code du travail.<br/>Dans un cadre social où les corps intermédiaires ne cessent de s’affaiblir et où la figure de l’individu monte en puissance, nous nous devons de revoir notre façon de dialoguer et de négocier. Le Gouvernement l’avait bien compris en faisant du renforcement du dialogue social l’une de ses priorités.<br/>Mais quelle ironie alors que de procéder par ordonnances sur un tel sujet ! La concertation parlementaire a été bridée, il faut le reconnaître. Choisir les ordonnances, au prétexte de l’urgence, n’était pas le choix le plus judicieux – et nous ne savions pas encore à l’époque qu’il deviendrait malheureusement une mauvaise habitude.<br/>Nous ne pouvons certes pas revenir sur la forme, mais l’opportunité nous est donnée aujourd’hui de dresser un bilan de ces ordonnances pour le renforcement du dialogue social. En cette veille du 1<exposant>er</exposant> mai, fête du travail, l’occasion me semble bien trouvée.<br/>Certaines de ces mesures étaient nécessaires pour les entreprises, qui les attendaient. Pour répondre au chômage persistant, notre marché du travail avait grand besoin de plus de flexibilité – sans pour autant que soit menacée la sécurité. Il était également nécessaire que notre code du travail accompagne les évolutions de l’emploi, encadre et sécurise les nouvelles pratiques.<br/>Certaines avancées doivent donc être saluées. Je pense par exemple à l’instauration de nouveaux droits pour les salariés correspondant à certaines aspirations : c’est le cas du télétravail. <br/>La hausse de l’indemnité légale de licenciement, de 25 % jusqu’à dix ans d’ancienneté, était également nécessaire.<br/>Concernant le dialogue social visant à inciter entreprises et salariés à négocier, qui figure au cœur du projet de loi d’habilitation, le bilan est en demi-teinte.<br/>Ces ordonnances devaient en théorie profiter à chacun des acteurs, en particulier aux TPE et PME. Rappelons que dans 96 % des TPE, il n’y a pas de syndicats. Il était donc urgent de doter nos petites entreprises de moyens pour favoriser le dialogue en leur sein. Pour autant, force est de constater que les entreprises peinent à se saisir des opportunités rendues possibles par les ordonnances.<br/>Je songe entre autres à la fusion des instances représentatives du personnel en une instance unique, le comité social et économique – CSE. Cette mesure était intéressante, ne serait-ce que parce que cela supprimait les effets de seuil. En effet, certaines entreprises préféraient ne pas embaucher plutôt que de dépasser un seuil leur imposant la création d’instances. Pourtant, à la fin de 2018, seules 10 500 entreprises ont mis en place un CSE. Si elles ont certes jusqu’au 31 décembre 2019 pour ce faire, elles ne semblent pas pressées de le faire.<br/>Peut-être pouvons-nous être plus optimistes sur la signature d’accords de performance collective. Fin 2018, 20 accords ont été signés dans des entreprises de plus de 250 salariés, 23 dans des PME et 4 dans des entreprises de moins de 11 salariés. Un peu plus de 400 textes ont par ailleurs été validés par référendum dans des entreprises de moins de 10 salariés. Mais les thèmes sont limités : il est presque exclusivement question du temps de travail.<br/>Le temps me manque pour aborder toutes les mesures des ordonnances travail, mais puisqu’il était avant tout question de renforcer le dialogue social, je conclurai sur la nécessité que les entreprises comme les salariés se saisissent de leurs nouveaux droits. Un an après la mise en œuvre de cette réforme, madame la ministre, que proposez-vous pour que chacun puisse en tirer profit ? Car, au-delà des chiffres, c’est bien un changement culturel au sein des entreprises qu’il faut accompagner.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Laurent Pietraszewski" id_acteur="PA720512" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722986">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1349042" ordre_absolu_seance="48" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702355" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Laurent Pietraszewski.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1349043" ordre_absolu_seance="49" id_acteur="PA720512" id_mandat="PM722986" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702356" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Pietraszewski</nom>
+              <id>720512</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes réunis ce soir à l’initiative de nos collègues députés du groupe GDR pour débattre du « bilan social des ordonnances travail » – ou, devrait-on dire pour être exact et conforme au titre de la loi, des « ordonnances pour le renforcement du dialogue social ». Aussi, je souhaite d’abord remercier les initiateurs de ce débat, qui nous permettent de mettre en lumière la refondation et la décentralisation du dialogue social que porte cette loi.<br/>Depuis notre arrivée aux responsabilités, en juin 2017, nous avons fait le pari du dialogue social, un dialogue social rénové, pragmatique, loin des fantasmes du grand soir, qui satisfont peut-être quelques théoriciens mais qui ne correspondent aux attentes ni des salariés ni des employeurs.<br/>Étant donné le temps qui m’est imparti ce soir, je n’évoquerai que quelques points mais, comme vous le savez, nous sommes chargés, avec mon collègue Boris Vallaud, d’élaborer un rapport sur la mise en application des ordonnances, rapport qui, lui, sera exhaustif, je n’en doute pas.<br/>Je me propose donc de partager avec vous une première analyse des moyens donnés aux partenaires sociaux pour adapter l’organisation de l’entreprise à son contexte économique : les ruptures conventionnelles collectives – RCC – et les accords de performance collective.<br/>Que n’avons-nous pas entendu sur les ruptures conventionnelles collectives : cela ne marcherait pas, jamais les organisations syndicales ne s’empareraient d’un tel outil ! Dix-huit mois plus tard, on constate pourtant qu’au 31 mars 2019, 121 entreprises se sont engagées dans la négociation d’un accord de RCC, que 78 accords ont été validés par les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi – DIRECCTE –, que 5 accords signés sont à l’instruction en vue de leur validation, que 19 négociations sont en cours et que 17 entreprises ont abandonné leur projet de RCC du fait de l’absence de volonté des organisations syndicales de conclure un accord. C’est la preuve concrète que sans accord majoritaire, il n’y a pas de RCC. Aucune inquiétude n’est donc de mise : le dialogue social fonctionne.<br/>Si les DIRECCTE ont dans un premier temps refusé de valider cinq accords de RCC, trois de ces accords ont donné lieu, dans un second temps, à une décision favorable. Chacun est donc à sa place : les partenaires sociaux négocient et les pouvoirs publics les accompagnent. Un seul contentieux est, par ailleurs, à signaler avec, au bout du compte, une décision de justice favorable à l’administration.<br/>Je veux maintenant aborder les accords de performance collective, outil également mis en place par les ordonnances. Ces APC – parfois aussi dits APCO –, peuvent être négociés et conclus dès lors qu’ils répondent à des nécessités liées au fonctionnement de l’entreprise en vue de préserver ou de développer l’emploi. Ils permettent d’aménager la durée du travail, ses modalités d’organisation ou de répartition, d’adapter la rémunération, de déterminer les conditions de mobilité professionnelle ou géographique interne à l’entreprise. La finalité de ces APC peut être défensive, pour répondre à des difficultés économiques, ou offensive, pour développer la croissance de l’entreprise.<br/>Que constate-t-on, dix-huit mois après la mise en œuvre des ordonnances pour le renforcement du dialogue social ? Que les Cassandre, les professionnels du mécontentement, une fois de plus, avaient tort, car les partenaires sociaux se sont saisis de cet outil innovant qu’est l’APC.<br/>Ainsi, au 1<exposant>er</exposant> avril 2019, 142 accords ont déjà été négociés et signés alors que sous les législatures précédentes, les dispositifs ayant les mêmes finalités mais éparpillés, n’avaient conduit qu’à quelques accords. Les entreprises ayant eu recours à un APC sont de toutes tailles : 43 comptent plus de 250 salariés ; 88 sont des PME ; 11 comptent moins de 11 salariés.         La très grande majorité des APC sont signés par des délégués syndicaux, des délégués du personnel ou des représentants du CSE : 65 % des accords sont signés à l’unanimité. Seuls 11 accords ont été adoptés par référendum.<br/>Enfin, je voudrais terminer mon propos par quelques mots sur les observatoires, outils dont il a été longuement question lors de nos débats. L’observatoire vise à encourager et à faciliter le dialogue social et la négociation collective au sein des entreprises de moins de 50 salariés. En janvier 2019, 97 observatoires ont été installés, dont 95 en métropole et 2 en outre-mer. <br/>À ce premier bilan purement quantitatif, s’ajoutent des aspects qualitatifs, comme nous l’avons constaté avec Boris Vallaud.<br/>Certes tout n’est parfait. J’ai conscience que le périmètre de la branche reste à investir. Le travail de regroupement demandait du temps. Celui qui était imparti s’écoule. Il reste aux entreprises à se saisir des périmètres et des territoires de négociation que nous leur avons ouverts.  <br/>À travers ces ordonnances, notre majorité a souhaité impulser un changement culturel profond. Notre volonté réformatrice porte incontestablement ses fruits, comme en témoigne l’augmentation du nombre des contrats à durée indéterminée – CDI – de 5 % au premier trimestre 2019. Voilà pourquoi, au travers de cette analyse factuelle des évolutions constatées, nous pouvons être fiers d’avoir mis en œuvre la plus grande réforme du dialogue social depuis les lois Auroux de 1982. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gérard Cherpion" id_acteur="PA856" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723288">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1349057" ordre_absolu_seance="62" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702370" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Gérard Cherpion.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="1349058" ordre_absolu_seance="63" id_acteur="PA856" id_mandat="PM723288" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérard Cherpion</nom>
+              <id>856</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le groupe GDR a décidé d’inscrire à notre ordre du jour un débat sur le bilan social des ordonnances travail à l’agenda de cette semaine, en cette veille de fête du travail.<br/>Tout d’abord, permettez-moi de vous dire qu’il est tôt pour dresser un réel bilan de cette réforme. Il faut laisser le temps aux acteurs de s’approprier des changements aussi importants que ceux qui ont été engagés dans le cadre de ces ordonnances. Ceci se traduit par exemple par le ralentissement observé des élections professionnelles en 2018.<br/>Nous avons l’habitude de vouloir effectuer un bilan rapidement, et de modifier la législation avant même d’avoir pu mettre en place et évaluer la précédente réforme. Ainsi la réforme El Khomri n’était-elle pas entièrement entrée en application qu’elle a été modifiée.<br/>À ce titre, nous ne pouvons que regretter que le Président de la République ait décidé de modifier une nouvelle fois l’environnement fiscal des entreprises. Après avoir tenu un discours pro-entreprises lors de la campagne présidentielle, après avoir transformé le crédit d’impôt pour la compétitivité et l’emploi – CICE – en baisse de charges, Emmanuel Macron va faire payer les entreprises par la suppression de certaines niches fiscales.<br/>Ce sujet n’est pas anecdotique, ni étranger à la question que nous abordons ce soir. En effet, la philosophie sous-jacente aux ordonnances travail était de redonner de la liberté et du souffle aux entreprises pour recréer de l’emploi. Si les avancées auxquelles ces ordonnances ont conduit sont obérées par des décisions fiscales à contre-courant, alors ne se feront sentir que des effets négatifs des ordonnances.<br/>La situation est pourtant alarmante. La France souffre d’un taux de chômage structurel de 8,8 %, taux qui, même s’il diminue, reste très élevé et peine à baisser durablement. Nous nous classons, hélas, à la quatrième place des pays au taux de chômage le plus élevé en Europe, après la Grèce, l’Espagne et l’Italie. Triste réalité, alors que dix-sept pays connaissent un taux de chômage inférieur à 5 %, autant dire un réel plein emploi. Le Président de la République considère que le plein emploi sera atteint dans notre pays en 2022, avec un taux de chômage de 7 %. Cet objectif, qui n’est ni volontariste, ni ambitieux, ne correspond pas non plus au plein emploi.<br/>L’une des mesures emblématiques de la réforme du code du travail par ces ordonnances est la rénovation du dialogue social, et notamment la création du comité social et économique, qui résulte de la fusion de la fusion de trois instances représentatives : comité d’entreprise, comité d’hygiène, de sécurité et des conditions de travail et délégués du personnel.<br/>À la date de novembre 2018, 10 500 entreprises ont mis en place un CSE. La plupart doivent le faire en 2019, preuve d’ailleurs de la difficulté pour une réforme d’être mise en application. Comme l’indique Jean-François Pilliard dans son rapport, les entreprises et les représentants des salariés ont choisi d’avancer prudemment et de s’approprier les outils, avant de se lancer dans l’application d’une telle réforme.<br/>On assiste également, dans la très grande majorité des cas, à une adaptation a minima des instances représentatives des salariés. Peu de changements à l’issue d’une réflexion globale, plutôt une reconduction des pratiques antérieures adaptées au nouveau cadre. <br/>De plus, cette réforme fait courir un risque de centralisation des sujets sociaux et économiques à traiter, induit par le CSE, qui pourrait conduire à un plus grand formalisme. <br/>L’une des raisons de ce retard est également la mauvaise connaissance des dispositions. Selon un sondage réalisé en juin 2018, les mesures relatives à la mise en place du CSE n’étaient connues que par 47 % des dirigeants d’entreprises de moins de 300 salariés et 39 % des représentants du personnel. Lorsque le Gouvernement engage de telles réformes, il est essentiel que l’État accompagne mieux les acteurs de terrain, notamment les petites et moyennes entreprises, qui, bien souvent, n’ont pas de direction des ressources humaines. Xavier Bertrand soulignait à cet égard la nécessité d’instaurer un « service après-vote ».<br/>Nous pouvons nous demander si toutes les entreprises seront à même de mettre en place un CSE avant la fin de l’année 2019, conformément à la loi.<br/>Le sujet le mieux identifié par les acteurs reste celui de la réforme prud’homale et du barème, dont de nombreux conseils prud’homaux refusent l’application, et s’en affranchissent. Cette mesure devait pourtant sécuriser les employeurs et leur redonner confiance dans l’embauche.<br/>Or, s’agissant des licenciements individuels, le nombre de demandes déposées auprès des conseils des prud’hommes a été divisé par deux en vingt ans – 120 000 en 2014 contre 240 000 en 1998. Cette baisse s’explique principalement par la mise en place de la rupture conventionnelle individuelle en 2008 et par les changements de procédure introduits en 2016. Depuis 2017 et la mise en place du barème des indemnités pour licenciement abusif, on ne constate pas de baisse du contentieux, tant sur le nombre des recours, que sur leur motif.<br/>Une autre mesure importante concerne les ruptures conventionnelles collectives – RCC. Dans le privé comme le public, il convient de rester vigilants, afin que les RCC ne soient pas conclues au détriment des plans de sauvegarde de l’emploi, même si le nombre de ces derniers baisse, ce dont nous pouvons nous réjouir.<br/>En matière de négociation collective, 500 accords ont été ratifiés par référendum au sein d’entreprises de 1 à 20 salariés en octobre 2018. Dans leur très grande majorité, ils abordent des questions relatives au temps de travail.<br/>D’autres sujets mériteraient d’être évoqués, comme le référendum dans les TPE ou les travailleurs détachés.<br/>Madame la ministre, les ordonnances travail ont fait la preuve de leur intérêt pour les entreprises, on ne peut que s’en réjouir. Pour autant, elles n’apportent pas de solution au problème de l’emploi, dont vous savez comme moi, qu’il est la première préoccupation des Français. <italique>(Applaudissements sur les bancs du groupe UDI-Agir.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Michèle de Vaucouleurs" id_acteur="PA721924" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723422">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349076" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702436" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Michèle de Vaucouleurs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349077" ordre_absolu_seance="2" id_acteur="PA721924" id_mandat="PM723422" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702437" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Michèle de Vaucouleurs</nom>
+              <id>721924</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À l’été 2017, nous débattions du projet de loi d’habilitation à prendre par ordonnances des mesures pour le renforcement du dialogue social. Ces ordonnances, ratifiées puis signées en septembre 2017, constituaient la première étape d’une vaste refonte du marché de l’emploi, du code du travail et de l’écosystème interne de l’entreprise.<br/>Cette réforme visait à faire converger la performance sociale et la performance économique en tenant compte de la diversité des attentes des salariés et des besoins des entreprises. Après une longue période de négociation avec les syndicats, le Gouvernement a posé les jalons d’une rénovation du dialogue social au sein de l’entreprise à travers plusieurs ordonnances. Celles-ci avaient pour but de définir une nouvelle articulation de l’accord d’entreprise et de l’accord de branche, tout en élargissant, de façon sécurisée, le champ de la négociation collective ; de simplifier et renforcer le dialogue économique et social, notamment par le biais de la transformation des institutions représentatives du personnel ; de rendre les règles régissant la relation de travail plus prévisibles et plus sécurisantes pour l’employeur comme pour les salariés.<br/>C’est donc tout un pan du code du travail relatif à la négociation collective qui a été modifié par ces ordonnances en fixant un nouveau périmètre de négociation des accords de branche et d’entreprise ainsi qu’en définissant de nouvelles modalités de négociation et de validation des accords.<br/>Le groupe MODEM a pleinement soutenu ce projet social dont l’objectif était de parvenir à une meilleure reconnaissance de la situation particulière de chacun et à une meilleure contribution de tous à de nouveaux équilibres sociétaux.<br/>En facilitant les accords d’entreprise, nous avons reconnu les travailleurs dans leur diversité, nous sommes sortis de l’uniformité qui ignorait la particularité d’un secteur économique ou la spécificité d’un territoire.<br/>Cette réforme devait permettre d’instaurer plus de flexibilité et plus de mouvement tout en conservant un socle juridique sécurisé. Ainsi, la branche a été maintenue car dans certains secteurs c’est bien à son niveau et pas à celui de l’entreprise qu’efficacité économique et justice sociale peuvent le mieux se conjuguer.<br/>Nous avons donné à toutes les entreprises la liberté de signer des accords qui tiennent compte de leur taille, de leurs capacités de représentation, et de modalités différentes de dialogue, ainsi que de lever les blocages en recourant au vote démocratique de tous les salariés.<br/>Cette loi avait pour objectif de garantir les droits fondamentaux et le cadre commun afin d’honorer la promesse républicaine autant que l’obligation de lutte contre toutes les formes de moins-disance ou de dumping social.<br/>Le second volet de cette réforme visait à développer un dialogue social rompant avec la logique de l’affrontement dans lequel chacun campait sur ses postures, souvent éloignées du vécu concret des entreprises. Nous avons voulu renforcer le rôle des représentants des salariés et des employeurs afin de passer d’une logique de conflit à une logique de négociation pour aboutir à des accords aux termes desquels chacun fait un pas vers l’autre.<br/>Plus de dix-huit mois après la signature de ces ordonnances, notre groupe se montre particulièrement attentif aux premiers résultats concrets dans ce vaste chantier. Madame la ministre, quelles premières indications pouvez-vous nous donner sur les accords conclus sous de nouvelles formes ? Disposez-vous de chiffres relatifs aux accords de performance collective qui ont été introduits par cette réforme ?<br/>Le groupe MODEM est particulièrement attaché aux TPE et PME qui constituent la très grande majorité du tissu entrepreneurial français. En effet, 96,5 % de nos entreprises emploient moins de 20 salariés. Or, en 2016, le taux de négociation collective au sein des TPE atteignait seulement 23 %. L’un des principaux axes des ordonnances consistait précisément à donner la priorité à de telles structures. Pouvez-vous esquisser un bilan de l’appropriation par les TPE des nouvelles dispositions prévues par les ordonnances ? Je pense par exemple à la possibilité pour les entreprises de moins de 20 salariés, ne disposant pas d’élus du personnel, de mener une négociation avec les salariés sur tous les sujets et de la valider par une consultation simple à la majorité des deux tiers.<br/>Pouvez-vous citer des exemples concrets de négociations au sein des TPE sur ces nouvelles bases ayant permis de conjuguer performance économique et performance sociale ?<br/>Plus de dix-huit mois après ces ordonnances et près d’un an après la loi pour la liberté de choisir son avenir professionnel, le groupe MODEM se tient à vos côtés pour réussir à retrouver une croissance pérenne de l’emploi et à endiguer enfin un chômage dont le taux est encore trop élevé dans notre pays. Nous devons continuer collectivement à tout faire pour rénover profondément et structurellement notre modèle social ainsi que pour restaurer la confiance qui manque tant dans notre pays. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Boris Vallaud" id_acteur="PA719930" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722804">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349090" ordre_absolu_seance="15" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Boris Vallaud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349091" ordre_absolu_seance="16" id_acteur="PA719930" id_mandat="PM722804" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702451" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Boris Vallaud</nom>
+              <id>719930</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Hier soir, alors que mon collègue Laurent Pietraszewski et moi-même terminions les premières auditions de syndicats de salariés dans le cadre du rapport d’application sur les ordonnances travail dont nous avons la charge, quelle ne fut pas ma surprise de lire sur l’écran de mon téléphone la notification suivante :« la réforme du code du travail commence à porter ses fruits ». Ces propos, madame la ministre, ce sont les vôtres, et ils sont à l’opposé de ce que les syndicats nous ont dit hier. Là où vous vous félicitez de l’application des ordonnances, les syndicats, eux, tirent à boulets rouges.<br/>Je pense au dialogue social et à la création des comités sociaux et économiques. D’abord, permettez-moi de trouver étrange que vous vous flattiez de l’application d’une obligation légale – c’est bien le moins – d’autant que celle-ci s’avère douloureuse : vous évoquez 12 000 CSE, soit moins de 20 % de l’objectif. Et que dire des conseils d’entreprise ? Il n’en a été créé que trois, c’est un flop. Les syndicats parlent d’un résultat très modeste, déplorent de mauvais accords et dénoncent une baisse d’un tiers du nombre d’élus au sein de ces CSE par rapport aux instances représentatives antérieures. Ils pointent du doigt les très nombreuses entreprises qui en profitent pour réduire, parfois drastiquement, les moyens alloués aux syndicats. À la question de savoir si cette loi, comme son intitulé l’indique, renforçait le dialogue social, ils ont répondu sans ambages non. <br/>Je pense aussi aux sujets qui fâchent, ceux que vous évitez soigneusement d’évoquer publiquement. C’est le cas de la suppression des CHSCT qui conduit à négliger la question cruciale des conditions de travail. Les acteurs concernés regrettent cette disparition et s’inquiètent des conséquences sur la santé et la sécurité au travail.<br/>C’est également le cas, et la presse s’en est largement fait l’écho, du fiasco du barème imposé au conseil de prud’hommes qui introduit un droit au licenciement abusif et insécurise autant les salariés que les entreprises. Déjà trois conseils de prud’hommes refusent de l’appliquer. Et les dérives que nous avions décelées sont déjà à l’œuvre puisque les demandes glissent vers d’autres motifs, comme le harcèlement, pour contourner le barème. <br/>C’est le cas encore de la suppression du compte de prévention de la pénibilité auquel vous avez préféré un compte qui nous renvoie quinze ans en arrière et ne prévient, en vérité, plus grand-chose.<br/>Enfin, c’est le cas de l’abandon de la priorité donnée aux syndicats dans les petites entreprises pour négocier, qui met à mal le dialogue social, là où vous prétendiez le renforcer, ainsi que la qualité des accords quand il en est conclu.<br/>Peut-être ce débat parlementaire et cette série d’auditions qui commencent à l’Assemblée et qui, je l’espère, aboutiront à un rapport clair et objectif, vous conduisent-ils à faire, dans la précipitation, la promotion de vos ordonnances, alors que tous les acteurs les critiquent et les dénoncent. Ce n’est qu’une opération de communication, un contre-feu pour tenter de masquer l’échec du big bang que vous annonciez, un échec qui pourtant était à prévoir tant cette réforme a été faite sans considération des acteurs censés l’appliquer.<br/>Madame la ministre, j’ai lu que vous vous félicitiez du bon fonctionnement des ruptures conventionnelles collectives et des accords de performance collective. Je le rappelle à celles et ceux, sans doute très nombreux, qui nous regardent à cet instant, le premier permet à l’employeur de s’exonérer de ses obligations de reclassement tandis que le second permet de licencier plus facilement. Permettez-moi de vous dire que l’on n’avait encore jamais vu une ministre chargée du travail se féliciter de voir des dispositifs de licenciement fonctionner avec efficacité !<br/>Mais votre texte n’ayant apporté aucune sécurité ni protection nouvelle aux salariés, aucun droit nouveau, de quoi d’autre pourriez-vous bien vous féliciter ? Des CDI de chantier qui étaient censés révolutionner la vie des salariés précaires mais qui ne donnent surtout pas lieu au versement d’une indemnité de précarité ? Combien ont été conclus ? De vos mesures liées au télétravail dont les partenaires sociaux nous disent qu’elles sont un danger pour les salariés ? Du service public territorial de l’accès au droit et d’une version numérique du code du travail dont nous attendons toujours la réalisation concrète ?<br/>Chers collègues, les interrogations sont nombreuses, les inquiétudes fondées et les risques multiples. II y a un an et demi, vous nous aviez toisés, enfermés dans vos certitudes, en nous enjoignant de vous faire confiance. Dix-huit mois plus tard, à la veille de la mobilisation du 1<exposant>er</exposant> mai, qui peut encore avoir confiance ? <br/>N’est-il pas temps d’entendre la colère populaire et surtout d’écouter les acteurs de terrain, les syndicats auxquels vous proclamez quotidiennement votre confiance et votre amour, qui vous répètent, comme je suis en train de le faire, que la flexibilité que vous introduisez partout dans la société creuse les inégalités, précarise l’emploi et sape la valeur travail qui vous est si chère ?<br/>Un représentant syndical de salarié nous rapportait hier ce propos d’un représentant du patronat : « vous avez eu 1982, nous avons 2017 ».<br/>Madame la ministre, à plusieurs reprises vous avez revendiqué votre filiation avec les lois Delors. Alors entendez les mots de celui-ci : « on entend souvent dire que le partenariat social et le dialogue social seraient démodés. Je m’insurge contre de telles théories. »</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Francis Vercamer" id_acteur="PA267585" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722978">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349104" ordre_absolu_seance="29" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Francis Vercamer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="1349105" ordre_absolu_seance="30" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Francis Vercamer</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’apport des dispositions introduites par les ordonnances travail, adoptées en début de quinquennat, au dynamisme économique et à la création d’emplois ?<br/>Indéniablement, les ordonnances ont apporté des solutions à des problèmes qui se posaient dans les entreprises depuis de longues années, compliquant à l’excès leur fonctionnement ou entravant leur développement. C’est la raison pour laquelle, dans sa majorité, notre groupe avait autorisé le gouvernement à légiférer, conformément aux dispositions de l’article 38 de notre Constitution, puis avait ratifié ces ordonnances.<br/>Mais encore faut-il que ces solutions soient ensuite utilisées et que les partenaires sociaux se saisissent des nouveaux outils à leur disposition, notamment dans le cadre du dialogue social au sein de l’entreprise.<br/>Or, pour l’heure, force est de constater que ce processus commence à peine et que les nouvelles dispositions suscitent des interrogations dans les entreprises, tant chez les employeurs que chez les salariés.<br/>C’est le cas, par exemple, du plafonnement des indemnités accordées par les conseils de prud’hommes en cas de licenciement abusif. Si notre groupe avait approuvé l’objectif que le montant des indemnités soit plus prévisible pour l’entreprise, nous avions regretté les limites posées à l’appréciation du juge prud’homal et pointé les risques de contournement du barème. C’est précisément ce à quoi nous assistons pour le moment : les demandes à l’appui des recours comportent une multitude de motifs. Par ailleurs, les décisions successives des conseils de prud’hommes de Troyes, d’Amiens, et de Lyon remettent en cause l’application même du barème, laissant l’incertitude planée quant aux décisions qui seront prises en appel, puis le cas échéant, par la Cour de cassation. C’était prévisible et nous sommes encore loin de la sécurité juridique promise par la réforme. <br/>Des incertitudes similaires entourent par ailleurs l’installation progressive des CSE. Là encore, nous avions adhéré et adhérons toujours à la nécessité de simplifier l’organisation des institutions représentatives du personnel. Mais nous avions insisté sur l’exigence d’une vigilance particulière  quant à l’exercice effectif des attributions relatives à la sécurité des conditions de travail. Or, plusieurs cas nous ont été signalés d’entreprises au sein desquelles l’expertise acquise par les élus au CHSCT risque de faire défaut du fait de la réduction du nombre des représentants au CSE. Parce que la santé et la sécurité au travail constituent un enjeu majeur pour la prévention au sein de l’entreprise, nous appelons le Gouvernement à se préoccuper du suivi effectif de ces sujets par les CSE.<br/>J’en profite pour regretter que vous n’ayez pas saisi l’occasion de ces ordonnances pour aborder le relèvement des seuils sociaux, notamment de 10 et de 50 salariés. Notre groupe avait pourtant formulé des propositions en ce sens. Il aura fallu la loi PACTE – plan d’action pour la croissance et la transformation des entreprises –, qui vient d’être adoptée, pour que ce sujet soit enfin évoqué, encore qu’il l’ait été bien timidement. Nous avons inutilement perdu du temps, sans que le Gouvernement aille pour autant au terme du raisonnement en décidant de relèvements significatifs.<br/>Le flou concerne enfin la rupture conventionnelle collective. En septembre dernier, les chiffres de votre ministère indiquaient soixante-six procédures engagées, dont onze avaient échoué, de manière compréhensible puisque la situation des entreprises concernées relevait davantage d’un plan de sauvegarde de l’emploi. Si ces cas confirment les garanties qui entourent cette nouvelle procédure – l’exigence d’un accord collectif majoritaire préalable, l’implication du CSE et le contrôle de la DIRECCTE –  direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l’emploi –, ils révèlent aussi que la vigilance est de mise.<br/>L’enjeu reste la qualité de l’accompagnement des salariés, car une rupture conventionnelle collective doit pouvoir être l’occasion d’une reconversion et permettre de poursuivre un parcours professionnel, ce qui est loin d’être assuré.<br/>Là est sans doute l’écueil actuel des ordonnances travail : elles devaient s’insérer dans un ensemble global ; elles devaient constituer, avec la réforme de la formation professionnelle, le socle d’un système de flexisécurité qui soit enfin clairement défini. Dans un tel système, à la flexibilité naturelle dont une entreprise doit bénéficier pour évoluer sur son marché correspond une sécurité légitime dont bénéficie le salarié afin de retrouver un emploi.<br/>Or, à ce jour, la flexibilité qui déstabilise est davantage perçue que l’accompagnement qui sécurise. Pourtant, ce sont bien ces deux termes, flexibilité et sécurité, qui sont indispensables à l’équation de la réforme du marché du travail. De ce point de vue, des mesures restent à prendre, rapidement, pour donner à cette réforme une efficacité réelle.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Adrien Quatennens" id_acteur="PA720422" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722960">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349231" ordre_absolu_seance="4" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702564" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Adrien Quatennens.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349232" ordre_absolu_seance="5" id_acteur="PA720422" id_mandat="PM722960" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702565" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Adrien Quatennens</nom>
+              <id>720422</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je commencerai par remercier le groupe GDR d’avoir pris l’initiative de ce débat, qui nous permet, en cette veille du 1<exposant>er</exposant> mai, journée internationale des travailleurs, d’établir un premier bilan de vos ordonnances travail, madame la ministre.<br/>Ces ordonnances ont été la première pierre posée par Emmanuel Macron après son arrivée au pouvoir. Ou plutôt, puisque l’on parle d’une pierre, il s’est agi d’un coup porté aux salariés et au code du travail.<br/>Vous nous disiez alors vouloir « améliorer le dialogue social » et « faciliter les licenciements pour favoriser les embauches ». Vous résumiez cela par une formule, désormais trop célèbre : « libérer les énergies ». Pour notre part, nous vous disions que le code du travail n’avait jamais constitué un frein à l’embauche. Les employeurs eux-mêmes ne mettaient pas ce point en avant lorsqu’on les interrogeait.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349235" ordre_absolu_seance="8" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702568" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349236" ordre_absolu_seance="9" id_acteur="PA720422" id_mandat="PM722960" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702569" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Adrien Quatennens</nom>
+              <id>720422</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils mettaient plutôt en cause, pour 28 % d’entre eux, les questions économiques, notamment celle du carnet de commandes.<br/>Malgré nos alertes et les propositions alternatives que nous avons formulées dans le souci – qui est sans doute aussi le vôtre – de relancer l’emploi et l’activité dans notre pays, vous avez supprimé le CHSCT, c’est-à-dire l’expertise déléguée en matière de sécurité et des conditions de travail.<br/>En introduisant la barémisation des dommages et intérêts, même si cette mesure a été remise en cause par plusieurs tribunaux, vous avez dissuadé bien des salariés de saisir les prud’hommes : le nombre de recours a baissé de 5,5 % en une année.<br/>Vous avez développé l’emploi précaire avec le CDI de chantier – qui tient davantage du chantier que du CDI, il faut le dire – et les ruptures conventionnelles collectives, dispositif qui permet précisément de contourner les droits dont bénéficient les salariés dans le cadre d’un licenciement économique.<br/>J’invite d’ailleurs celles et ceux qui entendent ou entendront cette intervention à consulter le site internet docpenicaud.fr, dont le slogan est : « Souriez, vous êtes virés ! » Il a été réalisé par le Discord Insoumis, qui se charge d’établir une cartographie précise des ruptures conventionnelles collectives. Parmi les licenciements réalisés par cette voie, on recense par exemple 2 135 suppressions de poste à la Société Générale, 1 300 chez PSA, 700 chez Sanofi. Bref, les énergies semblent bel et bien libérées ! Vu ce que vos ordonnances provoquent, il est utile de rappeler l’objectif que vous prétendiez atteindre avec elles : relancer l’emploi dans notre pays…<br/>Or la situation de l’emploi en France est catastrophique – peut-être pouvons-nous partager ce triste diagnostic. On dénombre 48 000 offres sans candidat pour 5,6 millions de personnes inscrites à Pôle emploi et disponibles – ce qui signifie qu’elles ne sont ni en stage ni en formation –, soit 1 offre sans candidat pour 100 personnes disponibles et, sans doute, prêtes à traverser la rue.<br/>En 2017, on a enregistré 25,5 millions d’embauches. Vous me direz que l’on a jamais autant embauché qu’aujourd’hui, et c’est exact : c’est presque deux fois plus qu’au début des années 2000. Mais à quel prix ? Sur ces 25 millions de contrats, 17 millions sont des CDD de moins d’un mois. Il y a donc bien une pénurie d’emploi dans notre pays.<br/>Or vous poursuivez la politique de précarisation de l’emploi, d’une part, et d’exonération fiscale et sociale, d’autre part, menée par ceux qui vous ont précédés. Ce diptyque n’est pas nouveau, et cela ne fonctionne toujours pas. Par conséquent, nous continuerons à vous présenter d’autres propositions.<br/>Jeudi dernier, le Président de la République a commencé par nous dire que les Français travaillaient moins que leurs voisins. La démonstration est désormais faite que tel n’est pas le cas : le temps de travail en emploi est plus élevé en France que chez nombre de ses voisins, notamment celui auquel vous aimez la comparer régulièrement, l’Allemagne.<br/>Si l’on examine le bilan des 35 heures, à savoir 350 000 emplois directs créés, la baisse du temps de travail se révèle non seulement plus efficace, mais surtout moins onéreuse que votre politique qui vise à créer de l’activité. Compte tenu du nombre d’emplois créés ou maintenus grâce au CICE, un « emploi CICE » vaut environ 160 000 euros de dépense publique, ce qui est très cher et au-dessus de nos moyens. Je pense que nous pouvons faire mieux.<br/>Pourquoi ne pas admettre que la baisse du temps de travail, dans la vie ou dans la semaine, est plus efficace en matière de création d’emplois ? Surtout, pourquoi ne pas généraliser des dispositifs tels que « l’État, employeur en dernier ressort » ? Il s’agit de transformer l’indemnité chômage en un salaire rémunérant un travail, que l’on complète par ailleurs. ATD Quart Monde a commencé à expérimenter ce dispositif dans plusieurs endroits du pays.<br/>Dans le discours du Président de la République, il a été très peu question d’écologie. Nous pensons que le défi écologique est aujourd’hui tel qu’il faut repenser tout le modèle de production, réindustrialiser le pays avec cet objectif écologique, voire fonder de nouvelles industries, ce qui créerait beaucoup plus d’emplois et aurait sans doute plus de sens que de poursuivre cette compétition absurde par la voie de la précarisation.<br/>Votre conclusion au mouvement de contestation populaire que nous connaissons depuis cinq mois, c’est : « travailler plus ! » Je crois donc que vous n’avez pas compris grand-chose au moment que nous vivons. Pour terminer, permettez-moi de souhaiter, depuis cette tribune, à tous les travailleurs de notre pays, un 1<exposant>er</exposant> mai de lutte. <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre du travail" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349249" ordre_absolu_seance="22" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702582" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre du travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349250" ordre_absolu_seance="23" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702583" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre du travail</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Tout d’abord, je remercie le groupe de la Gauche démocrate et républicaine d’avoir inscrit le présent débat à l’ordre du jour de cette semaine de contrôle. En cette veille du 1<exposant>er</exposant> mai, je pense que nous pouvons tous souhaiter, pour le personnel du service de la séance, que ce débat ne déborde pas sur le 1<exposant>er</exposant> mai, chacun en cohérence avec ses propres convictions. <italique>(Applaudissements sur les bancs des groupes LaREM et UDI-Agir.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349251" ordre_absolu_seance="24" id_acteur="PA332228" id_mandat="PM722754" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702584" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Thierry Benoit</nom>
+              <id>332228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349252" ordre_absolu_seance="25" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702585" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ce débat me permet de partager avec la représentation nationale les résultats d’étape, encourageants, de la première transformation profonde que nous avons menée, conformément à l’engagement de campagne du Président de la République.<br/>Cet engagement, c’était celui de créer les conditions d’un dialogue social structuré, lisible et décentralisé dans les entreprises et dans les branches, offrant plus d’agilité et de sécurité, tant aux employeurs qu’aux salariés et à leurs représentants. Cet engagement, c’était celui de créer un cadre équilibré, dans lequel les acteurs responsabilisés et davantage formés seraient mieux armés pour envisager l’avenir avec confiance, car ils disposeraient enfin des outils pour faire converger performance sociale et performance économique. C’est précisément ce qu’ont permis les ordonnances du 22 septembre 2017 pour le renforcement du dialogue social.<br/>Je rappelle qu’elles ont été élaborées, il y a presque deux ans, selon une méthode inédite, puisque nous avons mêlé étroitement démocratie sociale et démocratie politique. À cet égard, je ne peux pas laisser dire, monsieur Favennec Becot, qu’il n’y a pas eu de débat, car l’examen de la loi d’habilitation et celui de la loi de ratification ont été l’occasion d’échanges fournis à l’Assemblée nationale,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349255" ordre_absolu_seance="28" id_acteur="PA719890" id_mandat="PM722790" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702588" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danielle Brulebois</nom>
+              <id>719890</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349256" ordre_absolu_seance="29" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702589" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…en liaison et en correspondance avec les discussions menées avec les partenaires sociaux.<br/>Comme vous le savez, j’ai confié à trois personnalités qualifiées, Mme Sandrine Cazes, M. Marcel Grignard et M. Jean-François Pilliard, une mission d’évaluation qualitative des ordonnances, qui se poursuivra pendant un certain temps encore, avec plusieurs étapes. Ces trois personnalités sont chargées d’animer un comité d’évaluation pour construire une évaluation objective et partagée avec les partenaires sociaux, les acteurs du monde de la recherche et l’ensemble des observateurs.<br/>Quel bilan économique et social pouvons-nous dresser, à cette heure, des ordonnances du 22 septembre 2017, un an et demi après leur promulgation ? Comment les acteurs se sont-ils peu à peu approprié cette révolution culturelle que nous avons souhaitée, qui nous semble indispensable pour notre pays ? Quels sont ses effets sur notre économie, notamment sur les TPE-PME, cible prioritaire de ces ordonnances, je le rappelle, ce qui était une première pour une réforme du code du travail ?<br/>Globalement, force est de constater que les ordonnances ont contribué à stimuler la croissance française et la création d’emplois. En effet, un climat de confiance s’est créé, comme j’ai pu le constater lors de mes déplacements dans le cadre du « service après-vote ». J’ai participé à une cinquante de réunions dans toute la France et rencontré, au total, près de 10 000 entrepreneurs. Or une phrase est revenue partout : « Depuis les ordonnances, nous n’avons plus peur d’embaucher. » Elles ont notamment eu un effet formidable dans les TPE-PME. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique><br/>Bien sûr, ce n’est pas le seul facteur, mais c’est l’un des éléments qui a contribué aux résultats déjà très positifs de nos deux premières années de gouvernement. Je rappelle que l’emploi a poursuivi sa progression, avec 461 000 créations nettes en deux ans, et que le chômage est passé de 9,7 % à 8,8 % depuis notre arrivée aux affaires. Bien sûr, ce n’est pas suffisant, nous voulons aller bien au-delà, mais la dynamique est clairement engagée.<br/>Comment consolider cette dynamique ? Non seulement en s’attaquant de façon résolue au manque de compétences, qui devient désormais le principal frein à l’embauche, – c’est le sens de la loi pour la liberté de choisir son avenir professionnel, que vous avez votée, et du plan d’investissement dans les compétences, qui fait l’objet d’un financement de 15 milliards d’euros, et de sa déclinaison territoriale –, mais aussi en luttant contre le recours excessif à l’emploi précaire, notamment dans le cadre de la réforme à venir de l’assurance chômage.<br/>Pour en revenir au débat sur les ordonnances qui nous réunit ce soir, je tiens à affirmer ici qu’une dynamique positive, à la fois quantitative et qualitative, se confirme.<br/>La dynamique quantitative engagée peut être appréciée à travers plusieurs éléments objectivables. J’en développerai ici quatre : le nombre de comités sociaux et économiques – CSE – institués ; le nombre de ruptures conventionnelles collectives – RCC – et d’accords de performance collective – APC – sécurisés ; la dynamique conventionnelle, en particulier dans les entreprises de moins de 50 salariés ; l’installation des observatoires départementaux du dialogue social.<br/>Premièrement, les CSE sont désormais 23 700 au 31 mars 2019, contre 12 000 au 31 décembre 2018. Il est très intéressant de relever que 65 % d’entre eux ont été créés dans des entreprises de moins de 50 salariés, sachant que notre priorité était de permettre un dialogue social construit dans les entreprises petites et moyennes.<br/>C’est une véritable dynamique. Comme vous pouvez le voir, monsieur Vallaud, maintenant que les chiffres de mars dernier sont disponibles, il y a une accélération, et nous pensons qu’elle va se poursuivre tout au long de l’année. Pourquoi ? Parce que, dans beaucoup d’entreprises, les dirigeants et les organisations syndicales ont pris le temps de réfléchir à l’architecture la plus adaptée : où placer des représentants de proximité ? Comment organiser ? À quel niveau créer les instances ? En définitive, nous avons fait confiance au dialogue social, et nous avons laissé aux acteurs de terrain la liberté de redéfinir cette architecture.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349266" ordre_absolu_seance="39" id_acteur="PA719930" id_mandat="PM722804" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702599" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Boris Vallaud</nom>
+              <id>719930</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ils ne sont pas contents, les acteurs de terrain !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="1349267" ordre_absolu_seance="40" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702600" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il y aura donc probablement environ 30 000 CSE, voire davantage, à la fin de cette année.<br/>J’en viens, deuxièmement, aux accords de RCC et aux APC.<br/>Il apparaît déjà clairement que les acteurs établissent une distinction très nette entre les accords de RCC et les plans de sauvegarde de l’emploi – PSE. Pour répondre à la question que vous avez posée, monsieur Vercamer, il n’y a aucune ambiguïté en la matière.<br/>Au 31 mars 2018, 120 entreprises se sont saisies de ce nouveau dispositif et 78 accords ont été validés par les DIRECCTE. Les secteurs concernés sont très variés. Il est intéressant de noter, d’une part, que 40 % des accords ont été conclus par des PME et des ETI, d’autre part, que tous les syndicats signent des accords de RCC. Dans la grande majorité des cas – 80 % –, les accords ont été signés par des délégués syndicaux. Dans les PME, ils l’ont aussi été par des élus non mandatés, conformément à la possibilité ouverte par les ordonnances.<br/>Nous constatons une dynamique analogue pour les APC, issus du regroupement de plusieurs dispositifs, ce qui a amélioré la lisibilité et la sécurisation juridique pour les acteurs. On dénombre 142 APC, ce qui est dix fois plus que les accords de compétitivité créés lors du précédent quinquennat. La part des PME est, là encore, très importante, puisque 88 accords sur 142 concernent des entreprises de moins de 250 salariés, et 11 d’entre eux, des petites entreprises.<br/>Dans 88 % des cas, l’accord a été signé avec un ou des délégués syndicaux. En outre, 65 % des accords ont été signés à l’unanimité, ce qui montre bien que le dialogue social fonctionne sur le terrain. Concrètement, ces accords traitent majoritairement du temps de travail : c’est le cas de 56 d’entre eux. Ensuite, 17 accords ont trait à la rémunération, 37 accords portent à la fois sur les deux sujets que je viens de citer et 29 accords concernent les questions de mobilité géographique.<br/>Troisièmement, on constate que l’activité conventionnelle est dynamique dans les PME et les TPE. Pour répondre à Mme de Vaucouleurs, je précise que si la question de l’épargne salariale est le principal levier des accords collectifs – en 2018, 34 000 accords ont été signés à cette fin et je ne doute pas que, grâce à la loi PACTE, ce nombre augmentera encore – 4 700 accords portant sur un autre sujet ont été signés en 2018 dans les entreprises de moins de 50 salariés, et près de 1 500 dans celles de moins de 10 salariés. Nous assistons à l’émergence d’un phénomène nouveau : les petites et moyennes entreprises se saisissent de ce dialogue social structuré de manière à s’adapter à leur situation, pour faire converger performance économique et progrès social.<br/>Cette activité conventionnelle concerne pour 62 % le temps de travail et pour 24 % les salaires. Les accords ont souvent été ratifiés par référendum, possibilité dont se sont également emparées les entreprises : 1 500 référendums pour les entreprises de moins de 50 salariés et 1 100 pour celles de moins de 10 salariés. Il s’agit là encore d’un élément intéressant et nouveau, car il n’y avait aucun référendum auparavant.<br/>En 2019, la dynamique est encore plus soutenue, ce qui montre nettement l’effet accélérateur et amplificateur de ces dispositions, puisque, depuis le début de l’année, 1 950 accords ont été signés dans les entreprises de moins de 50 salariés, dont 1 030 ratifiés par référendum.<br/>Outre le temps de travail, le thème le plus abordé est évidemment la prime exceptionnelle de pouvoir d’achat, qui, vous le savez, a rencontré un grand succès puisqu’elle a été versée à 2 millions de salariés, pour 1 milliard d’euros. Dans 40 % des cas, elle a été versée dans des PME.<br/>Il est un point qu’il faut bien avoir en tête : pour quelque dispositif que ce soit, la greffe, le changement culturel opéré par les ordonnances a pris d’abord dans les TPE, les PME et les ETI, qui constituaient notre cible prioritaire.<br/>Je voudrais souligner un élément quantitatif important pour le point d’étape que nous effectuons aujourd’hui. Il a été évoqué par M. Pietraszewski : il s’agit des observatoires du dialogue social. Malgré leur nom, ceux-ci n’ont pas pour seul rôle de dresser un constat, mais offrent au niveau départemental un appui et des conseils aux TPE et aux PME sur le dialogue social.<br/>Nous pouvons être satisfaits puisque, même si trois départements d’outre-mer, la Guyane, la Guadeloupe et Mayotte, n’ont pas encore achevé de mettre en place leur observatoire du dialogue social, celui-ci a été installé dans tous les départements métropolitains et les autres départements d’outre-mer. Avec 414 représentants patronaux et 500 représentants syndicaux, une nouvelle dynamique d’appui au dialogue social est en train de naître dans les PME. Leur présidence est exercée à 40 % par des organisations patronales et à 60 % par des organisations syndicales.<br/>Outre cet aspect statistique, j’insiste sur l’aspect qualitatif et le renforcement indéniable du dialogue social qui s’amorce. M. Cherpion a évoqué tout à l’heure la peur d’embaucher : en la matière, il y a un avant et un après ordonnances. Mais celles-ci ne sont pas le seul outil de la lutte contre le chômage de masse, elles en sont la première pierre. La stratégie compétences est au cœur de notre action contre le chômage de masse, et l’assurance chômage y contribuera aussi, en complément des actions que nous menons en matière de développement et de croissance des entreprises ou de fiscalité.<br/>L’instauration négociée des CSE en offre une illustration. Ainsi, 5 647 accords collectifs ont été conclus en 2018 sur la représentation du personnel, le droit syndical et l’expression des salariés. Leur objet dépasse donc celui du CSE proprement dit, preuve que beaucoup d’entreprises et de partenaires sociaux utilisent cet outil pour élargir leur champ de réflexion et développer la représentation. En effet, les partenaires sociaux disposent d’une réelle marge de manœuvre pour adapter le CSE à la structure et aux réalités sociales de l’entreprise.<br/>Monsieur Dharréville, je sais votre attachement à la santé au travail. Je le partage et j’espère que nous nous retrouverons tous autour du prochain projet de loi sur la santé au travail. Néanmoins, je sais que nous ne sommes pas d’accord sur un point. À mon sens, le fait que l’articulation des orientations économiques, l’organisation du travail et la santé au travail fassent l’objet de débats communs au sein du CSE élève la santé au travail au niveau des orientations stratégiques de l’entreprise. C’est particulièrement vrai en matière de prévention.<br/>Le CSE a repris pleinement les attributions du CHSCT. Il s’appuie toujours sur l’expertise de la commission santé, sécurité et conditions de travail et sur les représentants de proximité. Je rappelle que cette commission est obligatoire dans toutes les entreprises de plus de 300 salariés et dans les secteurs à risque.<br/>Les premières analyses d’accords effectuées par mon ministère, en l’état, montrent que les acteurs se saisissent de cette possibilité. On m’a cité le cas d’une société spécialisée dans le revêtement des sols, qui n’appartient pas à un secteur à risque et compte autour de 100 salariés, mais qui a néanmoins créé cette commission pour étayer les travaux du CSE.<br/>Beaucoup de discussions se cristallisent sur le rôle des suppléants. Là encore, des dispositions permettent à chaque entreprise d’adapter le système.<br/>J’insiste sur le fait que nombre d’accords installent des commissions de proximité ou des représentants de proximité afin de compléter le dispositif.<br/>Ne vous en déplaise, monsieur Vallaud, le télétravail plaît beaucoup aux salariés. La création d’un droit opposable au télétravail a rencontré un vrai succès. On constate une dynamique de négociation très forte, puisque 2 000 accords de télétravail ont été signés depuis la publication des ordonnances.<br/>Monsieur Dharréville, vous avez évoqué la diminution du nombre de mandats. Au-delà de la mission d’accompagnement des élus et des mandatés en fin de mandat – véritable sujet, que nous suivons qualitativement et sur lequel nous engageons des actions –, un point important est la reconnaissance des compétences acquises par les salariés durant leur parcours syndical.<br/>À la suite du rapport de Jean-Dominique Simonpoli et Gilles Gateau sur ce sujet, mon ministère a publié au <italique>Journal officiel</italique> du 26 juin 2018 deux arrêtés inédits visant à créer enfin une certification des compétences des représentants du personnel. Tous ceux qui justifient de l’exercice d’un mandat de représentant du personnel ou d’un mandat syndical au cours des cinq dernières années peuvent candidater à cette certification. L’AFPA – Agence nationale pour la formation professionnelle des adultes – les aide à rédiger leur dossier professionnel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349204" ordre_absolu_seance="136" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702606" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’AFPA ? Elle existe toujours ?  </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349206" ordre_absolu_seance="137" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702539" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Un projet de décret en cours de finalisation garantira la prise en compte et la reconnaissance, par la voie de la certification, des parcours de ces salariés, en articulation avec le plan de développement des compétences des entreprises. Il est temps de reconnaître aussi la valeur des parcours syndicaux dans les entreprises.<br/>Monsieur Quatennens, vous avez évoqué le barème d’indemnisation du licenciement sans cause réelle et sérieuse, qui vise à sécuriser juridiquement les deux parties et à limiter dans le temps des recours qui étaient très longs et n’avantageaient personne.<br/>Vous avez cité quelques décisions récentes de conseils des prud’hommes. Par principe, je ne commente pas les décisions de justice, par respect pour la séparation du pouvoir exécutif et de l’autorité judiciaire. Je rappelle toutefois que ce sont de premiers jugements, non définitifs puisque la Cour de cassation ne s’est pas encore prononcée, et qu’il ne s’agit que de quelques cas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349208" ordre_absolu_seance="140" id_acteur="PA720422" id_mandat="PM722960" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702608" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Adrien Quatennens</nom>
+              <id>720422</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Qui se multiplient, tout de même.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349208" ordre_absolu_seance="141" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702607" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Surtout, le Conseil constitutionnel et le Conseil d’État ont admis le barème au regard de l’ensemble de nos normes constitutionnelles. Nous sommes donc dans une certaine sérénité juridique sur ce sujet.<br/>J’achèverai mon propos en rappelant que les agents de mon ministère mènent nombre d’actions importantes pour accompagner les changements, car tout changement culturel demande du temps et de l’accompagnement.<br/>Grâce à un partenariat avec la DIRECCTE et l’observatoire d’analyse et d’appui au dialogue social et à la négociation de Seine-Maritime, l’université de Rouen-Normandie propose un nouveau diplôme « pratiques du dialogue social et des relations collectives de travail ». Aujourd’hui, seuls 15 % des diplômes en matière de management et de ressources humaines parlent du dialogue social, ce qui est une aberration. Nous devons absolument progresser sur ce point.<br/>Avec l’Institut national du travail, de l’emploi et de la formation professionnelle, des professeurs d’université montent par ailleurs des formations communes. Il est très important de former ensemble au dialogue social les directeurs des ressources humaines et les représentants syndicaux.    <br/>L’école de droit social de l’université de Montpellier a procédé avec ses étudiants à une analyse qualitative des 900 accords de création d’un CSE signés au début du processus. Par ailleurs, à travers le Conseil national des barreaux, la profession d’avocat a imaginé un service d’appui juridique s’agissant des questions qui peuvent se poser. Enfin, l’Agence nationale pour l’amélioration des conditions de travail nous permet d’apporter un appui particulier aux TPE-PME ainsi qu’une diffusion des bonnes pratiques.<br/>Avec les ordonnances, nous avions fait le pari de l’intelligence collective au plus près du terrain, pour concilier les exigences de compétitivité et de justice sociale. Nous avions parié que les TPE-PME pouvaient et devaient être un lieu où existerait le dialogue social et économique. Nous ne sommes qu’au début de ce changement culturel, mais je crois pouvoir dire en toute honnêteté que la réforme du code du travail commence à porter ses fruits.<br/>Ce sera encore plus vrai demain. Il faut continuer sur cette voie, dans l’intérêt des salariés comme des entreprises. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349217" ordre_absolu_seance="148" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="1702550" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous en venons aux questions. Je vous rappelle que la durée des questions comme celle des réponses est limitée à deux minutes, sans droit de réplique.<br/>La parole est à M. Pierre Dharréville.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349219" ordre_absolu_seance="150" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702552" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Dharréville</nom>
+            <id>718926</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est peu de dire qu’à ce stade, nous ne partageons pas votre constat, madame la ministre, ce qui appelle de plus amples débats. Sans doute m’avez-vous vu venir : je vais vous interroger sur la santé au travail et, en un sens, sur le travail lui-même.<br/>C’était un des axes fort du débat, lors de l’examen des ordonnances, et vous aviez senti, compte tenu de l’incandescence des échanges, que nous ne nous contenterions pas des mesures présentées. La suppression des CHSCT en particulier est une mesure grave et dangereuse, dès lors qu’il s’agissait d’instances autonomes et dotées de moyens, d’acteurs essentiels en matière de santé au travail.  <br/>Même si l’on se garde de toute vision unilatérale de ce qu’est le travail, tel qu’il est vécu par les femmes et les hommes dans notre pays, on voit qu’il faut des acteurs pour s’en occuper. Vous nous demandez de faire un acte de foi, en intégrant dans la nouvelle instance une problématique qui fera partie des éléments stratégiques de l’entreprise. Pour l’instant, rien ne permet de vérifier que ce sera effectivement le cas.<br/>On constate une sous-déclaration et une sous-reconnaissance des maladies professionnelles. La pénibilité est toujours là. Sous la présidence de Julien Borowczyk, vous le savez, j’ai conduit une commission d’enquête dont j’ai rédigé le rapport, lequel contient des propositions. À présent, il faut prendre des décisions. Quelles mesures correctives envisagez-vous ? Quelles actions vigoureuses peut-on mener en faveur de la santé au travail ? Quelles pistes envisagez-vous d’explorer pour avancer dans ce domaine et corriger le tir après les ordonnances ?</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349223" ordre_absolu_seance="154" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702556" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349224" ordre_absolu_seance="155" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702557" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Votre question dépasse le cadre des ordonnances, puisqu’elle porte sur la santé au travail. J’ai déjà répondu sur les instances. Je rappelle toutefois que les autres pays européens ne possèdent qu’une instance, comme celle que nous aurons désormais,  et qu’en plaçant la santé au niveau stratégique des sujets économiques, ils réalisent des résultats bien meilleurs que les nôtres en matière de santé au travail, preuve que la multiplicité des instances ne suffit pas pour obtenir des résultats.<br/>À présent, la santé au travail est pour nous une priorité, et notamment la prévention. En effet, la France, qui, historiquement, s’est beaucoup centrée sur la réparation, ne figure vraiment pas parmi les pays les plus avancés en termes de prévention des accidents du travail et des maladies professionnelles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349225" ordre_absolu_seance="157" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702609" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1349226" ordre_absolu_seance="158" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702559" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Tout cela est l’objet d’un rapport auquel vous avez largement contribué. J’ai également demandé au professeur Frimat une étude sur la prévention et la prise en compte de l’exposition des travailleurs aux agents chimiques dangereux. Sa contribution est très éclairante. Un autre rapport essentiel sur la santé au travail a été demandé à la députée Charlotte Lecocq, à Henri Forest et à Bruno Dupuis. Autant de matériaux dont nous aurons l’occasion de reparler.<br/>Nous avons fait la bonne démarche du côté des instances. Reste à passer à l’action pour améliorer la santé au travail, qui est indispensable sous deux aspects, car le manque de santé au travail a un coût social autant qu’économique. Sur ce sujet, nous devrions pouvoir converger, du moins je le souhaite, car c’est un bel objet de dialogue social. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique>  </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Yannick Favennec Becot" id_acteur="PA267042" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722910">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349149" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702480" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Yannick Favennec Becot.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349150" ordre_absolu_seance="2" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702481" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec Becot</nom>
+              <id>267042</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, je voudrais vous interroger sur le plafonnement des indemnités prud’homales dues en cas de licenciement abusif, qui était l’une des mesures phares de votre gouvernement, avec l’ordonnance n<exposant>o</exposant> 3 relative à la prévisibilité et à la sécurisation des relations de travail.<br/>Depuis quatre mois, de plus en plus de juridictions prud’homales refusent d’être limitées dans leur rôle par ce plafonnement que vos ordonnances travail ont instauré. C’était, par exemple, le cas de Troyes le 13 décembre 2018, puis d’Amiens six jours plus tard, suivies par Lyon, Grenoble, Agen et d’autres encore. <br/>Ce parfum de révolte qui gronde sur la prud’homie s’appuie sur le constat que ce barème des indemnités va à l’encontre des engagements internationaux de la France. Le « barème Macron », si vous me permettez cette expression, dégage en effet un parfum d’inconventionnalité, en ce qu’il contrevient à la convention n<exposant>o</exposant> 158 de l’Organisation internationale du travail et à la Charte sociale européenne. Vous n’êtes en effet pas sans savoir, madame la ministre, que le droit international en la matière prévoit qu’une juridiction nationale doit être en capacité d’ordonner le paiement d’une réparation appropriée au salarié injustement congédié.<br/>J’ai donc plusieurs questions à vous poser au nom du groupe Libertés et territoires. Tout d’abord, comment jugez-vous la distance que prennent les tribunaux prud’homaux avec ce barème des indemnités prud’homales ? Ne redoutez-vous pas un effet de contagion qui finirait par remettre définitivement en cause votre dispositif ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349153" ordre_absolu_seance="124" id_acteur="PA718926" id_mandat="PM722502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702484" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Dharréville</nom>
+              <id>718926</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349154" ordre_absolu_seance="125" id_acteur="PA267042" id_mandat="PM722910" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702485" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Yannick Favennec Becot</nom>
+              <id>267042</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pouvez-vous nous dire quelles évaluations vous faites, un an et demi après l’instauration de ce barème ? Comment interprétez-vous le recul du recours aux prud’hommes ? Est-ce un signe positif qui caractérise de meilleures relations de travail ou l’illustration d’un accès au juge plus difficile pour les justiciables salariés et d’une perte de confiance dans la justice prud’homale telle que vous l’avez façonnée ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349155" ordre_absolu_seance="126" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702486" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349156" ordre_absolu_seance="127" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702487" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme je le disais tout à l’heure, monsieur le député, le barème d’indemnisation du licenciement sans cause réelle et sérieuse renforce la prévisibilité des conséquences de la rupture de la relation de travail. C’est là l’objet de cette mesure : opérer ce que j’appelle une sécurisation juridique – on sait à quoi s’en tenir, on connaît les règles du jeu – tout en maintenant la capacité du juge de prévoir la réparation du préjudice subi par le salarié s’il considère que le licenciement n’est pas justifié. Je rappelle aussi que nous avons prévu dans les ordonnances que ce barème ne s’applique pas en cas de discrimination ou de harcèlement. Il ne s’agit pas, contrairement à ce qui est parfois affirmé, de réduire les droits fondamentaux des salariés mais, comme je le disais, d’assurer une visibilité au salarié comme à l’entreprise.<br/>Pour ce qui est des premiers jugements qui sont allés à l’encontre de ce barème, il faut d’abord rappeler que leur nombre reste limité, en proportion des demandes déposées devant les prud’hommes. Sur une estimation de 30 000 jugements susceptibles d’être concernés, une vingtaine ont donné lieu au débat sur la conventionnalité du barème : la proportion est faible.<br/>Plus important encore, le Conseil constitutionnel et le Conseil d’État ont admis le barème compte tenu de l’ensemble de nos normes constitutionnelles et se sont penchés spécifiquement sur sa compatibilité avec le règlement de l’Organisation internationale du travail. Ces jugements n’ont certes pas encore fait l’objet d’un appel ni d’un avis de la Cour de cassation, mais dès lors que le Conseil d’État et le Conseil constitutionnel se sont penchés précisément sur le motif justifiant la mise en cause de certains barèmes, il me semble que nous sommes dans un contexte de bonne sécurité juridique.<br/>Pour ce qui est, enfin, de la baisse du nombre de recours aux prud’hommes, on constate que les médiations sont de plus en plus nombreuses. C’était un peu notre but. En effet, l’encadrement des conditions de licenciement assure aux deux parties un cadre dans lequel elles peuvent plus facilement négocier. Si nous nous acheminons vers moins de conflictualité et plus de contractualisation ou de médiation, ce sera dans l’intérêt tant des salariés que des entreprises.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Carole Grandjean" id_acteur="PA720170" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722880">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349159" ordre_absolu_seance="216" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702490" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Carole Grandjean.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349160" ordre_absolu_seance="217" id_acteur="PA720170" id_mandat="PM722880" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702491" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Carole Grandjean</nom>
+              <id>720170</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les ordonnances du 22 septembre 2017 ont réformé de nombreux aspects du dialogue social et des relations de travail, notamment en élargissant le champ de compétence et le champ de la négociation collective, en particulier de la négociation d’entreprise, en transformant l’organisation des institutions représentatives du personnel et en modifiant les règles de validation des accords. Comme vous l’avez rappelé, madame la ministre, monsieur le rapporteur, elles opèrent un changement majeur en matière de dialogue social, en créant des conditions propices à encourager ce dialogue et en faisant évoluer le cadre des relations sociales dans l’entreprise.<br/>Ce changement de culture en matière de dialogue social est un tournant historique de notre droit du travail. Il constitue en outre l’un des fondements de la performance durable et globale de nos entreprises. Ce cycle, engagé depuis plusieurs années, est aujourd’hui fondé sur l’ouverture et la confiance. Il permet également une meilleure prise en compte des besoins et des attentes des salariés, de leur santé et de leur bien-être au travail, ainsi que de la diversité des formes d’entreprises, de leur taille et de leur implantation territoriale.<br/>À ce titre, les ordonnances obligent à mettre en place avant le 31 décembre 2019 un comité social et économique pour les entreprises de 11 salariés et plus, en opérant la fusion des anciennes instances représentatives du personnel : délégués du personnel, comité d’entreprise et comité d’hygiène, de sécurité et des conditions de travail.<br/>Dans son rapport rendu en décembre 2018, le Comité d’évaluation des ordonnances du 22 septembre 2017, créé sous la gouvernance de France Stratégie, note que, selon les derniers chiffres connus, au 1<exposant>er</exposant> novembre 2018, près de 10 500 établissements l’ont déjà installé. Comme vous l’avez dit, madame la ministre, de nombreux autres ont été créés depuis lors – nous en sommes aujourd’hui à plus de 23 000 établissements. C’est donc finalement une progression sûre et confiante, et peut-être une appétence pour la simplification, que propose cette révolution – ou cette évolution.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349163" ordre_absolu_seance="221" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702518" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci, madame la députée…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349164" ordre_absolu_seance="222" id_acteur="PA720170" id_mandat="PM722880" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702495" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Carole Grandjean</nom>
+              <id>720170</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À la lumière des retours d’expérience, comment pensez-vous accompagner encore les entreprises dans cette évolution ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349165" ordre_absolu_seance="223" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702496" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349166" ordre_absolu_seance="224" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702497" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Le comité social et économique, qui fusionne les trois instances que sont les délégués du personnel, le comité d’entreprise et le CHSCT, a un objectif qui dépasse cette simple addition. Il permet d’aller au-delà en associant les lieux de définition des orientations stratégiques et le dialogue social de proximité, au lieu d’en faire deux mondes séparés, et en donnant des marges de manœuvre pour que la diversité des organisations soit compatible avec les réalités sociales et économiques de l’entreprise. Il permet aussi d’aborder les thèmes de la négociation d’une manière décloisonnée. C’est ici l’expérience qui parle : distinguer d’un côté la marche des affaires et de l’organisation du travail, d’un autre les problèmes du quotidien et d’un troisième les conditions de travail n’est pas la meilleure manière d’obtenir le dialogue social et économique le plus fourni, le plus novateur et le plus ambitieux.<br/>Cette démarche est en cours, avec 23 700 CSE en place au 31 mars 2019. Au 1<exposant>er</exposant> janvier 2020, tous les mandats des anciennes instances représentatives auront pris fin et le CSE devra exister partout.<br/>J’ai déjà dit que nous avions instauré des dispositifs d’accompagnement. Je compte beaucoup sur les observatoires économiques et sociaux départementaux pour les petites et moyennes entreprises. Pour beaucoup d’entre elles, ces mécanismes sont nouveaux – soit elles n’avaient pas de dialogue social, soit celui-ci n’était pas formalisé. Nous avons un afflux très important de petites entreprises qui découvrent ce qu’est un débat à la fois libre et structuré, encadré. Cet accompagnement est surtout important pour les TPE et PME.<br/>Cela dit, vous avez raison de dire que nous devons pouvoir mesurer, et ce n’est pas très facile, cette évolution culturelle qui mettra du temps pour donner ses pleins effets. C’est aussi pour cela qu’au ministère du travail, nous organiserons fin juin, probablement le 28, une Journée des réussites du dialogue social, qui permettra d’échanger sur les pratiques de nombreuses entreprises. Entreprises et organisations syndicales viendront y témoigner. Nous avons besoin de ce baromètre, comme nous le constatons tous à la faveur de nos déplacements. Ce sera quelque chose de très important, qui permettra aussi de stimuler l’idée de l’innovation sociale dans d’autres entreprises. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sylvain Maillard" id_acteur="PA717379" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723282">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349170" ordre_absolu_seance="228" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702501" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sylvain Maillard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349171" ordre_absolu_seance="229" id_acteur="PA717379" id_mandat="PM723282" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702502" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, je tiens à appeler votre attention sur les entreprises de moins de 20 salariés, qui constituent le poumon économique de notre pays. Il est en effet primordial de renforcer le dialogue social dans ces entreprises, afin de leur permettre de s’adapter plus facilement aux évolutions de notre économie et, ainsi, d’être plus compétitives.<br/>La situation du dialogue social dans les entreprises de moins de 20 salariés n’était pas satisfaisante : ce dialogue y était quasiment absent – seulement 7 % d’entre elles ont conclu un accord en 2014 et 4 % disposent d’un délégué syndical –, complexe et peu lisible, en raison de la multiplicité des instances de représentation du personnel et du chevauchement de leurs périmètres.<br/>Madame la ministre, la réforme du code du travail que vous avez portée dès votre arrivée au ministère était indispensable. Ainsi, au tournant de l’été 2018, les observatoires ont commencé à prendre des initiatives visant à promouvoir le dialogue social dans les entreprises de moins de 20 salariés, notamment avec la rédaction et la diffusion de fiches pratiques destinées aux TPE pour expliciter les thèmes ouverts à la négociation permise grâce au référendum.<br/>Dorénavant, le temps de travail, le temps dominical en échange de contreparties financières et l’instauration du télétravail sont des points qui peuvent faire l’objet d’un référendum. Les petites entreprises peuvent désormais engager plus facilement des négociations avec leurs salariés et les consulter directement. Donner la parole aux salariés pour traiter des sujets qui les concernent directement est en effet un impératif croissant et légitime.<br/>Le référendum vise à améliorer la démocratie au sein de l’entreprise et permet enfin à notre pays de passer d’une culture d’affrontement à une culture de compromis. Le comité d’évaluation de la réforme du code du travail a recensé 500 textes validés par une consultation du personnel. Madame la ministre, pourriez-vous nous apporter des précisions sur le déroulement et l’organisation de ces référendums au sein des entreprises de moins de 20 salariés ? <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349176" ordre_absolu_seance="234" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702507" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349177" ordre_absolu_seance="235" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702508" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, vous avez raison, l’enjeu est le déblocage du dialogue social dans les petites entreprises. Je rappelle que nous étions partis d’un double constat : le faible nombre d’accords collectifs conclus, que vous avez rappelé, et le taux très faible de présence de délégués syndicaux dans les entreprises de moins de 50 salariés – il  était de 4 % et ne bougeait pas depuis des décennies. Nous avions cherché ensemble à trouver des solutions concrètes pour que les salariés travaillant dans des entreprises de moins de 50 salariés, soit près de la moitié des salariés en France, puissent bénéficier des possibilités de souplesse et de progrès apportées par le dialogue social. L’ordonnance du 22 septembre 2017 avait permis de conclure un accord en l’absence de délégué syndical dans les petites entreprises. Dans celles de moins de 20 salariés, qui ne disposent pas de représentant, le recours à la consultation directe des salariés est désormais possible.<br/>J’en viens au déroulement concret de cette consultation – on sait que le mot de « référendum » est aujourd’hui tout à fait d’actualité dans un autre domaine ! <italique>(Sourires.)</italique> Le projet d’accord doit être communiqué aux salariés quinze jours avant la consultation, pour leur permettre de disposer d’un délai de réflexion et, s’ils le souhaitent, de prendre l’attache d’organisations syndicales ou des observatoires départementaux du dialogue social. La consultation est organisée pendant le temps de travail, en l’absence de l’employeur, dans des conditions qui doivent garantir son caractère personnel et secret, et l’accord doit être approuvé à la majorité des deux tiers des salariés.<br/>Par ailleurs, dans les entreprises de 11 à 49 salariés, en l’absence de délégué syndical, l’employeur peut négocier avec un élu du CSE, mandaté ou non, ou avec un salarié mandaté. Il est intéressant et encourageant de constater que les partenaires sociaux ont commencé à s’approprier ces modalités.<br/>Auparavant, faute d’accord, beaucoup de choses étaient, paradoxalement, très rigides dans les TPE et PME, qui n’avaient pas la liberté de négocier, ou alors devaient le faire d’une façon qui n’était pas reconnue par la loi. Dans la pratique, les petites entreprises étaient donc plus empêchées que les grandes de négocier, ce qui est contre-intuitif. En 2018, hors épargne salariale, près de 4 700 accords ont été signés dans les entreprises de moins de 50 salariés et 1 700 dans les entreprises de 1 à 10. Cette dynamique se renforce beaucoup en début d’année, comme je l’ai évoqué. Nous suivrons donc ensemble ce sujet avec beaucoup d’intérêt. Je crois que c’est parti ! <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Valentin" id_acteur="PA643134" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722824">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349181" ordre_absolu_seance="239" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702512" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Isabelle Valentin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1349182" ordre_absolu_seance="240" id_acteur="PA643134" id_mandat="PM722824" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702513" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Valentin</nom>
+              <id>643134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>En cette veille de fête du 1<exposant>er</exposant> mai, il est de bon ton de faire un bilan des ordonnances travail. Voilà quasiment deux ans que ces dispositions sont en vigueur et mises en pratique par les partenaires sociaux. Le groupe Les Républicains a joué tout son rôle au long de l’examen de ce texte. Le Président de la République, Emmanuel Macron, a d’ailleurs largement puisé dans les fondamentaux de la droite pour mettre sa réforme sur pied et les propositions du groupe ont été en partie satisfaites – seule la simplification n’est pas assez à l’ordre du jour.<br/>La mesure la plus emblématique de la première réforme du quinquennat est le barème des indemnités prud’homales, qui a sans conteste eu un impact sur les comportements des salariés et des entreprises.<br/>Madame la ministre, vous évoquez une baisse de 15 % des contentieux entre 2016 et 2017. Or, les ordonnances sont entrées en application en septembre 2017 : comment peut-on évoquer les bienfaits de cette disposition en un temps si court et sur des projections issues des études d’impact ?<br/>En outre, ces ordonnances ont fait beaucoup parler d’elles à propos des comités sociaux et économiques. Près de 9 000 de ces instances uniques ont vu le jour au premier semestre 2018. Le chiffre est honorable, mais comment aurait-il pu en être autrement alors que le regroupement des instances représentatives du personnel relève d’une obligation pour les entreprises ? Cela relève plus de la marche forcée que d’une démarche volontaire.<br/>Les ordonnances travail avaient aussi pour but de renforcer le dialogue social, autrement dit de doper les accords d’entreprise. Sur ce point, les débuts sont poussifs. Les branches professionnelles, à un niveau supérieur, sont aussi censées s’être emparées des ordonnances travail pour négocier sur des thèmes leur étant réservés. Le bilan est tout simplement catastrophique, seule la métallurgie ayant conclu un accord. Il est regrettable de constater que les cinquante premières branches, qui concernent 85 % des salariés, ne sont pas concernées par ces opérations.<br/>Madame la ministre, la valeur travail est un vrai sujet. Le souci majeur d’un chef d’entreprise est de trouver du personnel motivé, dans tous les secteurs d’activité et à tous les niveaux, du poste de production au poste d’ingénieur. Comment alors expliquer un taux de chômage de 8,8 % ? Quelles mesures efficaces comptez-vous prendre pour que nos entreprises puissent assurer leur marché ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349276" ordre_absolu_seance="4" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702613" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349277" ordre_absolu_seance="247" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702614" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Lors des débats, nous avions cité les chiffres des recours aux prud’hommes pour 2017 ; je dispose maintenant des chiffres pour 2018.<br/>En 2017, 127 387 recours avaient été déposés alors qu’en 2018, ce chiffre s’établit à 119 801 : la baisse se poursuit donc. Le fait que les règles du jeu soient connues et qu’un barème encadre les licenciements, sauf en cas de discrimination ou de harcèlement, amène les parties à contractualiser ou à recourir plus souvent à un médiateur. Cela est préférable pour le salarié, qui auparavant devait souvent attendre deux ou trois ans avant de connaître le montant de ses indemnités, ce qui pesait sur sa capacité à se projeter dans l’avenir : il est en effet très difficile de trouver un emploi lorsque l’on est en attente d’une décision des prud’hommes. Et pour les entreprises, l’absence de barème constituait un frein psychologique à l’embauche, notamment pour les petites, qui se demandaient ce qu’il adviendrait si elles devaient être amenées à se séparer d’un salarié.<br/>J’en viens aux branches. L’appropriation des ordonnances démarre plus vite dans les entreprises, y compris les TPE et les PME, que dans les branches ; en cela, je suis d’accord avec vous. C’est a priori contre-intuitif, car les choses semblent plus faciles pour les branches, qui sont organisées, structurées et ont un dialogue social soutenu. Il est intéressant que les TPE-PME, pour lesquelles ce processus est une nouveauté, se saisissent des ordonnances : elles ont bien compris que celles-ci ont été conçues aussi pour elles et pour les salariés. Cette dynamique, qui est l’élément le plus nouveau, est très intéressante. Trois branches, dont la propreté et les travaux publics, ont conclu des accords à la suite des ordonnances.<br/>Vous m’interrogez plus largement, au-delà des ordonnances, sur la stratégie de lutte contre le chômage de masse. Je n’aurai pas le temps de développer toute notre politique sur la stratégie des compétences. Le taux de chômage est passé de 9,7 % à 8,8 % mais peut-être aurions-nous pu aller un peu plus vite si nous n’avions pas rencontré l’obstacle du manque de compétences disponibles sur le marché du travail. Aujourd’hui, il existe une corrélation très forte entre le manque de qualifications et le taux de chômage : le taux de chômage des cadres est de 3,8 % contre 18 % pour les personnes non qualifiées, et même le double si elles habitent dans un quartier prioritaire de la politique de la ville.<br/>La stratégie en matière de compétences, de savoir-être et de savoir-faire est un élément essentiel : c’est l’objet du plan d’investissement dans les compétences, où les deux aspects, savoir-être et savoir-faire, sont pris en compte. C’est aussi le sens de la loi pour la liberté de choisir son avenir professionnel.<br/>Enfin, une bonne nouvelle, alors que j’avais déjà salué les résultats de l’apprentissage l’année dernière : le nombre de contrats d’apprentis dans le secteur privé a augmenté de plus de 12 % depuis le début de l’année. Les signaux sont au vert mais il y a encore énormément à faire. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laurence Trastour-Isnart" id_acteur="PA718780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722454">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349281" ordre_absolu_seance="253" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702618" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laurence Trastour-Isnart.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349282" ordre_absolu_seance="254" id_acteur="PA718780" id_mandat="PM722454" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702619" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Trastour-Isnart</nom>
+              <id>718780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la ministre, vous avez affirmé, très justement, que la première urgence à résoudre pour rénover notre modèle social était de donner plus de liberté à nos entreprises, afin notamment de créer des emplois. Vous nous avez dit que la complexité du code du travail était un obstacle à cette liberté. Pourtant, force est de constater que votre loi travail de 2017 a en réalité conduit à modifier ou à rajouter 500 à 600 articles, sur les 8 000 déjà existants. Elle n’a donc en rien simplifié le code du travail.<br/>Or nous sommes nombreux à rencontrer des entrepreneurs qui se plaignent. Ils nous font part du même constat : le droit du travail est illisible, complexe et parfois ubuesque. Il étouffe les entrepreneurs sous le poids de contraintes administratives parfois injustifiées, voire inutiles. Ils sont dans l’obligation de remplir de multiples formulaires et de tout justifier en permanence. Cet excès de normes et de contraintes administratives les décourage, que ce soit pour créer de l’emploi ou pour développer leur activité. Pouvez-vous expliquer à la représentation nationale en quoi cette inflation des normes simplifie le code du travail ?<br/>Les seuils prévus par le code du travail, en particulier le seuil de 50 salariés, en sont un exemple révélateur : dès qu’une entreprise franchit ce seuil, elle doit supporter pas moins de trente-quatre obligations légales et fiscales supplémentaires. Dites-nous, madame la ministre, où se cache la simplification ! Autant vous dire que ces seuils constituent un frein considérable à la croissance et à la création d’emplois. Nous regrettons que le projet du Gouvernement de modification du modèle social, dans lequel s’inscrivent les ordonnances, ne vise pas réellement à les réformer. <br/>Madame la ministre, au-delà du bilan des ordonnances travail, quelles sont les mesures concrètes que le Gouvernement compte prendre afin de simplifier réellement le code du travail ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349285" ordre_absolu_seance="258" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702622" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349286" ordre_absolu_seance="259" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702623" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Madame la députée, trois éléments vont dans le sens que vous souhaitez. Tout d’abord, nous avons fondamentalement modifié non seulement le code du travail mais aussi son esprit : Dieu sait si nous avons eu des débats controversés sur ce sujet au sein de cette assemblée ! En effet, comme il existe beaucoup plus d’espaces de négociation avec les organisations syndicales dans l’entreprise sur les sujets économiques et sociaux, le code du travail, c’est-à-dire la norme, n’intervient désormais sur toute une série de sujets qu’en l’absence d’accord dans l’entreprise, à titre supplétif. Ainsi, la partie utile du code du travail pour l’entreprise est supplétive dans nombre de cas.<br/>Ensuite, vous avez évoqué les seuils : dans la loi PACTE, nous les avons regroupés, pour éviter l’effet de multiplication, et nous avons lissé le passage des seuils : il faudra désormais avoir dépassé le seuil pendant cinq ans pour en subir toutes les obligations. Cela résoudra le problème des entreprises qui passent de 49 à 51 salariés, puis retombent à 48 avant de remonter à 52, changeant d’obligations chaque année. Elles devront s’être maintenues pendant cinq ans au-dessus des 50 salariés pour que les obligations s’appliquent, ce qui simplifiera beaucoup la situation.<br/>Enfin, un sujet me paraît très important en 2019 : cela ne concerne pas tant les textes que le rapport du citoyen, du contribuable, du justiciable au texte. C’est pourquoi nous sommes en train de préparer, avec la direction générale du travail, un code du travail numérique pour début 2020. Il ne s’agira pas d’un copier-coller du code du travail mais d’une façon interactive de poser des questions : un salarié ou une entreprise pourra poser une question de droit du travail, et toutes les réponses, qu’elles relèvent de la loi, du règlement ou, progressivement, des conventions collectives, seront directement accessibles. À titre d’exemple, il sera possible de se renseigner sur les horaires de travail que l’on peut imposer dans le secteur du bâtiment, en fonction de la taille de l’entreprise ou de la situation.<br/>C’est le fait d’obtenir des réponses concrètes et pratiques à des questions concrètes et pratiques qui changera le rapport au droit du travail dans les TPE-PME. Le droit du travail parlera enfin aux entreprises dépourvues de direction des ressources humaines. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sarah El Haïry" id_acteur="PA720002" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722830">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349289" ordre_absolu_seance="263" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702626" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sarah El Haïry.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349290" ordre_absolu_seance="264" id_acteur="PA720002" id_mandat="PM722830" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702627" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sarah El Haïry</nom>
+              <id>720002</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le 23 septembre 2017 ont été signées les ordonnances travail, dont l’esprit était extrêmement clair : renforcer le dialogue social dans les entreprises et sécuriser les relations de travail. Ces trente-six mesures ont été prises pour tendre vers un monde du travail tout à la fois plus flexible et sécurisé, ainsi que pour offrir un nouveau modèle de gestion associant davantage les salariés aux décisions.<br/>En ce qui concerne la cogestion dans la prise de décision, les changements semblent plus timides. Nous retiendrons la mise en place de nouvelles règles de négociation, comme le référendum, dans les entreprises de 20 à 50 salariés, véritable progrès vers la démocratie et le dialogue, ou encore la fusion des instances représentatives du personnel dans un comité social et économique.<br/>C’est sur ce dernier point que je souhaite m’attarder, madame la ministre, même si vous avez en partie traité la question en répondant tout à l’heure à notre collègue Boris Vallaud – je vous ai écoutée avec attention. Les chiffres dont je dispose sont les mêmes que ceux avancés par notre collègue : seuls 10 500 CSE ont été créés, suscitant des craintes légitimes tant du côté des employeurs que des représentants syndicaux. Comment les rassurer et les accompagner dans cette création ?<br/>Vous avez parlé d’une dynamique certaine, mais j’irai jusqu’au bout de ma question : pouvez-vous rassurer la représentation nationale, qui s’inquiète ? La date butoir pour atteindre l’objectif et supprimer les derniers freins a été fixée au 31 décembre 2019. Même si la dynamique est bien là, comme vous l’avez annoncé – nous n’avons pas accès à ces chiffres – j’espère, madame la ministre, que vous pourrez éclairer nos travaux ce soir.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349293" ordre_absolu_seance="268" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702630" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349294" ordre_absolu_seance="269" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702631" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez raison, madame la députée : la question est celle de la dynamique. Tout changement profond, surtout s’il s’appuie sur un changement culturel, demande un peu de temps. Depuis le 22 septembre 2017, 40 000 entreprises sont assujetties à la mise en place d’un CSE. Il a fallu un peu de temps pour qu’elles soient toutes au courant mais nous sommes en train de constater une accélération. Cela concerne toutes les entreprises de plus de 50 salariés, dont beaucoup, jusqu’à 150 salariés, n’avaient pas d’instances. Si pour certaines, donc, tout se résume à une fusion, pour d’autres, c’est un peu une découverte.<br/>Cette accélération que l’on constate depuis quelques mois est donc intéressante : alors que nous en étions à 12 000 entreprises en fin d’année, nous atteignons 23 700 au 31 mars. Sur une base de 40 000 entreprises, 17 000 doivent encore accomplir cette obligation.<br/>Nous avons également observé que les grandes entreprises sont allées plutôt moins vite, parce qu’elles avaient besoin de temps pour refaire toute l’architecture et discuter avec les organisations syndicales : où mettre des représentants de proximité ? comment axer les instances sur la santé et la sécurité, où les enjeux sont plus importants ? comment s’organiser, que deviennent ceux qui perdent leur mandat, comment sont-ils reclassés dans l’entreprise, comment retrouvent-ils un travail ? Tous ces sujets prennent du temps. Pour les grandes entreprises, le mouvement est en train de s’accélérer.<br/>Par ailleurs, jusqu’à il y a quelques mois, nous ne disposions pas des observatoires du dialogue social. Il en existe désormais dans chaque département, et leur priorité sera d’accompagner ce mouvement. Les DIRECCTE sont au service des entreprises et des organisations syndicales pour les aider à les mettre en place. Nous continuerons à les accompagner intensivement toute l’année : j’espère que nous pourrons en célébrer le succès à la fin de l’année. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Ericka Bareigts" id_acteur="PA610681" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723150">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349297" ordre_absolu_seance="273" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702634" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Ericka Bareigts.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1349298" ordre_absolu_seance="274" id_acteur="PA610681" id_mandat="PM723150" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702635" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Ericka Bareigts</nom>
+              <id>610681</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je souhaite revenir sur le sujet important du barème prud’homal. Aujourd’hui, plusieurs conseils de prud’hommes refusent d’appliquer votre barème, madame la ministre. À Lyon, le président du conseil représentant les employeurs a rédigé un texte écartant l’application du barème.<br/>Je vous ai entendue : vous estimez qu’au final, le risque juridique est faible. Mais il faut surtout y voir un jugement de résistance ! Vous êtes, madame la ministre, dans une situation délicate, et nous n’en sommes pas surpris : tant dans le cadre de l’examen de vos ordonnances que dans celui de la saisine du Conseil constitutionnel, nous vous avions avertie que ce barème était contraire à la Charte sociale européenne de 1996 ainsi qu’à la convention 158 de l’Organisation internationale du travail – OIT. Cet avis est du reste largement partagé par plusieurs organisations syndicales.<br/>Surtout, nous pensons que cette réforme est infondée. Vous évoquiez les notions de prévisibilité et de sécurité pour les employeurs, et notamment l’angoisse prud’homale des chefs de petites entreprises. Pourtant, une étude de la Chancellerie montre que les juges tiennent déjà compte de la taille de l’entreprise ; une autre étude montre que cette question n’arrive qu’en huitième position des préoccupations patronales.<br/>Ma question est donc très simple, madame la ministre : pouvez-vous entendre que votre barème impératif entraîne une imprévisibilité et une insécurité maximales pour les employeurs ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349113" ordre_absolu_seance="86" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702432" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349113" ordre_absolu_seance="87" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702433" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme je l’ai dit tout à l’heure, madame la députée, vous évoquez une vingtaine de cas sur 30 000 jugements : parler d’une insécurité générale me paraît un peu disproportionné.<br/>Mais d’abord, je voudrais vous remercier : grâce à votre saisine du Conseil constitutionnel, nous disposons d’une lecture préalable du Conseil qui est très sécurisante.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349115" ordre_absolu_seance="89" id_acteur="PA720512" id_mandat="PM722986" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702428" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Pietraszewski</nom>
+              <id>720512</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci chers collègues !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349115" ordre_absolu_seance="90" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1702427" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’aviez bien saisi de cette question de compatibilité notamment  avec le règlement de l’OIT, et nous avons sa réponse très précise sur ce sujet. Je vous remercie d’avoir permis cette sécurisation juridique.<br/>Il faut bien sûr que les procédures judiciaires suivent leur cours : il y aura certainement un appel et la Cour de cassation se prononcera certainement sur le sujet. Mais honnêtement, la question n’est pas là, car le dispositif ne présente pas un grand risque juridique.<br/>Au-delà, nous avons regardé ce qui se faisait dans d’autres pays. Une grande majorité de salariés comme d’entreprises préfèrent un encadrement, qui leur donne de la visibilité et une capacité de négociation tout en laissant au juge sa liberté d’appréciation, à un système considéré comme assez imprévisible, intrinsèquement et aussi en raison des différences qu’il pouvait y avoir d’un conseil prud’homal à un autre, sans aucun repère commun.<br/>Nous avons donc fait œuvre utile en donnant un cadre, en préservant la liberté d’appréciation du juge et en développant la médiation. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Firmin Le Bodo" id_acteur="PA267780" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723504">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349117" ordre_absolu_seance="94" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Agnès Firmin Le Bodo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349118" ordre_absolu_seance="95" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702394" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <id>267780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Lors de l’examen du projet de loi de ratification des ordonnances travail en novembre 2017, Francis Vercamer, Charles de Courson et moi-même avions défendu un amendement instaurant une visite médicale de fin de carrière pour certains travailleurs. Il visait à prendre en compte la situation spécifique des travailleurs bénéficiant du dispositif de suivi individuel renforcé ou ayant bénéficié d’un tel dispositif au cours de leur carrière professionnelle. Il s’adressait particulièrement aux salariés exposés à certains risques pour leur santé ou leur sécurité, les expositions à l’amiante, aux rayonnements ionisants, au plomb ou aux agents cancérogènes notamment.<br/>Ces salariés doivent désormais être examinés par le médecin du travail au cours d’une visite médicale avant leur départ en retraite, ce qui permet d’établir une traçabilité et un état des lieux des expositions à un ou plusieurs facteurs de risques professionnels et de mettre éventuellement en place, en lien avec le médecin traitant, une surveillance dépassant la période d’activité professionnelle.<br/>En s’appuyant sur l’expertise du médecin du travail, cette mesure permet d’éviter la perte d’informations liée à la fin de carrière et d’améliorer le suivi de la situation du salarié. Il s’agit d’un progrès réel et tangible en matière de prévention des maladies liées aux expositions professionnelles.<br/>Notre amendement, dont nous nous réjouissons qu’il figure désormais dans la loi, laissait le soin au Conseil d’État de préciser par décret les modalités d’application de cette mesure. Or l’échéancier de mise en application de la loi disponible sur Légifrance indique que la publication dudit décret est envisagée fin septembre 2018… soit il y a près de huit mois.<br/>À ce jour, madame la ministre, il n’y a toujours rien. Pourriez-vous nous préciser les raisons de ce retard et vous engager à publier ce décret dans les plus brefs délais ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349121" ordre_absolu_seance="100" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702434" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349121" ordre_absolu_seance="101" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702435" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>À l’occasion des ordonnances, madame la députée, vous aviez posé des questions sur l’exposition aux risques professionnels. Le rapport que j’avais commandé au professeur Frimat sur ce sujet très important met en exergue la question essentielle de la traçabilité : sans traçabilité, on le voit aujourd’hui dans les jugements successifs sur le sujet de l’amiante, il est extrêmement compliqué de résoudre le problème. Or l’exposition aux risques professionnels est un sujet majeur, non pas quantitativement mais qualitativement, qui a des conséquences très importantes pour les salariés. Il convient vraiment de prévenir et de réparer cette exposition.<br/>Dans le cadre de la réforme de la santé au travail, nous aurons l’occasion de statuer sur la question. Il y a quelques semaines nous avons envoyé aux partenaires sociaux un document d’orientation sur la santé au travail qui évoque un champ possible de discussion. Nous leur avons demandé de nous dire d’ici fin juin s’ils souhaitaient compléter cette base pour ouvrir une négociation, une concertation avec l’État. D’ici fin juin début juillet, nous nous mettrons d’accord avec les partenaires sociaux sur les modalités d’un travail commun ou d’une négociation sur le sujet, avant de soumettre des propositions au Parlement dans le cadre d’une loi de santé au travail dont je pense comme vous qu’elle est indispensable. <italique>(Applaudissements sur plusieurs bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349125" ordre_absolu_seance="103" id_acteur="PA267780" id_mandat="PM723504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702401" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Firmin Le Bodo</nom>
+              <id>267780</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Aucun rapport avec ma question !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alexis Corbière" id_acteur="PA721210" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723204">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349126" ordre_absolu_seance="104" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702402" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Alexis Corbière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349127" ordre_absolu_seance="105" id_acteur="PA721210" id_mandat="PM723204" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alexis Corbière</nom>
+              <id>721210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La semaine dernière, lors de sa « grande conférence » qui tenait plus du grand oral, voire de l’oral de rattrapage, le Président de la République a affirmé avoir créé en deux ans plus de 500 000 emplois. Cette formule osée est un cas d’école illustrant ce dont nous avons débattu il y a peu de temps : c’est une fake news, ou fausse information, allégation inexacte ou trompeuse.<br/>Il est vrai qu’on peut faire dire beaucoup de choses aux chiffres. J’ai pour ma part essayé de comparer ce qui est comparable d’une année à l’autre. J’ai donc pris les chiffres du chômage du dernier trimestre 2018 et du dernier trimestre 2017, en additionnant l’ensemble des catégories de chômeurs, catégories A, B, C et D, pour y voir bien clair. Le résultat, c’est que nous sommes passés de 6 204 900 personnes au chômage à 6 200 300, soit 4 600 chômeurs en moins, ce dont tout le monde se félicite mais qui devrait provoquer un peu moins de triomphalisme. D’autant que cette année, vous avez choisi de continuer à dépenser 22 milliards au titre du CICE, dont je rappelle qu’il devait permettre de créer 1 million d’emplois à en croire à l’époque M. Gattaz. Vingt-deux milliards pour 4 600 emplois, c’est cher !<br/>Vous nous avez rétorqué que ces 22 milliards avaient permis de sauvegarder 115 000 emplois, ce qui revient à dire que chaque emploi sauvegardé aura coûté 191 304 euros. Cela fait cher l’emploi préservé ! Avec la même somme on aurait pu recruter 100 000 infirmiers, 250 000 instituteurs, 150 000 animateurs périscolaires, 200 000 policiers municipaux ou 100 000 de ces pompiers que nous avons tous félicités pour le sauvetage de Notre-Dame de Paris mais qui réclament plus de moyens.<br/>Allez-vous, madame la ministre, continuer cette politique qui ne produit rien de réel et coûte fort cher au contribuable ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349130" ordre_absolu_seance="109" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702430" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349130" ordre_absolu_seance="110" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702431" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le député, sans vouloir être désagréable, je crois que votre question contient un nombre de fake news, d’informations inexactes ou erronées assez impressionnant. Je ne les reprendrai pas toutes, mais je voudrais mettre quelques points au clair.<br/>D’abord, la création d’emplois ne se mesure pas au nombre de chômeurs. Il s’agit du nombre net d’emplois créés dans le pays, soustraction faite des destructions d’emplois. Et ce sont bien près de 500 000 emplois nets qui ont été créés en deux ans.<br/>Il faut savoir que, rien que pour maintenir notre niveau de chômage, nous devons créer des emplois nets. En effet, notre population active augmente chaque année d’environ 100 000 personnes. C’est le problème inverse de l’Allemagne, dont la démographie et donc la population active baissent naturellement chaque année. Notre situation est un bon signe en termes de démographie et de dynamique pour le futur, mais à court-terme, nous devons créer 100 000 emplois nets rien que pour maintenir notre taux de chômage.<br/>Ensuite, les chiffres que vous avez cités ne sont pas ceux des demandeurs d’emplois mais sont relatifs aux catégories administratives de Pôle emploi, qui comprennent des personnes qui ont un travail et qui s’adressent à Pôle emploi pour en changer, et d’autres qui ne sont pas disponibles ou sont en formation. On ne peut les considérer comme des chômeurs.<br/>Ce qui est certain, c’est que le Bureau international du travail et l’INSEE attestent que le taux de chômage est passé de 9,7 % à 8,8 % depuis notre arrivée, et que nous avons créé près de 500 000 emplois nets. On peut s’en réjouir, même s’il faut aller beaucoup plus loin : c’est le seul point sur lequel nous serons d’accord. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349135" ordre_absolu_seance="115" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349136" ordre_absolu_seance="116" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702412" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <id>719608</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Premier geste de votre majorité il y a un peu plus de dix-huit mois, madame la ministre, les ordonnances travail sont censées porter leurs fruits, comme vous l’avez annoncé hier dans la presse. Pourtant le discours pro-entreprises du candidat Macron, qui avait pour objectif de redonner du souffle, de la souplesse, de la liberté aux entreprises, a fait bien des déçus, principalement dans les PME, qui crient leur ras-le-bol.<br/>Lors d’une réunion organisée à Béziers en janvier dernier avec des chefs de TPE et de PME, j’ai pu entendre ceci : « Macron a créé l’espoir. La déception est rude. Il n’y en a en définitive que pour les grands groupes ».<br/>Ce discours prétendument pro-entreprises était encore contredit jeudi dernier par les annonces du chef de l’État. Une fois encore, ce sont les entreprises qui vont payer les mesures fiscales à destination des ménages.<br/>Du coup, vos ordonnances ne résolvent en rien le problème de l’emploi. Notre taux de chômage, à 8,8 %, certes en légère baisse, reste parmi les plus élevés d’Europe, seules l’Espagne, l’Italie et la Grèce faisant moins bien que nous. La situation est la même en matière de formation, dans le prolongement de vos ordonnances.<br/>Dans ma circonscription les critiques sont légion à l’encontre de France compétences. Cet organisme, qui vise à collecter les fonds de formation des entreprises à la place des OPCA – organismes paritaires collecteurs agréés – devenus OPCO – opérateurs de compétences – doit ensuite redistribuer l’argent aux entreprises afin que celles-ci continuent leur politique de maintien dans l’emploi, via le plan de compétences. Le constat est amer : l’argent n’est revenu qu’à 25 % dans les branches professionnelles, qui ont immédiatement réduit de 75 % les remboursements aux entreprises et donc aux centres de formation. Or la formation est une composante essentielle de la lutte contre le chômage : chez moi, dans le Biterrois, où le taux de chômage est bien supérieur à la moyenne nationale, plus de 10 000 offres d’emploi ne trouvent pas preneur faute de formation adéquate.<br/>Quelle solution, madame la ministre, pourrait aider nos TPE et PME à se développer et à vivre enfin du fruit de leur travail ?</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Muriel Pénicaud" qualite="ministre" id_acteur="PA717169" id_nomination_oe="PM730074" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349139" ordre_absolu_seance="122" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1702477" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349139" ordre_absolu_seance="123" id_acteur="PA717169" id_mandat="-1" id_nomination_oe="PM730074" id_nomination_op="-1" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1702478" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Muriel Pénicaud</nom>
+              <id>717169</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il me semble en toute honnêteté, et une très grande majorité des entreprises le disent, qu’on n’a jamais autant fait pour stimuler la croissance des entreprises et donc de l’emploi. En dix-huit mois il y a eu les ordonnances travail, la loi PACTE, la baisse de l’impôt sur les sociétés, la transformation du CICE et la baisse durable des charges patronales jusqu’à 2,5 SMIC, la libéralisation de l’apprentissage qui permet aux entreprises de créer leur propre centre de formation et de développer leurs compétences, l’installation des opérateurs de compétence, qui sont tous en place aujourd’hui, et le plan d’investissement dans les compétences, qui permet, au travers de Pôle emploi, de financer des préparations à l’emploi et de faire correspondre directement les qualifications avec les besoins des entreprises.<br/>Dans un pays, chacun doit pouvoir recevoir le soutien de la collectivité, et aussi y contribuer. Étant donné tous les investissements que nous avons faits, dont on voit les résultats en termes de créations d’emploi ou de fonds propres des entreprises, et étant donné aussi l’intensité de la période sur le plan social et l’importance des défis qui se posent à notre pays, il est normal qu’on demande aux entreprises de jouer leur rôle.<br/>Elles le feront en embauchant plus d’apprentis, en offrant des stages de troisième aux jeunes des quartiers prioritaires de la politique de la ville, qui n’ont pas les réseaux pour en trouver, en accueillant des personnes en situation de handicap – elles sont 500 000 inscrites à Pôle emploi – et de façon plus générale en contribuant à l’effort de la nation, dont elles sont aussi bénéficiaires.<br/>Tout le monde bénéficie de la santé, de l’éducation, de la solidarité : tout le monde doit pouvoir y contribuer, notamment les entreprises. Je pense que la plupart le comprennent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1349143" ordre_absolu_seance="319" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702419" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le débat est clos.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="8" id_preparation="1349145" ordre_absolu_seance="321" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1702421" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1349146" ordre_absolu_seance="322" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1702422" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, lundi 6 mai, à seize heures :<br/>Discussion de la proposition de loi relative à la création d’un centre national de la musique ;<br/>Discussion de la proposition de loi visant à renforcer l’accompagnement des jeunes majeurs vulnérables vers l’autonomie.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1349147" ordre_absolu_seance="323" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1702423" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="1349148" ordre_absolu_seance="324" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1702424" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

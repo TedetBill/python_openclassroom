@@ -1,0 +1,1506 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2018E1N028</uid>
+  <metadonnees>
+    <dateSeance>20180721103000000</dateSeance>
+    <dateSeanceJour>samedi 21 juillet 2018</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>28</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Première session extraordinaire 2018</session>
+    <nomFichierJo>20181028</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <horaireGmt>Date: Sat, 21 Jul 2018 17:12:02 GMT</horaireGmt>
+    <heureGeneration>2018-07-21T19:12:02.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1384982">Présidence de M. François de Rugy</presidentSeance>
+      <para id_syceron="1384985">M. le président</para>
+      <sommaire3>
+        <titreStruct id_syceron="1385032">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1385037">
+          <intitule>Rappels au règlement</intitule>
+        </titreStruct>
+        <para id_syceron="1385039">Mme Yaël Braun-Pivet, présidente de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+        <para id_syceron="1385054">M. Guillaume Larrivé</para>
+        <para id_syceron="1385183">M. Ugo Bernalicis</para>
+        <para id_syceron="1385204">Mme Isabelle Florennes</para>
+        <para id_syceron="1385210">M. Stéphane Peu</para>
+        <para id_syceron="1385217">M. Jean-Christophe Lagarde</para>
+        <para id_syceron="1385128">Mme Marine Le Pen</para>
+        <para id_syceron="1385132">Mme Naïma Moutchou</para>
+        <para id_syceron="1385148">M. Philippe Gosselin</para>
+        <para id_syceron="1385171">Mme Cécile Untermaier</para>
+        <para id_syceron="1385112">M. le président</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1385116">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du samedi 21 juillet 2018</journee>
+      <session>Première session extraordinaire 2018</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122205" ordre_absolu_seance="1" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1384982" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. François de Rugy</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122206" ordre_absolu_seance="2" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1384983" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122207" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1384984" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à dix heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1122208" ordre_absolu_seance="4" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="ANNONCE_CCATION_1_20" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="1384985" valeur="">
+      <orateurs>
+        <orateur>
+          <nom>M. le président</nom>
+          <id>332747</id>
+          <qualite/>
+        </orateur>
+      </orateurs>
+      <texte>Mes chers collègues, compte tenu des informations dont je dispose sur le déroulement de la réunion de la commission des lois, et du fait que nous étions convenus de ne pas siéger parallèlement à cette réunion, la séance est suspendue jusqu’à onze heures trente.</texte>
+    </paragraphe>
+    <point nivpoint="99" valeur_ptsodj="0" ordinal_prise="2" id_preparation="1122209" ordre_absolu_seance="5" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="1385032" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suspension et reprise de la séance</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="2" id_preparation="1122210" ordre_absolu_seance="6" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385033" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est suspendue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="2" id_preparation="1122211" ordre_absolu_seance="7" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1385034" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue à dix heures trente, est reprise à onze heures cinquante.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="2" id_preparation="1122212" ordre_absolu_seance="8" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385035" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est reprise.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122214" ordre_absolu_seance="10" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1385037" valeur="">
+      <orateurs/>
+      <texte>Rappels au règlement</texte>
+      <interExtraction nom_orateur="Mme Yaël Braun-Pivet" qualite="présidente de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République" id_acteur="PA721908" id_nomination_oe="-1" id_nomination_op="PM732265" id_mandat="PM723418">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122215" ordre_absolu_seance="11" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385038" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avant de faire droit aux demandes de rappel au règlement, je donne la parole à Mme Yaël Braun-Pivet, présidente de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122216" ordre_absolu_seance="12" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1385039" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, mes chers collègues, je vais vous faire un compte rendu fidèle de la réunion de la commission des lois qui s’est tenue ce matin ; chacun a de toute façon pu la suivre, puisqu’elle était publique, et diffusée.<br/>Nous avons souhaité réexaminer collectivement les modalités de fonctionnement de la commission des lois dotée des pouvoirs d’une commission d’enquête. Je voudrais saluer Guillaume Larrivé, corapporteur de cette commission, avec qui je sais pouvoir travailler en toute sérénité et dans le respect des règles, auquel nous sommes particulièrement attachés. Cela nous permettra, je pense, d’avancer, avec le souci d’établir la vérité des faits.<br/>Nous avons décidé, à l’unanimité des groupes présents – l’un d’entre eux s’étant abstenu –, que les auditions seraient publiques, sous la réserve que si des fonctionnaires demandaient le huis clos, le corapporteur et moi-même étudierions leur demande, et que nous saisirions la commission en cas de désaccord. Nous apprécierons ainsi, pour chaque situation, l’opportunité du huis clos.<br/>Concernant les auditions, nous sommes convenus de commencer nos travaux dès lundi matin, à dix heures, par l’audition de M. le ministre d’État, ministre de l’intérieur. Nous entendrons ensuite M. le préfet de police de Paris, à quatorze heures.<br/>Nous avons demandé à chacun des groupes de nous faire parvenir, par l’intermédiaire du secrétariat de la commission des lois, la liste des personnes qu’ils souhaiteraient voir entendues. Nous avons nous-même établi deux listes. En dépit de certains désaccords, une dizaine de suggestions étaient communes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="17" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385072" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122220" ordre_absolu_seance="18" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385071" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons donc considéré que nous pouvions commencer les auditions dès lundi.<br/>Cette liste n’est bien sûr pas figée. D’une part, nous souhaitons, je l’ai dit, recueillir les suggestions de l’ensemble des groupes de l’Assemblée nationale ; d’autre part, cette liste sera amenée, en fonction de nos travaux, soit à s’allonger soit à se réduire – il est possible que certaines auditions initialement envisagées n’apparaissent finalement pas comme nécessaires. De plus, les procédures judiciaires limitent juridiquement nos possibilités d’action : M. le corapporteur et moi devrons nous assurer que la commission des lois ne dépasse pas ses prérogatives, et n’excède pas les compétences que le droit lui donne.<br/>Ces décisions prises, la séance de la commission a été levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122223" ordre_absolu_seance="21" id_acteur="PA266774" id_mandat="PM723526" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385046" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Furst</nom>
+              <id>266774</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance de la commission d’enquête !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122224" ordre_absolu_seance="22" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385047" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Non ! Il faudrait que vous lisiez le règlement de l’Assemblée. <italique>(</italique><italique>Exclamations </italique><italique>sur les bancs d</italique><italique>es</italique><italique> groupe</italique><italique>s</italique><italique/><italique>LR et </italique><italique>FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122225" ordre_absolu_seance="23" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385048" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono et M. Ugo Bernalicis</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122226" ordre_absolu_seance="24" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385049" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il s’agit bien de la commission des lois, qui se dote des pouvoirs d’une commission d’enquête.<br/>J’ai rappelé que les règles de la commission des lois s’appliquent,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="26" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385074" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ben voyons ! C’est pour cela que vous avez donné la parole même à Mme Le Pen ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122228" ordre_absolu_seance="27" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385073" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…de la même manière que depuis le début de la législature – et même bien avant –, et c’est en tant que présidente de la commission des lois que j’ai levé la séance.<br/>Voilà, monsieur le président, ce que je souhaitais dire ce matin. Nous pouvons maintenant avancer dans la clarté…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="29" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385097" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dites plutôt dans le désordre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122229" ordre_absolu_seance="30" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385096" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>…et dans un esprit très constructif ; j’ai pu le constater, nous souhaitons tous que cette commission travaille de façon sereine et irréprochable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="31" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385099" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne croyons pas que ce soit là le souhait de la majorité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122229" ordre_absolu_seance="32" id_acteur="PA721908" id_mandat="PM723418" id_nomination_oe="-1" id_nomination_op="PM732265" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385098" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Yaël Braun-Pivet</nom>
+              <id>721908</id>
+              <qualite>présidente de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien le moins que nous devons à nos concitoyens. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Guillaume Larrivé" id_acteur="PA267785" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723310">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122230" ordre_absolu_seance="33" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385053" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Guillaume Larrivé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122231" ordre_absolu_seance="34" id_acteur="PA267785" id_mandat="PM723310" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385054" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Larrivé</nom>
+              <id>267785</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cette réunion de la commission des lois en forme de commission d’enquête a permis de prendre acte d’un point d’accord partiel sur la méthode et d’un point de désaccord majeur sur le périmètre de nos travaux et sur la liste des personnes qu’il me paraît indispensable d’entendre dans les meilleurs délais.<br/>Le point d’accord sur la méthode concerne la publicité des auditions. Les choses ont évolué sur ce point par rapport à hier soir : j’observe que la commission s’est ralliée à notre proposition. Les auditions revêtiront un caractère systématiquement, totalement public, conformément à notre règlement, sauf dans le cas tout à fait exceptionnel où une personne solliciterait le huis clos et où la commission l’accepterait.<br/>Le point de désaccord majeur concerne le périmètre des personnalités, ou des individus qu’il est nécessaire de convoquer et d’entendre sous serment.<br/>Mme la corapporteure Braun-Pivet, appuyée par le groupe majoritaire, a accepté l’audition – nécessaire –, du ministre d’État, ministre de l’intérieur, dès lundi matin, du préfet de police de Paris et du directeur de cabinet du Président de la République, M. Patrick Strzoda. Huit ou neuf noms ont été cités par Mme Braun-Pivet.<br/>Lorsque le nom des personnes fait l’objet d’un accord, il est indispensable que les auditions se tiennent très vite. Celles du ministre d’État et du préfet de police sont programmées ; il est bien sûr nécessaire que nous puissions entendre également dès lundi le directeur de cabinet du Président de la République et les autres personnes sur les noms desquelles nous sommes d’accord.<br/>Notre désaccord, majeur, concerne en réalité trois ensembles de personnalités. C’est sur ce point que je souhaite informer pleinement la représentation nationale.<br/>S’agissant de l’Élysée, il est évidemment indispensable que soit entendue toute la chaîne hiérarchique qui mène de M. Benalla – qui était, le 1<exposant>er </exposant>mai, adjoint au chef de cabinet du Président de la République – jusqu’au secrétaire général de la présidence de la République, M. Alexis Kohler, inclus. Je maintiens évidemment ma demande d’audition de M. Kohler, mais aussi du chef de cabinet du Président de la République, M. François-Xavier Lauch, et du porte-parole du Président de la République, M. Bruno Roger-Petit, qui pour la première fois depuis sa prise de fonction a fait un point de presse solennel…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="41" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385101" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et un peu raide !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122237" ordre_absolu_seance="42" id_acteur="PA267785" id_mandat="PM723310" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385100" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Larrivé</nom>
+              <id>267785</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…sur les faits dont la commission d’enquête est saisie. Le périmètre élyséen fait donc l’objet d’un désaccord.<br/>Un autre désaccord concerne le parti La République en marche, directement impliqué dans les faits du 1<exposant>er </exposant>mai, puisque la presse nous apprend qu’un certain M. Crase, salarié ou collaborateur de ce parti, était présent.<br/>Il sera donc nécessaire d’en entendre le délégué général, M. Christophe Castaner,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122239" ordre_absolu_seance="45" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385062" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122241" ordre_absolu_seance="46" id_acteur="PA266774" id_mandat="PM723526" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385064" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Furst</nom>
+              <id>266774</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est logique !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122242" ordre_absolu_seance="47" id_acteur="PA334843" id_mandat="PM723534" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385065" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrice Verchère</nom>
+              <id>334843</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est indispensable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122243" ordre_absolu_seance="48" id_acteur="PA267785" id_mandat="PM723310" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385066" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Larrivé</nom>
+              <id>267785</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…ainsi sans doute que certains de ses collaborateurs ayant, si nous comprenons bien, des fonctions de « chef de service de sécurité ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="49" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385102" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui ! C’est ça, la transparence !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="50" id_acteur="PA429893" id_mandat="PM723104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385103" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Carvounas</nom>
+              <id>429893</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1122245" ordre_absolu_seance="51" id_acteur="PA267785" id_mandat="PM723310" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385068" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Guillaume Larrivé</nom>
+              <id>267785</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant enfin de la place Beauvau, troisième et dernier point de désaccord entre nous, le chef de cabinet du ministre de l’intérieur, M. Jean-Marie Girier, devra être entendu, ainsi que plusieurs autres personnalités.<br/>Voilà, monsieur le président, ce que je peux dire de l’accord très partiel sur la méthode et de notre désaccord majeur sur le périmètre des auditions qui devront être conduites.<br/>Comme corapporteur et comme député, je peux dire que la préoccupation unique qui nous anime tous est d’établir la vérité. Nous en avons le mandat, donné par la nation ; nous en avons les compétences juridiques, qui sont celles d’une commission d’enquête. Nous avons donc le devoir d’avancer, sereinement, sans entrave d’aucune sorte. La transparence ni la vérité ne sauraient être à géométrie variable en fonction de la distance qui sépare les personnes du Président de la République, Emmanuel Macron. <italique>(Applaudissements sur les bancs d</italique><italique>es</italique><italique> groupe</italique><italique>s</italique><italique> LR, NG et GDR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Ugo Bernalicis" id_acteur="PA720430" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722962">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122322" ordre_absolu_seance="54" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385182" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Ugo Bernalicis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122323" ordre_absolu_seance="55" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1385183" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur le président, je voudrais vous remercier non seulement de me donner la parole, mais surtout d’avoir dit en séance que la publicité des auditions de la future commission d’enquête allait de soi, car ce matin vos propos ont été utilisés comme des arguments d’autorité,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122324" ordre_absolu_seance="56" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385184" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Disons plutôt qu’ils ont été valorisés !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122323" ordre_absolu_seance="57" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385234" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et c’est tant mieux.<br/>Il aura fallu que la nuit porte conseil aux uns et aux autres, afin qu’ils ne se voient pas en train de réécrire l’histoire car, depuis le début de cette affaire, tout ce qui constitue une avancée pour faire éclater la vérité, doit être arraché à la majorité. <italique>(Applaudissements sur les bancs d</italique><italique>es</italique><italique> groupe</italique><italique>s</italique><italique/><italique>FI et </italique><italique>LR.) </italique>Nous continuerons d’arracher tout ce qui doit l’être pour faire la vérité sur cette affaire.<br/>Je vous remercie donc, monsieur le président, pour vos propos sur la publicité des débats, qui a effectivement été votée à l’unanimité moins deux abstentions – ou une abstention, si l’on compte par groupe parlementaire.<br/>Si nous sommes heureux que le principe de la publicité des débats ait été accepté, nous avons cependant du mal, depuis deux jours, avec la parole de la majorité, dont les prises de position varient – d’abord blanc, puis noir, puis gris. J’attends donc de voir !<br/>S’agissant de la liste des auditions, la majorité a proposé d’entendre des personnalités dont le nom avait également été indiqué par Guillaume Larrivé, mais ne nous y trompons pas : ce sont les personnes que la majorité a décidé d’auditionner qui seront entendues, ni plus ni moins. C’est cette liste qui aurait été validée même si Guillaume Larrivé et les représentants des autres groupes n’avaient pas fait de propositions.<br/>C’est là un problème majeur de cette commission d’enquête, après l’échec de la réunion de son bureau, hier. Alors qu’une dynamique transpartisane avait été validée ici, selon laquelle le pouvoir législatif s’organisait pour mener sa mission d’évaluation et de contrôle de l’exécutif, nous en sommes revenus ce matin à un fonctionnement autoritaire de la majorité qui a raison de toute façon, parce qu’elle est majoritaire.<br/>La nature et l’état d’esprit de cette commission d’enquête ont donc clairement changé, ce que nous regrettons car il faut de l’ordre : il faut arrêter avec ce désordre permanent,… <italique>(</italique><italique>Rires et e</italique><italique>xclamations sur les bancs des groupes LaREM et MODEM.)</italique><br/>…avec ce tumulte, ces rebondissements – la majorité demandant des auditions à huis clos, puis acceptant des auditions publiques, s’exprimant, puis ne s’exprimant plus, refusant une commission d’enquête, puis déclarant ne pas s’y opposer. Il faut remettre de l’ordre dans tout cela, un ordre républicain !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122332" ordre_absolu_seance="65" id_acteur="PA719266" id_mandat="PM722610" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385192" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Pierre Cubertafon</nom>
+              <id>719266</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ose vraiment tout !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122333" ordre_absolu_seance="66" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385193" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>D’ailleurs, je vous rappelle que deux demandes ont été adressées, à la fois par le président Jacob et par le président Mélenchon, afin d’entendre le Premier ministre non seulement devant la commission d’enquête mais surtout dans l’hémicycle, pour des raisons politiques, au titre de l’article 50-1 de la Constitution.<br/>Si M. Philippe doit également être entendu par la commission d’enquête c’est qu’il participait, avec Gérard Collomb, Alexis Kohler et Patrick Strozda – notamment –, à la cellule de crise créée spécialement pour le 1<exposant>er </exposant>mai. De très belles photos ont d’ailleurs été prises à cette occasion, montrant que tout le monde était sur le pont et tenait au courant, minute après minute, le chef de l’État, lequel gardait son téléphone à proximité de lui, en Australie – le <italique>storytelling</italique> était parfait. Telles sont du moins les informations de l’article du quotidien <italique>Le Parisien</italique>, qui n’a pas été démenti dans cet hémicycle.<br/>Enfin, pourquoi Alexandre Benalla, Vincent Crase ou Philippe Mizerski – l’identification de ce dernier a pris un peu plus de temps – ne figurent-ils pas sur la liste des personnes auditionnées ? Chers collègues de la majorité, vous nous dites que nous ne pouvons pas les entendre car des procédures judiciaires sont en cours.<br/>Premièrement, M. Cahuzac avait été entendu dans le cadre de la commission d’enquête qui concernait tout ce qui entourait l’affaire le concernant. <italique>(Applaudissements sur </italique><italique>plusieurs </italique><italique>bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122337" ordre_absolu_seance="70" id_acteur="PA429893" id_mandat="PM723104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385197" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Carvounas</nom>
+              <id>429893</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tout à fait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122338" ordre_absolu_seance="71" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Deuxièmement, il y va de la séparation des pouvoirs. Il ne nous revient pas de nous autocensurer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="72" id_acteur="PA429893" id_mandat="PM723104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385299" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Carvounas</nom>
+              <id>429893</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122338" ordre_absolu_seance="73" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si nous voulons auditionner une personne, nous le demandons. Si l’autorité judiciaire s’y oppose, elle doit le faire savoir. Point. Chacun son rôle, chacun ses pouvoirs. C’est ce qui nous a conduits à demander qu’Emmanuel Macron puisse être entendu par la commission d’enquête. <italique>(Exclamations sur les bancs du groupe LaREM.)</italique> Évidemment, le Président de la République n’est pas responsable devant le Parlement. Il peut refuser de venir, mais rien, dans la Constitution, ne l’empêche d’accepter de venir devant la commission d’enquête.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122339" ordre_absolu_seance="74" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Si, il n’a pas le droit d’entrer ici !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122340" ordre_absolu_seance="75" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385200" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous le dirons autant de fois qu’il le faudra. Et si nous devons également demander à Brigitte Macron de venir, nous le ferons. <italique>(</italique><italique>Nouvelles e</italique><italique>xclamations sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="76" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385300" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Merci de bien vouloir conclure, monsieur Bernalicis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122341" ordre_absolu_seance="77" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385201" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Troisièmement – et j’en terminerai par là, monsieur le président –, s’agissant de l’organisation de nos travaux et des débats lors de la réunion de la commission des lois, j’ai vécu ce matin une situation hallucinante : c’est à la fin de la réunion, à la sauvette, que l’on nous a rassurés sur le fait que tous les députés pourraient être présents et poser des questions. Le cadre de nos futurs travaux aurait pourtant dû être le point de départ de notre discussion, suivi de la publicité, puis de l’organisation des auditions. La commission de ce matin n’a décidé d’aucun horaire : je tenais à le rappeler, pour faire pièce à votre <italique>storytelling </italique>destiné à faire croire que tout a été décidé l’unanimité. <italique>(Applaudissements sur les bancs d</italique><italique>es</italique><italique> groupe</italique><italique>s</italique><italique> FI</italique><italique> et GDR</italique><italique>.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="78" id_acteur="PA429893" id_mandat="PM723104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385301" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Carvounas</nom>
+              <id>429893</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Florennes" id_acteur="PA721742" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723370">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122343" ordre_absolu_seance="79" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385203" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, mesdames, messieurs les députés, de vous en tenir à un temps de parole de cinq minutes.<br/>La parole est à Mme Isabelle Florennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122344" ordre_absolu_seance="80" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe du Mouvement démocrate et apparentés, je voudrais dire que nous sommes satisfaits de l’accord qui a pu être trouvé ce matin sur le premier point, qui nous semblait important. Comme vous tous, chers collègues, nous sommes soucieux de la transparence des débats, qui doit caractériser la commission d’enquête.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="81" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385307" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dites plutôt que vous êtes tombés d’accord avec nous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122344" ordre_absolu_seance="82" id_acteur="PA721742" id_mandat="PM723370" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Florennes</nom>
+              <id>721742</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur ce point, les discussions ont été intéressantes et sereines. C’est une bonne chose car il était nécessaire que nous parvenions à un accord sur ce point.<br/>S’agissant des auditions, je voudrais rappeler que Mme la présidente et corapporteure de la commission des lois a proposé une bonne méthode, consistant à demander aux groupes de transmettre à la commission les propositions de personnalités à auditionner, tout en commençant les auditions dès lundi. Il est urgent que nous commencions à travailler, et nous sommes satisfaits d’être en mesure de le faire. Le programme des auditions pourra s’enrichir au fur et à mesure. Il est aussi important de conserver cette latitude, comme il est de mise dans toutes les commissions d’enquête.<br/>À la suite de ces échanges, nous souhaitons pouvoir reprendre dans la sérénité les débats sur le projet de révision constitutionnelle. Certains amendements sont très attendus. <italique>(Applaudissements sur les bancs des groupes MODEM et LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Stéphane Peu" id_acteur="PA721270" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723220">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122349" ordre_absolu_seance="85" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385209" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Stéphane Peu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122350" ordre_absolu_seance="86" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385210" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je me félicite moi aussi des avancées enregistrées ce matin lors de la réunion de la commission, tout en regrettant qu’il ait fallu plusieurs heures pour que les oppositions obtiennent la création de cette commission d’enquête et pour que ce qui nous paraissait évident et réglementaire – c’est-à-dire le caractère public des auditions –, refusé hier par la majorité, soit finalement accepté. Tout cela représente beaucoup de temps perdu, et ces hésitations sont dommageables. <italique>(</italique><italique>Applaudissements sur les bancs des groupes GDR</italique><italique>,</italique><italique/><italique>NG </italique><italique>et FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="87" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385346" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122351" ordre_absolu_seance="88" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385211" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’un des enjeux de cette commission d’enquête sera de déterminer si nous avons affaire aux errements d’une ou deux personnes ou si une milice ou une police parallèle avait été érigée en système par le parti majoritaire à l’Élysée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122352" ordre_absolu_seance="89" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385212" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne, M. Patrick Hetzel et M. Patrice Verchère</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122353" ordre_absolu_seance="90" id_acteur="PA721270" id_mandat="PM723220" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Peu</nom>
+              <id>721270</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voilà la vraie question. Les auditions doivent nous permettre d’éclairer cet aspect fondamental de l’affaire. De ce point de vue, la chaîne hiérarchique de l’Élysée, celle du ministère de l’intérieur et, bien évidemment, les responsables du parti La République en marche doivent pouvoir être auditionnés.<br/>Par ailleurs, puisque le périmètre de la commission concerne la manifestation du 1<exposant>er </exposant>mai, je ne comprendrais pas que le syndicat organisateur du rassemblement, qui a été la victime des violences et des problèmes dans le commandement du maintien de l’ordre ce jour-là, à savoir la CGT et son service d’ordre, ne soient pas auditionnés par notre commission d’enquête. J’ai donc proposé ce matin qu’ils soient entendus.<br/>Enfin, comme vous le savez tous, chers collègues, en matière de police, on donne souvent aux syndicats un rôle proche de celui de porte-parole. Cela s’est fait sous tous les gouvernements. Nous souhaitons donc que tous les syndicats de policiers puissent être entendus dans le cadre de cette commission d’enquête. Ces auditions nous paraissent nécessaires à la manifestation de la vérité. <italique>(Applaudissements sur les bancs des groupes GDR</italique><italique>,</italique><italique> FI</italique><italique> et</italique><italique> LR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Christophe Lagarde" id_acteur="PA268019" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723092">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122356" ordre_absolu_seance="93" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385216" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Christophe Lagarde.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122357" ordre_absolu_seance="94" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385217" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans un fonctionnement normal de la vie sociale et politique, les institutions doivent naturellement être respectées, mais elles ne sont pas indispensables. Elles le sont, en revanche, lorsque l’on traverse une crise telle que celle que l’on connaît, car c’est leur mise en œuvre qui doit permettre d’en sortir. Telle est la position du groupe UDI, Agir et indépendants.<br/>Le fait que l’Assemblée nationale soit bloquée depuis maintenant quarante-huit heures n’aide pas à la résolution de la crise. Elle s’est trouvée bloquée pour des raisons très simples. D’abord, parce qu’il était légitime et logique qu’un membre du Gouvernement pouvant s’exprimer sur l’affaire vienne ici assumer la responsabilité politique et nous explique ses intentions, comme cela a été le cas au Sénat.<br/>Ensuite, parce que l’opposition était en droit d’obtenir une commission d’enquête, que la majorité a fini par concéder.<br/>Enfin, parce qu’il était évident hier soir que, pour garantir aux Français que notre institution fonctionne, c’est-à-dire qu’elle leur apportera la vérité, la transparence et des propositions permettant d’éviter pareil scandale à l’avenir, il fallait que tout cela soit public. Pas un Français n’aurait compris que nous menions les auditions à huis clos.<br/>À cet égard, les discussions d’hier soir étaient très surprenantes non seulement parce que l’audition publique est de droit et le huis clos, l’exception, mais aussi parce que la transparence est la seule chose que les Français peuvent attendre de notre institution qui, jusqu’alors, n’est pas touchée par ce scandale. C’est le pouvoir exécutif qui est atteint et c’est le pouvoir législatif qui doit garantir la transparence aux Français.<br/>C’est la raison pour laquelle, après les évolutions – parfois aussi les énervements – que nous avons constatées, non seulement la commission est mise en place et les auditions seront toutes publiques sauf – je répète la position de notre groupe à ce sujet – si un intéressé le demande et si la commission le juge légitime.<br/>Je demande à présent à la commission que l’audition des fonctionnaires de police ait lieu dans des conditions différentes : on peut faire entendre leur voix mais pas montrer leur visage. En effet, souvenez-vous, chers collègues, de l’affaire de Magnanville : la police nationale est aujourd’hui encore traumatisée par ce qui s’est passé. Nous n’avons pas besoin d’exposer publiquement le visage des policiers, mais simplement d’entendre leur voix. <italique>(Applaudissements sur tous les bancs.)</italique><br/>Dès lors que la transparence est assumée, assurée et que des auditions pourront avoir lieu, bien qu’un désaccord subsiste sur le niveau des personnalités auditionnées, notre institution doit pouvoir reprendre son fonctionnement, y compris dans cet hémicycle. <italique>(Applaudissements sur les bancs du groupe UDI-Agir</italique><italique> et sur plusieurs bancs des groupes LaREM et MODEM</italique><italique>.)</italique><br/>D’abord, chers collègues, parce que si d’aventure vous vouliez refuser une audition qui paraît légitime et nécessaire, une fois de plus, la pression de l’opinion publique contraindra la majorité à l’organiser.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122366" ordre_absolu_seance="103" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385226" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122367" ordre_absolu_seance="104" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385227" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>À l’inverse, les demandes illégitimes d’auditions, qui seraient faites pour ne poursuivre que dans le champ politique et pour bloquer l’institution, seront condamnées par l’opinion publique.<br/>Par exemple, comme je l’ai exprimé en commission des lois, il me semble indispensable d’entendre très vite le directeur de cabinet du Président de la République, car son adjoint est à l’origine de la crise. En revanche, à ce stade, je ne vois absolument pas l’utilité d’entendre le secrétaire général de l’Élysée et M. Castaner, en tant que responsable de La République en marche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122369" ordre_absolu_seance="106" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385229" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ah bon ? Qui a décidé, selon vous, dans cette affaire ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122370" ordre_absolu_seance="107" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385230" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je pense également nécessaire d’entendre le commandement militaire de l’Élysée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122371" ordre_absolu_seance="108" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385231" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce n’est pas vous qui décidez !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="109" id_acteur="PA429893" id_mandat="PM723104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385392" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Luc Carvounas</nom>
+              <id>429893</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le verre est à moitié vide et cela vous convient !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1122372" ordre_absolu_seance="110" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385232" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chacun a naturellement le droit de s’exprimer et d’émettre son opinion. Nous avons aussi besoin d’entendre le porte-parole de l’Élysée, dont certaines des déclarations se sont avérées inexactes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="0" ordre_absolu_seance="111" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On peut même dire qu’il a menti !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122264" ordre_absolu_seance="112" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385123" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voilà ce que le groupe UDI, Agir et indépendants considérerait comme raisonnable et de nature à permettre à notre institution de retrouver un fonctionnement normal, ce que je crois souhaitable.<br/>Nous sommes réunis en tant que constituant. Nous avons le devoir de tirer des leçons de cette crise. L’abus de pouvoir trouve son origine dans le fait que certains pouvoirs sont excessifs et insuffisamment contre-balancés. C’est ce qui se passe au sein de la République française. Comme je l’ai déjà dit, la France est, dans le monde occidental, le pays démocratique dans lequel le Président de la République détient le plus de pouvoirs et le Parlement, le moins de pouvoirs. Je souhaite que nous poursuivions l’examen du projet de loi constitutionnelle et que nous saisissions cette occasion de rééquilibrer les pouvoirs et de prémunir contre un abus de pouvoir.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122266" ordre_absolu_seance="114" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385125" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est le contraire qui est prévu ! Ils veulent affaiblir le Parlement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122267" ordre_absolu_seance="115" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385126" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Tel est, selon nous, le devoir de l’Assemblée nationale dès lors que la commission d’enquête a été mise en place, que des auditions sont prévues et que tous les Français pourront connaître la vérité, puisqu’il n’y aura ni secret ni huis clos. <italique>(Applaudissements sur les bancs d</italique><italique>u</italique><italique> groupe UDI-Agir</italique><italique> et sur plusieurs bancs des groupes </italique><italique>LaREM</italique><italique> et MODEM</italique><italique>.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marine Le Pen" id_acteur="PA720614" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723016">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122268" ordre_absolu_seance="116" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385127" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marine Le Pen.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122269" ordre_absolu_seance="117" id_acteur="PA720614" id_mandat="PM723016" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385128" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marine Le Pen</nom>
+              <id>720614</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une chose au moins est sûre en l’état de notre connaissance de l’affaire : M. Benalla n’a pas agi seul ; ils étaient plusieurs, le 1<exposant>er</exposant><exposant/>mai, et ils sont plusieurs à avoir eu connaissance des délits qui semblent avoir été commis. Ces éléments à eux seuls justifient le fait que la commission d’enquête puisse procéder à des auditions les plus larges possible, et sans qu’elle se limite aux faits du 1<exposant>er </exposant>mai, ce qui semble être le désir de la République en marche – nous les comprenons, ils essaient de circonscrire l’incendie, mais le meilleur moyen d’attiser les braises et de le faire repartir est précisément de donner le sentiment que vous ne souhaitez pas la vérité et la transparence dans cette affaire.<br/>Certaines personnes ont eu des pouvoirs exorbitants : qui les leur a donnés ? Elles ont obtenu des passe-droits : qui les leur a accordés ? Elles ont bénéficié d’une protection de nature hiérarchique et politique : qui la leur a octroyée ? Ensuite, planent des soupçons très lourds d’activités de police parallèle, de police politique, pas seulement le 1<exposant>er </exposant>mai, mais en une série d’occasions au cours desquelles M. Benalla, voire M. Crase, ont tenté d’exercer l’autorité qui relève normalement de nos forces de l’ordre républicaines. C’est si vrai que les journaux regorgent d’exemples de frictions entre des policiers ou des gendarmes et cette équipe qui s’arrogeait des pouvoirs indus, en étant protégée par les uns et les autres.<br/>Il est évidemment essentiel de faire toute la lumière sur ces agissements qui ébranlent notre État de droit, notre fonctionnement démocratique et républicain. Il serait bon que La République en marche cesse de faire de l’obstruction quant à la révélation de la vérité. <italique>(Applaudissements parmi les députés non inscrits.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Naïma Moutchou" id_acteur="PA720908" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723110">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122272" ordre_absolu_seance="120" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385131" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Naïma Moutchou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122273" ordre_absolu_seance="121" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385132" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ma vision est un peu différente de la vôtre : je vois le verre à moitié plein plutôt qu’à moitié vide.<br/>D’abord, la commission des lois, qui s’est dotée des pouvoirs d’une commission d’enquête, a été réunie dans des délais extrêmement rapides, dans un délai record – cela ne s’est jamais fait sous la V<exposant>e </exposant>République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="123" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ben voyons !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122276" ordre_absolu_seance="124" id_acteur="PA1874" id_mandat="PM722598" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385135" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Le Fur</nom>
+              <id>1874</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a quand même fallu attendre vingt-quatre heures !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122275" ordre_absolu_seance="125" id_acteur="PA266774" id_mandat="PM723526" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385134" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Furst</nom>
+              <id>266774</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est l’affaire qui ne s’est jamais vue !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="126" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385394" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, ce qui ne s’est jamais vu sous la V<exposant>e </exposant>République, c’est qu’un collaborateur du Président de la République aille taper sur des manifestants !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122277" ordre_absolu_seance="127" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385136" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sa création a été votée à l’unanimité des commissaires aux lois, majorité comprise. Nous nous sommes accordés sur ce qui était jusque-là des points durs : l’audition du ministre de l’intérieur, ministre d’État – il sera entendu lundi matin –, le principe de la publicité des débats… <italique>(Exclamations sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122278" ordre_absolu_seance="128" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385137" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une évidence !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122279" ordre_absolu_seance="129" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385138" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…– le corapporteur l’a rappelé –,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122280" ordre_absolu_seance="130" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385139" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Poursuivez, madame Moutchou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122281" ordre_absolu_seance="131" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385140" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle nous raconte une fable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122282" ordre_absolu_seance="132" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385141" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…les personnes interrogées pouvant le cas échéant demander à être auditionnées à huis clos ; dans ce cas, la commission devra se prononcer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="133" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385395" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Une fois que la majorité aura délibéré avec elle-même !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122283" ordre_absolu_seance="134" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385142" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant des auditions, je veux également être optimiste. Nous sommes tombés d’accord sur près d’une dizaine de noms. Pour le reste, les groupes pourront proposer d’autres noms et nous aurons tout loisir de statuer au fil de l’eau, en fonction des premières auditions et dans le respect du cadre légal – ne l’oublions pas : l’argument est souvent balayé d’un revers de main, mais je rappelle qu’une enquête préliminaire est en cours, la justice est saisie. Ce serait tout de même un comble pour le législateur de ne respecter ni la loi ni la Constitution.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="135" id_acteur="PA721960" id_mandat="PM723434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385397" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Danièle Obono</nom>
+              <id>721960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Parlez pour vous !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122284" ordre_absolu_seance="136" id_acteur="PA266774" id_mandat="PM723526" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385143" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Furst</nom>
+              <id>266774</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et la séparation des pouvoirs ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122285" ordre_absolu_seance="137" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385144" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes tous animés par le même souhait, celui de faire la lumière sur les faits. La commission des lois, qui enquête, s’est mise au travail.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="138" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385419" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous l’avons arraché au forceps !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122286" ordre_absolu_seance="139" id_acteur="PA720908" id_mandat="PM723110" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385145" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Naïma Moutchou</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Compte tenu de ces nombreux points de convergence, il me semble que tous les ingrédients sont réunis pour reprendre sereinement les travaux sur la révision constitutionnelle, réforme qui nous engage tous. <italique>(Applaudissements sur </italique><italique>plusieurs </italique><italique>bancs du groupe LaREM</italique><italique> et sur quelques bancs du groupe MODEM</italique><italique>.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122287" ordre_absolu_seance="140" id_acteur="PA1630" id_mandat="PM723232" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385146" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Herbillon</nom>
+              <id>1630</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est l’opposition qui a imposé la transparence !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Philippe Gosselin" id_acteur="PA266797" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722884">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122288" ordre_absolu_seance="141" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385147" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Philippe Gosselin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122289" ordre_absolu_seance="142" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385148" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous partageons tous, sur ces bancs, la volonté d’établir la vérité. Nous nous réjouissons que la commission ait pu parvenir à un accord, non sans difficultés. Difficulté, d’abord, de constituer cette commission : il a fallu acculer la majorité,… <italique>(Exclamations sur les bancs du groupe LaREM. – Applaudissements sur les bancs du groupe LR</italique><italique>.</italique><italique>)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122290" ordre_absolu_seance="143" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385149" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122291" ordre_absolu_seance="144" id_acteur="PA722398" id_mandat="PM723562" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385150" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rémy Rebeyrotte</nom>
+              <id>722398</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mais enfin ! Il a fallu quarante-huit heures en tout et pour tout !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122292" ordre_absolu_seance="145" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385151" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…et sans les différentes révélations médiatiques, nous n’en serions pas là.<br/>Ensuite, je m’étonnais, comme d’autres hier soir, que vous puissiez revendiquer la transparence tout en fermant les portes pour les travaux de la commission. La transparence était indispensable ; nous la devions à nos concitoyens mais aussi à la présidence de cette assemblée, au nom du respect de son autorité. En effet, le président s’était engagé très clairement en faveur de la publicité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122293" ordre_absolu_seance="147" id_acteur="PA606712" id_mandat="PM722756" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385152" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Lurton</nom>
+              <id>606712</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122294" ordre_absolu_seance="148" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385153" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je ne vois pas au nom de quoi nous serions revenus en arrière.<br/>Nous avons noté un certain nombre de points d’accord – nous devons nous en réjouir, dans le souci de l’intérêt général –, mais il reste évidemment des désaccords sur les noms : s’il n’est pas question de convoquer des centaines de personnes pour des auditions qui dureraient des heures et des heures, nous devons entendre des responsables, des personnalités situées au sommet de la hiérarchie, qui connaissent mieux que d’autres l’ensemble des éléments, du fait de leur position – je pense en particulier au secrétaire général de l’Élysée. Il y a bien sûr d’autres personnes, au premier rang desquelles le principal intéressé, dont nous avons tous le nom en tête. Il serait inconvenant, inimaginable qu’il ne puisse pas être auditionné par la commission.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122295" ordre_absolu_seance="150" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385154" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122296" ordre_absolu_seance="151" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385155" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dès lundi, le ministre de l’intérieur viendra témoigner. Et je rappelle, afin que nul ne l’ignore, que les auditions se font sous serment. Autrement dit, tout ce qui pourrait être dit et qui ne serait pas la vérité encourt le parjure.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122297" ordre_absolu_seance="152" id_acteur="PA606712" id_mandat="PM722756" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385156" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gilles Lurton</nom>
+              <id>606712</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui ! C’est très important !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="153" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il en cuira à ceux qui mentiront !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122298" ordre_absolu_seance="154" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385157" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Chacun a bien en tête ces éléments.<br/>Nous devrons travailler de façon intense et rapide. La première audition aura lieu lundi à dix heures. C’est déjà un peu tard par rapport à ce qui avait été envisagé au départ.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="156" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Absolument ! Il est bon de le rappeler !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122299" ordre_absolu_seance="157" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385464" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous perdons tout le week-end, mais admettons : nous n’allons pas relancer la mécanique. Nous l’assumons en responsabilité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122300" ordre_absolu_seance="158" id_acteur="PA719938" id_mandat="PM722806" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385159" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Fesneau</nom>
+              <id>719938</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122301" ordre_absolu_seance="159" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385160" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce point a été acté, notre groupe ne le conteste pas. Une autre audition doit avoir lieu à quatorze heures. Toutefois, nous ne pouvons pas nous contenter d’une ou deux auditions par jour.<br/>En outre, il a été également décidé que la séance publique, sur des textes relevant de la compétence de la commission des lois – révision constitutionnelle mais aussi projet de loi sur l’asile et l’immigration – ne pourrait pas se tenir parallèlement aux auditions. Nous parlons de plusieurs dizaines d’auditions, qui vont nous occuper pendant cinquante à soixante heures environ.<br/>Dans ces conditions, c’est tout le programme des jours et des semaines à venir qui tombe à l’eau. Même si nous débattons cet après-midi et cette nuit de la révision de la Constitution, nous ne saurions en aucun cas procéder au vote solennel sur le texte mardi à dix-sept heures.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122303" ordre_absolu_seance="162" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385162" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122304" ordre_absolu_seance="163" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385163" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est d’autant plus vrai qu’à seize heures, lundi, est prévu l’examen en nouvelle lecture du projet de loi pour la liberté de choisir son avenir professionnel. La commission des lois doit se réunir mardi après-midi pour entendre Mme la garde des sceaux et, mercredi matin, pour évoquer la bioéthique – autre sujet important.<br/>Bref, la fenêtre de tir est un peu étroite et nous avons besoin d’y voir clair sur l’organisation de nos débats, non seulement dans les heures, mais également dans les semaines qui viennent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="165" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385468" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122305" ordre_absolu_seance="166" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385467" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est la raison pour laquelle, monsieur le président, très officiellement, je demande la réunion de la conférence des présidents pour acter le nouvel ordre du jour qui découle évidemment des événements des derniers jours. <italique>(Applaudissement</italique><italique>s</italique><italique> sur les bancs des groupes </italique><italique>LR, </italique><italique>FI</italique><italique> et GDR </italique><italique>ainsi que parmi les députés non inscrits</italique><italique>.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="167" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385471" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien ! Voilà des gens responsables !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122306" ordre_absolu_seance="168" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385165" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ne s’agit pas d’obstruction. Chacun aura à cœur, majorité comme opposition, de connaître les objectifs en termes d’organisation des débats, les textes qui seront examinés ou pas – il va sans doute falloir faire des choix, à moins d’un nouveau décret portant convocation en session extraordinaire ou d’une prolongation qui nous mènerait jusqu’à la mi-août ou la fin août. Il serait bon de le savoir pour que chacun puisse annuler ses réservations pour les vacances, rappeler ses collaborateurs et gérer les différents aspects en lien avec le code du travail. Je pense également aux collaborateurs et aux agents de l’Assemblée nationale qui, comme nous, ont besoin d’un peu de visibilité.<br/>Bien sûr, nous sommes des législateurs, nous contrôlons l’action du Gouvernement, nous évaluons les politiques publiques, mais nous sommes également des employeurs et nous avons notre vie privée à organiser.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122309" ordre_absolu_seance="170" id_acteur="PA720468" id_mandat="PM722972" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385168" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Chenu</nom>
+              <id>720468</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça, c’était avant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122310" ordre_absolu_seance="171" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385169" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Personne ne refuse le travail mais tout le monde a besoin de s’organiser. Nous souhaitons que dès aujourd’hui une conférence des présidents puisse être convoquée. <italique>(Applaudissements sur les bancs des groupes LR et FI.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="172" id_acteur="PA267306" id_mandat="PM723054" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385472" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. André Chassaigne</nom>
+              <id>267306</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Cécile Untermaier" id_acteur="PA608695" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723564">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122311" ordre_absolu_seance="173" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1385170" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Votre demande a été entendue, monsieur Gosselin. Nous y apporterons une réponse.<br/>La parole est à Mme Cécile Untermaier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122312" ordre_absolu_seance="174" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1385171" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Au nom du groupe Nouvelle Gauche, j’estime que nous allons dans le bon sens et je m’en félicite. La commission d’enquête a finalement été créée – et c’est une très bonne chose. Je remercie le président de Rugy d’avoir fait valoir, par des mots qui ont compté, que la publicité s’imposait. Nous l’avons donc obtenue. Nous aurions pu nous éviter des débats houleux hier soir sur ce point.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122313" ordre_absolu_seance="175" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385172" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122314" ordre_absolu_seance="176" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385173" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant du huis clos, certaines personnes devront bien sûr être auditionnées dans ce cadre, mais nous devons être très attentifs. Il se pourrait qu’on encourage les personnes à demander systématiquement à être entendues à huis clos et que celui-ci soit accordé. La présidente et le corapporteur devront nous rassurer sur ce point.<br/>En ce qui concerne la liste des personnes auditionnées, il y a un très grand écart entre celle de la majorité et celle des Républicains.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="178" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385474" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe LR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122315" ordre_absolu_seance="179" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385473" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne nous sommes pas prononcés car nous n’avions pas de liste entre les mains. À ce stade, nous devons impérativement transmettre de manière très rapide – dès quatorze heures – les listes des personnes que nous souhaitons voir entendues et trancher ce point.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="180" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385475" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le champ des auditions doit être aussi large que possible !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122316" ordre_absolu_seance="181" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385175" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il est absolument indispensable de s’assurer que la commission d’enquête n’est pas une illusion et qu’elle sera en mesure, grâce aux auditions qu’elle juge utile de tenir, de faire la lumière sur des événements qui créent un grand trouble actuellement. Il faut accélérer et s’entendre sur une liste commune.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122317" ordre_absolu_seance="182" id_acteur="PA330008" id_mandat="PM722416" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385176" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Xavier Breton</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très juste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="183" id_acteur="PA720430" id_mandat="PM722962" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385477" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122318" ordre_absolu_seance="184" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385177" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>On ne peut pas mettre en place une commission d’enquête et considérer que M. Benalla n’est pas invité, pas plus que M. Crase, les victimes de M. Benalla, ou les syndicats de police, qui ont exprimé leur inquiétude à plusieurs reprises. <italique>(Applaudissements sur les bancs des groupes NG, FI</italique><italique> et LR</italique><italique>.)</italique><br/>N’est-il pas souhaitable d’établir dès quatorze heures une liste qui ne soit pas infra-minimale, comme celle proposée par la majorité, pour pouvoir commencer bien plus sereinement les travaux d’une commission d’enquête qui jouera pleinement son rôle ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122320" ordre_absolu_seance="186" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385179" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellente proposition !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1122321" ordre_absolu_seance="187" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385180" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il y va de nos institutions. Ce n’est pas rien de réunir une commission d’enquête. Nous devons garantir la publicité de ses travaux mais aussi organiser des auditions susceptibles de l’éclairer totalement.<br/>Par ailleurs, je pense que la liste des auditions ne doit pas être arrêtée définitivement. <italique>(« Très juste ! » sur les bancs du groupe LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="0" ordre_absolu_seance="189" id_acteur="PA268019" id_mandat="PM723092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385121" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Christophe Lagarde</nom>
+              <id>268019</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122248" ordre_absolu_seance="190" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385120" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je le dis d’expérience : la commission d’enquête sur l’affaire Cahuzac, dont j’étais membre, a jugé finalement opportun d’auditionner telle personne ou, au contraire, renoncé à l’audition de telle autre, que nous avions envisagée. Nous avons besoin de souplesse et de liberté dans notre travail. C’est le sens d’une commission d’enquête ; à défaut, il ne faut pas en faire.<br/>Enfin, je souscris aux propos de M. Gosselin concernant l’organisation de nos travaux législatifs : nous ne savons plus où nous allons.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122250" ordre_absolu_seance="192" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un bateau ivre à tous les étages !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122251" ordre_absolu_seance="193" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385107" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le projet de loi relatif à l’immigration est inscrit à l’ordre du jour de la semaine prochaine. Même si nous siégeons demain dimanche, nous ne pourrons pas, selon toute vraisemblance, voter le projet de loi constitutionnelle mardi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122252" ordre_absolu_seance="194" id_acteur="PA266776" id_mandat="PM723542" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385108" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Reiss</nom>
+              <id>266776</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est une évidence !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122253" ordre_absolu_seance="195" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385109" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ne pouvons-nous pas revoir, de manière raisonnable, la planification de l’ensemble du travail législatif ? <italique>(Applaudissements sur les bancs du groupe LR.) </italique>La lisibilité du travail législatif est d’ailleurs une des préconisations de la majorité elle-même, qui entend introduire des dispositions à ce sujet dans la Constitution.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122254" ordre_absolu_seance="196" id_acteur="PA266797" id_mandat="PM722884" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385110" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Gosselin</nom>
+              <id>266797</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est effectivement ce que vous nous dites, chers collègues de la majorité !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122255" ordre_absolu_seance="197" id_acteur="PA608695" id_mandat="PM723564" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1385111" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Cécile Untermaier</nom>
+              <id>608695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous ne pouvons pas venir chaque jour dans l’hémicycle sans savoir ce que nous allons y faire. <italique>(Applaudissements sur les bancs des groupes NG, GDR, FI et LR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="0" ordre_absolu_seance="198" id_acteur="PA608416" id_mandat="PM723540" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385122" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Hetzel</nom>
+              <id>608416</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Excellent !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1122256" ordre_absolu_seance="199" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="RAP_REGLEMENT_2_30" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="1" id_syceron="1385112" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>332747</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Tous les groupes se sont exprimés. Plusieurs orateurs ont soulevé la question de l’ordre du jour. Il est évident qu’il faut tirer quelques conclusions pratiques du fait que l’examen du projet de loi constitutionnelle est actuellement bloqué – je m’abstiens de tout commentaire sur les raisons de cette situation. Je vais naturellement mener des consultations dès à présent, afin de voir comment nous allons pouvoir organiser nos travaux. Nous allons évidemment le faire le plus sérieusement possible, monsieur Gosselin, sans agiter des solutions irréalistes.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1122260" ordre_absolu_seance="201" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1385116" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1122261" ordre_absolu_seance="202" id_acteur="PA332747" id_mandat="PM722798" id_nomination_oe="-1" id_nomination_op="PM730930" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1385117" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>332747</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, cet après-midi, à quinze heures :<br/>Suite de la discussion du projet de loi constitutionnelle pour une démocratie plus représentative, responsable et efficace.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1122262" ordre_absolu_seance="203" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1385118" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à douze heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1122262" ordre_absolu_seance="203" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1385118" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

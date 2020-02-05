@@ -1,0 +1,829 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N200</uid>
+  <metadonnees>
+    <dateSeance>20190329150000000</dateSeance>
+    <dateSeanceJour>vendredi 29 mars 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>200</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20190200</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Mon, 08 Apr 2019 14:02:13 GMT</horaireGmt>
+    <heureGeneration>2019-04-08T16:02:13.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1681782">Présidence de M. Francis Vercamer</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1681786">
+          <intitule>Coopération en matière de défense avec le Nigéria</intitule>
+        </titreStruct>
+        <para id_syceron="1681787"/>
+        <sommaire2>
+          <titreStruct id_syceron="1681789">
+            <intitule>Motion de rejet préalable</intitule>
+          </titreStruct>
+          <para id_syceron="1681791">M. Jean-Paul Lecoq</para>
+          <para id_syceron="1681816">Mme Geneviève Darrieussecq, secrétaire d’État auprès de la ministre des armées</para>
+          <para id_syceron="1681822">Mme Amélia Lakrafi, rapporteure de la commission des affaires étrangères</para>
+          <para id_syceron="1681830">M. Bruno Fuchs</para>
+          <para id_syceron="1681840">M. Christian Hutin</para>
+          <para id_syceron="1681851">Mme Laetitia Saint-Paul</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1682050">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="1682052">M. Bruno Fuchs</para>
+          <para id_syceron="1682072">M. Christian Hutin</para>
+          <para id_syceron="1682088">M. Jean-Paul Lecoq</para>
+          <para id_syceron="1681933">M. M’jid El Guerrab</para>
+          <para id_syceron="1682008">M. Jacques Maire</para>
+          <para id_syceron="1682025">M. Jean-Michel Jacques</para>
+          <para id_syceron="1682041">Mme Emmanuelle Ménard</para>
+          <para id_syceron="1681865">M. Jean-Charles Larsonneur</para>
+          <para id_syceron="1681872">M. Bastien Lachaud</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1681956">
+            <intitule>Vote sur l’article unique</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1681963">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du vendredi 29 mars 2019</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1334822" ordre_absolu_seance="1" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1681782" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Francis Vercamer<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1334823" ordre_absolu_seance="2" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681783" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>267585</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1334824" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1681784" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334826" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1681786" valeur=" (n[[o]] 1412)">
+      <orateurs/>
+      <texte>Coopération en matière de défense avec le Nigéria</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334827" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1681787" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’un projet de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334828" ordre_absolu_seance="7" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681788" valeur=" (n[[os]] 899, 1412)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>267585</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion du projet de loi, adopté par le Sénat, autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République fédérale du Nigéria relatif à la coopération en matière de défense et au statut des forces (n<exposant>os</exposant> 899, 1412).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334829" ordre_absolu_seance="8" code_grammaire="MOTION_RP_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1681789" valeur=" (n[[o]] 1412)">
+      <orateurs/>
+      <texte>Motion de rejet préalable</texte>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334830" ordre_absolu_seance="9" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681790" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’ai reçu de M. André Chassaigne et des membres du groupe de la Gauche démocrate et républicaine une motion de rejet préalable déposée en application de l’article 91, alinéa 5, du règlement.<br/>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1334831" ordre_absolu_seance="10" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1681791" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’accord relatif à la coopération en matière de défense et au statut des forces entre la France et le Nigéria soulève un double enjeu fondamental : celui des accords de défense en tant que tels et celui de l’usage des forces armées en Afrique.<br/>Les accords de défense permettent à notre pays de s’intégrer dans le jeu politico-militaire régional en Afrique et, de ce fait, interrogent les députés communistes sur les véritables intentions de tels accords. L’accord avec le Nigéria, signé le 16 juin 2016, porte sur la coopération en matière de défense et sur le statut des forces. Il a pour objectif de fournir un cadre juridique aux actions conjointes des armées nigériane et française, notamment sur la question du renseignement et de la formation des cadres militaires. Ce type d’accord est similaire à celui signé avec d’autres pays africains dont Paris est très proche, comme les Comores, le Togo, le Sénégal, Djibouti, la Côte d’Ivoire, la Guinée et le Mali.<br/>Depuis quelques années, la France souhaite redonner un coup de neuf à ces accords de défense. La grande question que l’on se pose est la suivante : ces nouveaux accords sont-ils le faux nez des anciens, directement issus de la période post-coloniale, ou s’agit-il sincèrement d’un nouveau départ pour la France en Afrique ? Il semble utile de s’interroger aujourd’hui parce que, vous le savez tous, les accords de ce type posent deux questions : la philosophie même du bilatéralisme, qui fait peser sur les accords le poids de l’asymétrie entre les deux pays et du rapport de forces ; et la question du rapport de notre pays à l’Afrique.<br/>Prenons le problème du bilatéralisme. Quel est son avantage ? Pourquoi, par exemple, le président américain tente-t-il méticuleusement de détruire le multilatéralisme à son profit ? Parce que les États-Unis, plus grande puissance militaire du monde, ont un rapport de forces qui leur est toujours favorable lorsqu’il s’agit de discuter en tête-à-tête avec un autre État, alors qu’il est en grande partie perdu au sein des instances internationales. Donald Trump utilise cet avantage lié au rapport de forces dans tous les secteurs, ce qui implique d’affaiblir continuellement l’architecture multilatérale mondiale en même temps que les souverainetés réelles des États.<br/>Dans le cas d’un accord entre la France et une puissance africaine, c’est nécessairement la France, l’une des plus grandes puissances militaires du monde, qui a la main sur la négociation. Les accords bilatéraux relatifs à la coopération de défense et au statut des forces résultent de négociations asymétriques entre la France et certains pays africains, dont presque toutes ses anciennes colonies.<br/>Avec le Nigéria, cet accord se veut offensif : la France s’intègre dans l’espace anglophone du golfe de Guinée et démontre aux États-Unis et à la Grande-Bretagne qu’elle a encore des ambitions en Afrique. À ce titre, il semble que la France, comme d’autres puissances, ait envie de se positionner pour partager le grand gâteau nigérian, qui contient de gigantesques réserves de pétrole et d’hydrocarbures, principalement situées en mer et nécessitant d’être sécurisées avant d’envoyer les entreprises françaises les exploiter – cette zone est l’une des plus fréquentées au monde par les pirates. Les ambitions de la France en Afrique ne manquent donc pas, tout comme elles ne manquaient pas hier. Les accords de défense d’hier étaient le prolongement de la France dans ses anciennes colonies, par le biais d’une présence militaire de Paris sur place, disposant, en échange d’une protection du régime politique, de la formation des cadres militaires et de la fourniture d’armes, d’un monopole à l’accès aux ressources naturelles.<br/>La présence militaire française en Afrique a perduré au-delà de la colonisation du fait de ces accords : la France est intervenue soixante fois dans vingt-quatre pays en soixante ans, pour le plus grand bien des potentats africains et pour la préservation des ressources naturelles jugées indispensables à l’économie française. C’est cela, la Françafrique ! Et tout cela perdure malgré les vœux hypocrites de chaque Président de la République française d’en finir avec les liens opaques qui unissent la France aux dirigeants de ses anciennes colonies. Et si d’aventure un pouvoir africain montre ne serait-ce que quelques velléités d’indépendance, comme cela a été le cas en Côte d’Ivoire à l’issue des élections de l’an 2000, l’assurance vie de la présence militaire française se transforme en facteur de déstabilisation et d’affaiblissement pour ce pouvoir.<br/>À ce sujet, permettez-moi de vous interroger sur le rôle exact de la France dans le bombardement de Bouaké en 2004 et des événements qui se sont ensuivis. Je note à ce sujet que dans la procédure concernant le bombardement, la juge d’instruction, Sabine Kheris, demande le renvoi des ministres de l’époque, Dominique de Villepin, Michèle Alliot-Marie et Michel Barnier, devant la Cour de justice de la République. Avons-nous affaire à une barbouzerie qui a mal tourné et qui, cette fois-ci, mêlerait le sang de nos soldats à celui de citoyens ivoiriens ? Comptez-vous ouvrir les archives pour qu’éclate enfin la vérité dans cette affaire ?<br/>Toutes ces méthodes sont d’ailleurs les racines de l’image déplorable de la France sur le continent africain et la raison de notre manque de crédibilité en Afrique. Avec le passé qui est le nôtre, c’est le principe de non-ingérence qui devrait être la ligne de conduite de notre pays qui, parmi d’autres, a commis les pires crimes et les pires horreurs sur le continent africain. Il lui a pillé ses habitants, ses ressources, son argent, et cela dure depuis des décennies. Il faut que cela cesse !<br/>Mais ce n’est pas le chemin que prend la présidence Macron. L’habitude coloniale de la France est encore largement préservée dans certains pays d’Afrique, comme nous avons pu le voir encore en 2019 au Tchad, à Djibouti ou en Côte d’Ivoire, pour ne citer que ces trois exemples. On a pu remarquer en effet de très fortes rémanences de ces principes françafricains au Tchad, où l’armée française a bombardé, en février dernier, une colonne de véhicules appartenant à des opposants au dictateur tchadien Idriss Déby. Ce chef d’État zélé est protégé, contre toute logique, par la France, qui le remercie en lui permettant de rester à son poste sans être dénoncé, alors qu’il y est depuis 1990. Un pays comme le nôtre peut-il se permettre de protéger un homme qui dirige un État comme s’il était sa propriété, qui n’hésite pas à supprimer ses opposants, à pratiquer la torture et les enlèvements ? Nous sommes toujours dans l’attente de précisions sur ce dossier. Peut-être est-ce inavouable ? Nous continuerons à demander des comptes !<br/>Mais le Tchad n’est pas le seul pays à être encore sous protection française. Comme le dit son chef d’État, Ismaïl Omar Guelleh, malgré les changements dans la région, rien ne bouge à Djibouti. Lorsqu’il s’agit de faire de petits gestes pour Djibouti, l’État français ne se prive pas. Récemment, Mohamed Kadamy, un opposant djiboutien disposant du statut de réfugié politique en France, a été mis en examen et risque d’être renvoyé à Djibouti au mépris du droit français afin de satisfaire le régime djiboutien, voire de l’échanger avec un prisonnier djiboutien qui aurait un rôle dans l’affaire Sarkozy-Kadhafi.<br/>Prenons un troisième exemple de la protection de la France envers ses fidèles : la Côte d’Ivoire. Après avoir acté ce que l’on peut qualifier de coup d’État d’Alassane Ouattara en 2011, la France a permis au nouveau chef d’État d’envoyer Laurent Gbagbo devant la Cour pénale internationale. Après sept ans de procédure, pendant lesquels Laurent Gbagbo était en détention provisoire, en contradiction totale avec les recommandations en la matière de la Cour européenne des droits de l’homme, celui-ci est maintenu en liberté conditionnelle sans pouvoir retourner en Côte d’Ivoire après son procès alors qu’il a été acquitté, ce qui est en contradiction avec tous les principes du droit ! Il semble que les pressions ivoiriennes et surtout françaises aient encore permis de mettre des bâtons dans les roues du principal opposant d’Alassane Ouattara, l’empêchant de revenir dans son pays à la veille des élections présidentielles de 2020. L’ingérence française dans les affaires internes des pays comme Djibouti, le Tchad ou bien la Côte d’Ivoire est insupportable et n’est pas digne de notre pays.<br/>Les accords de défense bilatéraux, s’ils ont changé dans la forme depuis les années 1970, permettent donc à la France de maintenir une présence dans ses anciennes colonies, ce qui pose de graves problèmes de probité dans l’usage de nos forces armées.<br/>Personne ne s’est grandi dans cette histoire, et la France ferait mieux de travailler autrement en Afrique que d’utiliser son armée pour garantir aux dictateurs une stabilité propice aux affaires et destructrice des peuples.<br/>Lorsqu’il s’agit de la Françafrique, la France pratique un « deux poids deux mesures » intenable sur le long terme. Ainsi, l’armée française n’est pas intervenue pour mettre fin au massacre à Duékoué, en Côte-d’Ivoire, de plusieurs milliers de personnes par les partisans d’Alassane Ouattara, le président actuel – massacre qui a été commémoré hier. Par contre, lorsqu’Idriss Déby demande à la France d’attaquer ses opposants, nous fonçons les bombarder. Lorsqu’une attaque fait près de 160 morts dans un village malien, la France ne bouge pas. Pourtant, nous avons signé avec le Mali  un accord de coopération en matière de défense qui a été ratifié en 2015.<br/>Que fait la France ? Pourquoi a-t-elle été si rapide à attaquer des opposants tchadiens ? Pourquoi ne réagit-elle pas lorsqu’il s’agit de massacres de Maliens ou d’Ivoiriens ? Pourquoi s’entête-t-elle au Mali  dans une stratégie qui est en échec ?<br/>Je pense que le Gouvernement se fera fort de nous éclairer sur cette situation et sur ce qu’a récemment dit la ministre des armées Florence Parly : « Serons-nous amenés à intervenir chaque fois qu’on nous le demande ? Non. La décision relève, in fine, de l’appréciation du Président de la République. En l’espèce, il n’était pas souhaitable qu’un pays fortement contributeur à la lutte contre le terrorisme et présent sur d’autres fronts soit déstabilisé, avec pour conséquence ultime une augmentation de nos engagements en OPEX. » Voilà qui est dit.<br/>S’agissant du Nigéria, puisqu’il ne s’agit pas d’une ancienne colonie française, mais d’une ancienne colonie britannique, c’est l’influence française qui importe – preuve tout de même qu’un accord de défense reste un instrument fort pour s’intégrer dans un territoire, notamment pour faire marcher la vente d’armes dans le pays en question, la rapporteure nous l’a confirmé à mots à peine couverts. N’oublions pas que l’actuel ministre des affaires étrangères a été le ministre de la défense qui a le plus vendu d’armes.<br/>Le problème de l’obsession sécuritaire et militaire de la France en Afrique de l’Ouest, c’est qu’elle passe à côté des vrais sujets. En insistant sur les forces armées, vous semblez oublier que les violences ne sont jamais aux racines d’un problème ; elles en sont plutôt une conséquence. J’irais même plus loin : si les violences sont les conséquences de problèmes profonds, tenter de résoudre les violences par d’autres violences sans s’attaquer à leurs racines ne fait généralement qu’empirer les choses.<br/>S’agissant de la bande sahélo-saharienne, nous voyons qu’aucune action militaire n’a pu répondre de manière satisfaisante à une question d’ordre politique et social. Cette zone est constellée de conflits entremêlés : religieux, territoriaux, d’accès aux ressources primaires comme la nourriture et l’eau et aux services publics.<br/>L’accès à l’éducation et à la santé a été, il faut le dire, ruiné par les différentes politiques d’ajustement structurel des années 1980 et 1990 imposées par le Fonds monétaire international suite à la crise de surendettement des pays du Sud, crise provoquée par l’architecture même du système économique mondial, comme l’indique le Comité pour l’abolition de la dette du Tiers monde. Peut-on imaginer que des peuples se laissent mourir sans éducation ni santé parce que les dogmatiques du libéralisme leur en interdisent l’accès ?<br/>Ces politiques destructrices ont laissé des traces. Ces pays saignés à blanc ont dû délaisser leurs services publics pour mieux rembourser leurs dettes sur ordre des pays riches : une colonisation économique, en somme. Les frustrations et les haines, pour certaines créées par la colonisation, pour d’autres antérieures, ont pu être instrumentalisées et ont contribué à la déstabilisation et au sous-développement de beaucoup de pays d’Afrique.<br/>Au-delà des problèmes des services publics, très souvent défaillants, voire inexistants, la question de la concurrence pour les ressources entre les différents usagers des sols nous permet de constater concrètement l’absence de régulation étatique de ces problèmes. La faiblesse, voire la corruption de ces États nourrissent aussi ce genre de violences, surtout dans le contexte du changement climatique.<br/>Certains spécialistes considèrent ainsi qu’au Mali, du fait de la désertification due au dérèglement climatique, les éleveurs sont bien plus qu’auparavant en concurrence avec les agriculteurs – la rapporteure l’a dit. Cette concurrence engendrée par les désastres écologiques nourrit la haine à son tour. Les éleveurs étant issus majoritairement d’une ethnie autre que celle des agriculteurs, avec des différences religieuses en toile de fond, la cohabitation est mise à mal et le corps social déchiré.<br/>Les ressources comme l’eau sont aussi de plus en plus source de conflits. Dans le bassin hydrogéographique de l’Afrique de l’Ouest, l’agriculture utilise environ 75 % des ressources en eau ; mais le développement commence à créer des conflits d’usage. Ce sont des sujets qu’il est nécessaire de prendre en compte pour le développement des États.<br/>Par ailleurs, l’exploitation de l’énergie hydroélectrique, qui a un énorme potentiel en Afrique, doit être réfléchie et mise en œuvre de manière concertée et mutuellement avantageuse, faute de quoi la multiplication des barrages pourrait entraîner des problèmes dans les territoires et les pays en aval. Ces questions énergétiques sont d’autant plus importantes que le Niger, par exemple, dépend à 80 % du Nigéria pour son énergie. L’aide de la France à la construction d’un barrage sur le fleuve Niger doit prendre en compte ces risques de tensions entre les deux pays.<br/>Plus largement, la souveraineté énergétique de pays comme le Nigéria devra être fortement améliorée. L’objectif des pays riches est comme toujours de maintenir leurs sources d’approvisionnement énergétique, ce qui se fait au détriment des pays détenteurs de ces ressources. C’est de cela que le Nigéria pâtit, alors qu’il est le premier producteur pétrolier d’Afrique et qu’il dispose des plus abondantes réserves d’Afrique après la Libye.<br/>Le Nigéria est par ailleurs l’un des cinq plus grands exportateurs de gaz naturel liquéfié au monde. Pourtant, ce pays a l’un des plus faibles taux de production électrique par habitant au monde, seuls 40 % de ses habitants ayant accès à l’électricité – quand l’approvisionnement est assuré. Le contrôle des ressources n’est donc pas nigérian, mais géré par des compagnies multinationales qui les exploitent pour l’export.<br/>Si les pipelines pétroliers et les gazoducs sont fréquemment attaqués, c’est parce que les attaquants savent très bien que ces tuyaux vont directement en Occident et qu’ils ne verront jamais la couleur de l’argent que cela rapporte. Et ce n’est pas en les bombardant qu’on résoudra le problème de la captation des richesses naturelles par les pays riches ! Il est temps de comprendre que les opérations militaires accroissent le risque terroriste plus qu’elles ne l’éliminent.<br/>Jean-François Bayart, professeur à l’Institut de hautes études internationales et du développement, le disait récemment sur une radio publique. Il citait l’exemple du Kenya qui, en intervenant en Somalie, a importé le terrorisme sur son territoire, ou celui du Tchad et du Cameroun, qui ont amplifié le phénomène terroriste en tentant de combattre Boko Haram au nord du Nigéria. Il évoquait encore l’extension des phénomènes terroristes au Burkina Faso à cause de l’intervention militaire au Mali.<br/>La haine engendrant la haine, la guerre n’a jamais résolu quoi que ce soit. C’est la paix qui permet que les peuples prospèrent.<br/>L’exemple le plus probant restera celui de la Libye, pays qui abrite les plus grandes réserves de pétrole d’Afrique. Ce pays, crucifié par Sarkozy pour des raisons encore obscures, mais qui ne laissent aucune ambiguïté quant au cynisme de cette sale guerre, est devenu le terreau du terrorisme, hébergeant maintenant les restes de Daech et toutes les mafias du monde, qui viennent y pratiquer librement le trafic d’êtres humains, l’esclavage, le trafic d’armes et de drogue. Les migrants issus de l’Afrique de l’Ouest sont nombreux à passer par la Libye et les horreurs qu’ils y subissent font froid dans le dos, surtout lorsque l’on sait que cette guerre est l’œuvre de la France, et que l’Union européenne paie des milices libyennes pour endiguer les migrations. Ces horreurs ravivent également les souvenirs de la traite humaine transsaharienne de triste mémoire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1334753" ordre_absolu_seance="17" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681780" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe LaREM</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Arrêtez, c’est insupportable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1334755" ordre_absolu_seance="18" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681662" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous devons donc en finir avec l’ingérence. Aider ces pays à retrouver leur souveraineté politique, sociale, économique, industrielle en vue de soutenir la mobilisation de leurs ressources intérieures, soit, mais arrêtons de faire la police pour nos seuls intérêts. Même l’aide publique au développement devra être pilotée de manière plus ouverte et moins cynique par l’Agence française de développement, l’AFD.<br/>Florence Parly, auditionnée par le Sénat il y a quelques semaines, a dit que « pour se prémunir autant que possible contre le risque de rejet de la présence militaire étrangère, il faut aussi mener des projets de développement. » Elle ajoutait qu’à cet égard, « nous souhaitons articuler de manière plus efficace l’action de Barkhane et les actions de l’Agence française de développement, pour que le rétablissement de la sécurité bénéficie directement aux populations. C’est ainsi que la présence militaire sera mieux tolérée. »</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1334755" ordre_absolu_seance="19" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681781" valeur=". ">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe LaREM</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1334757" ordre_absolu_seance="20" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681664" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ces propos sont très inquiétants : pour Mme la ministre des armées, l’AFD est le masque derrière lequel se cache l’armée française. Cela inquiète aussi parce que cela signifie que notre aide publique au développement ne traduit pas une volonté relativement désintéressée de développer des pays parmi les plus pauvres, en rupture avec la colonisation et le néocolonialisme, mais uniquement celle de faire avaler aux populations une présence militaire étrangère. C’est un pur scandale et on ne devrait pas tolérer de tels propos dans la bouche d’une ministre.<br/>Il faut le dire : la France se grandirait si elle prenait la tête d’une diplomatie d’un nouveau type, quittant le camp des puissances militaristes et suivistes des positions américaines pour adopter un statut de puissance servant les intérêts des peuples. Mais pour cela, il faut tout changer, car la France ne prend pas le chemin de cette ambition, bien au contraire.<br/>Une diplomatie ambitieuse à tous les niveaux supposerait d’abord d’arrêter de faire des économies sur le dos du Quai d’Orsay à chaque projet de loi de finances ; de refaire des ambassades le véhicule des valeurs et de la culture française, et non des VRP des entreprises françaises ; de remettre la France au centre des organisations internationales ; de respecter ses engagements internationaux en consacrant 0,7 % de son PIB annuel à l’aide publique au développement ; de distribuer ces aides de manière plus responsable, en partenariat avec les ONG, les organisations de la société civile, et à des pays qui ont un véritable besoin de financements.<br/>Cela supposerait d’agir beaucoup plus fermement au sein du Conseil de sécurité de l’ONU pour faire respecter les résolutions qui y sont votées. C’est valable pour le Sahara occidental comme pour le conflit israélo-palestinien et pour tous les conflits gelés du monde. Plutôt que de s’épuiser à obtenir un siège de membre permanent du Conseil de sécurité pour un autre pays européen, la France devrait faire en sorte que l’Union africaine devienne membre permanent du Conseil de sécurité.<br/>La France pourrait aussi mener une réflexion approfondie et multilatérale pour sortir enfin du système du franc CFA, anachronisme colonial dangereux pour la souveraineté politique, monétaire et financière des pays africains qui l’utilisent et un instrument monétaire entravant le développement. Trouver, par le débat avec les Africains, une alternative crédible à cette monnaie devrait être un de nos devoirs diplomatiques.<br/>La France pourrait aussi utiliser son influence pour tenter de modifier la gouvernance de  la Banque mondiale, instance où un dollar donne une voix. Il n’est pas possible de continuer de cette façon ni d’accepter que la présidence en soit réservée à un Américain. Il faut en finir avec ce que Bertrand Badie appelle une diplomatie de connivence.<br/>Elle pourrait aussi inciter l’Union européenne à sortir du dogmatisme anti-immigration en travaillant à d’autres politiques d’aide au développement, visant à l’établissement d’une économie équilibrée satisfaisant les besoins des populations et créatrices d’emplois susceptibles de leur donner des perspectives de vie. Bref, le contraire de ce que nous faisons actuellement.<br/>Il n’est en effet de situation d’urgence que sociale. Il est faux de croire que les humains aiment se faire la guerre. Certains y trouvent leur intérêt, certes, mais la plupart se contenteraient d’une vie meilleure sans avoir à combattre, à tuer et à mourir.<br/>Les députés communistes restent donc persuadés que, si cet accord militaire peut protéger éventuellement le pays contre des drames, il ne permettra pas d’éviter la guerre.<br/>Ce n’est pas en envoyant sur le terrain notre armée et notre savoir-faire militaire que nous ferons disparaître les conflits comme par enchantement. C’est en travaillant avec les populations à une meilleure allocation des ressources naturelles ; à la mise en place à grande échelle d’une agriculture locale, productive et respectueuse de l’environnement et indépendante – Mme la présidente de la commission des affaires étrangères y est sensible, je le sais – des grandes entreprises agro-industrielles qui pillent les terres et les ressources des États les plus fragiles, dont les législations foncières sont bien souvent issues de la colonisation  ; à la remise en état des services publics  ; au soutien des efforts des États et des populations pour résoudre ces problèmes par le biais d’une aide publique au développement tournée vers la mobilisation des ressources internes, pour le bien des peuples ; plus largement, en travaillant à protéger ces pays des affres des traités de libre-échange et du moins-disant fiscal.<br/>Lorsque l’on parle de fiscalité, on pense souvent ici à l’évasion fiscale des pays du Nord, qui est un véritable drame pour les populations. Le dumping fiscal en Afrique est un mal absolu. Les multinationales jouent avec ce levier pour exploiter les ressources sans s’acquitter d’impôts justes.<br/>L’ancien ministre du budget de Laurent Gbagbo, Justin Koné Katinan, l’explique parfaitement dans son ouvrage « Économie et développement en Afrique ». Je le cite : « L’idée d’une réduction de l’impôt sur les sociétés pour en favoriser l’implantation en Afrique est une belle escroquerie montée par le Fonds monétaire international et la Banque mondiale [...] Tous les pays africains se sont lancés dans des politiques concurrentielles d’élaboration de codes d’investissement très souples en espérant attirer le maximum d’investisseurs. »<br/>Mais lorsqu’on sacrifie ses recettes fiscales, il faut faire appel à l’endettement, et voilà le cercle vicieux enclenché !<br/>Justin Koné Katinan indique par exemple que si la Côte d’Ivoire avait eu un taux d’imposition sur les sociétés similaire à la moyenne européenne, cela aurait rapporté environ 6 milliards de dollars supplémentaires aux caisses de cet État en 2015.<br/>Le capitalisme est fou et on voit les conséquences de cette folie au Mali, un pays – un de plus ! – qui sombre dans le chaos libéral. Les députés communistes l’ont toujours dit, mais ces exemples permettent de bien comprendre dans quelle prison se trouvent les pays africains. La bataille pour que les grandes entreprises multinationales paient ce qu’elles doivent est internationale ; ce combat doit être mené tant chez nous qu’en Afrique. Les sommes en jeu sont colossales. Là encore, cela éviterait bien des guerres.<br/>Cet accord de défense avec le Nigéria, vous l’aurez compris, ne suscite pas autant d’inquiétudes que ceux signés avec les dictatures de Djibouti et du Tchad, par exemple ; mais qu’en sera-t-il demain ?<br/>À ce sujet, je voudrais profiter de notre débat pour que nous réfléchissions ensemble. Notre Parlement doit pouvoir se saisir des enjeux des traités internationaux non pas en aval, comme nous le faisons aujourd’hui, mais en amont. La représentation nationale aurait pu, comme nous le disons régulièrement en commission, proposer quelques points à inclure dans ce traité. À une époque, nous abordions dans nos traités la question de l’abolition de la peine de mort et nous aurions pu la poser pour le Nigéria, par exemple. Permettez-moi donc de proposer une évolution que notre commission pourrait collectivement soutenir.<br/>Je précise que je ne souhaite pas ouvrir de débat sur la possibilité d’amender les traités, puisque la modification a posteriori d’un acte déjà signé constituerait une trahison envers l’autre partie et entraînerait un ralentissement de la procédure de ratification. Nous sommes néanmoins nombreux, régulièrement, à souligner qu’il aurait été intéressant de permettre à la représentation nationale de tracer des lignes rouges pour notre diplomatie et de formuler les principes intangibles que nous souhaiterions voir inscrits dans tel ou tel traité.<br/>Nous pourrions par exemple demander que les nombreux accords de services aériens – dont nous avons encore discuté ce mardi en commission – incluent systématiquement le respect des accords de Paris, et qu’ils intègrent ainsi une mention explicite du respect de l’environnement ou des normes minimales de pollution, voire de sécurité.<br/>Les accords commerciaux avec le Canada, le Japon, la Nouvelle-Zélande et l’Australie ont été pour beaucoup des traumatismes : ces espaces opaques de négociation créés volontairement loin du peuple n’ont fait qu’ajouter à la méfiance légitime que l’on peut avoir envers les traités de libre-échange.<br/>Nous pourrions donc imaginer la mise en place d’une instance ou la rédaction d’un texte juridiquement contraignant : certains principes figureraient obligatoirement dans les textes soumis à la signature du chef de l’État. Je sais que ce serait une révolution dans notre manière de fonctionner, mais cela pourrait susciter une diplomatie à laquelle les représentants du peuple et le peuple lui-même seraient intéressés. Nous avons toujours intérêt à ce que le peuple, qui est souverain, puisse surveiller les agissements de ceux qui travaillent pour lui et en son nom, y compris sur les sujets internationaux.<br/>Alors que, tous les samedis, des Français en gilet jaune – et d’autres – battent le pavé pour revendiquer un droit à une démocratie plus profonde et à une plus grande égalité entre les citoyens, je pense qu’il est intéressant de se pencher sur ce que nous pourrions faire à l’échelle de la commission des affaires étrangères et, plus largement, à l’échelle de la diplomatie, afin que les domaines réservés soient démocratisés.<br/>Voici les raisons pour lesquelles je vous propose de voter cette motion de rejet préalable.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Geneviève Darrieussecq" qualite="secrétaire d'État auprès de la ministre des armées" id_acteur="PA719914" id_nomination_oe="PM730086" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334776" ordre_absolu_seance="12" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681815" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État auprès de la ministre des armées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334777" ordre_absolu_seance="13" id_acteur="PA719914" id_mandat="-1" id_nomination_oe="PM730086" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681816" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Geneviève Darrieussecq</nom>
+              <id>719914</id>
+              <qualite>secrétaire d’État auprès de la ministre des armées</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Un mot rapide pour faire suite à vos propos un peu caricaturaux, si vous me permettez ce terme, et même très caricaturaux, qui excèdent la question qui nous préoccupe aujourd’hui et qui est assez simple, puisqu’il s’agit d’un accord de défense entre le Nigéria et la France.<br/>Vous avez revisité toute la politique africaine et je me garderai bien, quant à moi, d’en faire autant. Si je puis être d’accord avec vous s’agissant de la nécessaire intensification de l’aide au développement, je crois vraiment que le développement n’adviendra que si la situation est stable en Afrique. Cet accord de coopération dans le domaine de la défense va justement en ce sens : la stabilité est le premier des enjeux que nous mettons en avant. Il s’agit de faire en sorte que les acteurs africains puissent être les premiers garants de leur sécurité.<br/>Pour cela, je l’ai dit tout à l’heure, nous intervenons dans les domaines du renseignement, de la formation, et pas du tout à travers une présence militaire ou des actions directes dans ces pays – notamment au Nigéria – comme vous semblez le penser.<br/>Nous discutons donc d’un accord de défense pour travailler plus encore à la stabilité de l’Afrique, pour faire en sorte que les Africains bénéficient d’une protection autonome, ce qui favorisera le développement de ces pays. Tel est d’ailleurs le cas du Nigéria, importante puissance africaine que nous devons soutenir à travers les moyens dont je viens de faire état.<br/>Je n’irai donc pas plus loin et je ne referai pas la politique africaine aujourd’hui ! <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Amélia Lakrafi" qualite="rapporteure de la commission des affaires étrangères" id_acteur="PA721004" id_nomination_oe="-1" id_nomination_op="-723136" id_mandat="PM723136">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334782" ordre_absolu_seance="18" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681821" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Amélia Lakrafi, rapporteure de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334783" ordre_absolu_seance="19" id_acteur="PA721004" id_mandat="PM723136" id_nomination_oe="-1" id_nomination_op="-723136" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681822" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Amélia Lakrafi</nom>
+              <id>721004</id>
+              <qualite>rapporteure de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Lors de l’examen de ce texte en commission, vous aviez émis un certain nombre de réserves quant à la portée et au contenu de ces accords, mais vous aviez voté pour, indiquant qu’il vous semblait important d’approfondir notre coopération avec le Nigéria.<br/>Sans naïveté ni angélisme, j’ai du mal à comprendre l’objet et le sens de la motion de rejet préalable que vous présentez. Je ne pense pas que l’on puisse accuser la France de néo-colonialisme au Nigéria. Votre intervention dépasse très largement les enjeux de cet accord, qui formalise des relations de sécurité et de défense existant déjà.<br/>Je peux entendre d’autres préoccupations que vous avez exprimées ici et en commission. Certes, l’intégration à un G7 Sahel constituerait une voie de progression intéressante. Nous partageons tous ici les mêmes exigences afin que les droits de l’homme soient mieux respectés dans le monde.<br/>Nous ne souhaitons donc pas non plus que les accords de défense se transforment en accord sur les ventes d’armes sans aucun contrôle des États. Toutefois, pour des raisons dont nous avons très largement fait état en commission, nous devons favoriser une relation plus étroite avec le Nigéria – vous en avez vous-même convenu, tel était le sens de votre vote en commission.<br/>Pour travailler à cette perspective, il faut bien commencer quelque part. C’est précisément l’objet de l’accord qui nous est soumis aujourd’hui, qui n’est pas un aboutissement mais un commencement, une première pierre.<br/>J’invite donc nos collègues à rejeter cette motion.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Fuchs" id_acteur="PA722284" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723528">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334789" ordre_absolu_seance="25" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681828" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en venons aux explications de vote.<br/>La parole est à M. Bruno Fuchs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334791" ordre_absolu_seance="27" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681830" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie, cher Jean-Paul Lecoq, d’avoir ainsi revisité à votre manière cinquante ans de relations africaines.<br/>Nous nous retrouvons sur certains points, par exemple lorsque vous évoquez les questions de la santé, de l’accès à l’éducation, à l’énergie. Nous souscrivons bien sûr non seulement à ces intentions, mais aussi aux politiques publiques menées depuis des années en termes de développement et de codéveloppement.<br/>En l’occurrence, ce n’est pas de cela dont nous discutons aujourd’hui. Jusqu’à la dixième minute de votre intervention, j’ai d’ailleurs pensé que vous aviez oublié que le Nigéria n’est pas une ancienne colonie française, tant votre propos était axé sur de tout autres sujets que celui qui nous préoccupe aujourd’hui.<br/>Vous avez parlé de « rapports de forces bilatéraux ». Le Nigéria compte 200 millions d’habitants, bientôt 400 millions. Si rapport de forces il y avait, il serait plutôt en notre défaveur !<br/>Vous avez parlé d’ « ingérence ». À vous écouter, on croirait que des forces armées françaises sont déjà massées à la frontière du Nigéria !<br/>Revenons donc à plus de réalisme ! Comme l’a dit Mme la secrétaire d’État, cet accord vise précisément à favoriser une plus grande autonomie des forces africaines et nigérianes en matière de sécurité et de défense, afin qu’elles puissent assurer leur propre sécurité dans leurs territoires. L’accord est à l’opposé des conclusions que vous en tirez.<br/>Enfin, vous avez dit en commission : « Je conclurai en soulignant que je voterai cet accord, non pas parce qu’il nous permet d’élargir notre zone d’influence et d’en tirer des avantages sur le plan économique… » – on peut donc, contrairement à ce que vous avez dit, y voir un avantage sur le plan économique – « …mais parce qu’il me semble de nature à favoriser un type de relations un peu différent et à faire avancer la paix dans le monde. » <br/>Sans doute sont-ce là deux manières différentes d’envisager cet accord à deux moments différents !<br/>Le groupe du Mouvement démocrate et apparentés votera bien évidemment contre cette motion de rejet préalable, par fidélité à votre engagement en commission, monsieur Lecoq ! <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christian Hutin" id_acteur="PA333818" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722990">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334800" ordre_absolu_seance="36" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681839" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Hutin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334801" ordre_absolu_seance="37" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681840" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il ne faut pas jeter l’opprobre sur mon camarade Jean-Paul ! Le vote en commission a été rapide, les choses allant assez vite – tant mieux, d’ailleurs, cela prouve que notre commission travaille bien – et, depuis, il a eu le temps de réfléchir à un certain nombre de points.<br/>En outre, il a orienté son propos vers un ensemble de thèmes extrêmement anciens, puisqu’ils datent des années cinquante. Ce sont ceux du Parti communiste, et il les a défendus plutôt brillamment, même si nous ne sommes pas obligés d’être tous d’accord.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334803" ordre_absolu_seance="39" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681842" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes en 2019 !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334804" ordre_absolu_seance="40" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681843" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Peut-être, mais la<italique> start-up nation</italique> n’est pas forcément toujours positive, permettez-moi de vous le dire.<br/>Par ailleurs, le chevènementiste que je suis n’est bien évidemment pas tout à fait sur la même ligne que mes camarades socialistes dont je me fais aujourd’hui le porte-parole.<br/>Nous évoquons un sujet particulier : un nouvel accord militaire avec le Nigéria – sur lequel j’aurai l’occasion de revenir lors de la discussion générale – qui a permis de développer d’autres points.<br/>Faut-il aller jusque-là ? Le Nigéria n’ayant pas d’histoire coloniale avec la France, peut-être est-ce l’occasion d’élaborer une nouvelle collaboration indépendante de ce que nous avons pu faire de bon ou de mauvais à une époque. C’est en tout cas ce que je pense aussi.<br/>Par solidarité de classe <italique>(Sourires)</italique>, je ne voterai pas contre cette motion de rejet préalable…<italique/></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334809" ordre_absolu_seance="45" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681848" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous ne prenez pas beaucoup de risques !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334810" ordre_absolu_seance="46" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681849" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…même si j’aurais préféré une motion de renvoi en commission, pour laquelle j’aurais voté. Je m’abstiendrai donc.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Laetitia Saint-Paul" id_acteur="PA720138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722872">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334811" ordre_absolu_seance="47" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681850" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Laetitia Saint-Paul.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334812" ordre_absolu_seance="97" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681851" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laetitia Saint-Paul</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’interviens au nom au nom du groupe La République en marche. Je ne reprendrai pas point par point l’ensemble de nos désaccords, puisque je ne dispose que de deux minutes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334813" ordre_absolu_seance="49" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681852" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel dommage !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334814" ordre_absolu_seance="50" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681853" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laetitia Saint-Paul</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je peux vous assurer, pour avoir vécu les situations que vous avez évoquées, que les sentiments des Africains à l’endroit de nos soldats ne sont en rien ceux que vous décrivez.<br/>Ce texte est un signe fort envers nos soldats, qui servent et nous protègent au-delà de nos frontières. C’est un signe fort de l’attachement que nous portons à leur sécurité et à leurs conditions de vie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334816" ordre_absolu_seance="52" id_acteur="PA722178" id_mandat="PM723494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681855" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jacques Maire</nom>
+              <id>722178</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous êtes bien placée pour en parler, en effet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334817" ordre_absolu_seance="53" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="MOTION_RP_2_30" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laetitia Saint-Paul</nom>
+              <id>720138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous remercie.<br/>Cet accord protège le statut de nos soldats et leur offre des garanties essentielles. Il s’inscrit dans le cadre d’accords de même type que nous avons ratifiés avec plusieurs pays, dont la Côte d’Ivoire, que vous avez citée, et dernièrement, la Jordanie.<br/>Il s’inscrit aussi dans la continuité de la loi de programmation militaire par laquelle nous avons enclenché un mouvement général d’amélioration des conditions de vie de nos soldats, ici comme ailleurs.<br/>Cet accord avec le Nigéria revêt une importance particulière, parce qu’il approfondit les deux accords de coopération qui en font un partenaire essentiel, impliqué dans la sécurité de la bande sahélo-saharienne, parce qu’il offre un haut niveau de protection et garantit des droits équivalents, aussi bien en France qu’au Nigéria, dans un pays, mon cher collègue, qui pratique encore la peine capitale. J’espère que ce dernier argument suffira à vous convaincre de confirmer votre vote en commission et de permettre ainsi à ce très beau texte d’être voté à l’unanimité. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1334821" ordre_absolu_seance="57" code_grammaire="REJET_MOTION_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1681860" valeur="" decision="REJET motion de rejet préalable (main levée)">
+        <orateurs/>
+        <texte>
+          <italique>(La motion de rejet préalable, mise aux voix, n’est pas adoptée.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334958" ordre_absolu_seance="1" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1682050" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Bruno Fuchs" id_acteur="PA722284" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723528">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334959" ordre_absolu_seance="2" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682051" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Bruno Fuchs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334960" ordre_absolu_seance="3" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1682052" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Plus de 7000 civils tués, 7000 enlèvements de femmes pour servir d’esclaves sexuelles, dont 276 lycéennes de Chibok : le bilan humain de l’insurrection djihadiste de Boko Haram parle de lui-même et justifie amplement un rapprochement et une coopération militaire forte avec le Nigéria en lutte contre ces terroristes.<br/>Le Nigéria connaît une situation interne compliquée, avec la présence de groupes armés terroristes qui prospèrent sur la pauvreté et le chômage, principalement dans le nord du pays. Avec 200 millions d’habitants – 400 millions à l’échéance de 2050 –, le Nigéria est aussi le pays central dans la stabilité que nous souhaitons et recherchons tous au Sahel. Sans stabilité du Nigéria, comment imaginer trouver une solution pour le Niger, le Cameroun, le Tchad, le Burkina Faso ou encore le Mali ?<br/>Il y a tout à craindre de l’évolution de cette situation géopolitique pour le pays le plus peuplé d’Afrique, celui aussi qui connaît le développement économique le plus rapide. C’est pourquoi la France a tout intérêt à se rapprocher de ce pays et à développer avec lui les partenariats de défense qui avaient été amorcés sous François Hollande.<br/>Les objectifs de ce partenariat sont multiples.<br/>Il faut d’abord aider le Nigéria à se renforcer et à sécuriser son espace intérieur. La lutte contre Boko Haram est un enjeu important, car la jonction avec d’autres groupes terroristes pourrait être très néfaste à l’heure où nous savons que de nombreux djihadistes chassés du Moyen-Orient par la coalition internationale tentent de retrouver une assise en Afrique.<br/>Nous devons contribuer à la lutte contre l’insécurité maritime le long des côtes nigérianes, là où se concentrent l’essentiel des infrastructures du pays, ce qui tire l’économie de toute la région. Le contrôle du golfe de Guinée, dans lequel nous avons des intérêts et une présence militaire, est un enjeu majeur.<br/>Il faut aussi sécuriser les frontières pour les rendre les moins poreuses possibles aux groupes armés. Le défi est immense au regard des menaces. En dépit de la présence française et de l’effort très important engagé par les pays du G5 Sahel pour construire une force de sécurité commune, nous devons constater que ces groupes armés étendent leur influence et jouent des tensions internes propres aux pays de cette région pour prospérer.<br/>Il s’agit enfin – et c’est notre responsabilité – de tout mettre en œuvre pour sécuriser les activités des entreprises françaises et la vie de nos ressortissants.<br/>Pour ces raisons, il est stratégique que la France s’engage plus avant auprès de ses alliés africains afin de proposer une formation des personnels militaires et leur donner les moyens de prendre en charge leur propre défense.<br/>De nombreuses actions en ce sens sont entreprises. Il faut les accentuer et faire confiance à nos partenaires qui disposent d’une parfaite connaissance de leur terrain. C’est là un point majeur, car l’objectif à terme est bien « l’africanisation » des opérations de sécurisation et de maintien de la paix.<br/>Ceci doit se faire en conservant nos intérêts stratégiques et en œuvrant à intégrer à ces opérations les autres acteurs – je pense entre autres à la Chine ou aux États-Unis. C’est donc bien dans une coopération de réciprocité qu’il nous faut agir, dans la droite ligne de ce que défend le Président de la République.<br/>Notre approche doit être globale et concerner l’ensemble des enjeux. La sécurité de nos partenaires ne passe pas uniquement par une formation et une coopération militaire, elle passe aussi par l’accès à l’éducation et la hausse du niveau de vie. Je rejoins Jean-Paul Lecoq sur ce point. Le développement est, in fine, le meilleur moyen d’assurer la prospérité et la stabilité de cette partie du monde. Cette réflexion s’inscrit dans un autre cadre que celui qui nous intéresse cet après-midi.<br/>La lutte contre Boko Haram doit bien passer par un renforcement de la coopération militaire. C’est ce que nous faisons avec cette convention. Elle doit aussi passer par un renforcement de la culture, de l’éducation et de l’inclusion sociale. Laisser des pans entier de la population dans une misère économique, culturelle et sociale, c’est rendre vulnérables ces populations à des discours haineux et fanatiques.<br/>Construire une véritable solidarité et une coopération avec les zones de conflits qui alimentent le terrorisme, c’est aussi l’un de nos objectifs.<br/>Notre pays passe régulièrement des accords de défense avec des États avec lesquels nous entretenons des relations fortes et multiples, qu’elles soient économiques, historiques, diplomatiques.<br/>Cet accord a ceci de nouveau que le Nigéria ne fait pas partie des États d’Afrique avec lesquels la France a l’habitude de traiter, notamment sur le plan économique, même si une centaine d’entreprises françaises sont présentes au Nigéria. Ce pays n’est pas encore celui avec lequel nous faisons le plus de développement économique.<br/>Cette convention répond à notre volonté de renforcer notre relation militaire avec l’Afrique sur un mode de partenariat en ayant comme objectif ultime d’aider les pays d’Afrique à assurer eux-mêmes leur propre sécurité.<br/>Ce partenariat est également une chance pour le français et la francophonie dans un État anglophone entouré de pays francophones. C’est notre devoir de développer le français dans ce pays car il est à craindre que, si nous ne le faisons pas, l’anglais ne prospère progressivement dans des pays francophones. En respectant l’esprit de cet accord, il nous faudra mettre l’accent sur l’apprentissage du français par des militaires nigérians pour mieux coordonner leur approche, notamment avec leurs homologues du G5 Sahel.<br/>Cet accord place la France dans un partenariat sécurisé avec un pays dans une position stratégique dans la région. Le groupe du Mouvement démocrate et apparentés le soutiendra. <italique>(Applaudissements sur quelques bancs du groupe LaREM.)</italique><italique/></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christian Hutin" id_acteur="PA333818" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722990">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334979" ordre_absolu_seance="22" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1682071" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Hutin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334980" ordre_absolu_seance="23" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1682072" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quand on parle de l’Afrique et des rapports de l’armée française avec ce continent, on est toujours sur le fil et, de temps en temps, presque sur des sables mouvants. Cet accord dépasse largement ce cadre, en ce sens qu’il me semble assez actuel et moderne. Partant d’une assistance assez classique, qui peut être considérée comme banale, excessive ou sans contrôle, nous sommes passés à une volonté de travail stratégique, collaborative, sur les armements et sur le renseignement.<br/>C’est probablement l’un des accords les plus modernes de ceux qui existent avec un pays d’Afrique. Il est très novateur. Comme l’a dit Bruno Fuchs, nous sommes dans une enclave anglophone. Nous avons peu mis les pieds au Nigéria, où nous n’avons pas de passé colonial – ce qui est assez rare en Afrique centrale.<br/>Ce n’est qu’un début de collaboration, que nous devons développer. À la commission des affaires étrangères, nous travaillons beaucoup sur les aspects diplomatiques et culturels, l’aide aux étudiants étrangers. Je remercie Mme la présidente d’avoir envoyé un très beau courrier relevant l’inanité des augmentations des frais de scolarité pour les étudiants étrangers.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334983" ordre_absolu_seance="26" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682075" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Courageux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334984" ordre_absolu_seance="27" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682076" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bruno Fuchs et moi-même, nous avons cosigné ce courrier qui demande un moratoire d’un an. En fait, ce moratoire ne suffira pas. Le courage de la présidente et la volonté de certains députés de la majorité me rassurent.<br/>Le Nigéria avait accepté que le français soit la deuxième langue officielle jusqu’en 2004. En l’absence de réponse et de réaction, cette disposition a été supprimée. Nous avons l’opportunité de nous implanter dans ce pays, le plus grand d’Afrique, où nous n’avons pas de passé colonial. J’espère que nous le ferons, mais peut-être suis-je un peu utopiste.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334986" ordre_absolu_seance="29" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682078" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bon pour la santé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334987" ordre_absolu_seance="30" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682079" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans ce pays où nous n’avons pas de passé colonial, nous avons la possibilité de faire de grandes choses.<br/>Pour avoir été rapporteur d’un texte sur la piraterie, je pense que c’est un sujet essentiel. Notre marine doit être présente dans le golfe de Guinée. Quant à Boko Haram, quelle horreur ! Si elle le peut, notre armée doit aider à éradiquer ce mouvement absolument abominable.<br/>Le cocktail constitué par l’armée et les intérêts industriels est toujours un peu compliqué. Total a des intérêts anciens dans ce pays, avec de récentes possibilités de développement. Le groupe va poursuivre son projet Ikike de recherche pétrolière dans le golfe de Guinée. Il investit aussi dans le gaz naturel liquéfié, un dossier que je connais un peu car le méthanier travaille beaucoup avec le port de Dunkerque. Tout cela constitue un mélange qui peut faire penser à la Françafrique. Pour ma part, je pense que la situation est différente concernant le Nigéria, dans la mesure où nous pouvons faire quelque chose de neuf avec ce pays avec lequel nous n’avons aucun passé colonial.<br/>Nous avons une possibilité de nous implanter doucement, tranquillement, en essayant de faire avancer les choses. Rappelons que le Nigéria n’est pas non plus la démocratie la plus parfaite du monde. On y applique encore la peine de mort.<br/>Je voudrais aussi parler d’un dernier domaine : la santé. S’il y a un pays africain que nous pouvons beaucoup aider dans ce domaine, c’est le Nigéria. La poliomyélite s’y est développée de manière absolument terrible. Le choléra frappe aussi ce pays, ce qui n’est pas étonnant compte tenu de la pauvreté : 70 % des Nigérians vivent avec moins d’un dollar par jour. Quelqu’un a dit qu’il y avait vingt-deux milliardaires nigérians. J’en suis très heureux. Cela m’étonnerait qu’ils attrapent le choléra.<br/>Il y a aussi de nombreux malades du sida, une maladie contre laquelle il existe désormais de vraies possibilités de traitement. Nous pourrions exercer une influence sur des multinationales richissimes qui vendent les traitements à des prix impossibles. Nous pourrions faire des choses extraordinaires en Afrique.<br/>Enfin, la France pourrait aider à la lutter contre paludisme, qui se développe au Nigéria.<br/>Pour toutes ces raisons, les membres du groupe Socialistes et apparentés voteront pour ce texte, tout en restant prudents par rapport à ce cocktail formé par l’armée et des groupes comme Total et Elf. Cet accord peut représenter un défi, car le Nigéria est une enclave britannique et un peu américaine dans laquelle nous pourrions tenter de mener une nouvelle politique française en Afrique. Nous pourrions y réussir comme nous l’espérons. <italique>(Applaudissements sur quelques bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723506">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334995" ordre_absolu_seance="38" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1682087" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1334996" ordre_absolu_seance="39" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1682088" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, je vois que vous êtes heureux de me revoir. Cela me va droit au cœur. Je vous en remercie.<br/>Je vais d’abord répondre aux inquiétudes de la rapporteure. Il est vrai que j’avais voté en faveur de ce texte en commission, sur la base des éléments qu’elle nous avait donnés avec talent. À cette occasion, j’avais fait remarquer que le rapport était excellent.<br/>Cela étant dit, les parlementaires ont le droit de continuer à se documenter entre la réunion en commission et la présentation du texte dans l’hémicycle. Le passage en commission puis en séance permet de travailler sur les projets de loi, les propositions de loi, les textes à ratifier.<br/>Pour rassurer la rapporteure, j’indique d’ailleurs que je ne voterai pas contre ce texte. J’ai exprimé des inquiétudes et je vais continuer à le faire, mais j’ai bien mesuré l’intérêt de ce nouvel accord, que je trouve pertinent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1335000" ordre_absolu_seance="43" id_acteur="PA719914" id_mandat="-1" id_nomination_oe="PM730086" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682092" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Geneviève Darrieussecq</nom>
+              <id>719914</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Merci !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1335001" ordre_absolu_seance="44" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682093" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, je suis content si cela vous rassure aussi, mais attendez tout de même la suite !<br/>La motion de rejet préalable m’a permis d’évoquer la question des accords de défense d’une manière générale, de parler des problématiques de la Françafrique et de vous proposer une réflexion visant à permettre à la représentation nationale de tracer quelques lignes rouges pour notre diplomatie, en amont de la négociation des traités.<br/>Revenons au fond de cet accord. Il est issu de la prise de conscience, en 2014, du fait que le terrorisme transfrontalier au Sahel, autour du lac Tchad et au Sahara, pouvait largement déborder au Nigéria. Nous avons aussi réalisé que, malgré l’absence d’une influence politique de Paris sur Abuja, il fallait se rapprocher pour lutter ensemble contre Boko Haram, qui sévit dans la zone sahélienne du lac Tchad.<br/>Bien qu’étant un État frontalier du Sahel, le Nigéria ne fait pas partie du G5 Sahel. Pourquoi ne pas l’y intégrer ? Comme la rapporteure l’a rappelé, j’avais fait cette proposition en commission. Un tel élargissement permettrait de prendre le problème de manière plus globale.<br/>Comme en commission, je propose également, pour que la réflexion sur le Sahel soit totale, d’y inclure aussi la République arabe sahraouie démocratique qui se situe sur ce territoire. Cet État joue un rôle majeur à la frontière sud du Maghreb pour endiguer les trafics qui passent par le Sahel et le Sahara.<br/>Il pourrait être intéressant que le G5 devienne ainsi un G7 Sahel plus important, plus inclusif et permettant de couvrir une plus grande zone qui fait face à des problématiques similaires, notamment concernant les trafics illicites d’êtres humains, de drogue ou d’armes.<br/>Au-delà du G7 Sahel, cet accord soulève la question de l’intensification des relations militaires entre nos deux pays, notamment à travers l’autonomisation de l’armée nigériane, course d’influence politique et militaire, puisque les armées, une fois formées par un État, prennent ses réflexes, son matériel, et restent sous son influence.<br/>La France n’est donc pas en reste avec cet accord qui lui ouvre la porte d’un pays jusqu’ici peu réceptif à son influence, lui permettant ainsi d’accéder à un marché de l’armement qui pourrait représenter un nouveau débouché pour l’exportation de ses armes.<br/>S’agissant du Nigéria, il faudra surveiller les actions de l’armée nigériane. À plusieurs reprises, des ONG nous ont alertés sur les exactions commises par l’armée contre les populations civiles – exécutions extrajudiciaires, tortures ou enlèvements de membres supposés de Boko Haram.<br/>Le cas du bombardement accidentel par l’armée de l’air nigériane d’un camp en janvier 2017 – j’en reste aux exemples contemporains pour satisfaire nos collègues de La République en marche –, qui a fait 234 morts, dont neuf travailleurs humanitaires, et une centaine de blessés, est très inquiétant.<br/>En avouant qu’elle avait confondu ce camp de déplacés avec un camp d’insurgés, l’armée a démontré qu’elle pouvait être dangereuse pour la population civile. Vous y verrez sans doute une raison supplémentaire pour la former.  <br/>Quoi qu’il en soit, la représentation nationale devra redoubler de vigilance dans le cadre de cet accord avec un pays dont l’armée semble très violente à l’encontre des populations civiles, sans parler de l’opacité des ventes d’armes françaises, dont on espère qu’elles ne serviront pas à commettre des crimes de guerre. À cet égard, le cadre juridique des exportations d’armes en France est alarmant – peut-être réagirions-nous différemment s’il était réformé. Les licences françaises sont gérées uniquement par l’exécutif, sous le sceau du secret-défense – n’est-ce pas, madame la secrétaire d’État ? –, mettant totalement hors-jeu le Parlement.<br/>Députés et sénateurs n’ont aucune connaissance de ce processus en France, contrairement au Royaume-Uni, à la Suède ou aux Pays-Bas. Chez nous, seul un rapport concernant l’exportation des armements est exigé du ministère des armées, sans que rien ne l’oblige à respecter les délais de parution annuels. Au contraire, au  Royaume-Uni, le Gouvernement doit s’astreindre à présenter ces données tous les trimestres. Le détail des exportations doit également être fourni alors qu’en France, le flou est de rigueur.<br/>La Suède, quant à elle, dispose d’un véritable contrôle du Parlement grâce à la présence de députés au sein de l’organe de contrôle des ventes d’armes. Le  Royaume-Uni est également très avancé, avec un système de contre-rapport qui peut être établi et publié officiellement si le Parlement estime que les exportations d’armes n’ont pas été suffisamment bien présentées par l’exécutif.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1334865" ordre_absolu_seance="113" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681949" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un exemple !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1334866" ordre_absolu_seance="114" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681921" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes bien loin de tout cela en France. Il est regrettable que bien trop peu de députés s’investissent pour renforcer la transparence en ce domaine, notamment à la suite du massacre des populations civiles par l’Arabie Saoudite au Yémen, potentiellement avec des armes françaises.<br/>Il serait en effet fondamental et très instructif de pouvoir enfin lancer la commission d’enquête proposée par notre collègue Sébastien Nadot au sujet des ventes d’armes au Yémen. Hélas, cette demande n’a toujours pas abouti – c’est peut-être un silence coupable.<br/>L’exportation d’armements en direction du Sahel devra être beaucoup plus stricte et contrôlée, pour que nous évitions le drame libyen, dont je vous ai parlé tout à l’heure – des groupes armés aujourd’hui totalement incontrôlables ont bénéficié des armes françaises parachutées par Sarkozy pour faire tomber le régime de Kadhafi.<br/>La représentation nationale devra se montrer extrêmement vigilante avec les armes que notre pays exporte dans la zone de l’Afrique de l’Ouest. Je souhaite également que nous engagions une réflexion pour réformer la politique d’exportation d’armements de la France en contraignant l’exécutif à être plus transparent et à se soumettre au contrôle de la représentation nationale.<br/>La majorité n’a que le mot de « contrôle » à la bouche lorsqu’il s’agit du rôle du Parlement, feignant d’ignorer que le pouvoir législatif que nous tenons du peuple devrait être mis en avant. Vous avez là un véritable cas pratique, qui serait loin d’être cosmétique !<br/>Par ailleurs, la France devrait s’engager avec plus de détermination en faveur d’un autre axe, tout aussi stratégique que l’exportation d’armements, celui de l’écologie.<br/>Le phénomène du dérèglement climatique qui s’intensifie sous nos yeux, parce qu’il est de nature à aggraver les inégalités sur terre, doit être combattu partout, sans cesse, car il frappe toujours les populations les plus fragiles.<br/>Le premier engagement pour la paix de la France devrait donc être le respect de  ses propres engagements issus de l’accord de Paris, et la limitation du  réchauffement climatique.<br/>Ce phénomène ne connaît pas de frontières et les dégâts provoqués par l’industrialisation massive des pays occidentaux depuis plus d’un siècle ont profondément bouleversé les équilibres climatiques sans que l’Afrique ou qui que ce soit d’autre n’ait eu son mot à dire.<br/>Ainsi, la désertification des terres au Mali en est une conséquence directe, et ses effets sont dramatiques puisqu’il a provoqué des mouvements de populations ainsi que leur appauvrissement. En migrant, ces populations sont entrées en concurrence pour l’usage des sols, notamment entre pastoralisme et agriculture, ce qui a occasionné des tensions, comme la semaine dernière au Mali.<br/>La situation du lac Tchad est similaire, alors que ce bassin fournit de l’eau à près de 30 millions d’habitants des quatre pays bordant les rives de ce lac.<br/>Du fait du dérèglement de cet écosystème, les risques d’appauvrissement des populations en lien avec les problèmes d’approvisionnement en eau, notamment dans l’agriculture, sont importants.<br/>Lorsque des conflits d’usage s’implantent dans une zone aussi appauvrie, les risques de recrutement au sein de groupes criminels augmentent, comme en témoigne le cas de Boko Haram qui tient un véritable bastion idéologique, se nourrissant de la misère des gens, autour du lac Tchad. Ce groupe est maintenant actif dans plusieurs pays du Sahel, comme le Tchad ou le Niger.<br/>Cet accord de coopération militaire avec le Nigéria est donc d’une portée limitée et peut s’avérer dangereux. Il permettra peut-être d’améliorer la lutte contre les  attaques de pirates dans le golfe de Guinée ou sur les rives du lac Tchad, ce qui est déjà bien, mais il ne permettra jamais de résoudre les vraies causes du mal.<br/>Il ne répond pas, en revanche, aux grands problèmes de fond, ceux qui mériteraient de mobiliser toute l’énergie de notre diplomatie – le réchauffement climatique, les instances multilatérales, le monopole de certains produits de consommation locale, les services publics, l’agroalimentaire et la reconquête de leurs graines par les paysans.<br/>Pour conclure, trois éléments conduiront le groupe de la Gauche démocrate et républicaine à s’abstenir lors du vote de ce texte : les violations des droits de l’homme perpétrées par l’armée nigériane depuis plusieurs années dans le cadre du conflit avec Boko Haram, le doute quant aux réelles motivations qui sous-tendent cet accord, dont nous espérons qu’elles ne se bornent pas à l’exportation d’armes, et enfin la sécurisation juridique et judiciaire des rapports entre nos deux armées, qui coopèrent déjà sur le terrain.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1334876" ordre_absolu_seance="125" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681950" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très bonne intervention !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. M'jid El Guerrab" id_acteur="PA720996" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723134">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1334877" ordre_absolu_seance="126" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681932" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. M’jid El Guerrab.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="1334878" ordre_absolu_seance="127" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681933" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans ma circonscription, au Burkina Faso, un pays qui m’est cher et que j’aime profondément, un proverbe moré dit que « quand la case du voisin brûle, il faut mouiller la barbe ».<br/>En dépit des mesures déjà prises pour éviter que l’incendie des menaces sécuritaires ne se propage en Afrique de l’ouest, les violences continuent de progresser jusqu’aux pays côtiers. C’est pourquoi l’accord de coopération de défense que la France a signé en 2016 avec le Nigéria, l’un des sept États africains considérés comme des puissances militaires, apparaît essentiel pour enrayer cette propagation.<br/>Le Nigéria, nous le savons tous, n’est pas épargné par le terrorisme. Le groupe djihadiste Boko Haram y sévit depuis des années : nous nous souvenons tout particulièrement de l’enlèvement de cent-dix jeunes filles.<br/>Aussi, plus que jamais, il est crucial d’aider ce pays d’Afrique confronté à la menace terroriste à assurer lui-même sa propre sécurité. Face à cet enjeu majeur pour le continent africain, mais aussi pour la sécurité dans le monde, le groupe Libertés et territoires considère que le débat qui nous rassemble aujourd’hui est essentiel.<br/>Il nous offre l’opportunité de rappeler notre attachement à ce continent marqué par tant de souffrances et de difficultés, mais aussi porteur de réussites et d’espoir, à l’image du Nigéria.<br/>Territoire de croissance et de crise, de puissance et de vulnérabilité, ce géant africain est un colosse aux pieds d’argile qui doit aujourd’hui relever des défis sécuritaires majeurs.<br/>C’est pourquoi le rapprochement avec la France en matière de défense est une démarche que le groupe Libertés et territoires soutient.<br/>Nous sommes engagés à vos côtés dans cette coopération, madame la secrétaire d’État, parce que notre pays prend une part active dans la lutte contre le terrorisme dans la bande sahélo-saharienne, juste au nord du Nigéria. Cette zone est propice à l’expansion des mouvements terroristes, car elle cumule de nombreuses vulnérabilités liées à l’explosion démographique, à la fragilité climatique, à l’absence de perspectives d’avenir pour les jeunes, etc.<br/>Si le nord du Nigéria connaît lui aussi ces fragilités de manière prégnante, le pays dans son ensemble est confronté à de nombreuses problématiques. Je pense tout particulièrement aux inégalités sociales et territoriales, aux rivalités ethnico-religieuses et à la violence. Ainsi, dans le centre du pays, le conflit qui sévit entre les éleveurs et les agriculteurs a fait plus de 1 300 morts en un an.<br/>Qui plus est, la chute des cours du baril de brut a plongé le Nigéria dans la pire crise économique de son histoire, en dépit d’une timide reprise.<br/>Mes chers collègues, le terrorisme sait jouer de ces difficultés, mais aussi de la porosité des frontières, comme il sait jouer de la défaillance des pouvoirs politiques, des services de renseignements ou de la sécurité.<br/>La France, engagée pour la stabilité de cette région, voit ses préoccupations sécuritaires rejoindre celles du Nigéria, qui s’affirme comme un partenaire incontournable.<br/>À travers cet accord, notre pays pourra poursuivre et intensifier le rapprochement déjà engagé avec le Nigéria et ainsi procéder à des échanges de vues, de renseignements et de conseils.<br/>Il pourra partager son savoir par le biais de formations et d’exercices communs. Il sera en mesure de mener des actions de coopération portant sur des équipements militaires et de construire une véritable coopération en matière de sécurité et de sûreté maritime concernant le Golfe de Guinée.<br/>Ensemble, la France et le Nigéria pourront œuvrer à une plus grande sécurité intérieure et extérieure de cet État d’Afrique occidentale bordé par le Golfe de Guinée et par plusieurs États qui se situent dans ma circonscription. Je pense tout particulièrement au Niger, qui partage une frontière avec le Nigéria.<br/>Pour le groupe Libertés et territoires, cet accord est nécessaire parce qu’il apportera une sécurité juridique à nos forces militaires dans la région et donnera un statut officiel au partenariat stratégique de la France avec le Nigéria. Mais au-delà de son intérêt juridique, cet accord a un intérêt politique non négligeable, lié à l’influence de la France dans cette région du monde, une influence qui peut aussi s’exercer par le biais des activités spatiales, un secteur qui intéresse tout particulièrement le Nigéria et dans lequel la France est très en pointe.<br/>Le Nigéria fait partie des États africains qui se sont engagés dans la course à l’espace. En 2011, il a mis en orbite le premier satellite conçu et réalisé entièrement par des Africains. Il ambitionne également d’envoyer un Nigérian dans l’espace d’ici 2030.<br/>Ces rêves de conquête spatiale deviennent une réalité que notre pays peut accompagner.<br/>Les technologies spatiales peuvent en effet permettre de relever les défis sécuritaires auxquels le Nigéria est confronté, à travers la surveillance de ses frontières poreuses et des déplacements des groupes terroristes. Dans ce domaine, un partenariat plus étroit entre la France et le Nigéria peut être mutuellement bénéfique.<br/>Il ne s’agit pas pour moi de dire que les activités spatiales sont la seule réponse efficace au terrorisme ; mais elles sont un complément indispensable aux différentes actions menées par le Nigéria et ses partenaires.<br/>Ainsi, en matière militaire, elles s’inscrivent dans une combinaison entre des activités dans l’espace aérien et l’espace extra-atmosphérique, et des activités au sol – je pense au renseignement, au contrôle des territoires, à la surveillance des trafics.<br/>C’est pourquoi je souhaite que cet accord soit la porte ouverte à une autre coopération en matière de spatial militaire avec le Nigéria.<br/>Mes chers collègues, la sécurité au Nigéria est un enjeu majeur pour ce pays, pour l’Afrique, mais aussi pour l’Europe et la France. Je pense en particulier à l’immigration. L’insécurité est l’un des facteurs qui poussent des femmes, des hommes, des enfants africains à aller chercher un avenir meilleur par-delà leurs frontières.<br/>Pour certains d’entre eux, cette quête s’arrête dans l’immensité du Sahara, qui voit leurs corps épuisés disparaître dans des tourbillons de sable. Pour d’autres, cette fuite vers l’espoir prend fin dans les eaux de la Méditerranée. Rares sont ceux qui trouvent leur Eldorado. Plusieurs milliers d’Africains sont aujourd’hui enterrés en Méditerranée ; celle-ci est devenue un véritable cimetière.<br/>Soutenir la stabilité de la région face aux menaces terroristes, soutenir les pays africains dans leur volonté d’assurer leur propre sécurité, c’est aussi permettre un développement harmonieux de l’Afrique, permettre à la jeunesse africaine d’y construire son avenir. C’est aussi en cela que cette convention est importante et que nous la soutenons.<br/>Comme le disait Sénèque, « il n’est pas de vent favorable pour celui qui ne sait où il va ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334913" ordre_absolu_seance="191" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682100" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marielle de Sarnez</nom>
+              <id>717151</id>
+              <qualite>présidente de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334913" ordre_absolu_seance="192" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682099" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le Nigéria sait dans quelle direction il souhaite aller : celle du retour des civilisations africaines « belles, dignes et fraternelles », comme le disait Aimé Césaire.<br/>Le groupe Libertés et territoires, profondément humaniste, souhaite que la France accompagne le Nigéria sur ce chemin, qui s’annonce long et escarpé, mais porteur d’espérances.<italique/></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jacques Maire" id_acteur="PA722178" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723494">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334915" ordre_absolu_seance="194" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1682007" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jacques Maire.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334916" ordre_absolu_seance="195" id_acteur="PA722178" id_mandat="PM723494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1682008" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jacques Maire</nom>
+              <id>722178</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons tous en mémoire l’enlèvement par Boko Haram, en 2014, des 276 lycéennes de Chibok. À l’époque, ce rapt avait choqué la communauté internationale. Mais, jusqu’à ce que la France prenne l’initiative de la riposte, il ne s’est rien passé.<br/>On a dû au président François Hollande d’avoir alors convoqué très rapidement, à Paris, un sommet rassemblant pour la première fois les pays riverains du lac Tchad.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334917" ordre_absolu_seance="197" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682009" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est bien de le reconnaître ! Merci !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334919" ordre_absolu_seance="198" id_acteur="PA722178" id_mandat="PM723494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682011" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jacques Maire</nom>
+              <id>722178</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>De cette conférence, il sortit la première grande coopération militaire associant la France et le Nigéria : je veux parler de la Force multinationale mixte, la FMM. Cette force existe. Elle regroupe cinq pays riverains du lac Tchad : le Bénin, le Cameroun, le Niger, le Tchad et le Nigéria, quatre pays francophones et un pays anglophone. Elle combat et remporte des victoires contre le djihadisme. Le 10 mars dernier, elle a indiqué avoir tué une quarantaine de terroristes au cours de deux affrontements au Niger et au Nigeria.<br/>Malgré les avancées militaires, les attaques et l’insécurité provoquées par Boko Haram continuent d’avoir de lourdes conséquences sur les populations de la région du lac Tchad. De fait, l’État nigérian a abandonné à Boko Haram toute une partie nord de son territoire, ce qui fait de celle-ci l’équivalent d’un petit califat islamique, exactement de même nature que celui créé par Daech au Levant.<br/>La Force pâtit aujourd’hui d’un manque de moyens. J’ai pu moi-même le constater directement sur le terrain, lors de deux visites à l’état-major, dont l’une avec notre rapporteure. Nous avons effectivement constaté un manque évident de moyens, qu’il s’agisse de matériel amphibie, de transmission à longue portée ou de vision nocturne.<br/>Cette force présente aussi l’intérêt de lutter contre la radicalisation : la rapporteure Amélia Lakrafi et moi-même avons eu l’occasion de le vivre en direct en intervenant à la radio Dandal Kura, le seul média en langue kanouri, qui lutte et est écoutée par toute la population de la région.<br/>Aujourd’hui, la France affecte les moyens destinés à Barkhane pour soutenir la Force multinationale, mais elle ne peut pas faire de miracles : on ne peut pas tendre indéfiniment l’élastique de Barkhane et, au-delà du domaine du renseignement, il est devenu de plus en plus difficile de disposer d’appuis aériens.<br/>Le débat que nous avons aujourd’hui sur l’accord de coopération doit donc nous inciter à aborder la question du financement de l’effort militaire international dans cette région.<br/>Je vous rappelle que nous avons voté, au travers d’un amendement que j’avais déposé au rapport annexé à la loi de programmation militaire, un renforcement des capacités de financement européen et international en matière de défense dans les pays en crise, afin, notamment, que ces pays puissent assurer leur sécurité grâce à leurs propres forces armées. Sur ce point, je pense que nous nous accordons avec Jean-Paul Lecoq.<br/>Aujourd’hui, nous disposons de deux outils. Les opérations de maintien de la paix sont très coûteuses, peu nombreuses et menées dans une optique défensive, contrairement aux agressions américaines ; elles n’aident pas les armées nationales. Le deuxième outil, la Facilité africaine de paix, a fait, si j’ose dire, l’objet d’un hold-up par le Royaume-Uni, au bénéfice de la Somalie, qui consomme 80 % des crédits. C’était nécessaire, mais cela a laissé l’Afrique de l’Ouest bien démunie.<br/>La France a défendu une proposition émanant de l’Union africaine, pour des opérations africaines de paix menées notamment par les armées régionales, donc plus durables et moins coûteuses. Cette proposition, qui repose sur un financement à hauteur de 20 % par les États de l’Union africaine, a été refusée par les États-Unis. Nous avons perdu une bataille, mais nous devons continuer la guerre.<br/>Au-delà de Boko Haram, cet accord est l’occasion d’un vrai débat stratégique – beaucoup de collègues l’ont dit, y compris M. El Guerrab. Nous avons beaucoup d’autres préoccupations de sécurité communes, parmi lesquelles les questions maritimes, mais surtout l’apaisement des tensions dans la partie anglophone du Cameroun, qui affectent directement le Nigéria.<br/>L’absence d’accord sur la coopération en matière de défense avec le Nigéria constitue donc un manque. Le Nigéria, géant économique, premier partenaire commercial de la France, deuxième pays accueillant des investissements internationaux, est le pays qui n’a pas de relations de défense organisées avec nous.<br/>Les relations politiques ne sont pas à la hauteur de nos intérêts communs. Alors, évidemment, il faut aller de l’avant. Il ne s’agit pas de prendre nos distances avec nos amis d’Afrique francophone, bien au contraire ; il ne s’agit pas de déshabiller Paul pour habiller Pierre, ou l’inverse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334931" ordre_absolu_seance="210" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1682141" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Pour habiller Jacques ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334931" ordre_absolu_seance="211" id_acteur="PA722178" id_mandat="PM723494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1682140" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jacques Maire</nom>
+              <id>722178</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il s’agit, au contraire, d’affronter ensemble, avec nos partenaires francophones et anglophones, nos défis communs et, aujourd’hui, celui de la sécurité et du terrorisme. <italique>(Applaudissements sur les bancs du groupe LaREM. – M.</italique><italique> </italique><italique>M’jid El</italique><italique> </italique><italique>Guerrab applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Michel Jacques" id_acteur="PA720354" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722940">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334932" ordre_absolu_seance="212" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1682024" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Michel Jacques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334933" ordre_absolu_seance="213" id_acteur="PA720354" id_mandat="PM722940" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1682025" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Michel Jacques</nom>
+              <id>720354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’avez compris, l’objectif de cet accord est de jeter les bases juridiques d’une coopération qui se veut pérenne en matière de défense avec notre nouveau partenaire africain, le Nigéria, pays le plus peuplé et le plus riche de la région.<br/>La France est un acteur de premier plan dans la région subsaharienne. Comme vous le savez, sur le plan militaire, nous agissons à proximité immédiate du Nigéria, notamment à travers l’opération Barkhane. Depuis 2014, les volontés françaises et nigérianes sont claires : nouer un réel partenariat stratégique entre nos nations afin de répondre ensemble aux enjeux sécuritaires de la région subsaharienne.<br/>À ce jour, nous sommes confrontés à deux problématiques majeures.<br/>La première est la lutte contre les groupes armés terroristes, comme Boko Haram et d’autres mouvances al-quaïdistes, qui sévissent dans le nord du Nigéria. C’est à ce titre, d’ailleurs, que la force Barkhane vient d’apporter et apporte un soutien ponctuel à l’armée nigériane, notamment en matière de renseignement.<br/>La seconde problématique majeure tient à la sécurité maritime et aux capacités d’action de l’État en mer dans le golfe de Guinée. Cet espace, riche en ressources halieutiques et en hydrocarbures, est confronté régulièrement à des actes de piraterie, mais aussi à la pêche sauvage et à la pollution des eaux. En 2018, les actes de piraterie ont connu un bond sans précédent dans la région. Le Bureau maritime international a recensé 201 attaques au cours de cette année, ce qui fait du golfe de Guinée la zone la plus touchée par la piraterie en Afrique, devançant même le tristement célèbre golfe d’Aden. Voilà pourquoi la France est présente aux côtés de ses partenaires, à travers l’opération Corymbe comportant un bâtiment de la Marine nationale qui assure une permanence à la mer dans le golfe de Guinée.<br/>Cet accord jette les bases d’une coopération prometteuse entre nos deux pays, qui devra d’ailleurs aller au-delà de l’aspect strictement sécuritaire. Si la sécurité est parfois considérée comme la première des libertés, je préfère nuancer cette analyse et souligner le lien de réciprocité existant entre la sécurité et le développement. En effet, comment imaginer le développement économique et humain dans une région en proie à l’instabilité et à la violence ? Comment imaginer des populations apaisées si leurs besoins fondamentaux ne sont pas satisfaits ? J’en suis persuadé, il ne peut y avoir de développement sans sécurité, ni de sécurité à long terme sans développement. Notre approche doit donc être globale. Tel était d’ailleurs le sens de l’allocution du Président de la République à Ouagadougou, le 28 novembre 2017, lorsqu’il a pris « l’engagement d’avoir une France au rendez-vous du défi du développement ».<br/>Vous l’avez compris, il est naturel et souhaitable de renforcer notre coopération avec le Nigéria, véritable porte d’entrée vers les pays du Sahel grâce à son tronçon routier de 1 200 kilomètres et au port de Lagos, l’un des plus importants de la région. L’ensemble constitue une véritable artère, qui permet le transit des marchandises.<br/>Il est donc essentiel de renforcer nos liens avec le Nigéria afin de pouvoir anticiper les facteurs potentiels de déstabilisation de la région. L’Union européenne l’a d’ailleurs bien compris, puisque le Fonds européen de développement prévoit une enveloppe de 511 millions d’euros pour le Nigéria pour la période 2014-2020.<br/>Je vous invite donc, mes chers collègues, à voter le présent projet de loi, qui permettra de renforcer notre coopération de défense avec ce pays ami en lui fournissant un cadre juridique adéquat. <italique>(Applaudissements sur les bancs du groupe LaREM. –</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>M’jid El</italique><italique> </italique><italique>Guerrab applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Emmanuelle Ménard" id_acteur="PA719608" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722710">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334948" ordre_absolu_seance="222" id_acteur="PA720746" id_mandat="PM723064" id_nomination_oe="-1" id_nomination_op="PM761979" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1682040" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>720746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Emmanuelle Ménard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="1334949" ordre_absolu_seance="223" id_acteur="PA719608" id_mandat="PM722710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1682041" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Emmanuelle Ménard</nom>
+              <id>719608</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Géant aux pieds d’argile, miné par la corruption, l’insécurité, le terrorisme et la pauvreté avec 44 % de ses 195 millions d’habitants vivant avec moins de deux dollars par jour, le Nigéria n’en reste pas moins l’un des espoirs de l’Afrique : terres fertiles, sols riches en minerais, pétrole et gaz liquide, nombreuses réserves et sites naturels...<br/>Aujourd’hui, avec ce projet de loi, vous demandez l’autorisation d’engager avec le Nigéria une coopération en matière de défense. À première vue, c’est une très bonne idée, puisque ces accords passés avec l’Afrique permettent à la France de remplir deux objectifs : tout en aidant ces pays à assurer leur propre sécurité, nous sortons de nos zones d’influence traditionnelles afin de mieux appréhender le continent africain. Si la coopération militaire contribue au rayonnement de la France, d’un point de vue diplomatique et stratégique, il est évident que ce ne sont pas les seules raisons. Avant de vous accorder ma confiance, permettez-moi de clarifier les choses.<br/>Le Nigéria étant l’un des pays d’Afrique aux très hautes potentialités, nous avons évidemment tout intérêt à nous en faire un allié. Selon Lionel Zinsou, banquier d’affaires franco-béninois, « le Nigeria fait 7 % de croissance depuis huit ans, il est solvable, il a moins de 2 % de déficit budgétaire et sa dette se chiffre à 20 % du PIB. Il a les moyens de réaliser de grands investissements. » Le pays dispose par ailleurs de quelque 43 milliards de dollars de réserves de change : voilà une aubaine pour la France qui cherche à conquérir de nouveaux marchés !<br/>Si les avantages économiques de ce rapprochement sont indéniables, ils ne sont pas les seuls facteurs de ce nouvel engouement. Car le Nigéria est aussi un pays déchiré, depuis presque vingt ans, par les guerres ethnico-religieuses. Ce mardi encore, les attaques meurtrières perpétrées par Boko Haram ont emporté dix personnes près du lac Tchad. Boko Haram frappe, persécute et se retourne contre la population qui lui tourne le dos. Si l’État islamique, dont il est issu, est moribond, ses idées sont bien vivantes et inspirent un vivier de terroristes qui peuvent frapper à tout moment, en Afrique comme en Europe. Si notre coopération avec le Nigéria peut, par ricochet, nous permettre de tenir à distance ce bastion de terroristes et de le prendre en tenaille grâce à nos forces présentes au Tchad, j’y suis évidemment favorable.<br/>Et puis, naturellement, ne soyons pas naïfs : si le Nigéria est si important, c’est aussi parce qu’il est le pays le plus peuplé d’Afrique. Or, avec une pression migratoire qui ne faiblit pas et une courbe démographique exponentielle, l’Afrique inquiète, à juste titre. En 1930, le continent comptait 150 millions d’habitants. Aujourd’hui, la population est passée à 1,3 milliard d’habitants, dont 40 % ont moins de 15 ans, et demain, en 2050, on estime que l’Afrique comptera 2,5 milliards d’habitants, contre 450 millions d’habitants vieillissants en Europe.<br/>Selon Stephen Smith, 42 % des Africains âgés de 15 à 25 ans déclarent vouloir quitter l’Afrique. Autant dire que, si l’Afrique ne trouve pas rapidement des solutions, la pression démographique rimera, bien sûr, avec une pression migratoire accrue. Contrairement à ce qu’affirment certains, l’essentiel des migrants vient des pays qui portent l’espoir de l’Afrique, comme le Sénégal, le Ghana, la Côte d’Ivoire, le Kenya ou le Nigéria. Comme le dit toujours Stephen Smith, c’est l’Afrique émergente qui migre en Europe, et non pas l’Afrique de misère. Conséquence : l’Afrique se vide de ses forces vives, ce qui diminue considérablement sa capacité à se développer pour offrir à sa population des conditions de vie acceptables.<br/>Les potentialités exceptionnelles du Nigéria en font un pays d’intérêt stratégique de premier ordre pour la France, d’autant que le Nigéria ambitionne de faire partie des vingt premières puissances mondiales d’ici à 2050 – un objectif tout à fait atteignable, puisque le Nigéria est le premier réservoir de pétrole d’Afrique. Voilà une raison supplémentaire de commencer à tisser des liens sérieux avec ce pays.<br/>J’ai cependant une réserve, ou plutôt une question : quelles garanties nous donnerez-vous contre la corruption omniprésente, notamment dans l’armée nigériane, dont savez comme moi qu’elle est noyautée par les terroristes ? Il ne faudrait pas que nos armes et nos savoirs se retournent prochainement contre nous.<br/>Pour toutes ces raisons, je voterai la ratification de cet accord de coopération en matière de défense entre la France et le Nigéria.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Charles Larsonneur" id_acteur="PA719396" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722650">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334894" ordre_absolu_seance="232" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681864" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Charles Larsonneur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334895" ordre_absolu_seance="233" id_acteur="PA719396" id_mandat="PM722650" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681865" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Charles Larsonneur</nom>
+              <id>719396</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec une population de 191 millions d’habitants et un taux de fécondité de 5,4 enfants par femme, le Nigéria est le pays le plus peuplé d’Afrique. Son évolution démographique en fera d’ailleurs le troisième pays le plus peuplé au monde en 2050, avec 410 millions d’habitants. Alors que l’opération Barkhane s’inscrit dans la durée dans la bande sahélo-saharienne, cet accord de coopération en matière de défense présente donc un intérêt majeur.<br/>Un mois après l’élection présidentielle nigériane, qui a reconduit l’ex-général Muhammadu Buhari à la tête de l’État, j’aimerais revenir sur le contexte de sécurité dans ce pays. Dans la partie nord, la compétition pour l’accès à l’eau et aux ressources naturelles alimente des tensions ethniques entre les fermiers, majoritairement chrétiens, et les éleveurs nomades musulmans de l’ethnie des Peuls. Mais cette zone concentre aussi d’autres fragilités. La progression du désert de 600 mètres chaque année et le rétrécissement du lac Tchad sont aussi des facteurs d’instabilité, de sorte qu’en 2018, les violences communautaires ont gagné en létalité comme en intensité. Dans ce contexte, le terrorisme d’inspiration islamiste a trouvé un terreau propice à une implantation durable dans la partie nord et au centre du pays. En causant la mort de 11 000 personnes entre 2010 et 2018, il a aggravé les déplacements de population.<br/>J’en viens à la situation de l’armée nigériane. À compter de 2015, le déploiement de la force multinationale mixte composée de troupes fournies par le Tchad, le Nigéria, le Bénin, le Niger et le Cameroun a porté de sérieux coups à Boko Haram. Il a contribué à la fragilisation du mouvement, qui s’est scindé entre un groupe faisant allégeance à Al-Qaïda au Maghreb islamique – AQMI – et un autre subordonné à Daech, devenu l’État islamique en Afrique de l’ouest. Mais ces récents succès militaires ont parfois conduit à un excès de confiance du pouvoir, qui a proclamé à plusieurs reprises, et sans doute de façon prématurée, la victoire définitive. En réalité, les insurgés islamistes ont démontré une réelle capacité de résilience. La branche locale de Daech a ainsi mené des offensives répétées contre les bases de l’armée nigériane, lui permettant de récupérer des armes, des munitions, des véhicules et de consolider son arsenal. Cette branche de l’État islamique reçoit d’ailleurs en ce moment le renfort de djihadistes venus du Levant.<br/>La persistance de l’insurrection islamiste, conjuguée au banditisme dans la zone du delta du Niger, à la piraterie dans le golfe de Guinée et au séparatisme biafrais, pèse lourd sur les forces de défense et de sécurité du Nigéria, qui sont contraintes de disperser leurs moyens. Elles doivent aussi suppléer les forces de sécurité intérieure dans certains territoires. En conséquence, l’armée se retrouve mobilisée pour des missions de rétablissement et de maintien de l’ordre, ce qui provoque une certaine usure des effectifs, une baisse du moral et parfois des désertions dans les rangs.<br/>Pour pallier ces difficultés, Abuja a augmenté de manière significative son budget de défense, qui atteint aujourd’hui environ 1,5 milliard de dollars. Cet effort doit bien sûr être salué, mais aussi accompagné et encouragé. En effet, l’armée déploie, avec les forces paramilitaires, plus de 160 000 hommes et prévoit d’importants recrutements dans les années à venir. Le contrôle du territoire ne saurait bien évidemment se faire qu’avec des troupes bien formées. Les autorités nigérianes font déjà appel à des partenaires étrangers, notamment pour les forces spéciales. De nombreux militaires sont ainsi formés à l’étranger, au Pakistan et en Russie. Un partenariat de défense a été signé avec la Turquie, et le Royaume-Uni forme sur place l’infanterie nigériane. La France doit désormais, elle aussi, apporter son concours à la formation des forces armées du pays, d’autant que certains véhicules français, comme les blindés Sagaie et les véhicules blindés légers, sont utilisés dans l’arsenal du pays. Ce partenariat contribuera à renforcer notre coopération en matière d’équipements.<br/>L’armée nigériane est au début d’un long processus qui doit la conduire graduellement vers une réelle professionnalisation. Dans la droite ligne de nos efforts pour la mise en place d’un système de sécurité collective avec les pays du G5 Sahel, cet accord de coopération militaire est pleinement cohérent avec les objectifs de la France dans la région. Je ne peux donc que vous inviter à en voter la ratification. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bastien Lachaud" id_acteur="PA720846" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723094">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334901" ordre_absolu_seance="239" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1681871" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bastien Lachaud.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334902" ordre_absolu_seance="240" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1681872" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <id>720846</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avant d’examiner ce projet d’accord de coopération de défense avec le Nigéria, je veux rendre un double hommage.<br/>Tout d’abord, un hommage aux femmes, aux hommes et aux enfants tombés de par le monde, victimes des violences perpétrées par des groupes armés ou des individus fanatiques et crapuleux. Je pense aux victimes des attaques qui ensanglantent le Mali depuis des mois, en particulier à celles d’Ogossagou, mais également aux victimes de Christchurch, en Nouvelle-Zélande.<br/>J’adresse aussi un hommage aux femmes et aux hommes qui œuvrent loin de leurs familles pour protéger et secourir les populations civiles en proie aux violences et aux catastrophes : je veux parler de nos soldats. Ces hommes et ces femmes accomplissent la mission que le pouvoir politique leur a confiée au péril, et parfois au prix, de leur vie. Nous savons ce que nous leur devons. Nous leur devons reconnaissance et protection. Nous ne devons pas croire qu’ils sont invulnérables et recourir à eux en tout temps, en tout lieu, sans discernement. Notre premier devoir envers eux est de proposer une vision politique qui donne un sens à leur engagement et permette de transformer en paix durable les victoires tactiques qu’ils ont remportées et remporteront.<br/>De ce point de vue, les autorités politiques sont en échec. Il est indispensable d’accepter de le voir et de le dire si l’on veut y remédier. La notion de « guerre au terrorisme », empruntée aux néoconservateurs américains et encore trop souvent évoquée, nous a placés dans une impasse. À cela, il y a deux raisons principales. La première est qu’on ne fait pas la guerre à un procédé, mais à un ennemi. Se donner un objectif vague, c’est être dans l’impossibilité de reconnaître une victoire et de déclarer la fin d’une opération. La deuxième raison de l’échec, c’est que le terrorisme est fondamentalement utilisé pour servir des desseins politiques. De fait, la réponse militaire est forcément très partielle et ne suffit pas à elle seule. C’est une œuvre sans fin si l’on ne s’interroge pas sur les sources profondes de l’action violente et les objectifs qu’elle vise.<br/>Certains pensent peut-être qu’il est superflu de faire ce genre de rappel. Pourtant, des faits récents prouvent le contraire. Alors qu’il est indispensable de dresser le bilan des engagements militaires de la France en Afrique, en particulier au Mali, tout est fait pour l’empêcher. Je rappelle que le groupe La France insoumise a demandé ce bilan dès le début de notre législature. Nous l’avons demandé aussi lors des débats sur la loi de programmation militaire, mais nos efforts ont été vains. L’idée de réfléchir collectivement à l’histoire récente a été repoussée avec dédain par la majorité. Il y a quelques jours, ce sont des chercheurs qui ont été empêchés de rendre publique leur réflexion. La parution du dossier consacré au Mali par la revue <italique>Afrique contemporaine</italique>, éditée par l’Agence française de développement, a été repoussée sine die. Aux yeux mêmes des membres de la rédaction, il ne s’agirait ni plus ni moins que de censure. Comment dire le contraire ? Sur le principe, c’est inacceptable.<br/>Cet accord de défense avec le Nigéria s’inscrit totalement dans la continuité de la politique menée par la France en Afrique depuis l’intervention en Libye. Certes, qui voudra se prononcer contre le principe de la coopération avec un État comme le Nigéria, qui répond mieux que tant d’autres aux exigences de la démocratie ? Mais l’imprécision de ce texte et ses non-dits ont de quoi inquiéter. L’article 4 énumère les domaines de la coopération envisagée, mais une mention mise entre parenthèses nous précise benoîtement que cette liste n’est « pas limitative ». C’est donc un chèque en blanc que l’on nous demande de signer au Gouvernement.<br/>Or le Gouvernement a montré le peu de cas qu’il fait de notre assemblée, en particulier lorsqu’il s’agit de défense et d’Afrique. Faut-il rappeler qu’il y a à peine un mois, le Premier ministre donnait l’ordre d’employer la force au Tchad pour venir en aide à la dictature d’Idriss Déby ? Or le Gouvernement a refusé tout débat à ce sujet. Une lettre du Premier ministre – trois lignes exactement – nous a placés devant le fait accompli. Mme Parly puis M. Le Drian ont fait une présentation sommaire, l’une devant la commission de la défense, l’autre devant celle des affaires étrangères, mais nous n’avons pas eu droit à un débat, et encore moins à un vote dans l’hémicycle. Pourtant, le fondement légal de cette intervention au Tchad est extrêmement fragile : les accords qui nous lient à ce pays ne prévoient pas que les troupes françaises puissent y opérer au service du Gouvernement. Le fondement politique de ces frappes est encore plus contestable : comment peut-on prétendre œuvrer à la pacification d’une région si gravement, largement et profondément déstabilisée en mettant nos armes au service d’un despote sanglant comme M. Déby ?<br/>Nous avons intérêt à l’installation de la paix sur le continent africain, mais la lutte pour une paix durable est vouée à l’échec si elle est menée unilatéralement et au mépris des principes politiques que la République professe. Ces principes qui font notre devise, nous les voulons, nous les savons universels. Or, à chaque fois que nous les utilisons pour travestir le sens réel des décisions prises par le Gouvernement, nous passons pour des hypocrites, notre crédit s’amenuise et la confiance indispensable aux rapports entre les hommes et entre les peuples disparaît. Nous éloignons encore l’horizon de la paix et de la sécurité.<br/>C’est pourquoi la vérité et la transparence sont indispensables à l’atteinte de nos objectifs. La diplomatie de cabinet n’est, en réalité, pas très différente de la diplomatie de couloir. Le secret dans les relations internationales ne peut rien d’autre que nous concilier l’amitié des dictateurs : il ne permet pas de mobiliser des peuples ni d’ouvrir des perspectives de paix. Comme disait Jaurès, nous devons avoir le courage de rechercher la vérité et de la dire. La droite de l’hémicycle préférera peut-être que j’évoque Péguy, qui nous exhorte à faire l’effort d’accepter de voir ce que l’on voit. </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334909" ordre_absolu_seance="249" id_acteur="PA335612" id_mandat="PM723506" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681879" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle n’est pas là, la droite !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="1334910" ordre_absolu_seance="250" id_acteur="PA720846" id_mandat="PM723094" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1681880" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bastien Lachaud</nom>
+              <id>720846</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Or qu’y a-t-il à voir ? Un échec politique presque complet. Il a de nombreuses causes. La France n’est pas responsable de tous les maux qui accablent l’Afrique de l’Ouest, mais enfin ! Les gouvernements successifs ont pour le moins agi avec légèreté. La guerre en Libye, d’abord, a été une déflagration épouvantable. Elle a porté atteinte à la crédibilité des Nations unies. Elle a livré ce pays au chaos et à la guerre civile. Elle a remis en mouvement des groupes armés de bandits et de mercenaires. Elle a disséminé des dizaines de milliers d’armes dans tout le sous-continent. Elle a ouvert la voie aux trafics les plus abominables, tels que l’esclavage, et offert un point d’ancrage au terrorisme djihadiste.<br/>Au Mali, où je me suis rendu il y a un mois, nous affrontons encore tous les jours les conséquences de cette erreur funeste. Tous les interlocuteurs officiels en conviennent : la situation est pire qu’avant Barkhane. Elle n’est pas pire à cause de Serval et Barkhane ; elle est pire malgré les efforts qu’on a demandés à nos soldats. Alors que le nord du pays était le repère des groupes armés, le centre du Mali est aujourd’hui déstabilisé. Les pays frontaliers sont infectés par cette peste multiforme. Les groupes armés ont essaimé. Le Burkina Faso et le Niger sont terriblement affaiblis. L’État malien n’est pas restauré. Le G5 Sahel, présenté comme une panacée politico-militaire, un exemple de coopération régionale intégrée, n’est toujours pas opérationnel. Quelle est sa pertinence, en réalité ? Pourquoi cinq, et non six ou sept États ? Pourquoi lui et non l’organisation régionale existante, la Communauté économique des États de l’Afrique de l’Ouest, la CEDEAO ? Pourquoi s’appuyer prioritairement sur des pays qui violent les droits humains, comme la Mauritanie ou le Tchad ? Faire de l’Arabie saoudite l’un de ses principaux bailleurs de fonds ne pose-t-il pas un problème de crédibilité ou d’indépendance ? Ces questions n’ont jamais été traitées au grand jour. J’ose espérer que, dans les bureaux du ministère des affaires étrangères, de l’état-major et de l’Élysée, on a des réponses robustes, mais à vrai dire, je n’en suis pas certain.<br/>Depuis peu, il semble qu’on a pris conscience des limites de l’approche exclusivement sécuritaire. La doctrine des 3D est à l’ordre du jour : diplomatie, défense, développement. À la bonne heure ! On ne prétend plus que la paix puisse fleurir sur le terreau de la misère. Croit-on pour autant qu’elle s’épanouisse sans démocratie ? Car tel est le défi qu’il faut maintenant relever.<br/>Qui parmi vous a une idée du budget consacré par la France à l’intervention au Mali depuis six ans ? A fortiori, combien de nos concitoyens en ont une notion ? Faut-il compter en dizaines de millions d’euros, en centaines de millions ou en milliards ? En réalité, ces six années de présence militaire représentent, peu ou prou, deux années du budget de l’État malien, soit 3 milliards d’euros.<br/>Or, partout ailleurs, la misère, le changement climatique et l’instrumentalisation des tensions par les groupes armés rendent la situation plus dangereuse que jamais. Parler d’affrontements intercommunautaires est un raccourci commode, mais dangereux, qui contribue à faire advenir ce que l’on redoute – le conflit ethnique –, quand il s’agit avant tout d’accès aux ressources et de pouvoir.<br/>J’ai voulu rappeler les termes de l’équation qui se pose au Sahel, car ils sont les mêmes dans tout le sous-continent, au Nigéria comme dans tous les autres pays. Je n’ai pas assez parlé des désastres qu’entraîne le dérèglement climatique : l’assèchement du lac Tchad aura des effets délétères qu’aucune action militaire ni aucune coopération ne saura endiguer. Projeter des sociétés agraires ou pastorales dans la modernité capitaliste, faite d’exploitation, d’accumulation de biens et de prédation des ressources naturelles, ne peut pas amener la paix – ni au Nigeria, ni ailleurs.<br/>Il n’est donc pas possible de ratifier cet accord de coopération militaire sans que l’on nous dise clairement que le Gouvernement est prêt à tout revoir. <italique>(M.</italique><italique> </italique><italique>Jean-Paul Lecoq applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334848" ordre_absolu_seance="5" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681955" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>267585</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334849" ordre_absolu_seance="6" code_grammaire="VOTE_ENS_PJL_SA_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1681956" valeur=" (n[[o]] 1412)">
+      <orateurs/>
+      <texte>Vote sur l’article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334850" ordre_absolu_seance="7" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="VOTE_ENS_PJL_SA_2_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681957" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>267585</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sur l’article unique du projet de loi, je suis saisi par le groupe Socialistes et apparentés d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>………………………………………………………………………………….<br/>Je vais maintenant mettre aux voix l’article unique du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334852" ordre_absolu_seance="9" code_grammaire="VOTE_ENS_PJL_SA_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1681959" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334853" ordre_absolu_seance="10" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="VOTE_ENS_PJL_SA_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681960" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>267585</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        23<br/>        Nombre de suffrages exprimés                21<br/>        Majorité absolue                        11<br/>                Pour l’adoption                21<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1334854" ordre_absolu_seance="11" code_grammaire="VOTE_ENS_PJL_SA_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1681961" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’a</italique>
+          <italique>rticle unique est adopté, ainsi que l’ensemble du</italique>
+          <italique> projet de loi.)</italique>
+          <italique/>
+          <br/>
+          <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique>
+          <italique/>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="1334856" ordre_absolu_seance="13" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1681963" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1334857" ordre_absolu_seance="14" id_acteur="PA267585" id_mandat="PM722978" id_nomination_oe="-1" id_nomination_op="PM761982" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1681964" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>267585</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, mardi 2 avril, à neuf heures trente :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1334858" ordre_absolu_seance="15" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1681965" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1334859" ordre_absolu_seance="16" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1681966" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

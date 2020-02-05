@@ -1,0 +1,1201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2019O1N247</uid>
+  <metadonnees>
+    <dateSeance>20190523150000000</dateSeance>
+    <dateSeanceJour>jeudi 23 mai 2019</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>247</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2018-2019</session>
+    <nomFichierJo>20190247</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <horaireGmt>Date: Fri, 24 May 2019 15:05:28 GMT</horaireGmt>
+    <heureGeneration>2019-05-24T17:05:29.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="1731561">Présidence de M. Hugues Renson</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="1731565">
+          <intitule>Accord sur le siège de l’Autorité européenne des marchés financiers</intitule>
+        </titreStruct>
+        <para id_syceron="1731566"/>
+        <sommaire2>
+          <titreStruct id_syceron="1731568">
+            <intitule>Discussion générale <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <para id_syceron="1731570">Mme Clémentine Autain</para>
+          <para id_syceron="1731584">M. Jean-Paul Dufrègne</para>
+          <para id_syceron="1731543">M. M’jid El Guerrab</para>
+          <para id_syceron="1731809">M. Bruno Fuchs</para>
+          <para id_syceron="1731826">M. Christian Hutin</para>
+          <para id_syceron="1731875">M. Rodrigue Kokouendo</para>
+          <para id_syceron="1731884">Mme Laetitia Saint-Paul</para>
+          <para id_syceron="1731901">Mme Amélie de Montchalin, secrétaire d’État chargée des affaires européennes</para>
+          <sommaire3>
+            <titreStruct id_syceron="1731912">
+              <intitule>Article unique</intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="1731837">
+          <intitule>Coopération sanitaire transfrontalière Suisse Luxembourg</intitule>
+        </titreStruct>
+        <para id_syceron="1731838"/>
+        <sommaire2>
+          <titreStruct id_syceron="1731840">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="1731842">Mme Amélie de Montchalin, secrétaire d’État chargée des affaires européennes</para>
+          <para id_syceron="1731850">M. Bruno Fuchs, rapporteur de la commission des affaires étrangères</para>
+          <para id_syceron="1731790">Mme Marielle de Sarnez, présidente de la commission des affaires étrangères</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1731793">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="1731795">M. Jean-Paul Dufrègne</para>
+          <para id_syceron="1732113">M. Frédéric Barbier</para>
+          <para id_syceron="1732129">Mme Virginie Duby-Muller</para>
+          <para id_syceron="1732149">Mme Sophie Mette</para>
+          <para id_syceron="1731948">M. Christian Hutin</para>
+          <para id_syceron="1731983">Mme Marion Lenne</para>
+          <para id_syceron="1732005">M. Martial Saddier</para>
+          <para id_syceron="1732032">Mme Isabelle Rauch</para>
+          <para id_syceron="1732049">M. M’jid El Guerrab</para>
+          <para id_syceron="1732080">Mme Amélie de Montchalin, secrétaire d’État</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1732102">
+            <intitule>Discussion des articles</intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="1732086">
+              <intitule>Article 1<exposant>er</exposant></intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="1732088">
+              <intitule>Article 2</intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="1732090">
+            <intitule>Vote sur l’ensemble</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="1732096">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du jeudi 23 mai 2019</journee>
+      <session>Session ordinaire 2018-2019</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1370111" ordre_absolu_seance="1" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="1731561" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Hugues Renson<br/>vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1370112" ordre_absolu_seance="2" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731562" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1370113" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1731563" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370115" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1731565" valeur=" (n[[o]] 1390)">
+      <orateurs/>
+      <texte>Accord sur le siège de l’Autorité européenne des marchés financiers</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370116" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1731566" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Suite de la discussion d’un projet de loi adopté par le Sénat</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370117" ordre_absolu_seance="7" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731567" valeur=" (n[[os]] 1390, 1787)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion du projet de loi, adopté par le Sénat, autorisant l’approbation de l’accord entre le Gouvernement de la République française et l’Autorité européenne des marchés financiers relatif au siège de l’Autorité et à ses privilèges et immunités sur le territoire Français (n<exposant>os</exposant> 1390, 1787).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370118" ordre_absolu_seance="8" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1731568" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale <italique>(suite)</italique></texte>
+      <interExtraction nom_orateur="Mme Clémentine Autain" id_acteur="PA588884" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723226">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370119" ordre_absolu_seance="9" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731569" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce matin, l’Assemblée a commencé d’entendre les orateurs inscrits dans la discussion générale.<br/>La parole est à Mme Clémentine Autain.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370120" ordre_absolu_seance="10" id_acteur="PA588884" id_mandat="PM723226" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1731570" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Clémentine Autain</nom>
+              <id>588884</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, le texte que nous étudions aujourd’hui doit être l’occasion de dépasser le seul horizon des dispositions liées à l’installation à Paris de l’Autorité européenne des marchés financiers. Cet accord, premier du genre, préfigure ceux qui vont suivre. Nous avons tous en tête l’installation prochaine à Paris, par suite du Brexit, de l’Autorité bancaire européenne, dont le rapport du Sénat laisse entendre qu’elle pourrait à terme fusionner avec l’Autorité européenne des marchés financiers. Toujours est-il que l’enjeu dépasse de loin la simple question des privilèges et immunités accordés au personnel de l’Autorité européenne des marchés financiers.<br/>Notre assemblée, trop rarement consultée sur le fonctionnement des agences européennes, doit saisir l’occasion qui lui est offerte – cédée, devrais-je plutôt dire – pour interroger la pertinence du système européen de surveillance financière. En effet, ce qui devait incarner le fer de lance de la régulation financière européenne après la crise de 2008 semble aujourd’hui bien démuni face à l’appétit toujours plus vorace des acteurs de la finance.<br/>Pourtant, les signes avant-coureurs d’une nouvelle crise se multiplient, et la décision prise en janvier par le Comité de Bâle de revoir à la baisse le niveau de contrainte de certaines règles bancaires nous montre que les leçons de la crise des <italique>subprimes</italique><italique/>sont loin d’avoir été comprises. Pire : à dix jours des élections européennes, le lobby des banques françaises a adressé à la Commission ses propositions en faveur d’une révision de la réglementation à leur avantage, et cela, affirment-elles, afin de répondre à une concurrence américaine dopée par une législation plus permissive. C’est oublier un peu vite que les règles « prudentielles » ne portent pas leur nom par hasard.<br/>Or tout nous pousse à changer radicalement de braquet. La libéralisation à venir des marchés financiers par l’intermédiaire de l’Union des marchés de capitaux, le développement de ce que l’on appelle le <italique>shadow banking</italique>, qui échappe à toute régulation et dont les actifs représentent à l’échelle du monde près de la moitié du système bancaire, la montée en puissance du trading à haute fréquence, qui représente aujourd’hui plus de 60 % du marché d’Euronext, sont autant de signaux forts qui devraient nous alerter et influencer la décision publique. Dois-je préciser que le mouvement global vers la spéculation, qui se fait au détriment de l’économie réelle, est irrigué par certaines des décisions prises dans cette Assemblée – je pense à la réforme de l’impôt de solidarité sur la fortune, à la création de la flat tax<italique/>ou à la loi relative à la croissance et la transformation des entreprises, dite loi PACTE. En un mot, mes chers collègues, les fruits sont bientôt mûrs et ils s’apprêtent à nous tomber dessus !<br/>Dans ces conditions, les dispositions prises par l’Union européenne pour nous prémunir d’une financiarisation qui joue avec les vies humaines sont tout simplement ridicules. Les autorités de surveillance adoptées par l’Union jouent un rôle pour le moins limité, quand il n’est pas totalement contre-productif.<br/>Prenons un exemple : celui de l’Autorité bancaire européenne, dont le Gouvernement se gargarise de l’arrivée prochaine à Paris et dont on nous dit qu’elle pourrait être amenée à fusionner avec l’Autorité européenne des marchés financiers. Sa crédibilité a été entachée dès sa création par son manque flagrant de moyens humains et financiers et a beaucoup souffert du manque de lucidité – c’est un euphémisme – de ses premières analyses. Probablement vous en souvenez-vous : l’Autorité bancaire européenne avait testé la solidité du tissu bancaire européen en cas de choc économique avec ses fameux <italique>stress</italique><italique/><italique>tests</italique>, et elle avait jugé le résultat satisfaisant. Quelle triste plaisanterie ! La crise de la dette souveraine a apporté un démenti cinglant à ses conclusions, et conduit la banque Dexia, qui avait pourtant réussi le test haut la main, au bord de la faillite. L’Autorité bancaire européenne, c’est aussi l’institution qui a abandonné l’enquête pour blanchiment qui visait la Danske Bank, en justifiant cette démission par l’opacité et la conditionnalité des directives européennes – preuve, soit dit en passant, que l’arsenal législatif devrait être particulièrement musclé. Enfin, c’est cette même Autorité bancaire européenne qui a accueilli à sa présidence, le 3 mai dernier, M. Campa, ancien lobbyiste de la banque espagnole Santander, dont la mission était jusqu’à présent d’œuvrer en faveur de la déréglementation bancaire.<br/>L’Union européenne n’est pas à une contradiction près, me direz-vous. Imaginerait-on un ancien de Goldman Sachs à la tête de la Banque centrale européenne ou l’ancien Premier ministre d’un paradis fiscal à la présidence de la Commission ?… Que dites-vous ? C’est déjà le cas avec M. Draghi et M. Juncker ? Décidément, l’Union européenne n’est pas à une contradiction près !<br/>Le système européen de surveillance financière est donc très lacunaire, et l’Autorité européenne des marchés financiers n’échappe pas à cette règle. Son mandat, qui n’est pas assez large pour empêcher les dérives du secteur financier, la contraint à centrer ses interventions sur des produits financiers très risqués, voire toxiques, et des produits de niche, comme les investissements dans les parchemins anciens.<br/>La réglementation en vigueur, trop clémente avec la spéculation abusive et le trading à haute fréquence, ne permet pas à l’Autorité d’œuvrer véritablement en faveur de l’assainissement des marchés financiers et, s’agissant du contrôle fiscal, la non-publication des données liées à l’activité des sociétés dans les paradis fiscaux entrave directement sa liberté d’action.<br/>Alors que les cryptomonnaies, ultra-spéculatives, appellent de notre part la plus grande défiance, l’Autorité européenne des marchés financiers souligne leur potentiel, sans y voir un véritable risque pour la stabilité. Elle s’inquiète même des législations nationales qui émergent sur cette question et se prononce contre l’extension d’une régulation qui risquerait, selon elle, de légitimer les cryptoactifs et d’encourager leur adoption. Elle préfère donc favoriser l’information des investisseurs et la création d’un régime sur-mesure, suffisamment souple. On connaît la chanson : à force de souplesse, mes chers collègues, on risque la luxation !<br/>Enfin, je tiens à préciser que si la Commission européenne a récemment accru les pouvoirs de l’Autorité européenne des marchés financiers pour répondre au risque post-Brexit d’une course au moins-disant fiscal, dans cette course, la France est en tête de peloton. Il faut dire que le Gouvernement ne ménage pas ses efforts : réduction de l’imposition des impatriés par des aménagements de la flat tax, suppression de la tranche marginale de la taxe sur les salaires, annulation de l’extension de la taxe sur les transactions financières aux opérations infra-quotidiennes... La liste est longue. La création d’écoles et de lycées internationaux destinés aux enfants du Brexit s’inscrit, elle aussi, dans une logique qui veut que des écoles d’excellence soient réservées à certains, en l’espèce à une élite mondialisée, alors que nous entendons la garantir pour tous. L’envers du décor, c’est aussi la fameuse stratégie « Bienvenue en France », qui montre la conception de la globalisation que peut avoir une certaine élite.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370131" ordre_absolu_seance="21" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731581" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ça, c’est bien vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370132" ordre_absolu_seance="22" id_acteur="PA588884" id_mandat="PM723226" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731582" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Clémentine Autain</nom>
+              <id>588884</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous sommes, mes chers collègues, dans un bolide dont nous n’avons plus du tout la maîtrise. L’avons-nous jamais eue ? Je ne le crois pas. Alors que la financiarisation de l’économie dessine un monde où les entreprises et les vies humaines ne sont que des jetons dans une partie de poker menteur, alors que tout nous invite à lutter contre cette déconnexion qui déshumanise et porte en germe la destruction de l’intérêt général et de l’environnement, le système européen de surveillance financière est loin d’être le couteau le plus affûté du tiroir. Qui peut décemment penser aujourd’hui que nous pouvons « en même temps » – pour reprendre votre expression fétiche – défendre notre écosystème, promouvoir la transition énergétique et développer l’emploi industriel tout en maintenant des pratiques telles que le<italique/>trading à<italique/>haute fréquence ou la spéculation sur les matières premières ? C’est ce choix, avant tout, qui doit orienter notre politique européenne. Les biens communs ou la finance, la liberté pour tous ou celle des marchés financiers : visiblement vous avez choisi, et vous vous entêtez dans ce choix – mais nous aussi, nous avons choisi : nous avons choisi l’avenir, les communs, la vie et la liberté. <italique>(Applaudissements sur les bancs des groupes SOC et LT.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370133" ordre_absolu_seance="23" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731583" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1370134" ordre_absolu_seance="24" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731584" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mes chers collègues, l’accord visant à installer l’Autorité européenne des marchés financiers à Paris nous conduit à évoquer non seulement cette installation à proprement parler, mais aussi et surtout le contenu de la politique envers les marchés financiers menée par l’Union européenne et par la France.<br/>Cet accord, dit « de siège », est classique et c’est pourquoi le groupe GDR votera en faveur du présent projet de loi, qui permettra d’officialiser les dispositions visant à assurer le bon fonctionnement de l’Autorité européenne des marchés financiers, l’AEMF, et de ses 230 agents permanents.<br/>Pour rappel, l’AEMF a été instituée en 2010 ; elle est installée à Paris depuis le 1<exposant>er</exposant> janvier 2011. C’est une autorité indépendante de l’Union européenne, qui vise à améliorer la protection des investisseurs et à promouvoir la stabilité et le bon fonctionnement des marchés financiers. C’est la crise de 2007 qui avait suscité le besoin de réformer le système de surveillance financier européen.<br/>Les dispositions de cet accord n’appellent aucune modification du droit français, puisque l’Autorité européenne des marchés financiers siège à Paris depuis son ouverture, le 1<exposant>er</exposant> janvier 2011. Toutefois, elle le faisait sans accord de siège. Le présent accord permettra donc d’« officialiser », en quelque sorte, l’installation de l’Autorité, en lui garantissant les privilèges propres à toute institution européenne, c’est-à-dire les privilèges fiscaux des employés, lesquels sont au régime fiscal européen et non au régime français, les privilèges relatifs à la TVA, puisque les fonctionnaires européens ne paient pas la TVA au-delà de 150 euros, les privilèges attachés aux mouvements des matériels et l’immunité juridique de ses membres, qui ne sont responsables que devant l’Union européenne.<br/>Si cet accord s’inscrit dans ce qui se fait traditionnellement, il conviendrait de mener une réflexion sur l’étendue de ces privilèges.<br/>L’absence d’accord n’a pas créé de difficultés de fonctionnement jusqu’à présent, mais le présent texte permet de nous mettre « dans les clous » du règlement de l’AEMF. Pourquoi donc l’avoir fait plus de huit ans après l’installation effective de cette autorité à Paris ?<br/>C’est le Brexit qui a chamboulé les choses. Avec le départ du Royaume-Uni de l’Union européenne, plusieurs institutions, jusqu’alors hébergées outre-Manche, ont dû déménager. Ce fut notamment le cas pour l’Autorité bancaire européenne, l’ABE, qui a déménagé de Londres à Paris en mars dernier. Le rapprochement géographique de ces deux institutions, l’ABE et l’AEMF, permettra sans doute, à terme, d’envisager une fusion. Or, pour préparer ce possible changement, la France et l’Union européenne veulent que tout soit calé juridiquement. On peut donc indirectement replacer cet accord de siège dans le cadre de l’installation de l’ABE à Paris à cause du Brexit. Voilà pour la première partie de contexte.<br/>La seconde partie, elle, est moins reluisante. L’AEMF s’installe à Paris au moment où le Président de la République se livre à une intense danse du ventre à l’intention de la finance londonienne pour tirer un maximum de profit du Brexit, à tout le moins s’il finit par avoir lieu ! Dès votre arrivée au pouvoir, vous avez ainsi supprimé la tranche supérieure de la taxe sur les salaires, réformé la fiscalité des actions gratuites et réformé le régime des impatriés, c’est-à-dire des salariés de filiales envoyés vers leur siège.<br/>L’autre indécence concerne la suppression de la taxe sur les transactions financières intra-journalières. Une taxe sur les transactions financières existe en France, mais elle ne porte que sur les transactions dont l’échéance est supérieure à une journée. Aux termes de la loi, les transactions inférieures à une journée devaient être taxées à partir du 1<exposant>er</exposant> janvier 2018, mais le Président et cette majorité se sont empressés de supprimer cette disposition pour ne pas affoler la finance.<br/>Les députés communistes pensent que la finance doit être soumise aux besoins de l’économie réelle, et non être libérée. Elle a déjà fait suffisamment de dégâts comme ça, et les peuples en ont marre d’être appelés à la rescousse dès que les folies financières débordent et qu’il faut sauver le capitalisme.<br/>Plutôt que d’encourager les installations et l’ultralibéralisme de ce milieu, il faudrait renforcer les institutions de régulation. Timidement, l’Union européenne tente de renforcer les compétences de l’AEMF, comme en 2017 lorsqu’il a fallu anticiper le potentiel dumping des services financiers en cas de Brexit effectif. L’Union a alors confié à l’Autorité européenne des marchés financiers le contrôle des fonds régulés, des assurances et des indices de référence, et lui a accordé un pouvoir de contrôle direct des données en matière de transactions sur les marchés. Son rôle, désormais reconnu pour tenter de stabiliser la finance européenne, reste à nos yeux très insuffisant.<br/>Piliers de la régulation, l’AEMF comme l’Autorité bancaire européenne, également sise à Paris du fait du Brexit, devraient avoir un rôle bien plus puissant qu’aujourd’hui et mieux contrôlé démocratiquement. Car, au fond, la question posée est celle de la reprise en main démocratique de la finance. Sur ce point, l’Europe reste lacunaire et agit bien souvent en cheval de Troie d’une finance hors de contrôle.<br/>À ce sujet, la France devrait être à l’initiative pour l’instauration rapide d’une taxation européenne des transactions financières ambitieuse. Ce chantier, discrètement mis à l’écart et bloqué par plusieurs États membres, dont la France, devrait être ouvert pour calmer les ardeurs de la finance internationale.<br/>Avec une assiette large, un taux relativement réduit et une taxation journalière et intra-journalière, le rendement d’une telle taxe serait élevé, au vu des volumes colossaux qui sont échangés sur les marchés financiers européens. Ses recettes pourraient financer l’aide publique au développement, des services publics européens, des projets de transition écologique, voire une partie du budget propre de l’Union européenne. Cette taxe aurait également pour vertu de calmer la chaudière financière en faisant disparaître toutes ces opérations spéculatives inutiles à l’économie réelle.<br/>L’Union européenne devrait aussi travailler à une directive européenne sur la séparation des activités bancaires, les activités traditionnelles et celles qui relèvent de la finance. Une telle séparation assainirait les flux financiers et éviterait les hémorragies terribles que nous avons connues lors de la crise de 2007. Elle serait bien plus ambitieuse que la loi mise en œuvre dans notre pays en 2012, laquelle n’a rien séparé du tout.<br/>Enfin, pour permettre au secteur bancaire d’être plus résilient en cas de crise grave, il faudrait démanteler en des entités plus petites les établissements bancaires trop importants – ces fameux « <italique>too big to fail</italique> » aux bilans financiers supérieurs au produit intérieur brut de certains États.<br/>Ces actions devraient être menées tambour battant car, dix ans après la crise financière, on vient de le dire, la menace plane, toujours plus lourde, sur notre continent. Et la question n’est même plus de savoir si une crise arrivera, mais bien quand, et quelle en sera l’ampleur.<br/>Enfin, pour aider l’Autorité, les députés communistes proposent un encadrement très ferme des activités de lobbying auprès des institutions européennes, AEMF comprise. Le poids des lobbies au sein de l’Union européenne est écrasant, et l’inaction de celle-ci dans l’encadrement de la finance européenne est à mettre directement au crédit de tous ceux qui s’affairent pour que la régulation ne soit qu’une façade aisément contournable.<br/>Tant de réformes doivent être conduites pour domestiquer fortement le monde de la finance et limiter un drame lors de la prochaine crise, mais on voit si peu de volonté politique pour le faire !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. M'jid El Guerrab" id_acteur="PA720996" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723134">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370092" ordre_absolu_seance="15" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731542" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. M’jid El Guerrab.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370093" ordre_absolu_seance="16" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731543" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>L’Autorité européenne des marchés financiers est née d’une nécessité, celle d’assurer la stabilité financière de l’Union, de garantir le bon fonctionnement des marchés financiers et de protéger les investisseurs, au lendemain de la grave crise financière mondiale de 2007-2008.<br/>La création de cette autorité s’est inscrite dans un ensemble de mesures, parmi lesquelles le recours, en 2010, à un système européen de surveillance financière – SESF –, lequel comprend trois autres organismes de surveillance, dont un basé à Londres et deux autres à Francfort. Ces deux places financières, Londres et Francfort, sont d’ailleurs en concurrence avec celle de Paris en matière d’attractivité financière.<br/>La création du SESF, ce réseau intégré des autorités nationales et européennes, était impérative et, dans ce cadre, l’adoption du règlement européen qui a porté sur les fonts baptismaux l’Autorité européenne des marchés financiers a doté celle-ci d’une grande diversité de missions. L’AEMF doit notamment « agir en vue d’améliorer le fonctionnement du marché intérieur, notamment en assurant un niveau de réglementation et de surveillance élevé ».<br/>Cette nouvelle approche de surveillance des marchés était indispensable, car la crise financière avait fait apparaître des failles inquiétantes, que l’Union européenne se devait de colmater. Ainsi, le système de coopération qui existait entre les autorités nationales, dont la compétence s’arrête aux frontières des États membres, s’était révélé insuffisant face à une crise globale, née des dérives de la mondialisation.<br/>Un tel changement dans la surveillance des marchés financiers était indispensable, car cette crise a eu des conséquences sur le pouvoir d’achat de nos concitoyens et sur la stabilité des États européens. La nécessité d’un changement fait écho à cette phrase de Jean Monnet, qui estimait que « les hommes n’acceptent le changement que dans la nécessité et ils ne voient la nécessité que dans la crise ». C’est réellement ce qui a conduit à l’instauration du SESF et de l’Autorité européenne des marchés financiers.<br/>Celle-ci, également créée en 2010, est basée à Paris. Elle joue donc un rôle essentiel, et ne peut le faire que si les fonctionnaires et agents européens qui y travaillent bénéficient d’un ensemble de prérogatives pour cela. Dans la mesure où ses missions peuvent aller jusqu’à la sanction, il est indispensable, dès lors que le règlement relatif à sa création reste assez elliptique sur ce point, de lui donner les moyens d’agir en toute autonomie vis-à-vis des États membres.<br/>Toutefois, dans ce cas précis, agir en toute autonomie ne veut pas dire doter l’Autorité des marchés financiers d’un pouvoir réglementaire autonome. Son rôle se limite, et doit se limiter, à un pouvoir de proposition, car nous ne devons pas porter atteinte à l’équilibre institutionnel qu’assure le triangle formé par la Commission, le Parlement et le Conseil européens. À ce titre, il paraît intéressant de s’interroger sur la jurisprudence de la Cour de justice du 22 janvier 2014 – « Royaume-Uni de Grande-Bretagne et d’Irlande du Nord contre Parlement européen et Conseil de l’Union européenne » –, aux termes de laquelle l’AEMF fait partie des organismes de l’Union dotés d’un pouvoir de prendre des actes destinés à produire des effets juridiques à l’égard de tiers. Autrement dit, l’AEMF peut disposer, dans certains cas, d’un pouvoir normatif. Il nous semble donc indispensable de veiller à ce que les délégations qui lui sont conférées soient suffisamment encadrées, tant sur le plan procédural que sur le fond, afin de ne pas menacer l’équilibre institutionnel.<br/>Il importe également de s’interroger sur l’évolution du cadre de supervision des professionnels qui interviennent sur les marchés financiers. En effet, en l’état actuel du droit, cette question relève essentiellement des autorités nationales. Or une tendance à confier de plus en plus de prérogatives à l’échelon européen semble se dessiner.<br/>Aussi, à quelques jours des élections européennes, l’examen de ce projet de loi doit être l’occasion de nous interroger sur le modèle de surveillance des marchés que nous voulons. Faut-il confier la supervision de certains acteurs du marché à une autorité centralisée, telle que l’AEMF, et remettre ainsi en cause le pouvoir initialement reconnu aux autorités nationales ? Pour le groupe Libertés et territoires, il est indispensable de réfléchir à l’évolution de ce modèle afin d’assurer un fonctionnement harmonieux et pleinement opérationnel de l’AEMF et des autorités nationales avec lesquelles elle interagit.<br/>Parallèlement, le bon fonctionnement de cette autorité s’appuie sur des immunités et privilèges qui constituent autant de garants de son autonomie à l’égard des États et de sa capacité à agir avec efficacité. Ne nous y trompons pas, ces immunités ne sont pas accordées dans l’intérêt personnel des membres et des agents de l’Autorité : elles ont un caractère fonctionnel indispensable au bon fonctionnement de l’Autorité des marchés financiers.<br/>Les privilèges et immunités sont d’ailleurs parfaitement encadrés par le protocole n° 7 de l’Union, annexé au TUE – traité sur l’Union européenne – et au TFUE – traité sur le fonctionnement de l’Union européenne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370104" ordre_absolu_seance="27" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731554" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce protocole n’est pas respecté !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370105" ordre_absolu_seance="28" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731555" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>D’ailleurs, l’article 67 du règlement européen relatif à l’Autorité des marchés financiers dispose expressément que ce protocole s’applique à l’Autorité ainsi qu’à son personnel.<br/>L’article 74 du même règlement, intitulé « Accord de siège », dispose pour sa part que « les dispositions relatives à l’implantation de l’Autorité » en France et « aux prestations à fournir » par notre pays, « ainsi que les règles spécifiques qui sont applicables au directeur exécutif, aux membres du conseil d’administration, aux membres du personnel de l’Autorité et aux membres de leur famille sont arrêtées dans un accord de siège conclu, après approbation du conseil d’administration, entre l’Autorité et » la France. De plus, il est précisé que la France doit assurer « les meilleures conditions possibles pour le bon fonctionnement de l’Autorité ».<br/>Cet accord de siège, prévu dans le règlement adopté en 2010, devait donc être conclu et signé. Cela fut le cas en août 2016, soit plus de cinq ans après l’installation de l’Autorité à Paris. Il aura donc fallu attendre trois ans de plus pour que le calendrier parlementaire permette l’examen de ce texte en séance publique à l’Assemblée nationale. Il était temps !<br/>L’Autorité, quant à elle, n’a pas attendu la signature de cet accord de siège pour fonctionner.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370109" ordre_absolu_seance="32" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731559" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Cela fait dix ans qu’elle fonctionne très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="1370110" ordre_absolu_seance="33" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731560" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. M’jid El Guerrab</nom>
+              <id>720996</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Avec ses 229 agents permanents, dont 60 Français, et un budget de 42 millions d’euros en 2017, elle permet à la France de s’afficher comme une véritable place financière sur la scène internationale. Cela est d’autant plus important dans le contexte du Brexit, où la relocalisation de milliers d’emplois du secteur de la finance vers le continent européen est attendue. Notre pays s’efforce d’ailleurs d’attirer un certain nombre de ces emplois, estimés à 3 500 par Paris Europlace, organisme en charge de la promotion et du développement de la place financière parisienne.<br/>Du Brexit découlera également une autre conséquence qui devrait profiter à la France : le transfert d’une autre autorité du SESF, l’Autorité bancaire européenne, actuellement basée à Londres. Le fait que l’autorité européenne des marchés financiers soit installée dans de bonnes conditions à Paris depuis plusieurs années est un argument supplémentaire en faveur de ce transfert.<br/>Tous ces déplacements auront évidemment des retombées économiques positives pour la France – par exemple, les conséquences en matière d’hébergement, de restauration, de tourisme, etc., des mouvements d’affaires qui vont se greffer sur ces autorités.<br/>Pour toutes ces raisons, nous jugeons satisfaisant que la France soit le siège de telles autorités européennes, même si le choix de la capitale ne permet pas de lutter contre le centralisme excessif que nous dénonçons.<br/>Si les principales dispositions qu’il contient sont déjà entrées en vigueur, il nous appartient aujourd’hui d’approuver l’accord signé le 23 août 2016. C’est ce que fera le groupe Libertés et territoires. <italique>(M.</italique><italique> </italique><italique>Rodrigue Kokouendo applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Fuchs" id_acteur="PA722284" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723528">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1370143" ordre_absolu_seance="5" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731808" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Fuchs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1370144" ordre_absolu_seance="6" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731809" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Instituée en 2010, l’Autorité européenne des marchés financiers est aujourd’hui une autorité indépendante reconnue, qui joue un rôle important dans la stabilité du secteur.<br/>Le rapport de notre collègue est parfaitement clair : l’accord qui nous est présenté est, quant au fond, tout à fait classique s’agissant de ce genre d’institutions internationales. Il comporte plusieurs dispositions qui ont trait au statut de cette autorité et à son personnel.<br/>Je rappelle ainsi à mon tour que les articles de l’accord de siège conclu entre le conseil d’administration de l’AEMF et l’État hôte concernent le statut juridique de l’autorité, l’inviolabilité de ses locaux, les dispositions fiscales, ainsi que les privilèges et immunités accordés aux membres du personnel.<br/>La justification de ce dernier aspect, qui a été très longuement débattu, suscite légitimement des interrogations. Cela étant, après réflexion, il convient de rappeler que les immunités garantissent surtout l’indépendance de l’autorité. Quant à la question des privilèges – que je ne sous-estime pas –, elle constitue un sujet récurrent de discussion, mais, de notre point de vue, l’accord ne crée à cet égard aucune exception à ce qui se pratique déjà s’agissant de ce type d’autorité.<br/>Concrètement, l’arrivée de l’Autorité européenne des marchés financiers à Paris s’explique par le contexte du Brexit – encore incertain à ce jour –, qui devrait contraindre la place financière de la City à relocaliser 10 000 emplois environ sur le territoire de l’Union européenne. La France est un lieu tout désigné pour les accueillir.<br/>Notre pays a en effet pris de nombreuses initiatives pour attirer à la fois les entreprises et les emplois liés au secteur financier. L’organisme Paris Europlace œuvre en ce sens ; il doit promouvoir la place financière parisienne. De même, nous avons adopté diverses dispositions à cette fin dans le projet de loi de finances pour 2019.<br/>Parmi les missions de l’Autorité européenne des marchés financiers, trois sont essentielles : la protection des investisseurs et la reconnaissance de leur responsabilité ; la garantie du bon fonctionnement des marchés ; enfin, l’assurance de la stabilité financière, un aspect dont les événements des années passées ont montré l’importance. Son activité suit quant à elle quatre axes : l’évaluation des risques, la recherche de l’harmonisation des normes et du cadre réglementaire au sein de l’Union, la promotion des bonnes pratiques au sein des États membres et la surveillance des innovations financières.<br/>En étroite collaboration avec la Commission européenne et avec les États membres de l’Union, l’Autorité européenne des marchés financiers a apporté une réponse concrète et pragmatique à la crise de 2008, qui a ébranlé durablement nos économies. Les causes en sont connues : entre autres, une mauvaise régulation du secteur financier, un manque de concertation et d’uniformisation des pratiques, une concurrence exacerbée. Tout cela témoigne de l’importance d’une autorité capable de mettre un terme à ces insuffisances et d’éviter que des crises de cette nature ne puissent se reproduire.<br/>Il importe donc que nous soutenions l’activité de l’AEMF, dans le droit-fil de la position défendue par la France sur la scène internationale. Le groupe Mouvement démocrate et apparentés apporte donc son appui à cette initiative et souhaite même que le rôle moteur de notre pays et de cette autorité se renforce encore.<br/>En la matière, nous le savons, quoi qu’en disent les détracteurs, la coopération européenne est la seule voie possible, et l’intégration progressive des États membres l’unique issue si nous voulons assurer la stabilité, la fiabilité et la prospérité de notre espace commun. La volonté politique en ce sens doit donc être fortement encouragée, sans quoi, tout le monde le sait, divisions et affrontements se feront jour, et notre espace européen s’en trouvera affaibli tout comme les pays qui le composent. Affaiblir l’Europe, en effet, c’est favoriser les grands acteurs tels que la Chine et les États-Unis, c’est donc affaiblir les pays européens et, par là, la France. Certains partis extrémistes qui disent le contraire prospèrent sur des mensonges : il faut les dénoncer sans complaisance, ce que je fais ici. L’AEMF appartient justement aux institutions qui renforcent l’influence de l’Europe, donc de la France.<br/>De nombreux sujets d’une grande actualité sont potentiellement explosifs pour les marchés, donc pour nos vies quotidiennes, si nous ne les abordons pas à la racine. Je pense entre autres au <italique>backstop</italique>, au fonds de résolution unique et à la régulation des <italique>hedge funds</italique>. Ces sujets doivent donc être traités en étroite collaboration par l’autorité européenne des marchés financiers et l’autorité bancaire européenne.<br/>Si la tâche apparaît lourde et l’atteinte des objectifs parfois incertaine, nous n’en devons pas moins nous réjouir que de nombreuses institutions financières puissent trouver un lieu d’implantation en France. Il s’agit là, en effet, d’une chance indiscutable pour l’emploi et d’une source d’attractivité indéniable pour notre pays – lequel, je le rappelle, a été classé cette année parmi les cinq pays les plus attractifs au monde.<br/>Surtout – c’est sur ce point que je voudrais insister pour conclure –, la vision régulée de l’économie défendue par la France doit encore être renforcée. Il nous faut avoir en tête l’ensemble de ces éléments pour tirer un avantage politique de la situation. Nous devons démontrer au sein de notre espace européen que nous sommes capables d’établir un cadre financier qui garantisse à la fois le dynamisme de nos économies, la stabilité et la transparence des règles et l’éthique des pratiques, en ayant à l’esprit le fait que l’économie doit avant tout servir à l’amélioration des conditions de vie des citoyens européens. Ce n’est qu’ainsi que nous pourrons montrer que nous pouvons réformer tout en instaurant un système plus vertueux et plus prospère qui fera de l’Europe un espace et un modèle uniques au monde.<br/>Toutes ces raisons doivent nous conduire à approuver un projet de loi qui présente, sur la forme, des garanties tout à fait classiques, je l’ai dit, s’agissant de l’accueil de telles institutions, mais qui est porteur quant au fond d’avancées très importantes pour l’évolution de notre système financier. Dans la défense de cette ambition, la France a un rôle majeur à jouer. Il importe que nous envoyions un signe fort de soutien à cette vision pour sortir renforcés de la sortie du Royaume-Uni de l’Europe et tirer les leçons de la grave crise économique de 2008. C’est tout cela qui se joue dans l’installation en France de l’AEMF.<br/>Voilà pourquoi le groupe du Mouvement démocrate et apparentés votera en faveur du texte. <italique>(Mme</italique><italique> </italique><italique>la présidente de la commission, M.</italique><italique> </italique><italique>le rapporteur et Mme</italique><italique> </italique><italique>Sophie Mette applaudissent.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1370159" ordre_absolu_seance="21" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731824" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marielle de Sarnez</nom>
+              <id>717151</id>
+              <qualite>présidente de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christian Hutin" id_acteur="PA333818" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722990">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1370160" ordre_absolu_seance="22" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731825" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Hutin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="1370161" ordre_absolu_seance="23" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731826" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la secrétaire d’État, madame la présidente de la commission, monsieur le rapporteur, <italique>(se tournant vers les bancs restés vides)</italique>, mesdames et messieurs les députés issus du Rassemblement national, mesdames et messieurs les députés du groupe Les Républicains <italique>(Sourires)</italique>, je vais vous décevoir : mon groupe ne votera pas ce texte, mais s’abstiendra, pour des raisons républicaines et européennes.<br/>Les articles 16 et 17 de l’accord ne respectent pas le protocole n<exposant>o</exposant> 7 sur les privilèges et immunités de l’Union européenne. C’est fort dommage. Le texte présente donc un vice de forme : il est en dehors des clous, ce qui n’est ni républicain, ni européen, ni légitime. Mais j’y reviendrai.<br/>Quand j’entends parler d’immunités ou de privilèges, surtout dans cet hémicycle, j’ai envie de rappeler la tendance française à les réduire depuis 1792-1793. Les accroître m’ennuie toujours un peu, que ce soit au niveau européen, français ou au niveau du Parlement. Ici, nous payons nos impôts, ce que les gens oublient souvent. Mais le texte que nous nous apprêtons à voter dispense l’ensemble des personnes qui travaillent pour l’AEMF de payer l’impôt en France, ce qui représentera pour notre nation un coût de 2,7 millions d’euros. Je suis désolé, mais pourquoi donc un fonctionnaire appartenant à une autorité censée incarner l’intégrité, la transparence, l’exemplarité mêmes ne paierait-il pas ses impôts ? Cela me semble complètement fou et totalement illégitime. Il n’y a probablement pas plus de 5 000 personnes qui nous écoutent aujourd’hui, mais imaginez que cela se sache ! 2,7 millions de pertes ! Ces gens ne paient pas l’impôt dû à la nation : c’est lamentable.<br/>Ensuite, pourquoi l’autorité est-elle exonérée du paiement de la TVA sur les achats dont le montant est supérieur à 150 euros ? Allez dire cela dans n’importe quelle TPE : c’est lamentable ! Allons-y gaiement, c’est open bar, tout va bien !<br/>Troisièmement, que les fonctionnaires bénéficient d’une forme d’immunité, éventuellement quasi diplomatique, soit ; mais pourquoi étendre cette immunité aux membres du conseil de surveillance, du conseil d’administration, et surtout à l’ensemble des conseillers techniques, lesquels sont choisis de manière parfaitement arbitraire ? Des immunités et des privilèges pour des conseillers techniques à propos desquels on ne sait ce qui peut se passer ! L’histoire de tous les gouvernements sans exception a montré la manière dont certains conseillers techniques pouvaient être tranquillement recasés. C’est le problème que nous pose cette autorité. Cette situation n’est pas possible dans une France qui réclame l’égalité, la justice, le paiement de l’impôt, en particulier de la TVA – pour tous, pauvres et riches. Or, ces questions, personne ne les a posées jusqu’à présent à cette tribune.<br/>Pire encore : on ne peut pas entrer dans les locaux. Pas de perquisition, pas de réquisition. Ça ne va pas non plus ! Et s’il se passe quelque chose de grave ? On a connu, encore assez récemment, des arbitrages financiers particulièrement limite… Et l’on ne pourrait pas pénétrer dans les locaux d’un organisme voué à la transparence et à l’équité !<br/>Selon l’accord, l’immunité ne peut être levée que si les intérêts de l’Union européenne sont en jeu. Mais qu’est-ce que cela veut dire ? Cela n’a aucune valeur juridique ! Il y a des limites que l’on est en train de dépasser, je le dis clairement.<br/>André François-Poncet, sous-secrétaire d’État à l’économie nationale à plusieurs reprises au début des années 1930, a eu par la suite une carrière diplomatique exceptionnelle. Or nous ne sommes pas du tout dans le même contexte : il est en effet ici question non d’économistes diplomates, mais de gens qui font de l’économie et auxquels on donne un statut leur conférant et une immunité et des privilèges. Et, je le répète, la vocation de l’Assemblée n’a jamais été d’augmenter les privilèges d’un certain nombre de gens, y compris des conseillers techniques dont on ne sait même pas d’où ils viennent.<br/>Aussi nous abstiendrons-nous ou voterons-nous contre le texte en fonction de votre réponse, madame la secrétaire d’État, car la situation est grave. Nous sommes certes heureux d’accueillir à Paris le siège de l’Autorité européenne des marchés financiers, mais l’immunité et les privilèges dont il est ici question dépassent très largement ceux que d’ailleurs nous n’acceptons même plus pour les députés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Rodrigue Kokouendo" id_acteur="PA721644" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723342">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370352" ordre_absolu_seance="3" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731874" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Rodrigue Kokouendo.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370353" ordre_absolu_seance="4" id_acteur="PA721644" id_mandat="PM723342" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731875" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Rodrigue Kokouendo</nom>
+              <id>721644</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons le projet de loi, adopté par le Sénat, autorisant l’approbation de l’accord entre le gouvernement de la République française et l’Autorité européenne des marchés financiers relatif au siège de l’Autorité et à ses privilèges et immunités sur le territoire français. Comme l’ont rappelé nos collègues, l’Autorité européenne des marchés financiers, avec l’Autorité européenne des assurances et des pensions, située en Allemagne, et l’Autorité bancaire européenne, sise pour sa part à Londres, est l’une des instances de surveillance des marchés financiers créée après la grave crise financière de 2008. Il s’agissait avant tout de rassurer le monde économique et financier sur la capacité de l’Europe à assurer pour les investisseurs la mise en place de mécanismes renforcés pour garantir la stabilité et le bon fonctionnement des marchés financiers.<br/>Le présent accord précise et entérine les privilèges et immunités dont bénéficient l’agence et son personnel en application du protocole sur les privilèges et immunités de l’Union européenne, annexé aux traités sur l’UE et sur son fonctionnement. Il procède en effet à la sécurisation indispensable des organes de fonctionnement des agences décentralisées de l’Union européenne et s’impose naturellement à tous les États membres qui accueillent ces agences.<br/>Hors les dispositions sécuritaires qui permettent à ces agences de disposer d’un quasi statut d’extraterritorialité, leurs personnels sont assujettis à des dispositions fiscales spécifiques à tous les personnels dépendant des institutions européennes. Afin d’assurer un statut et des conditions spécifiques à l’exercice des métiers qui relèvent de l’AEMF, les vingt-trois articles du projet de loi prévoient une sécurisation ainsi que des avantages propres aux membres de l’Autorité et à leur famille. Il est complété par le protocole n° 7 sur les privilèges et immunités de l’UE annexé au traité sur le fonctionnement de l’Union européenne – TFUE –, et par le règlement n<exposant>o</exposant> 1095/2010 du Parlement européen et du Conseil, instituant une Autorité européenne de surveillance.<br/>La signature de cet accord s’inscrit également dans le cadre de la mise en œuvre de la déclaration commune du Parlement européen, du Conseil de l’Union européenne et de la Commission européenne sur les agences décentralisées du 12 juin 2012, qui recommande la conclusion d’accords de siège entre les agences décentralisées de l’Union et les États membres qui les accueillent. Je vous rappelle à cet égard que la France accueille déjà, outre l’Autorité européenne des marchés financiers, l’Agence de l’Union européenne des chemins de fer, installée à Lille et Valenciennes, ainsi que l’Office communautaire des variétés végétales, dont le siège est à Angers. Elles seront prochainement rejointes par l’Autorité bancaire européenne, actuellement à Londres et qui s’installera à Paris à la suite du retrait du Royaume-Uni de l’Union européenne.<br/>Il n’y a pas lieu de s’en réjouir : la sortie du Royaume-Uni de l’Union européenne est un traumatisme pour l’Union plus encore que pour les Britanniques. Il n’y a pas lieu de s’en réjouir mais l’expatriation d’un grand nombre d’organisations financières et d’établissements bancaires va donner à Paris une nouvelle dimension de place bancaire internationale.<br/>L’examen du présent texte visant à fixer les conditions d’implantation et de fonctionnement des agences européennes est aussi l’occasion de rappeler que nous devons tous, ici, quelles que soient nos convictions, nous mobiliser jusqu’au dernier moment pour encourager les Français à aller voter aux élections européennes afin que, face aux défis de ce siècle que sont, notamment, la mondialisation, les nouvelles technologies, l’encadrement des actifs numériques, chacun comprenne que les frontières nationales sont illusoires et que seule une approche à l’échelle européenne compte. Des pays comme la Chine et les États-Unis sont en effet, en la matière, sinon à la pointe du moins beaucoup plus avancés que nous.<br/>Ces dispositions conventionnelles structurantes permettront par la suite une meilleure intégration de l’Autorité bancaire européenne qui s’installera à Paris après le Brexit. Ces transferts d’activités liés au Brexit profitent à la France qui mène une politique particulièrement volontariste pour attirer les investisseurs sur son territoire depuis plus de deux ans. La France redevient attractive et la lenteur des avancées communautaires en matière de réglementation financière explique la volonté du Président de la République d’encourager une coalition pour bâtir une Europe forte. Le modèle économique actuel est à réinventer et le Président de la République a raison de considérer qu’on doit réorienter une partie de la finance, la création d’une banque du climat devant favoriser la réorientation d’une partie de l’épargne des Français et des Européens vers la croissance verte pour une économie solidaire. Je vous invite donc, chers collègues, à voter ce texte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370360" ordre_absolu_seance="11" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="ANN_SCRUTIN_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731882" valeur=" unique" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sur l’article unique, je suis saisi par le groupe Socialistes et apparentés d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Laetitia Saint-Paul.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370362" ordre_absolu_seance="13" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731884" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laetitia Saint-Paul</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Belle diatribe, madame Autain, contre l’Union européenne,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370363" ordre_absolu_seance="14" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731885" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <id>333818</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Elle n’est plus présente dans l’hémicycle !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370364" ordre_absolu_seance="15" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731886" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laetitia Saint-Paul</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…conforme à la volonté d’en sortir exposée par Jean-Luc Mélenchon dans sa stratégie de plan A-plan B. Une sortie de l’Union qui serait bien dommage car vous vous interdiriez ainsi les moyens dont nous disposons pour réguler la finance.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370365" ordre_absolu_seance="16" id_acteur="PA720146" id_mandat="PM722874" id_nomination_oe="-1" id_nomination_op="-722874" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731887" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Denis Masséglia</nom>
+            <id>720146</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Excellente remarque !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370366" ordre_absolu_seance="17" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731888" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laetitia Saint-Paul</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est parce que nous sommes l’Europe et parce que nous restons soudés que nous pouvons réguler la finance. Cela a malgré tout été un plaisir d’entendre Clémentine Autain... <italique>(Mme</italique><italique> </italique><italique>la  présidente de la commission s’esclaffe.)</italique><br/>J’aurais également aimé entendre Marine Le Pen dénoncer l’inutilité de l’Union européenne et de ses outils, quand c’est le Parlement européen qui, pendant tant d’années, les a fait vivre, elle et son parti, leurs méthodes contestables risquant d’ailleurs de leur coûter 300 000 euros.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370368" ordre_absolu_seance="19" id_acteur="PA720146" id_mandat="PM722874" id_nomination_oe="-1" id_nomination_op="-722874" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731890" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Denis Masséglia</nom>
+            <id>720146</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Elle n’y travaille même pas, de toute façon, au Parlement européen !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370369" ordre_absolu_seance="20" id_acteur="PA720138" id_mandat="PM722872" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731891" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laetitia Saint-Paul</nom>
+            <id>720138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Quand et comment compte-t-elle rembourser l’Europe ? <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique><br/>Engagée par la présidence française du Conseil de l’Union, l’action commune de régulation des marchés financiers est née au cœur de la crise financière. L’absence d’une régulation approfondie et harmonisée, les défaillances de notre système bancaire et assurantiel, leurs conséquences sur nos concitoyens, ont été révélées avec une intensité inédite.<br/>L’Autorité européenne des marchés financiers remplit trois missions majeures : contribuer à la stabilité financière de l’Union européenne, protéger les investisseurs et garantir le bon fonctionnement des marchés.<br/>Je tiens à insister sur l’attractivité de la France – attractivité que nous promouvons, nous, députés de la majorité, auprès du Président de la République. La présence du siège de l’Autorité européenne des marchés financiers à Paris démontre l’attractivité financière de notre capitale. Elle a également été un élément de poids dans le transfert du siège de l’Autorité bancaire européenne, aujourd’hui sise à Londres. Leur présence conjointe mettra en valeur et renforcera notre attractivité, en particulier dans le contexte du Brexit.<br/>Face au risque de perdre le passeport financier, dû à la sortie du Royaume-Uni de l’Union européenne et du marché unique, plusieurs grandes entreprises ont déjà annoncé qu’elles avaient choisi de s’installer à Paris avec, à la clef, des créations d’emplois, de richesses et le développement de la place financière parisienne qui ainsi affirme son envergure européenne et mondiale.<br/>Depuis deux ans, nous travaillons à améliorer son attractivité. L’instauration de la flat tax, la réforme de l’imposition des sociétés sont des exemples de la stratégie gouvernementale en la matière. L’arrivée de ces entreprises montre qu’elle porte ses fruits. L’attractivité de la place financière de Paris est un bénéfice pour tous et contribuera au rayonnement du pays.<br/>Ainsi, chers collègues, l’honneur me revenant de m’exprimer la dernière, je vous appelle à voter sans réserve pour ce texte. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370376" ordre_absolu_seance="27" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731898" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marielle de Sarnez</nom>
+            <id>717151</id>
+            <qualite>présidente de la commission des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370377" ordre_absolu_seance="118" id_acteur="PA720146" id_mandat="PM722874" id_nomination_oe="-1" id_nomination_op="-722874" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731899" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Denis Masséglia</nom>
+            <id>720146</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Excellente intervention qui relève le niveau de certaines autres…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370377" ordre_absolu_seance="119" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732163" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>La parole est à Mme la secrétaire d’État chargée des affaires européennes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370379" ordre_absolu_seance="121" id_acteur="PA721670" id_mandat="-1" id_nomination_oe="PM764384" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731901" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Amélie de Montchalin</nom>
+            <id>721670</id>
+            <qualite>secrétaire d’État chargée des affaires européennes</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je tiens tout d’abord à préciser que la régulation financière a été sensiblement renforcée depuis 2008 – Michel Barnier s’est d’ailleurs félicité d’avoir fait voter plus de quarante et un règlements et directives dans ce but, afin que nous soyons à même de nous prémunir contre d’éventuelles nouvelles crises. Il est important de le rappeler, certains intervenants pouvant laisser penser que nous ne faisons rien, que nous relâchons notre vigilance sur les risques financiers.<br/>Ensuite, si c’est aujourd’hui que l’Assemblée examine ce texte, ce n’est pas parce que nous aurions voulu faire une quelconque offre de bon aloi à la suite du Brexit, mais bien parce que la Commission européenne a demandé que des accords relatifs aux sièges des autorités soient ratifiés pour l’ensemble des autorités européennes, ce qui n’était pas initialement prévu puisque les dispositions du protocole n<exposant>o</exposant> 7 sur  les  privilèges  et  immunités  de l’Union  européenne, annexé au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne dans les  relations  entre  l’Autorité  et  le  Gouvernement, suffisaient pour fixer les règles d’installation des autorités. Il nous faudra procéder de la même manière pour l’Autorité bancaire européenne – un accord a déjà été signé et il faudra ensuite le ratifier –, mais aussi pour l’Agence des chemins de fer, qui se trouve à Lille et Valenciennes, et l’Office communautaire des variétés végétales, installé à Angers. Nous devrons également clarifier les procédures européennes pour sortir d’un statut de fait.<br/>Je tenais à rappeler à Mme Autain, qui, malheureusement, est partie, que les lycées internationaux ne sont pas destinés à une élite étrangère. J’étais député de l’Essonne, élue dans une circonscription qui accueillera, en 2021, un lycée international, à Palaiseau ; et je puis vous affirmer que cet établissement sera d’abord un élément d’attractivité, de mixité et de rayonnement pour le territoire et pour les collégiens et les familles qui y habitent. Auparavant, un lycée ouvrira à Courbevoie en 2019. Or, localement, j’y insiste, ce sont d’abord les familles des territoires concernés qui le vivent comme un bénéfice.<br/>J’en viens pour finir, monsieur Hutin, aux immunités et aux privilèges. Pourquoi les agents des autorités européennes paient-ils un impôt progressif – dont les taux vont de 8 à 45 % – versé au budget européen plutôt qu’à l’État où ils se trouvent ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370383" ordre_absolu_seance="125" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731905" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <id>333818</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>En effet !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370384" ordre_absolu_seance="126" id_acteur="PA721670" id_mandat="-1" id_nomination_oe="PM764384" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731906" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Amélie de Montchalin</nom>
+            <id>721670</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je prendrai l’exemple de la pêche. L’Agence européenne de contrôle des pêches – AECP – a son siège à Vigo, en Espagne. Or nous trouvons préférable que les documents produits par les personnels de l’AECP, ou les documents sur lesquels ils travaillent, ne soient pas accessibles facilement à un pays qui pourrait se servir des informations ainsi obtenues – et dont les autres pays ne disposeraient pas – pour instaurer des régulations nationales qui seraient avantageuses, ici, aux pêcheurs espagnols, plutôt qu’aux autres pêcheurs européens.<br/>Pourquoi, pour les personnels des autorités, est-il prévu des régimes fiscaux dérogatoires ? Il s’agit tout simplement, dans le cas du présent texte, de faire en sorte d’éviter que la France, en aménageant leur régime fiscal, ne se rende aimable vis-à-vis des agents de l’AEMF afin qu’ils soient moins regardants sur les acteurs financiers français… Aussi, dans l’intérêt de notre propre protection et de l’harmonie européenne, il a été prévu que ces personnes, je le répète, paient des impôts qui sont reversés au budget européen. Le conjoint et les enfants de ces agents, s’ils travaillent en France, paieront des impôts en France au titre de leur activité exercée en France ; quant à la TVA, l’exonération n’est permise que pour des achats importants et, pour tous les achats de la vie quotidienne, ils devront bel et bien s’acquitter de la TVA.<br/>Vous pourrez ainsi voter, monsieur le député, en étant parfaitement éclairé. <italique>(Applaudissements sur les bancs du groupe LaREM.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370387" ordre_absolu_seance="129" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731909" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marielle de Sarnez</nom>
+            <id>717151</id>
+            <qualite>présidente de la commission des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Excellent !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370388" ordre_absolu_seance="130" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731910" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <id>333818</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je vous remercie pour vos précisions, madame la secrétaire d’État, et je fais ainsi grâce à l’Assemblée de mon explication de vote sur l’article unique.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370390" ordre_absolu_seance="41" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1731912" valeur="" bibard="" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370393" ordre_absolu_seance="132" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="SCRUT_ART_PUB_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731915" valeur=" unique" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’article unique du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370394" ordre_absolu_seance="133" code_grammaire="SCRUT_ART_PUB_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1731916" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370395" ordre_absolu_seance="134" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="SCRUT_ART_PUB_1_8" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731917" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        34<br/>        Nombre de suffrages exprimés                33<br/>        Majorité absolue                        17<br/>                Pour l’adoption                33<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="1370396" ordre_absolu_seance="135" code_grammaire="SCRUT_ART_PUB_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1731918" valeur=" unique" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>unique est adopté</italique>
+          <italique>, ainsi que l’ensemble du projet de loi</italique>
+          <italique>.)</italique>
+          <italique/>
+          <br/>
+          <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique>
+          <italique/>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370187" ordre_absolu_seance="2" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="1731837" valeur=" (n[[o]] 1436)">
+      <orateurs/>
+      <texte>Coopération sanitaire transfrontalière Suisse Luxembourg</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370188" ordre_absolu_seance="3" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="1731838" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion, après engagement de la procédure accélérée, d’un projet de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370189" ordre_absolu_seance="4" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731839" valeur=" (n[[os]] 390, 1436)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la discussion, après engagement de la procédure accélérée, du projet de loi autorisant l’approbation de l’accord-cadre sur la coopération sanitaire transfrontalière entre le Gouvernement de la République française et le Conseil fédéral suisse et de l’accord-cadre entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg sur la coopération sanitaire transfrontalière (n<exposant>os</exposant> 390, 1436).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370190" ordre_absolu_seance="5" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1731840" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="Mme Amélie de Montchalin" qualite="secrétaire d'État chargée des affaires européennes" id_acteur="PA721670" id_nomination_oe="PM764384" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370191" ordre_absolu_seance="6" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731841" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la secrétaire d’État chargée des affaires européennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370192" ordre_absolu_seance="7" id_acteur="PA721670" id_mandat="-1" id_nomination_oe="PM764384" id_nomination_op="-1" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731842" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Amélie de Montchalin</nom>
+              <id>721670</id>
+              <qualite>secrétaire d’État chargée des affaires européennes</qualite>
+            </orateur>
+          </orateurs>
+          <texte>J’ai mis un instant à rejoindre la tribune, monsieur le président, car j’étais distraite par l’arrivée de la rédactrice du Quai d’Orsay pour la Suisse, que j’ai eu la chance de rencontrer il y a quelques jours, qui travaille au quotidien avec un chien d’aveugle.<br/>Les accords de coopération transfrontalière que nous examinons illustrent l’importance des zones transfrontalières dans la construction du projet européen. Ces espaces sont des lieux d’échanges et de vies quotidiennes partagées entre des citoyens qui n’ont pas la même nationalité : ils sont à l’image du projet européen qui vise à construire une communauté de vie collective et apaisée autour de projets concrets. Nous débattons de l’amorce d’une coopération entre des services publics essentiels à la vie quotidienne que sont les services de santé.<br/>Les accords-cadres de coopération sanitaire transfrontalière signés entre la France et la Suisse, le 27 septembre 2016, et entre la France et le Grand-Duché de Luxembourg, le 21 novembre 2016 résultent de négociations engagées en 2014 afin de développer les synergies en matière d’offre de soins et de lever les difficultés, notamment administratives, qui obèrent la coopération entre établissements de santé.<br/>En favorisant la mobilité des patients et des professionnels de santé dans les régions frontalières du Luxembourg et de la Suisse, les coopérations développées en matière de santé visent à apporter un bénéfice concret et direct aux citoyens : il s’agit de leur permettre de profiter de soins de qualité au plus près de leur lieu de résidence, tant dans un contexte de secours d’urgence – l’intérêt de cette coopération est, dans ce cas, particulièrement clair –, que de soins programmés ou de pathologies chroniques.<br/>L’objectif de ces accords-cadres est ainsi d’assurer un meilleur accès à des soins de qualité pour les bassins de vie autour de la frontière, en garantissant une continuité des soins et le recours le plus rapide aux secours d’urgence, tout en favorisant la mutualisation des connaissances, des pratiques, et des moyens humains et matériels.<br/>Ces accords-cadres, limités aux régions transfrontalières, entendent également donner un cadre à la conclusion de conventions locales de coopération sanitaire entre acteurs de santé français, d’un côté, et luxembourgeois ou suisses, de l’autre, en fonction des déficits et besoins constatés. De très longues discussions ont déjà eu lieu dans l’hémicycle sur la présence médicale ; ces textes nous apportent en la matière des réponses très claires et concrètes en rendant possible le partage des moyens médicaux de part et d’autre d’une frontière. Si un pays manque de telle spécialité médicale, les habitants de la zone frontalière pourront avoir accès aux spécialistes du pays voisin. En effet, les conventions locales pourront organiser non seulement l’intervention transfrontalière des secours d’urgence, en facilitant la mutualisation des moyens, mais aussi la coopération hospitalière pour certaines spécialités médicales, ce qui permettra une offre de soins de qualité.<br/>La question transfrontalière est au cœur des activités d’une partie des équipes de la direction de l’Union européenne du Quai d’Orsay qui dispose d’un ambassadeur pour les questions transfrontalières. Au-delà des coopérations telle que celle dont nous débattons aujourd’hui, le traité d’Aix-la-Chapelle, dont nous avons déjà longuement parlé, a la particularité de prévoir la mise en œuvre de projets très concrets, industriels ou citoyens par exemple, qui permettent de faciliter la vie de ceux qui vivent aujourd’hui de part et d’autre d’une ligne devenue, au quotidien, presque imaginaire ou artificielle, même si elle garde son importance politique puisque nous conservons nos frontières et que nos nations demeurent – notre Europe est, avant tout, une Europe des États qui mettent des moyens en commun. J’espère que nos débats sur ce projet européen et concret seront fructueux.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Bruno Fuchs" qualite="rapporteur de la commission des affaires étrangères" id_acteur="PA722284" id_nomination_oe="-1" id_nomination_op="-1447056" id_mandat="PM723528">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370199" ordre_absolu_seance="14" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731849" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Bruno Fuchs, rapporteur de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370200" ordre_absolu_seance="15" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1447056" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731850" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite>rapporteur de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Nous arrivons au terme de l’examen par l’Assemblée nationale du projet de loi relatif à deux accords-cadres de coopération sanitaire transfrontalière, passés l’un et l’autre en 2016, avec la Suisse et le Luxembourg. La coopération transfrontalière est l’une des dimensions de notre diplomatie qui prend de plus en plus d’importance. Ce n’est peut-être pas la plus prestigieuse, mais c’est la plus visible et la plus concrète aux yeux de nos concitoyens. N’est-ce pas la raison d’être essentielle de notre action politique ? C’est en tout cas ce qu’attendent nos concitoyens, et c’est aussi la raison pour laquelle nous avons le devoir d’accélérer les coopérations dans tous les domaines, que ce soit en matière fiscale, sociale, culturelle, sportive ou encore en matière de protection civile – sur ce dernier sujet, la commission des affaires étrangères examinait hier un projet de loi qui autorise l’approbation d’un accord passé entre la France, la Suisse et le CERN – l’Organisation européenne pour la recherche nucléaire.<br/>Nous devons faire en sorte que tout devienne plus simple au passage de la frontière, même si les administrations et les règles sont nécessairement différentes d’un côté et de l’autre. C’est tout l’enjeu de la coopération transfrontalière.<br/>Nous examinons des accords-cadres dont les stipulations sont par définition générales. Elles permettent de développer de multiples coopérations locales autour de nombreux sujets liés à la santé. Ces accords désignent aussi les administrations en charge de les mettre en œuvre. Le plus important n’est pas tant dans les textes eux-mêmes que dans la volonté des acteurs de terrain de s’emparer de ces sujets et de les faire vivre et prospérer.<br/>C’est pour cette raison que la commission des affaires étrangères a constitué un groupe de travail chargé d’analyser les conditions d’une bonne mise en œuvre des accords-cadres. Je remercie M. Frédéric Barbier, rapporteur du groupe de travail, et tous nos collègues, qu’ils soient membres ou non de ce groupe, qui ont pris part à nos auditions et aux déplacements à Genève et à Bâle.<br/>Ces travaux nous ont permis de constater une forte attente pour une meilleure articulation des soins de santé avec nos voisins suisses et luxembourgeois. Pour être franc, cette attente est sans doute un peu supérieure des côtés suisse et luxembourgeois que du côté français…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370205" ordre_absolu_seance="20" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731855" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est parfaitement vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="1370206" ordre_absolu_seance="21" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1447056" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731856" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il faut développer ces coopérations, d’autant que 170 000 Français traversent régulièrement la frontière pour travailler en Suisse, et qu’ils sont 100 000 à le faire pour rejoindre le Luxembourg. Si la demande sociale de coopération sanitaire est forte, pour différentes raisons, elle se révèle plus difficile à mettre en œuvre avec le Luxembourg et surtout avec la Suisse qu’avec nos autres voisins européens.<br/>Une première difficulté, commune à nos deux voisins, tient au fait que l’un et l’autre ont une très forte attractivité, un très haut niveau de vie et de salaires. Cette situation entraîne, du côté français de la frontière, une pénurie de professionnels de santé, et elle complique la gestion des hôpitaux. Les différences de coûts compliquent aussi les discussions transfrontalières sur la prise en charge des patients en raison des coûts des soins : le même acte de santé est bien plus coûteux en Suisse qu’en France. Cela constitue un frein assez puissant pour que les ARS – agences régionales de santé – permettent la prise en charge de patients français au Luxembourg ou en Suisse, alors qu’elle se ferait souvent plus rapidement. En Alsace, il faut par exemple six ou neuf mois pour obtenir un rendez-vous avec un spécialiste quand, de l’autre côté de la frontière, on attendra une semaine ou quinze jours. Cela montre tout l’intérêt de ces coopérations pour les citoyens.<br/>Deux autres difficultés sont spécifiques à la Suisse. D’une part, ce pays fédéral est très décentralisé, ce qui demande de discuter avec chaque canton. D’autre part, la Suisse n’est pas membre de l’Union européenne : elle est liée à celle-ci par une multitude d’accords bilatéraux qui reprennent l’essentiel, mais pas l’intégralité, de l’acquis européen. Le cadre européen qui permet une certaine fluidité dans la prise en charge financière des soins transfrontaliers ne s’applique donc que partiellement.<br/>Je rappelle que, sans le cadre européen général, la coopération transfrontalière serait beaucoup plus complexe en matière de soins de santé, car il faudrait négocier les prises en charge au cas par cas. Il s’agit d’une nouvelle démonstration éclatante de l’utilité et de l’importance de l’Union européenne dans le quotidien de nos concitoyens. On ignore trop souvent ces cas manifestes qui attestent du rôle joué par l’Europe. En matière de santé, ce rôle est indiscutable.<br/>Les accords-cadres nous sont apparus, à bien des égards, comme un peu trop généraux. Pour en préciser les contours, et en faciliter l’exécution, le groupe de travail a produit un ensemble de recommandations qui portent d’abord sur les administrations chargées de mettre en œuvre les coopérations sanitaires locales. Dans la suite de mon propos, je m’intéresserai davantage à ces recommandations qu’aux accords-cadres eux-mêmes.<br/>L’une des principales interrogations portait sur le choix, dans l’accord avec la Suisse, de la seule caisse primaire d’assurance maladie de Haute-Savoie pour les rapports avec ce pays. Je rappelle, qu’avec les Suisses, il faut discuter canton par canton. À défaut de modifier le texte de l’accord passé en 2016, ce qui aurait retardé son entrée en application, nous avons décidé d’autoriser son approbation tout en faisant un certain nombre de propositions.<br/>Nous souhaitons en particulier qu’une seule caisse française ne soit pas confrontée aux caisses des huit cantons qui assurent, côté suisse, une proximité et une réactivité plus fortes.<br/>Il reste également un important effort d’information à réaliser. Rien de très structuré n’est organisé pour que les travailleurs frontaliers et, plus généralement, les populations frontalières soient au fait des opportunités mais aussi des contraintes concernant les questions de soins transfrontaliers et les questions d’affiliation à la sécurité sociale. Cette information est le plus souvent, voire quasi exclusivement, le fait des associations de frontaliers : elle ne parvient donc pas à l’intégralité de la population concernée.<br/>Les caisses d’assurance maladie doivent prendre conscience qu’on attend d’elles plus de performances en matière d’information des citoyens. Il s’agit de l’une des recommandations fortes du groupe de travail. Une grande partie des litiges des dernières années autour de l’affiliation sociale des frontaliers en Suisse, litiges qui ont empoisonné la vie de plusieurs milliers de ménages, est sans doute due à la méconnaissance des règles de droit. Cette méconnaissance a pu être le fait d’assurés de bonne foi, mais aussi de l’aveuglement, on peut le dire, de l’administration qui a finalement perdu en justice après avoir poursuivi des milliers de personnes.<br/>Espérons que ces conventions et aussi les dispositions de la loi du 10 août 2018 pour un État au service d’une société de confiance, dite loi ESSOC, viennent radicalement changer les pratiques de défiance pour installer un vrai partenariat de confiance.<br/>Pour ce qui concerne les agences régionales de santé, l’autre grand acteur administratif déconcentré, nous avons constaté une mobilisation très inégale entre les trois agences concernées par les relations avec la Suisse. Une seule agence est concernée par les relations avec le Luxembourg. La loi prévoit que le projet régional de santé élaboré par l’ARS doit comporter un volet transfrontalier. Cette prescription doit être respectée, ce qui n’est clairement pas le cas jusqu’à présent dans l’une de nos régions.<br/>Plus généralement, le groupe de travail recommande de s’assurer que chaque ARS frontalière désigne un cadre de haut niveau référent pour les coopérations transfrontalières. Nous recommandons aussi d’instituer entre les ARS un cadre d’échange de bonnes pratiques en matière de coopérations transfrontalières afin de pouvoir mobiliser les conseillers diplomatiques des préfectures de région sur ces problématiques sanitaires.<br/>Nous avons constaté que les coopérations transfrontalières se développent aujourd’hui principalement à l’aide des fonds européens Interreg, qui sont par nature temporaires. Afin de prendre des engagements de long terme, il serait utile de disposer d’un dispositif national pérenne. Cette série de recommandations concerne directement le fonctionnement des administrations, et éventuellement le budget de l’État. J’espère donc que Mme la secrétaire d’État pourra nous apporter des réponses et des engagements sur ces différents points.<br/>Nous avons ensuite identifié des recommandations de portée moins générale, qui correspondent aux préoccupations exprimées par les personnes que nous avons rencontrées lors des auditions. Elles ont rappelé que l’intérêt des personnes concernées, c’est-à-dire des patients puisque nous sommes dans le domaine de la santé, était prioritaire.<br/>Il y a un besoin, en premier lieu, de diagnostic partagé dans les bassins de vie transfrontaliers sur les besoins des populations et sur l’offre de soins existante. On constate qu’actuellement, les hôpitaux des régions frontalières ignorent souvent tout des compétences et des capacités de leurs homologues de l’autre côté de la frontière ; parfois ils ont plus de relations avec un lointain CHU, avec lequel par exemple ils échangent très fréquemment internes et chercheurs, qu’avec l’hôpital voisin, à quelques kilomètres de l’autre côté de la frontière. Il faut développer des instances permettant, dans les bassins de vie transfrontaliers, une connaissance partagée des besoins de santé et un diagnostic partagé des priorités qui en résultent.<br/>Il y a aussi besoin, en second lieu, d’une réciprocité dans les réflexions transfrontalières sur ces sujets. C’est encore un autre enjeu, car on entend trop souvent dire que les établissements de « l’autre côté » font seulement du démarchage pour rentabiliser leurs équipements ou leurs lits surnuméraires en accueillant des patients transfrontaliers, mais n’ont pas vraiment le souci d’une coopération équilibrée.<br/>En outre, il y a aussi très clairement un souci autour de la démographie des professions de santé, qui rend nécessaire de trouver avec nos amis suisses et luxembourgeois des solutions pratiques pour sortir de situations de pénurie de personnel aujourd’hui difficilement gérables, particulièrement en France comme je l’ai expliqué au début de mon intervention. Ainsi, les chiffres parlent d’eux-mêmes : deux tiers des infirmiers des hôpitaux universitaires de Genève sont français et, dans le même temps, les hôpitaux haut-savoyards sont confrontés à un turn-over annuel de 20 % à 25 % pour leur personnel infirmier et à des problèmes récurrents de recrutement.<br/>La dernière série des recommandations du groupe de travail, qui répond aussi à une très forte demande des territoires et des personnes concernées, porte sur la gouvernance démocratique des coopérations sanitaires transfrontalières. Nous appelons en particulier à la mise en place de commissions d’usagers, de professionnels de santé et d’élus des territoires dans les bassins de vie frontaliers. Ce point est essentiel alors que les patients sont trop peu partie prenante de leur parcours de soins. C’est le moment de les remettre au centre des réflexions sur le sujet.<br/>Vous ne serez pas surpris que je finisse sur une note alsacienne, en évoquant la collectivité européenne d’Alsace que les deux départements alsaciens ont décidé de former à compter du 1<exposant>er</exposant> janvier 2021. Dans notre rapport, publié en novembre dernier, nous souhaitions que la coopération sanitaire fasse partie intégrante des domaines où la nouvelle collectivité va exercer ses compétences en tant que chef de file de la coopération transfrontalière. Le projet de loi sur la collectivité européenne d’Alsace déposé en février et adopté par le Sénat en première lecture le 4 avril prévoit effectivement, ce dont je me réjouis, que le schéma alsacien de coopération transfrontalière établi par la collectivité comprendra un volet sanitaire – qui devrait être renforcé par un amendement que je proposerai le moment venu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370172" ordre_absolu_seance="73" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731786" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marielle de Sarnez</nom>
+              <id>717151</id>
+              <qualite>présidente de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Son intervention dure encore combien de temps, monsieur le président ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370173" ordre_absolu_seance="74" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1447056" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731787" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En revanche, ce projet de loi ignore l’accord-cadre de 2016 avec la Suisse que nous allons approuver aujourd’hui. C’est à mon avis un manque que notre assemblée devra combler.<br/>En attendant, chers collègues, je vous invite à voter le projet de loi que nous examinons aujourd’hui et qui prévoit une meilleure coopération transfrontalière avec la Suisse et le Luxembourg. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370174" ordre_absolu_seance="76" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731788" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marielle de Sarnez</nom>
+              <id>717151</id>
+              <qualite>présidente de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marielle de Sarnez" qualite="présidente de la commission des affaires étrangères" id_acteur="PA717151" id_nomination_oe="-1" id_nomination_op="PM732275" id_mandat="PM723374">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370175" ordre_absolu_seance="77" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731789" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Madame la présidente de la commission des affaires étrangères, vous vous inquiétiez du temps qui s’écoule : vous avez désormais la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370176" ordre_absolu_seance="78" id_acteur="PA717151" id_mandat="PM723374" id_nomination_oe="-1" id_nomination_op="PM732275" code_grammaire="PRESENTATION_2_1" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731790" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marielle de Sarnez</nom>
+              <id>717151</id>
+              <qualite>présidente de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Cent soixante-dix mille de nos compatriotes se rendent quotidiennement en Suisse pour y travailler et 100 000 au Luxembourg, auxquels il convient d’ajouter leur famille et les proches, tous ceux qui vivent à quelques kilomètres des frontières même s’ils ne les traversent pas chaque jour. Vivre près d’une frontière, cela représente souvent des opportunités mais parfois aussi des difficultés dans la vie quotidienne, car les règles ne sont pas les mêmes, et tout peut très rapidement devenir compliqué pour se faire soigner ou bien pour se déplacer dans les transports publics. La coopération transfrontalière est pour cette raison une nécessité. De même que nous avons supprimé les postes-frontières, il nous faut maintenant réduire les frontières bureaucratiques qui compliquent la vie quotidienne dans les zones frontalières.<br/>Nous examinons aujourd’hui à partir de l’excellent rapport de Bruno Fuchs, dont nous avons eu un exposé ramassé mais très intéressant <italique>(Sourires)</italique>, deux projets de coopération sanitaire, respectivement avec la Suisse et avec le Luxembourg. Ces deux accords-cadres devront être déclinés et mis en œuvre localement. Ce sera en grande partie de la responsabilité des agences régionales de santé et de certaines caisses primaires d’assurance maladie.<br/>Pour que ces institutions prennent bien en compte les enjeux de la coopération transfrontalière et les attentes exprimées par nos concitoyens, notre commission des affaires étrangères a constitué un groupe de travail qui a effectué de nombreuses auditions et de nombreux déplacements. Ce groupe de travail, composé de huit députés frontaliers que je tiens à remercier pour leur implication, a émis une quinzaine de recommandations. Elles concernent l’organisation et la mobilisation de nos administrations, avec un accent particulier mis, le rapporteur l’a dit, sur la désignation d’une seule caisse primaire d’assurance maladie, celle de Haute-Savoie, pour traiter avec tous les cantons suisses. Ce choix n’a pas été compris par les membres de la commission, qui attendent sur ce point un changement.<br/>De même, notre commission souhaite que soient mieux prises en compte les attentes qui remontent des territoires : il faut écouter les frontaliers et comprendre leurs attentes, il faut une meilleure information sur le terrain et des diagnostics partagés dans les bassins de vie transfrontaliers. Nous demandons donc une gouvernance démocratique des coopérations transfrontalières pour qu’elles correspondent vraiment aux besoins locaux des citoyens et des territoires. Nous assurerons au sein de notre commission le travail de contrôle sur l’application concrète de ces accords-cadres à travers un groupe de suivi, probablement avec les mêmes membres que le groupe de travail.<br/>Un mot enfin pour souligner la dimension européenne de la coopération sanitaire transfrontalière. Sans les textes européens qui assurent la coordination en matière de sécurité sociale et d’accès aux soins, la coopération transfrontalière serait beaucoup plus difficile. Mais il faudra encore aller plus loin, par exemple en mettant en place un mécanisme européen pour lever les obstacles juridiques et administratifs qui demeurent.<br/>La coopération transfrontalière a donc une importante dimension européenne. Mais elle a avant tout une importante dimension humaine car c’est de la vie quotidienne de nos compatriotes que nous parlons. C’est pourquoi la commission des affaires étrangères continuera de s’impliquer pour suivre directement et au plus près du terrain l’application de ces accords, que bien sûr je vous appelle à approuver. <italique>(Applaudissements sur plusieurs bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370179" ordre_absolu_seance="186" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1731793" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="M. Jean-Paul Dufrègne" id_acteur="PA718720" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722436">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370180" ordre_absolu_seance="187" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731794" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Dans la discussion générale, la parole est à M. Jean-Paul Dufrègne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370181" ordre_absolu_seance="188" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="1731795" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les accords-cadres entre la France, la Suisse et le Luxembourg sur la coopération sanitaire transfrontalière ont été débattus extrêmement longtemps en commission, et ce par deux fois. Le premier débat a été mené en février 2018 et a conclu à la trop grande faiblesse du texte, notamment pour des motifs juridiques et de faisabilité sur le terrain, mais également s’agissant de l’affiliation sociale des frontaliers. La commission des affaires étrangères a donc repris le travail et, après six mois de mission, M. le rapporteur a pu présenter un texte revu et corrigé par plusieurs de nos collègues, après plusieurs déplacements sur le terrain et de nombreuses auditions. Ce texte est donc aujourd’hui prêt pour tenter d’améliorer le soin et l’accès aux soins de part et d’autre des frontières françaises, luxembourgeoises et suisses.<br/>Mais, malgré ce que je viens de rappeler, ce texte semble encore insuffisant au groupe GDR pour être voté tel quel. Car si ces accords-cadres permettent de discuter des conventions de coopération sanitaire et ainsi d’avancer pour améliorer la prise en charge de la santé des transfrontaliers, il se trouve que la coopération sanitaire demeure en crise, notamment du fait des conditions de soins et de l’existence de déserts médicaux côté français.<br/>Ces accords ont été décidés pour régler une crise de démographie médicale due au départ de nombreux médecins français en Suisse ou au Luxembourg, mais ils ne résoudront au final pas cette question. Mon collègue Jean-Paul Lecoq le rappelait en commission : nos médecins font près de dix ans d’études, financées par nos impôts, et franchissent ensuite la frontière française pour s’installer en Suisse ou au Luxembourg. Après quoi nous sommes obligés de rédiger des accords transfrontaliers pour demander la permission de se faire soigner par ces mêmes médecins, qui pratiquent évidemment les tarifs locaux, bien plus élevés que les tarifs français ! C’est une aberration. Cela pose le problème de la libre installation des médecins en France et globalement de l’organisation du travail de la médecine libérale, qu’elle soit généraliste ou bien spécialisée.<br/>La question des déserts médicaux se pose donc avec une urgence absolue. Mais au-delà, lorsque l’on regarde la carte de la démographie médicale en France, on voit tant d’espaces vides ! Je sais que c’est un débat extrêmement houleux, mais il faudra tout même un jour faire preuve de courage politique pour affronter cette question et en assumer les conséquences : soit on continue à se plaindre des déserts médicaux, soit on tente d’organiser les choses autrement, comme cela se fait déjà un peu, c’est-à-dire par des incitations, par des financements d’études ou encore par l’obligation d’années de travail dues à l’État, comme pour les hauts fonctionnaires – en éliminant toutefois la possibilité de pantouflage pour les médecins, cette pratique qui consiste à se faire racheter les années que l’on doit à l’État par son employeur privé.<br/>Quelques chiffres illustrent cette attirance du personnel de santé français pour la Suisse. Je cite le rapport : « selon les statistiques du canton de Genève pour 2014, 35 % des diplômés employés par les Hôpitaux universitaires de Genève étaient d’origine française. Au niveau des infirmiers, la proportion était de 67 % ; pour les aides-soignants, elle était de 37 % ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370183" ordre_absolu_seance="193" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731797" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Et il n’y a pas que dans la santé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="1370184" ordre_absolu_seance="194" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731798" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est vrai, mon cher collègue. En parallèle, les hôpitaux de Haute-Savoie peinent à recruter et le turnover de leurs équipes est très fort.<br/>Nous payons le prix, le rapport le dit d’ailleurs à mots couverts, d’une politique de santé effarante, guidée uniquement par la recherche d’économies budgétaires, au détriment des conditions de travail des équipes soignantes. Cette mise en parallèle permise par la frontière montre clairement la réalité : lorsque les soignants peuvent partir, ils le font parce que les conditions de travail dans les hôpitaux français sont devenues exécrables.<br/>Voilà le résultat concret d’années d’austérité dans la santé ! Tous ceux qui restent sont concentrés dans les grandes métropoles et dans le sud de la France. Ce déséquilibre complique la vie à la fois des Français, qui souffrent de temps d’attente délirants, de l’ordre d’un an et demi pour certaines spécialités dans certains territoires, dont mon département de l’Allier, mais aussi des médecins qui veulent s’installer dans les déserts médicaux : ils sont submergés de demandes et, bien que leur patientèle soit complète, parfois obligés de prendre plus qu’ils ne peuvent pour faire face à cette pénurie dramatique.<br/>Temps de travail qui explose, pression pour soigner les habitants d’un territoire en crise médicale… Les médecins qui s’installent dans ces zones souffrent de solitude, face à des besoins immenses et au manque de collègues proches. À cette situation déjà calamiteuse, ajoutons le fait que les tarifs médicaux en France sont abordables et poussent les Suisses et les Luxembourgeois à venir se soigner chez nous : on obtient alors un engorgement complet de la médecine en France dans les secteurs concernés.<br/>Second point : notre assemblée va se prononcer sur ces accords-cadres alors que le rapport fait des recommandations de modification importantes. Il préconise notamment de demander à la Suisse l’adaptation de l’accord s’agissant de la désignation des caisses primaires d’assurance maladie de référence.<br/>Alors que le texte n’est pas encore voté, nous demandons déjà un avenant ! La méthode est peu banale. Les députés communistes pensent qu’il est plus simple de ne pas voter ce texte et de reprendre la discussion entre les diplomaties française, suisse et luxembourgeoise afin de parvenir à un accord clair et définitif, sans promesses d’avenants qui, peut-être, ne viendront jamais. <br/>Les autres recommandations formulées par le rapport sont aussi fort intéressantes, et nous pourrions également y souscrire. Nous nous apprêtons donc à adopter un accord imparfait…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370438" ordre_absolu_seance="201" id_acteur="PA608826" id_mandat="PM723276" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732106" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Virginie Duby-Muller</nom>
+              <id>608826</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est un accord-cadre !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370439" ordre_absolu_seance="202" id_acteur="PA718720" id_mandat="PM722436" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1732107" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Dufrègne</nom>
+              <id>718720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…alors qu’en attendant un peu et en le renégociant, nous pourrions parvenir à un texte bien meilleur et, surtout, durable.<br/>Ainsi, il paraît important de régler le problème des litiges relatifs à l’affiliation des travailleurs frontaliers en Suisse. L’arrêt de la Cour de cassation demandant au Gouvernement de reconnaître la radiation des frontaliers dès leur date d’affiliation en Suisse, pour qu’ils restituent leurs cotisations sociales, pose question. Pourquoi ne pas avoir obtenu un engagement ferme du Gouvernement ? <br/>En résumé, malgré le travail considérable du groupe de travail au sein de la commission des affaires étrangères, les députés communistes pensent que les résultats obtenus entre la première et la deuxième version du texte, bien qu’intéressants, demeurent insuffisants. <br/>C’est bien dommage. Il aurait fallu prendre plus de temps et mobiliser notre diplomatie pour parvenir à nos fins. Le présent texte nous donne l’impression de demeurer au milieu du gué et de devoir nous contenter de peu.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Frédéric Barbier" id_acteur="PA642724" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722658">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370444" ordre_absolu_seance="206" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732112" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Frédéric Barbier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370445" ordre_absolu_seance="207" id_acteur="PA642724" id_mandat="PM722658" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732113" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Barbier</nom>
+              <id>642724</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons cet après-midi le projet de loi autorisant l’approbation de deux accords-cadres sur la coopération sanitaire transfrontalière, l’un entre la France et la Confédération suisse, l’autre entre la France et le Grand-Duché de Luxembourg.<br/>Ces accords, signés par la Confédération suisse le 27 septembre 2016 et par le Grand-Duché de Luxembourg le 21 novembre 2016, viennent renforcer la continuité et la complémentarité de l’offre de soins entre pays.<br/>Ces deux accords quasi identiques ont été examinés par la commission des affaires étrangères en février 2018. Il avait alors été décidé de surseoir au vote et de constituer un groupe de travail, que j’ai conduit avec mon cher collègue Bruno Fuchs, rapporteur du texte.<br/>Les conclusions et les recommandations du groupe de travail ont été discutées le 20 novembre 2018 par la commission des affaires étrangères, qui a ensuite adopté le projet de loi permettant l’entrée en vigueur des deux accords-cadres.<br/>Nous sommes convaincus que ces accords renforceront la continuité des soins, qu’il s’agisse des soins d’urgence, du traitement de pathologies ou des soins de suite, et qu’ils permettront également de renforcer notre collaboration en cas de crise sanitaire.<br/>Les populations des zones frontalières voient leur accès aux soins restreint par la démarcation que constitue la frontière avec un autre pays. Ces accords-cadres permettent de dépasser les barrières géographiques. Ils sont l’occasion de développer la coopération sanitaire avec des États voisins et compléteront les accords existants, passés avec la Belgique, l’Allemagne et l’Espagne et, plus anciennement, Andorre et Monaco.<br/>Si les accords-cadres présentés ce jour concernent l’ensemble des populations frontalières, française, luxembourgeoise ou suisse, ils représentent une opportunité supplémentaire pour les travailleurs frontaliers français. La fluidité dans l’accès aux soins transfrontaliers et l’élargissement des coopérations dans le domaine de la santé apparaissent en effet particulièrement nécessaires pour les 175 000 travailleurs qui traversent chaque jour la frontière pour aller en Suisse et les 100 000 qui se rendent quotidiennement au Luxembourg.<br/>En tant que député du Doubs, département frontalier avec la Suisse, je suis régulièrement interpellé par des citoyens et des acteurs locaux quant à la nécessité pour la France d’encourager les échanges transfrontaliers afin d’optimiser l’accès aux soins. Quel travailleur frontalier n’a pas espéré que nos caisses primaires d’assurance maladie lui facilitent l’accès à un praticien suisse ou luxembourgeois, par exemple pendant la pause méridienne de son travail ?<br/>Quelques coopérations locales existent déjà entre des partenaires de santé français, suisse et luxembourgeois, fondées sur des accords locaux. Le travail a donc déjà commencé avec nos voisins, et c’est tout un développement économique et sociétal qui s’engage.<br/>Les accords-cadres ne créent donc pas la coopération sanitaire : ils lui insufflent une nouvelle dynamique et confortent les acteurs de santé dans leurs relations avec la Suisse ou le Luxembourg, pour leurs projets en cours et plus encore pour ceux qu’ils lanceront à l’avenir.<br/>Par ailleurs, l’accord correspondant permet de mieux prendre en considération le statut particulier de la Suisse, qui n’appartient pas à l’Union européenne.<br/>Pour les habitants des régions frontalières, ces accords de santé doivent permettre une clarification juridique et un meilleur accès aux soins. Ils appellent la mise en place, par les pouvoirs publics locaux, de conventions plus spécifiques destinées à améliorer la situation sanitaire de chaque territoire.<br/>Nous attendons, à terme, de ces accords-cadres qu’ils simplifient les démarches administratives en matière de soins entre nos trois pays, tant pour les accords de prise en charge que pour les remboursements ; qu’ils optimisent l’organisation de l’offre de soins, en encourageant à mieux gérer les ressources matérielles et humaines ; et enfin qu’ils développent la mutualisation des connaissances et des pratiques entre les acteurs de santé des zones frontalières.<br/>La coopération de nos pays dans le domaine de la santé est particulièrement nécessaire, et les présents accords-cadres s’inscrivent dans une perspective non de concurrence, mais de complémentarité de l’offre de soins.<br/>C’est grâce à l’amélioration de l’exécution, de la sécurisation et de la gouvernance de coopération dans le domaine de la santé que nos pays pourront développer de nouvelles opportunités dans la gestion de l’offre de soins et répondre, enfin, aux attentes de nos populations. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Virginie Duby-Muller" id_acteur="PA608826" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723276">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370460" ordre_absolu_seance="222" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732128" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Virginie Duby-Muller.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370461" ordre_absolu_seance="223" id_acteur="PA608826" id_mandat="PM723276" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732129" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Virginie Duby-Muller</nom>
+              <id>608826</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous examinons aujourd’hui un projet de loi très attendu. Je m’en réjouis, pour notre territoire de Haute-Savoie.<br/>L’examen du texte en commission des affaires étrangères a eu lieu le 7 février 2018. Vous aviez alors décidé de surseoir à son vote et de proposer une mission flash dont les travaux devaient durer quelques semaines. Finalement, ils auront duré près de six mois puisque c’est le 20 novembre 2018 que nous avons pris connaissance des recommandations de Bruno Fuchs et Frédéric Barbier qui, pour l’essentiel, exposaient des états de fait que nous connaissons bien.<br/>Garantir que tous les patients aient accès à des soins de qualité, de part et d’autre de la frontière, mais garantir aussi de bonnes conditions de travail à notre personnel de santé : tels sont les enjeux de la politique sanitaire transfrontalière.<br/>Notre bassin de vie étant commun avec Genève, nous avons évidemment choisi de miser sur la coopération. En raison de son dynamisme économique et touristique, le bassin franco-valdo-genevois connaît une hausse importante de sa population. Nous nous en réjouissons, mais c’est aussi un défi pour les politiques publiques, notamment dans le domaine sanitaire.<br/>Bien qu’elle possède de bons établissements de santé, la Haute-Savoie connaît depuis plusieurs années des problèmes de démographie médicale, notamment une pénurie de médecins généralistes et spécialistes et une rotation importante du personnel de santé, particulièrement dans les établissements d’hébergement pour personnes âgées dépendantes – EHPAD –, en raison de l’attractivité de la Suisse.<br/>La fin du droit d’option en matière d’assurance maladie pour les frontaliers a également contribué à aggraver le déficit de l’offre.<br/>De part et d’autre de la frontière, notamment dans le cadre de la commission santé du Comité régional franco-genevois, les élus attendent donc avec impatience l’accord-cadre franco-suisse sur la coopération sanitaire transfrontalière, outil opérationnel pour renforcer nos synergies.<br/>Il favorisera le développement de la coopération sanitaire transfrontalière en permettant aux populations résidant habituellement ou séjournant temporairement dans les régions frontalières concernées d’avoir accès à des soins de qualité, tant pour les soins d’urgence que pour les soins programmés ou ceux qui sont liés à une pathologie chronique, et garantira la continuité de ces soins.<br/>Il organisera le remboursement de ceux reçus sans autorisation préalable, les soins hospitaliers concernés étant déterminés en fonction des déficits et des besoins constatés de part et d’autre de la frontière en matière d’offre de soins. Il optimisera également l’organisation de l’offre de soins en encourageant le partage des capacités et la mutualisation des connaissances et des pratiques entre les personnels de santé des deux pays.<br/>Il encouragera également les coopérations, par exemple en matière d’oncologie pédiatrique, en favorisant l’accès aux connaissances et leur mutualisation, et, enfin, facilitera l’utilisation de certains outils, comme le caisson hyperbare pour les situations de noyade.<br/>L’objectif de ce texte est ainsi que nos concitoyens reçoivent un bénéfice concret en profitant de soins de qualité au plus près de leur lieu de résidence. Je me félicite donc de la mise à l’ordre du jour de ce texte important pour notre territoire transfrontalier, que notre groupe votera.<br/>Cependant, comme il arrive souvent, des problèmes restent en suspens.<br/>Ainsi, malgré l’engagement du Gouvernement, le problème des litiges relatifs à l’affiliation des travailleurs frontaliers n’est pas encore entièrement réglé. Nous travaillons régulièrement avec les associations de travailleurs transfrontaliers qui les accompagnent dans des démarches chronophages et épuisantes. Or la mission flash ne fait que recommander de « veiller à ce que le Gouvernement tienne ses engagements ». Comment y parvenir, et avec quel outil de contrôle ? <br/>S’agissant de démographie médicale, on peut également se poser la question du coût très élevé de la vie dans notre département, et envisager la création d’une prime de vie chère qui permettrait de fidéliser les fonctionnaires. Le département ou la région tentent de lancer ou de soutenir des initiatives locales en ce sens, mais le niveau national devrait également nous aider.<br/>Pour conclure, ce texte détermine un cadre juridique qui servira à conclure des conventions locales de coopération sanitaire transfrontalière. Il nécessitera, de la part des acteurs locaux, une volonté politique forte, à l’instar d’autres projets structurants, notamment en matière de mobilité.<br/>La mise en service du Léman Express et la prolongation du tramway jusqu’à Annemasse sont de bons exemples d’une telle volonté commune, au service de la vie quotidienne de nos concitoyens. <italique>(Applaudissements sur les bancs du groupe LR.</italique><italique> </italique><italique>–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Frédéric Barbier applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Sophie Mette" id_acteur="PA719640" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722718">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370480" ordre_absolu_seance="239" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732148" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Sophie Mette.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="1370481" ordre_absolu_seance="240" id_acteur="PA719640" id_mandat="PM722718" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732149" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Mette</nom>
+              <id>719640</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous abordons l’examen du projet de loi autorisant l’approbation des accords-cadres sur la coopération sanitaire transfrontalière entre la France et la Suisse, d’une part, et entre la France et le Luxembourg d’autre part.<br/>Comme l’ont indiqué les précédents orateurs, ce texte a fait l’objet de discussions très riches en commission. Il comportait certaines insuffisances et suscitait de nombreuses interrogations qui ont été relayées, dès le 7 février 2018, par le rapporteur Bruno Fuchs. Celui-ci avait alors expliqué que ces accords-cadres lui semblaient peu à même de déboucher sur des accords transfrontaliers utiles aux citoyens et à nos 360 000 travailleurs frontaliers, qui sont 143 000 à travailler en Suisse et 70 000 au Luxembourg.<br/>Il avait noté que les conventions pouvaient être soumises à une autorisation ministérielle, ce qui aurait pour conséquence de freiner considérablement leur application. Au demeurant, la négociation des conventions locales serait confiée à des institutions de nature administrative, les agences régionales de santé, qui sont les plus qualifiées pour juger des besoins sur le terrain. Si seul l’accord-cadre est soumis à ratification, il convient néanmoins de s’assurer que les choses soient suffisamment précises pour que l’administration s’en empare.<br/>Nous parlons là d’un sujet essentiel, qui ne concerne rien de moins que la santé et l’affiliation à l’assurance maladie de nos concitoyens.<br/>C’est pourquoi la coopération avec nos voisins est très importante et doit être recherchée,  alors qu’elle reste à ce jour très limitée pour certaines raisons déjà évoquées : des différences importantes en matière de niveau de vie, de salaire et de coût de la santé, un nombre grandissant de frontaliers résidant en France et travaillant dans les deux pays, et des difficultés tenant à la non-appartenance de la Suisse à l’Union européenne. Il convenait d’y remédier.<br/>La commission, lors de la première discussion de ce projet de loi, a conclu qu’il n’était pas abouti et que son application serait hasardeuse, voire qu’il pourrait conduire à des incohérences. Elle a donc renvoyé son adoption à une date ultérieure, en chargeant un groupe de travail de formuler des propositions visant à le rendre acceptable.<br/>Ses rapporteurs ont ainsi soumis à la commission plusieurs recommandations qui nous semblent aller dans le sens d’une plus grande efficacité. La question de l’association des caisses primaires d’assurance maladie de référence dans chaque région française concernée, celle de l’amélioration de l’information des habitants ainsi que celle de l’association au processus des administrations comme des agences régionales de santé sont des éléments essentiels.<br/>Nous saluons la volonté des rapporteurs de ramener le politique au cœur de ces négociations, au-dessus des administrations et au plus proche des besoins de nos concitoyens. À l’heure où les Français réclament à juste titre davantage de proximité, il faut faire confiance aux élus locaux pour contribuer à conclure des accords et des conventions qui répondent à cette demande.<br/>Le portage politique évoqué dans le rapport nous paraît donc absolument incontournable. C’est grâce à lui que nous serons en mesure de veiller à l’intérêt des patients et des allocataires de l’assurance maladie.<br/>Nous sommes ainsi très sensibles aux propositions que vous formulez en faveur d’une gouvernance démocratique des coopérations sanitaires transfrontalières : je pense notamment à la constitution de commissions d’usagers, de professionnels de santé et d’élus des territoires concernés.<br/>Cette implication de tous les acteurs qui vivent au quotidien ces difficultés nous permettra, j’en suis certaine, de trouver des solutions et de déboucher sur des initiatives pérennes.<br/>Vous évoquez des préoccupations que je partage pleinement : la réciprocité dans la coconstruction d’offre de soins, la mise en place de diagnostics partagés des priorités, et la question de la démographie des professions médicales et paramédicales, qui dépasse au demeurant le seul cadre transfrontalier.<br/>Tous ces sujets constituent de fait, pour nos concitoyens, autant de préoccupations urgentes : il importe donc de nous donner les moyens effectifs d’y répondre. C’est pourquoi le groupe de travail était salutaire et utile afin de donner à ces accords leur plein potentiel.<br/>Il était important de s’assurer d’une portée juridique claire des accords-cadres afin de garantir la continuité des soins dispensés aux populations des zones frontalières. Les accords-cadres qui nous sont soumis offrent des opportunités intéressantes pour les acteurs des zones transfrontalières, à condition que la puissance politique s’en saisisse : c’était là tout l’enjeu de cette discussion. La situation actuelle, de ce point de vue, n’est pas satisfaisante car elle laisse un secteur entier, la santé, totalement dérégulé : il convient donc de soutenir ce type d’accords en souhaitant qu’à l’avenir ils puissent être définis plus clairement.<br/>Nos concitoyens ont beaucoup à gagner à ce que nous puissions développer des projets avec nos voisins immédiats – et de confiance – que sont le Luxembourg et la Suisse. Notre coopération n’est à ce jour pas à la hauteur de ce qu’elle devrait être, notamment en matière de santé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370295" ordre_absolu_seance="255" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731943" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien dit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370296" ordre_absolu_seance="256" id_acteur="PA719640" id_mandat="PM722718" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731944" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sophie Mette</nom>
+              <id>719640</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Ce sujet, nous le voyons tous les jours, intéresse à juste titre nos concitoyens et nous devons y répondre de manière pragmatique.<br/>En l’état actuel des choses, le groupe du Mouvement démocrate et apparentés soutiendra ce projet de loi répondant à une demande forte des acteurs de terrain, qui attendent sa ratification pour engager les négociations avec leurs partenaires. Les recommandations émises par le rapporteur nous confortent dans ce choix. <italique>(M.</italique><italique> </italique><italique>Frédéric Barbier applaudit.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Christian Hutin" id_acteur="PA333818" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722990">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370299" ordre_absolu_seance="258" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731947" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Christian Hutin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370300" ordre_absolu_seance="259" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731948" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je suis médecin. Vous comprendrez donc que je soutienne pleinement,  obligatoirement, la possibilité offerte par ce projet de loi. Et je suis de surcroît médecin dunkerquois, donc transfrontalier, c’est-à-dire que je connais l’ensemble de ces problèmes.<br/>Certaines choses peuvent paraître plus compliquées qu’on ne peut l’imaginer, mais je pense que le rapport en règle une grande partie, à commencer par la continuité des soins.<br/>Quand on est malade d’un côté d’une frontière, et quand on l’est de l’autre, il est essentiel qu’il existe une forme de continuité des soins. Quand on a un souci d’un côté d’une frontière et qu’on n’est pas forcément muni d’un document médical partagé, il est également important de bénéficier d’une belle qualité de soins.<br/>Aujourd’hui à propos de la Suisse et du Luxembourg, nous parlons exactement de la même chose que des accords que nous avons conclus avec la Belgique, l’Espagne…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370306" ordre_absolu_seance="263" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1447056" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731954" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et l’Allemagne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370307" ordre_absolu_seance="264" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731955" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous évoquons une même qualité de soins.<br/>Pour nous frontaliers comme pour les gens qui voyagent – car on parle beaucoup des premiers, mais il ne faut pas oublier tous ceux qui prennent leurs vacances en Allemagne, en Suisse ou en Belgique – il n’est même pas imaginable que nous ne votions pas ce projet de loi.<br/>Restent cependant quelques petits soucis. Vous les connaissez, monsieur le rapporteur. Je pense d’abord à la démographie médicale, c’est-à-dire à l’attrait que peut présenter la Suisse. Tout le monde ici sait que l’un de nos collègues, qui n’est pas présent, ce soir, est radiologue en Suisse. Il est plus attrayant d’exercer en Suisse, et probablement aussi au Luxembourg.<br/>La démographie médicale fait donc qu’il nous faut essayer de conserver un ensemble de médecins sur notre territoire. À l’inverse, les Luxembourgeois, et je tire cette réflexion de la lecture de votre rapport, cher Bruno, sont plutôt contents de venir se faire soigner en France. D’ailleurs, la balance commerciale entre la France et le Luxembourg est dans ce domaine très positive pour la France.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370315" ordre_absolu_seance="268" id_acteur="PA722284" id_mandat="PM723528" id_nomination_oe="-1" id_nomination_op="-1447056" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1731963" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs</nom>
+              <id>722284</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Oui, et financièrement, c’est une bonne chose.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370316" ordre_absolu_seance="269" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1731964" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant de la Suisse, nos échanges sont dans ce domaine globalement équilibrés. Bref, il s’agit de questions extrêmement importantes.<br/>Je considère qu’il s’agit d’un très bon accord. Il faut faire très attention à la démographie médicale, c’est-à-dire qu’il ne faut pas que nos médecins partent en Suisse ou au Luxembourg parce qu’ils y gagnent plus d’argent.<br/>Un des points très intéressants du rapport concerne l’investissement des ARS. Il est en effet important que les ARS et leurs délégations départementales se déterminent par rapport à l’ensemble de nos accords communs. Or ce n’est pas encore le cas : ce n’est pas encore dans la nature des choses. Ce serait donc une très belle évolution.<br/>Autre souci – les préfets, les responsables de l’État s’intéressent vivement à ce sujet et le rapport qui nous a été présenté hier soir en commission des affaires étrangères joue là-dessus : un jour ou l’autre, même si j’espère que cela n’arrivera jamais, il pourrait advenir une crise sanitaire. Nous avons connu récemment une crise porcine avec la Belgique, qui n’a pas touché l’homme, mais d’autres maladies, d’autres virus traînent.<br/>La logique des choses serait que nous ayons une véritable stratégie interfrontalière,  internationale, pour gérer de telles situations. C’est à mon sens essentiel. Nous évoquions hier des expérimentations nucléaires qui ont lieu en Suisse : nous pourrions penser, à l’inverse, que nos centrales nucléaires sont très proches de la Suisse ! Une telle stratégie me semble tout à fait indispensable. Nous entrerions alors dans une véritable coopération sanitaire qui me semble tout à fait légitime.<br/>J’en termine par des petites choses, et peut-être de petites gens.<br/>Un écrivain suisse que j’aime bien, Albert Cohen, disait que la vieillesse est un décès par petits morceaux. Moi, dunkerquois, j’ai, comme probablement l’ensemble des frontaliers, beaucoup de mes anciens qui vivent en Belgique. Ils y sont partis parce que l’offre n’existait pas en France. Nous avons sur ce sujet également un travail à mener. Il serait formidable de reconnaître que nous ne sommes pas au meilleur niveau en France s’agissant de l’accueil des personnes âgées dépendantes. Les Belges et les Suisses sont meilleurs que nous. Les Suisses sont un peu plus chers, mais les Belges sont au même niveau que nous : il y a donc vraiment quelque chose à faire.<br/>Si j’ai un cri du cœur à pousser aujourd’hui, c’est bien celui-ci : dans la coopération sanitaire que nous pouvons mener avec les pays voisins, aidons nos anciens ! <italique>(Applaudissements sur tous les bancs.) </italique> </texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marion Lenne" id_acteur="PA721450" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723278">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370334" ordre_absolu_seance="277" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1731982" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Marion Lenne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="1370335" ordre_absolu_seance="278" id_acteur="PA721450" id_mandat="PM723278" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1731983" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marion Lenne</nom>
+              <id>721450</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Présidente du groupe d’amitié France-Suisse, mon propos se focalisera sur la coopération sanitaire transfrontalière entre le gouvernement de la République française et le Conseil fédéral suisse.<br/>Quand l’épidémie de grippe aviaire, qu’il était nécessaire de combattre à la source afin d’éviter une pandémie, a provoqué les premières réflexions sur cet accord, se doutait-on qu’il mettrait plus de dix ans à arriver dans l’hémicycle ?<br/>Quand, à l’initiative de notre présidente Marielle de Sarnez, la représentation nationale a jugé utile de créer un groupe de travail afin de poursuivre nos investigations sur les tenants et aboutissants de cette ratification et de formuler des recommandations, se doutait-on qu’il faudrait dix mois pour l’adopter sereinement en commission des affaires étrangères ?<br/>Quand, députée d’une circonscription limitrophe avec la Suisse, j’interpellais les acteurs administratifs et locaux côté France, me doutais-je de la teneur des échanges qui en découleraient, à savoir que cet accord n’était pas une priorité, que l’inventaire des spécialisations des établissements était irréalisable, qu’il nous fallait avant tout rentabiliser nos infrastructures, que la responsabilité des uns incombait bien évidemment aux autres ou que les lobbies suisses avaient bien fait leur travail ?<br/>Cultivant une certaine idée de la France, je vous avoue que j’en étais loin, très loin, en tout cas plus loin que les quelques kilomètres qui nous séparent des compétences médicales suisses auxquelles nous n’avons aujourd’hui pas accès.<br/>Pourquoi tant de réticences côté français ? Que cache donc cet accord ? Comme tout accord-cadre, il définit des contours juridiques.<br/>En l’occurrence, celui-ci fixe un cadre général pour la passation de conventions de coopération sanitaire transfrontalière, dont il détermine le domaine potentiel et précise les autorités administratives territoriales habilitées à les conclure. Les acteurs locaux des neuf cantons suisses frontaliers et des régions Grand Est, Bourgogne-Franche-Comté et Auvergne-Rhône-Alpes vont pouvoir s’en saisir afin d’améliorer l’offre de soins proposée aux habitants et ce quel que soit leur régime d’assurance, leur lieu de résidence et leur niveau de vie.<br/>Les intentions sont donc claires. Vous les avez rappelées, madame la secrétaire d’État : développer une dynamique de coopération sanitaire transfrontalière, la faire vivre et s’assurer d’un meilleur accès à des soins de qualité pour les bassins de vie autour de la frontière.<br/>À bien y regarder, quel impact cet accord peut-il bien avoir sur l’organisation des soins pour les habitants d’un bassin de vie commun ? Car au final, tout l’enjeu est bien là : produire des effets positifs sur la vie quotidienne des citoyens concernés.<br/>Pour répondre à cette interrogation, prenons, au hasard, le cas de la Haute-Savoie.<br/>L’organisation de la santé hospitalière y est à la fois singulière et totalement incohérente. Pour des raisons politiques, elle dispose en effet de deux groupements hospitaliers de territoire – GHT –  dont un, le GHT Nord, n’a pas d’établissement de recours. Le patient est donc confronté à des hôpitaux en concurrence et non complémentaires, alors qu’à proximité se trouve un hôpital universitaire suisse qui pourrait jouer le rôle d’établissement recours et qui offre des technologies et des spécialisations de pointe.<br/>Dans ce contexte, l’accord-cadre garantit l’accès et le suivi d’un soin de proximité. Le patient et la qualité des soins dispensés sont bien au cœur du système de santé et l’administration, l’infrastructure et le politique, à son service.<br/>Alors, dix ans ou dix mois, qu’importe aujourd’hui ? La signature de l’accord international remonte à 2016. La Suisse l’a ratifié en 2017. Faisons de l’année 2019 celle de sa mise en œuvre !<br/>Cet « accord parfait », sous réserve que ses dispositions soient suivies d’effet, entre en résonance avec la devise du village binational de Saint-Gingolph, commune scindée en deux par l’histoire, qui célébrera le 30 juin prochain 450 ans d’amitié franco-suisse – valaiso-savoyarde, pour les puristes !<br/>En l’honneur de la bonne entente entre voisins, vous y êtes invités, madame la secrétaire d’État, mes chers collègues, afin de fêter l’accord-cadre, que je vous encourage à ratifier, comme tous ceux à venir ou à réviser, notamment la convention du 27 février 1882 pour le raccordement de la ligne de chemin de fer de Thonon au Bouveret via Saint-Gingolph ! <italique>(Sourires et applaudissements sur les bancs des groupes LaREM et MODEM.</italique><italique> </italique><italique>–</italique><italique> </italique><italique>M.</italique><italique> </italique><italique>Christian Hutin applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Martial Saddier" id_acteur="PA267527" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723274">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370220" ordre_absolu_seance="4" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732004" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Martial Saddier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370221" ordre_absolu_seance="5" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732005" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon propos sera centré, cela ne surprendra personne, sur la Haute-Savoie, et plus particulièrement sur sa partie nord, où vivent 80 % de ses frontaliers, ce qui en fait la première zone frontalière avec la Suisse.<br/>L’accord que nous examinons devra conforter et non remettre en cause ce qui a été réalisé depuis plusieurs années, en matière de santé publique, dans la partie française. Il devra favoriser des complémentarités et non susciter des concurrences, comme cela a déjà été évoqué.<br/>Tout ce qui a été réalisé dans cette partie du territoire l’a été en transparence, en collaboration et avec l’accord des agences régionales de l’hospitalisation créées par l’ordonnance du 24 avril 1996, puis, depuis 2010, de l’agence régionale de santé.<br/>Dans ces territoires, des efforts très importants ont été consentis, et des décisions douloureuses ont été prises. Écoutez plutôt.<br/>Deux hôpitaux, à Sallanches et à Chamonix : il n’y en a plus qu’un, plus fort, à Sallanches. Deux hôpitaux, un à Annemasse, l’autre à Bonneville : ils ne font plus qu’un, tout neuf, le centre hospitalier Alpes Léman. Deux hôpitaux, à Saint-Julien-en-Genevois et à Annecy : maintenant un unique établissement, toujours sur deux sites, plus fort que les anciens. Deux hôpitaux, à Évian et à Thonon : regroupés au sein des Hôpitaux du Léman.<br/>Le secteur privé n’est pas en reste. Il existait deux cliniques, l’une à Thonon, l’autre à Annemasse qui ont été regroupées en un seul site, plus fort, à Annemasse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370228" ordre_absolu_seance="256" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732012" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Très belle clinique !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370229" ordre_absolu_seance="257" id_acteur="PA267527" id_mandat="PM723274" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1732013" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. Martial Saddier</nom>
+              <id>267527</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous n’avons pas oublié la santé mentale. Nous avons reconstruit l’établissement public de santé mentale de La Roche-sur-Foron, qui est l’hôpital référent du département en la matière. Il se rapproche d’ailleurs désormais, toujours en toute transparence et avec l’accord de l’ARS, des Hôpitaux du Léman.<br/>Tout cela, nous l’avons fait dans l’intérêt des patients, des familles et des personnels, en tâchant de conserver l’équilibre entre la proximité et la qualité des soins, d’une part, et la rapidité de la réponse médicale tout au long du parcours de soins d’autre part.<br/>Pour ce faire, nous avons consenti de nombreux investissements, afin de financer des programmes de construction, de reconstruction et de modernisation, pour des  établissements de soins de suite et de réadaptation, EHPAD et établissements spécialisés, en les organisant autour des plateaux techniques. Saint-Julien-en-Genevois, La Roche-sur-Foron, l’agglomération d’Annemasse, Thonon-les-Bains, Reignier, La Tour, Sallanches, Bonneville : toutes ces communes ont vu émerger des établissements de santé neufs, ou restructurés autour des plateaux techniques.<br/>Dans la partie française, nous avons aussi – la presse spécialisée vient de le saluer – atteint une maturité collective unique sur le sol français. Grâce à l’apport de deux hôpitaux publics, celui de Challes-les-Eaux et celui de Sallanches, nous reconstituons une offre de soins dans le secteur de Cluses, toujours en parfaite transparence avec le maire et le directeur de l’ARS.<br/>En outre, nous exerçons une solidarité financière également unique, puisque  l’établissement support du GHT Léman-Mont-Blanc, situé au nord du département, finance deux autres hôpitaux. En effet, nous avons voté un crédit de 2,8 millions d’euros pour donner un coup de main à Sallanches, et nous venons d’en voter un de 15 millions d’euros pour les Hôpitaux du Léman. Tout cela profite, chacun l’aura compris, au projet médical, celui du GHT Léman-Mont-Blanc.<br/>On a beaucoup parlé des frontaliers, mais j’aimerais rendre hommage aux 5 000 personnes, aux 500 médecins qui travaillent dans ces établissements de santé publics dans le nord du département et qui traitent chaque année 130 000 passages aux urgences, 90 000 séjours hospitaliers et 5 000 naissances.<br/>Dans ce territoire, huit patients hospitalisés sur dix le sont dans les établissements publics. Notre projet médical est partagé par tous, s’agissant notamment du lien entre médecine de ville et hôpital, de la prise en charge des personnes âgées, de la télémédecine et du rôle de la fédération interhospitalière des urgences. Ainsi, les médecins urgentistes interviennent dans d’autres hôpitaux que celui où ils sont affectés lorsque nous sommes en situation de dépannage. Nous élaborons également un projet en matière de cancérologie.<br/>Pourquoi vous dire tout cela, mes chers collègues ? Parce que la Haute-Savoie a pour particularité d’être le premier département frontalier de France. Nous avons la particularité de compter 850 000 habitants permanents et 850 000 lits touristiques. La variation de population que nous connaissons entre l’été et l’hiver est donc, Var excepté, sans équivalent dans notre pays. Enfin, si la proximité de Genève est une chance, elle suscite aussi une concurrence très vive. L’attractivité de Genève est forte, non seulement pour les conditions de travail, mais aussi parce qu’on gagne le double en travaillant de l’autre côté de la frontière qu’en restant sur le sol français !<br/>Nous menons des coopérations. Le GHT Léman-Mont-Blanc a pour hôpital référent celui d’Annecy. Par ailleurs, nous bénéficions de deux CHU – centres hospitaliers universitaires – de recours, celui de Grenoble et celui de Lyon, avec lesquels nous avons signé des conventions, validées par la République par le truchement de l’ARS.<br/>Nous souhaitons évidemment que la coopération sanitaire avec la Suisse se poursuive. Nous souhaitons que les Hôpitaux universitaires de Genève constituent un recours. Toutefois, nous souhaitons que cela se fasse en toute transparence, et en complémentarité avec tout ce qui a été réalisé depuis vingt-trois ans sur le sol français, en toute transparence avec la République française.<br/>Enfin, nous souhaitons qu’entre le directeur de l’ARS, d’une part, et les Hôpitaux ainsi que le Conseil d’État de Genève, d’autre part, le GHT Léman-Mont-Blanc ait toute sa place. Dès lors que la République nous a demandé de nous organiser en GHT, il doit être au cœur des débats, afin de s’assurer que tout ce qui sera décidé sera bien complémentaire avec ce qui a déjà été réalisé, dans l’intérêt de nos habitants permanents, de nos touristes et de nos frontaliers. <italique>(M.</italique><italique> </italique><italique>Frédéric Barbier applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370246" ordre_absolu_seance="268" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732030" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Mon cher collègue, vous avez très bien défendu votre circonscription !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Isabelle Rauch" id_acteur="PA720552" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM722998">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370247" ordre_absolu_seance="269" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732031" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Isabelle Rauch.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370248" ordre_absolu_seance="270" id_acteur="PA720552" id_mandat="PM722998" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732032" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Isabelle Rauch</nom>
+              <id>720552</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les zones transfrontalières sont des lieux de vie. Comme l’a rappelé Mme la secrétaire d’État, ce sont des communautés de vie collective. Ce sont des zones où s’élabore et se vit quotidiennement le projet européen. La coopération transfrontalière est une nécessité pour nos concitoyens.<br/>Nous examinons aujourd’hui le projet de loi n° 390 autorisant l’approbation de l’accord-cadre sur la coopération sanitaire transfrontalière entre le Gouvernement de la République française et le Conseil fédéral suisse et l’accord-cadre entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg sur la coopération sanitaire transfrontalière. Il a été déposé sur le bureau de l’Assemblée nationale le 22 novembre 2017, et renvoyé à la commission des affaires étrangères, qui l’a examiné une première fois le 7 février 2018.<br/>D’emblée, j’ai indiqué à quel point l’accord de coopération sanitaire avec le Luxembourg est attendu en Moselle, et plus largement dans le nord lorrain. La réciprocité en matière d’offre de soins et les pratiques des patients justifient que nous adoptions une véritable démarche de codéveloppement avec nos voisins.<br/>Le projet de loi ayant suscité des interrogations au sein de notre commission, davantage du côté suisse que luxembourgeois d’ailleurs, nous avons demandé l’institution d’un groupe de travail, dont j’ai été membre, afin d’organiser des auditions complémentaires. J’ai suggéré que nous auditionnions plusieurs personnalités, notamment la directrice générale du centre hospitalier régional de Metz-Thionville.<br/>Le rapport rassemblant les conclusions du groupe de travail a été présenté devant la commission des affaires étrangères le 20 novembre dernier par notre collègue du Doubs, Frédéric Barbier. Formulant une série de recommandations concrètes destinées à l’application effective des coopérations sanitaires transfrontalières, il a permis l’adoption du projet de loi que nous examinons aujourd’hui en séance publique, ce qui aboutira à l’entrée en vigueur tant attendue des deux accords-cadres.<br/>Il s’agit de renforcer la continuité des soins de part et d’autre de la frontière, en assurant une couverture des patients de la zone frontalière quel que soit le côté de la frontière où ils sont soignés, qu’il s’agisse de soins d’urgence ou du traitement de pathologies cliniques lourdes.<br/>S’appuyant sur l’expérience de coopérations sanitaires transfrontalières acquises avec la Belgique, l’Allemagne et l’Espagne, ces accords-cadres ont été demandés par les acteurs locaux. Ils visent à fixer un cadre juridique permettant la mise en place de conventions locales de coopération sanitaire transfrontalière.<br/>Leur objectif est de favoriser le développement d’une telle coopération et d’améliorer l’accès à des soins de qualité, pour les bassins de vie enserrant la frontière, en organisant le remboursement automatique des soins, en garantissant une continuité des soins ainsi qu’un recours le plus rapide possible aux secours d’urgence, et en favorisant la mutualisation des connaissances, des pratiques, des moyens humains et des matériels.<br/>Chers collègues, je vous entretiendrai plus particulièrement de l’accord signé avec le Luxembourg, portant sur la zone frontalière entre la région française du Grand Est et le Grand-Duché de Luxembourg.<br/>Quiconque relève d’un régime d’assurance français ou luxembourgeois, résidant ou séjournant temporairement sur ce territoire, est éligible, ainsi que tout individu nécessitant des soins urgents et affilié à un régime de sécurité sociale relevant du champ d’application du règlement de coordination de l’Union européenne. Tous les professionnels de santé exerçant dans la zone frontalière sont également concernés par l’accord-cadre.<br/>Signé le 21 novembre 2016, celui-ci a été ratifié par le Luxembourg le 18 juillet 2018 par une loi publiée au Journal officiel du 19 juillet. En vertu du principe de réciprocité, il ne peut entrer en vigueur avant que la France l’ait à son tour ratifié.<br/>Par conséquent, il est plus que temps, pour nous, d’adopter le présent projet de loi, afin de finaliser la procédure de ratification. Cela permettra à nos deux pays amis de coopérer localement, de façon plus efficace encore, dans le domaine de la santé. Nous y veillerons. <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. le président" id_acteur="PA721824" id_nomination_oe="-1" id_nomination_op="PM761980" id_mandat="PM723394">
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370262" ordre_absolu_seance="282" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="ANN_SCR_TEXTE_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732046" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur l’ensemble du projet de loi, je suis saisi par le groupe Socialistes et apparentés d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370263" ordre_absolu_seance="283" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732047" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christian Hutin</nom>
+              <id>333818</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Le sujet est important !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370264" ordre_absolu_seance="284" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="1732048" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. M’jid El Guerrab.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="1370265" ordre_absolu_seance="285" id_acteur="PA720996" id_mandat="PM723134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732049" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>M. M’jid El Guerrab</nom>
+            <id>720996</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nos territoires sont de plus en plus confrontés à un déploiement de l’offre de soins insuffisant pour répondre aux besoins de nos concitoyens. Localement, les élus se mobilisent pour tenter d’y remédier, et des initiatives voient le jour, à l’image des maisons de santé, qui se développent de plus en plus.<br/>Il est essentiel de développer des coopérations et des complémentarités en matière d’offre de soins. Cela est vrai à l’échelle des territoires, dans notre pays, mais aussi dans le cadre des relations que nous entretenons avec les États avec lesquels nous partageons une frontière.<br/>Si des accords-cadres de coopération sanitaire transfrontalière ont d’ores et déjà été signés avec plusieurs de nos voisins, notamment l’Allemagne, la Belgique et l’Espagne,  rien de tel n’existe entre la France et deux autres États limitrophes, la Suisse et le Luxembourg. Par conséquent, les coopérations avec eux, en matière sanitaire, sont limitées.<br/>Outre l’absence d’accord-cadre, cette situation découle aussi de certaines spécificités, identifiées par le groupe de travail institué par la commission des affaires étrangères sur la coopération sanitaire transfrontalière avec la Suisse et le Luxembourg : il s’agit principalement des différences considérables existant entre ces deux pays et la France en matière de niveau de vie, de salaires et de coûts de santé.<br/>Le groupe Libertés et territoires salue la méthode qui a présidé à l’examen du présent projet de loi par notre assemblée. Je salue l’excellent rapporteur de ce texte, qui, j’en suis sûr, soulèvera l’unanimité.<br/>La commission des affaires étrangères, par la voix de M. le rapporteur, a émis des doutes au sujet de la portée juridique réelle des accords-cadres et de l’effectivité de leur application pratique. C’est pourquoi nous avons décidé d’ajourner le vote sur le projet de loi et de constituer un groupe de travail, dont les conclusions ne manqueront pas, je l’espère, d’éclairer nos débats.<br/>Il était essentiel d’avancer en matière de coopération sanitaire avec la Suisse et le Luxembourg, mais pas n’importe comment. Il faut le faire avec responsabilité et clairvoyance, en conservant à l’esprit les conséquences que de tels accords-cadres peuvent avoir pour nos concitoyens ainsi que pour les initiatives locales en matière d’offre de soins qui existent ou sont en gestation dans nos territoires.<br/>Chaque jour, 143 000 Français vont travailler en Suisse, et 70 000 au Luxembourg. Sur la base de ce constat, et des coopérations existant déjà, au niveau local, entre certaines de nos régions et la Suisse ou le Luxembourg, la France a décidé de proposer à ces deux États limitrophes de fixer un cadre juridique plus clair, par le biais d’un accord international.<br/>Certes, notre droit national permet d’ores et déjà à des établissements hospitaliers de conclure des conventions de coopération sans qu’il soit nécessaire de recourir à un tel accord.<br/>Il est également vrai qu’un cadre général européen existe. Il est basé sur la libre circulation des personnes et la libre prestation de services, qui vaut aussi pour les soins de santé. Ce cadre européen repose sur deux règlements de 2004 et de 2009, et sur la directive santé de 2011, qui fait suite à une jurisprudence de la Cour de justice de l’Union européenne de 1998 imposant plusieurs droits des citoyens européens comme, par exemple, le droit au remboursement des soins reçus par un assuré dans un autre pays que le sien.<br/>Pour autant, tout ne va pas pour le mieux dans le meilleur des mondes. Nos relations avec la Suisse en la matière sont source de complexité, dans la mesure où elle n’est pas un État membre de l’Union européenne, où elle n’appartient pas à l’espace économique européen et où elle a un caractère fédéral. Cette structuration implique que la légitimité remonte des communes vers l’État fédéral, via les cantons, où s’impose le principe de subsidiarité. En matière de santé, cela entraîne une répartition des compétences différente de celle qui prévaut en France, État insuffisamment décentralisé.<br/>Tout cela signifie que la coopération avec la Suisse ne peut passer que par la signature d’accords bilatéraux spécifiques. Or, ce projet de loi nous propose l’approbation de deux accords-cadres similaires pour la Suisse et le Luxembourg.<br/>Une question peut donc se poser à ce stade : est-il pertinent de  signer deux accords-cadres similaires avec des États structurés différemment, et dont les règles en matière d’organisation sanitaire sont différentes ? La coopération transfrontalière en matière sanitaire avec la Suisse ne nécessite-t-elle pas un accord-cadre plus spécifique, qui permettrait aux coopérations locales de se développer pleinement ? D’ailleurs, l’équivalent helvétique du présent projet de loi souligne la portée normative discutable de ces accords-cadres et leur portée pratique plus qu’incertaine.<br/>Bien évidemment, nous savons tous que ces accords-cadres ne visent qu’à poser une architecture dans laquelle doivent pouvoir se développer des coopérations transfrontalières locales, afin de répondre aux besoins exprimés par les populations des bassins de vie frontaliers, tout en rendant possible une gestion plus rationnelle de l’offre de soins.<br/>Ce sont les acteurs locaux, élus et administratifs, qui donneront vie aux différentes initiatives en la matière. Les accords-cadres et les deux textes d’application qui les accompagnent doivent donc constituer une sorte de guide visant à clarifier le cadre juridique et à préciser le contenu que devront avoir les conventions locales de coopération.<br/>Le groupe Libertés et territoires, qui porte sans relâche la voix des territoires, se réjouit de la signature d’accords-cadres qui faciliteront la passation de conventions locales de coopération afin de déroger à certaines règles de droit commun en matière de soins transfrontaliers. Je pense en particulier aux autorisations préalables, ou encore à l’application des tarifs prévus par les textes européens de coordination de sécurité sociale, entre autres.<br/>Il faut en effet faire confiance à l’intelligence des territoires, à leur capacité à répondre aux besoins des habitants et à apporter des solutions innovantes et efficaces. Les enfermer dans des règles trop contraignantes et uniformes ne peut que déboucher sur une impasse qui aggraverait la désertification médicale, ce mal chronique face auquel l’État semble désarmé.<br/>Notre groupe adhère donc à la proposition du groupe de travail de faire de la coopération sanitaire transfrontalière l’un des chantiers du droit à l’expérimentation, conformément à l’article 72 de notre Constitution.<br/>Pour autant, nous pensons qu’il faut aller plus loin sur ce chemin de la différenciation, notamment dans le cadre de la future réforme constitutionnelle. Nous savons que cela peut heurter car notre République française est l’une des plus centralisées au monde, de sorte que la différenciation de certains territoires, ou leur souhait d’autonomie, y semblent incompatibles avec l’indivisibilité de la République.<br/>Mais nos voisins européens, qui ont tous adopté, à des degrés divers, un système fédéral ou un système d’autonomie régionale, nous démontrent que ceux-ci ne sont pas contradictoires avec l’unité nationale, et peuvent même être extrêmement efficaces au sein d’une république également qualifiée par leurs constitutions d’« indivisible ».<br/>Pour le groupe Libertés et territoires, la différenciation est l’avenir de nos territoires et de la France, mais dans le sens de l’adaptation des normes nationales.<br/>Nous ne manquerons pas d’ouvrir ce débat lors de la réforme des institutions. Notre groupe sera une force de proposition pour permettre aux collectivités territoriales d’exercer pleinement leurs compétences, grâce aux capacités données aux élus d’adapter les normes nationales, afin d’innover et d’agir efficacement au regard des réalités des territoires ainsi que des besoins de la population. Mais, sans attendre l’examen de cette réforme constitutionnelle, notre groupe vient de faire cinquante propositions pour rendre les territoires plus forts et plus autonomes.<br/>En ce qui concerne les accords-cadres que nous devons approuver aujourd’hui, si notre débat nous apporte la démonstration qu’ils auront une portée juridique réelle et permettront une mise en pratique concrète et efficace des coopérations locales en matière sanitaire, notre groupe y sera favorable. <italique>(Applaudissements sur quelques bancs des groupes LaREM et MODEM.)</italique><italique/></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370412" ordre_absolu_seance="307" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732077" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <id>333818</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Très bien ! </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370413" ordre_absolu_seance="308" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732078" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La discussion générale est close.<br/>Madame la secrétaire d’État, vous souhaitez répondre, je vous donne la parole.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370415" ordre_absolu_seance="310" id_acteur="PA721670" id_mandat="-1" id_nomination_oe="PM764384" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="1732080" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Amélie de Montchalin</nom>
+            <id>721670</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Merci, monsieur le président, un peu d’interaction ne me semble en effet pas inutile.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370415" ordre_absolu_seance="311" id_acteur="PA333818" id_mandat="PM722990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732101" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Hutin</nom>
+            <id>333818</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Merci, madame, ce n’est pas toujours aussi évident !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370415" ordre_absolu_seance="312" id_acteur="PA721670" id_mandat="-1" id_nomination_oe="PM764384" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_3" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="1732100" valeur="" bibard="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Amélie de Montchalin</nom>
+            <id>721670</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Sans cela, un texte de ce genre peut vite donner l’impression d’être sans vrai rapport avec le travail qui est le vôtre.<br/>D’abord, je voudrais saluer le travail des parlementaires qui ont animé la réflexion – Marielle de Sarnez m’en a communiqué la liste – et celui des parlementaires qui se sont associés aux travaux pour représenter les spécificités d’un territoire. Il y a là, je pense, l’exemple d’un travail utile, qui se nourrit du terrain, et qui vient résorber des complexités qui rendent difficile la vie quotidienne des citoyens français et européens.<br/>Je salue également la volonté, annoncée par Marielle de Sarnez, de transformer ce groupe de travail en un groupe de suivi. Vous n’en serez pas surpris : c’est, je pense, une très bonne chose que d’évaluer les propositions, afin de s’assurer que l’esprit de la loi est bien appliqué et que, dans la réalité, sur le terrain, les personnes vivant à la frontière suisse ou luxembourgeoise parviennent plus facilement à se faire soigner ou à consulter des médecins de qualité.<br/>Je voudrais ajouter qu’il y a là une voie à suivre, potentiellement, pour traiter d’autres sujets transfrontaliers. Cette méthode qui part du terrain permet d’identifier des solutions très concrètes, sans coût budgétaire faramineux ni traité fastidieux à signer. Voilà ce que doit être, pour moi, l’Europe : un espace de facilitation concrète des projets des uns et des autres, et de leur vie quotidienne. <br/>Je tiens donc à saluer votre travail, et à vous encourager à formuler dans le même esprit de nouvelles propositions de projets transfrontaliers, qui pourraient avancer de cette manière. Nos équipes du quai d’Orsay comptent, je l’ai souligné, un ambassadeur aux questions transfrontalières qui pourra poursuivre votre travail, si vous le souhaitez.  <italique>(Applaudissements sur les bancs des groupes LaREM et MODEM.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370419" ordre_absolu_seance="317" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1732102" valeur=" (n[[o]] 1436)" bibard=" (n[[o]] 1436)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles</texte>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370421" ordre_absolu_seance="318" code_grammaire="ART_SORT_DIRECT_1_60" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1732086" valeur=" 1er">
+      <orateurs/>
+      <texte>Article 1<exposant>er</exposant></texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370422" ordre_absolu_seance="319" code_grammaire="ART_SORT_DIRECT_2_70" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1732087" valeur=" 1er">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>1<exposant>er</exposant> est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370423" ordre_absolu_seance="320" code_grammaire="ART_SORT_DIRECT_1_60" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="1732088" valeur=" 2">
+      <orateurs/>
+      <texte>Article 2</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370424" ordre_absolu_seance="321" code_grammaire="ART_SORT_DIRECT_2_70" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1732089" valeur=" 2">
+        <orateurs/>
+        <texte>
+          <italique>(L’article</italique>
+          <italique> </italique>
+          <italique>2 est adopté.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370425" ordre_absolu_seance="322" code_grammaire="VOTE_ENS_PJL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="1732090" valeur=" (n[[o]] 1436)">
+      <orateurs/>
+      <texte>Vote sur l’ensemble</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370426" ordre_absolu_seance="323" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="VOTE_ENS_PJL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732091" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’ensemble du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370427" ordre_absolu_seance="324" code_grammaire="VOTE_ENS_PJL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1732092" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370428" ordre_absolu_seance="325" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="VOTE_ENS_PJL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732093" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        29<br/>        Nombre de suffrages exprimés                29<br/>        Majorité absolue                        15<br/>                Pour l’adoption                29<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="10" id_preparation="1370429" ordre_absolu_seance="326" code_grammaire="VOTE_ENS_PJL_S_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1732094" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le projet de loi est adopté</italique>
+          <italique>.</italique>
+          <italique> </italique>
+          <italique>–</italique>
+          <italique> </italique>
+          <italique>Applaudissements.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="10" id_preparation="1370431" ordre_absolu_seance="328" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="1732096" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="10" id_preparation="1370432" ordre_absolu_seance="329" id_acteur="PA721824" id_mandat="PM723394" id_nomination_oe="-1" id_nomination_op="PM761980" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="1732097" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721824</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, lundi 27 mai 2019, à seize heures :<br/>Discussion de la proposition de résolution tendant à modifier le Règlement de l’Assemblée nationale.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="10" id_preparation="1370433" ordre_absolu_seance="330" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="1732098" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix-sept heures vingt-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="10" id_preparation="1370434" ordre_absolu_seance="331" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="1732099" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le Directeur du service du compte rendu de la séance</italique>
+            <br/>
+            <italique>de l’Assemblée nationale</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
