@@ -2,10 +2,14 @@
 # coding: utf-8
 
 import argparse
+import logging as lg
+import re
 
 import analysis.csv as c_an
 import analysis.xml as x_an 
-import logging as lg
+
+
+
 
 def parse_argument():
 	parser = argparse.ArgumentParser()
@@ -28,9 +32,11 @@ def main():
 		lg.warning(e)
 	
 	else:
-		if args.extension == 'csv':
+		e = re.search(r'^.+\.(\D{3})$', args.datafile)
+		extension = e.group(1)
+		if extension == 'csv':
 			c_an.launch_analysis(args.datafile, args.byparty, args.info)
-		elif args.extension == 'xml':
+		elif extension == 'xml':
 			x_an.launch_analysis(args.datafile, args.party, args.info)
 	
 	finally:
