@@ -47,7 +47,6 @@ class SetOfParliamentMembers:
         plt.title("{} ({} MPs)".format(self.name, nb_mps))
         plt.show()
 
-
     def split_by_political_party(self):
 		result = {}
 		data = self.dataframe
@@ -58,7 +57,6 @@ class SetOfParliamentMembers:
 	        	subset = SetOfParliamentMembers('MPs from party "{}"'.format(party))
 	        	subset.data_from_dataframe(data_subset)
 	        	result[party] = subset
-
 	        	return result
 
 

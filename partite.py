@@ -9,8 +9,6 @@ import analysis.csv as c_an
 import analysis.xml as x_an 
 
 
-
-
 def parse_argument():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("-e","--extension",help="""XML or CSV ?""")
